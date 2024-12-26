@@ -1,5 +1,4 @@
 name: update schedule
-
 on:
   schedule:
     - cron: "0 */2 * * *"
