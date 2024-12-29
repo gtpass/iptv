@@ -43260,6 +43260,9 @@
 	<programme channel="纯享4K" start="20241230050500 +0800" stop="20241230055500 +0800">
 		<title lang="zh">航拍中国 第三季4K 一同飞越 贵州</title>
 	</programme>
+	<programme channel="纯享4K" start="20241230055500 +0800" stop="20241230064300 +0800">
+		<title lang="zh">智造美好生活4K 第6集 创 未来</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51648,6 +51651,9 @@
 	<programme channel="newtv超级体育" start="20241230053000 +0800" stop="20241230060000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 韩国平昌站女子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241230060000 +0800" stop="20241230063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 日本站 表演滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51822,6 +51828,9 @@
 	<programme channel="newtv家庭剧场" start="20241230050700 +0800" stop="20241230055200 +0800">
 		<title lang="zh">18_兰桐花开</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20241230055200 +0800" stop="20241230064300 +0800">
+		<title lang="zh">特膳海昆葚精复合片-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51843,6 +51852,9 @@
 	<programme channel="newtv热播精选" start="20241230050900 +0800" stop="20241230060000 +0800">
 		<title lang="zh">30_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20241230060000 +0800" stop="20241230070300 +0800">
+		<title lang="zh">风云战国之枭雄</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51863,6 +51875,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20241230051000 +0800" stop="20241230055500 +0800">
 		<title lang="zh">06_埃博拉前线</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20241230055500 +0800" stop="20241230073200 +0800">
+		<title lang="zh">下一站：幸福</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51972,6 +51987,9 @@
 	<programme channel="newtv军事评论" start="20241230053900 +0800" stop="20241230060100 +0800">
 		<title lang="zh">奥运射击场上的那些枪</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20241230060100 +0800" stop="20241230062300 +0800">
+		<title lang="zh">俄乌冲突深观察b7库尔斯克之战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52025,6 +52043,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20241230050600 +0800" stop="20241230055200 +0800">
 		<title lang="zh">19_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20241230055200 +0800" stop="20241230060700 +0800">
+		<title lang="zh">12_宇宙护卫队之超甲恐龙队（第一季）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
