@@ -40941,6 +40941,9 @@
 	<programme channel="纯享4K" start="20241231012900 +0800" stop="20241231015900 +0800">
 		<title lang="zh">飞向月球4K第二季 第三集 满载而归</title>
 	</programme>
+	<programme channel="纯享4K" start="20241231015900 +0800" stop="20241231020400 +0800">
+		<title lang="zh">如果国宝会说话4K 敦煌经变画 出尘入画</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50385,6 +50388,9 @@
 	<programme channel="黑莓动画" start="20241231013800 +0800" stop="20241231015700 +0800">
 		<title lang="zh">19_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20241231015700 +0800" stop="20241231024700 +0800">
+		<title lang="zh">21_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50772,6 +50778,9 @@
 	<programme channel="newtv动作电影" start="20241231002700 +0800" stop="20241231015400 +0800">
 		<title lang="zh">后羿之逐日之战</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20241231015400 +0800" stop="20241231030600 +0800">
+		<title lang="zh">出招吧！看不剑！</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50780,6 +50789,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20241231011700 +0800" stop="20241231015900 +0800">
 		<title lang="zh">10_塞上迷情</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20241231015900 +0800" stop="20241231024300 +0800">
+		<title lang="zh">11_塞上迷情</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50804,6 +50816,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20241231012400 +0800" stop="20241231015100 +0800">
 		<title lang="zh">老兵的军品收藏</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20241231015100 +0800" stop="20241231021800 +0800">
+		<title lang="zh">玩转二战德国轻武器</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
