@@ -54111,6 +54111,9 @@
 	<programme channel="newtv超级体育" start="20241231053000 +0800" stop="20241231060000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 韩国平昌站男子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20241231060000 +0800" stop="20241231063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2024年中国杯世界花样滑冰大奖赛 表演滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -54125,6 +54128,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20241231043700 +0800" stop="20241231060400 +0800">
 		<title lang="zh">锅铲拳王</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20241231060400 +0800" stop="20241231074100 +0800">
+		<title lang="zh">鸾凤劫</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
