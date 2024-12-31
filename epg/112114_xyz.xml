@@ -16818,6 +16818,9 @@
 	<programme channel="咪咕综合体育" start="20250101000000 +0800" stop="20250101020000 +0800">
 		<title lang="zh">看不见的顶峰 六集联播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250101020000 +0800" stop="20250101034000 +0800">
+		<title lang="zh">足球世界-24/25赛季意甲 第13轮 AC米兰-尤文图斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -50315,6 +50318,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250101012500 +0800" stop="20250101020600 +0800">
 		<title lang="zh">08_幸福有配方</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250101020600 +0800" stop="20250101024800 +0800">
+		<title lang="zh">09_幸福有配方</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
