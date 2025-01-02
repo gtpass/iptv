@@ -50268,6 +50268,9 @@
 	<programme channel="newtv超级体育" start="20250103023500 +0800" stop="20250103040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 布鲁塞尔站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250103040000 +0800" stop="20250103053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第6轮 阿森纳-莱斯特城</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50282,6 +50285,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250103032100 +0800" stop="20250103035600 +0800">
 		<title lang="zh">咸牛肉行动（上）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250103035600 +0800" stop="20250103045600 +0800">
+		<title lang="zh">咸牛肉行动（下）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50361,6 +50367,9 @@
 	<programme channel="newtv古装剧场" start="20250103025800 +0800" stop="20250103034900 +0800">
 		<title lang="zh">48_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250103034900 +0800" stop="20250103044100 +0800">
+		<title lang="zh">22_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50390,6 +50399,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250103030500 +0800" stop="20250103035600 +0800">
 		<title lang="zh">18_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250103035600 +0800" stop="20250103044100 +0800">
+		<title lang="zh">32_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50430,6 +50442,9 @@
 	<programme channel="newtv动作电影" start="20250103015800 +0800" stop="20250103035000 +0800">
 		<title lang="zh">终极尖兵</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250103035000 +0800" stop="20250103051400 +0800">
+		<title lang="zh">武神苏乞儿之红莲虫蛊</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50447,6 +50462,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250103033100 +0800" stop="20250103035800 +0800">
 		<title lang="zh">远方的来客——鹦鹉（下）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250103035800 +0800" stop="20250103043100 +0800">
+		<title lang="zh">自然回归——修复泥炭地（上）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50496,6 +50514,9 @@
 	<programme channel="newtv军事评论" start="20250103033200 +0800" stop="20250103035900 +0800">
 		<title lang="zh">贴身近战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250103035900 +0800" stop="20250103042600 +0800">
+		<title lang="zh">烈火风暴</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50511,6 +50532,9 @@
 	<programme channel="newtv炫舞未来" start="20250103033000 +0800" stop="20250103034700 +0800">
 		<title lang="zh">秋水伊人-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250103034700 +0800" stop="20250103045600 +0800">
+		<title lang="zh">中央广播电视总台2023小品相声大会（20231208）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50522,6 +50546,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250103030100 +0800" stop="20250103034700 +0800">
 		<title lang="zh">32_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250103034700 +0800" stop="20250103043300 +0800">
+		<title lang="zh">33_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
