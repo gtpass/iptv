@@ -42150,6 +42150,9 @@
 	<programme channel="纯享4K" start="20250106054400 +0800" stop="20250106054900 +0800">
 		<title lang="zh">美丽中国自然4K 小小世界的故事系列 无声的英雄</title>
 	</programme>
+	<programme channel="纯享4K" start="20250106054900 +0800" stop="20250106063900 +0800">
+		<title lang="zh">航拍中国4K第四季 第1集 北京</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50382,6 +50385,9 @@
 	<programme channel="黑莓动画" start="20250106051100 +0800" stop="20250106060000 +0800">
 		<title lang="zh">05_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250106060000 +0800" stop="20250106065100 +0800">
+		<title lang="zh">33_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50595,6 +50601,9 @@
 	<programme channel="newtv超级综艺" start="20250106045400 +0800" stop="20250106060200 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250106060200 +0800" stop="20250106073200 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50612,6 +50621,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250106053000 +0800" stop="20250106060000 +0800">
 		<title lang="zh">赛事集锦-2024年射箭世界杯总决赛1(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250106060000 +0800" stop="20250106063000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50651,6 +50663,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250106051800 +0800" stop="20250106060000 +0800">
 		<title lang="zh">09_香山叶正红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250106060000 +0800" stop="20250106064100 +0800">
+		<title lang="zh">10_香山叶正红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50787,6 +50802,9 @@
 	<programme channel="newtv家庭剧场" start="20250106050500 +0800" stop="20250106054900 +0800">
 		<title lang="zh">04_永夜星河</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250106054900 +0800" stop="20250106062900 +0800">
+		<title lang="zh">QK纳通片特殊膳食食品（下单立减50）-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50828,6 +50846,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250106050600 +0800" stop="20250106055100 +0800">
 		<title lang="zh">17_千金保姆</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250106055100 +0800" stop="20250106072700 +0800">
+		<title lang="zh">信者</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50937,6 +50958,9 @@
 	<programme channel="newtv军事评论" start="20250106052300 +0800" stop="20250106054800 +0800">
 		<title lang="zh">台妄言F-35可指挥F-16V参与冲突 B-21可偷袭台岛周边舰艇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250106054800 +0800" stop="20250106061400 +0800">
+		<title lang="zh">美军舰遭胡塞武装袭击 俄微型导弹即将进入战场</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50966,6 +50990,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250106054300 +0800" stop="20250106055400 +0800">
 		<title lang="zh">风筝误-饶子龙</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250106055400 +0800" stop="20250106060900 +0800">
+		<title lang="zh">萱草花-李莹</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
