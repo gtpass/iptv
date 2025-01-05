@@ -47010,6 +47010,9 @@
 	<programme channel="黑莓动画" start="20250106013400 +0800" stop="20250106015200 +0800">
 		<title lang="zh">17_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250106015200 +0800" stop="20250106024200 +0800">
+		<title lang="zh">19_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47202,6 +47205,9 @@
 	<programme channel="newtv超级综艺" start="20250106010000 +0800" stop="20250106014600 +0800">
 		<title lang="zh">37_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250106014600 +0800" stop="20250106023200 +0800">
+		<title lang="zh">38_三十而已</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47217,6 +47223,9 @@
 	<programme channel="newtv超级电影" start="20250106001000 +0800" stop="20250106015200 +0800">
 		<title lang="zh">花花型警</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250106015200 +0800" stop="20250106032800 +0800">
+		<title lang="zh">侠盗鲁平</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47225,6 +47234,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250106010900 +0800" stop="20250106015100 +0800">
 		<title lang="zh">32_幸福有配方</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250106015100 +0800" stop="20250106023200 +0800">
+		<title lang="zh">33_幸福有配方</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47247,6 +47259,9 @@
 	<programme channel="newtv精品纪录" start="20250106010900 +0800" stop="20250106014700 +0800">
 		<title lang="zh">01_春风化雨</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250106014700 +0800" stop="20250106022400 +0800">
+		<title lang="zh">02_日和清明</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47255,6 +47270,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250106010100 +0800" stop="20250106014700 +0800">
 		<title lang="zh">07_九流霸主</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250106014700 +0800" stop="20250106023300 +0800">
+		<title lang="zh">08_九流霸主</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47304,6 +47322,9 @@
 	<programme channel="newtv怡伴健康" start="20250106010900 +0800" stop="20250106015300 +0800">
 		<title lang="zh">05_我的爱对你说</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250106015300 +0800" stop="20250106023800 +0800">
+		<title lang="zh">06_我的爱对你说</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47331,6 +47352,9 @@
 	<programme channel="newtv军事评论" start="20250106012800 +0800" stop="20250106015500 +0800">
 		<title lang="zh">短兵相接</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250106015500 +0800" stop="20250106022100 +0800">
+		<title lang="zh">“战神”之眼</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47351,6 +47375,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250106011100 +0800" stop="20250106020100 +0800">
 		<title lang="zh">南极奋进号高纯南极磷虾油（下单立减50）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250106020100 +0800" stop="20250106033400 +0800">
+		<title lang="zh">幸存日</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
