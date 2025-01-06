@@ -48132,6 +48132,9 @@
 	<programme channel="newtv超级电影" start="20250107002000 +0800" stop="20250107015600 +0800">
 		<title lang="zh">扎喜的长征</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250107015600 +0800" stop="20250107033100 +0800">
+		<title lang="zh">淘金王</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48197,6 +48200,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250107010200 +0800" stop="20250107014800 +0800">
 		<title lang="zh">32_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250107014800 +0800" stop="20250107023400 +0800">
+		<title lang="zh">33_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48270,6 +48276,9 @@
 	<programme channel="newtv精品综合" start="20250107001100 +0800" stop="20250107014800 +0800">
 		<title lang="zh">侠僧探案传奇之大夜叉</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250107014800 +0800" stop="20250107030600 +0800">
+		<title lang="zh">现在就出发第2季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -48281,6 +48290,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250107001300 +0800" stop="20250107015400 +0800">
 		<title lang="zh">天天把歌唱（2023）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250107015400 +0800" stop="20250107033700 +0800">
+		<title lang="zh">艺览天下（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
