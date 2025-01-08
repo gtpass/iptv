@@ -17889,6 +17889,9 @@
 	<programme channel="咪咕综合体育" start="20250109040500 +0800" stop="20250109054500 +0800">
 		<title lang="zh">足球世界-24/25赛季西甲 第18轮 巴塞罗那-马德里竞技</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250109054500 +0800" stop="20250109061000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48438,6 +48441,9 @@
 	<programme channel="newtv超级体育" start="20250109053000 +0800" stop="20250109060000 +0800">
 		<title lang="zh">赛事集锦-2024年射箭世界杯总决赛4(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250109060000 +0800" stop="20250109063000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48506,6 +48512,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250109051500 +0800" stop="20250109055900 +0800">
 		<title lang="zh">28_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250109055900 +0800" stop="20250109064600 +0800">
+		<title lang="zh">29_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48639,6 +48648,9 @@
 	<programme channel="newtv热播精选" start="20250109051300 +0800" stop="20250109055900 +0800">
 		<title lang="zh">06_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250109055900 +0800" stop="20250109064800 +0800">
+		<title lang="zh">神奇的进化</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -48659,6 +48671,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250109052400 +0800" stop="20250109060000 +0800">
 		<title lang="zh">02_玫瑰奇缘恋与大明星（普通话版）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250109060000 +0800" stop="20250109073500 +0800">
+		<title lang="zh">你若安好</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48698,6 +48713,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250109040400 +0800" stop="20250109055800 +0800">
 		<title lang="zh">璀璨梨园戏曲演唱会 越剧专场</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250109060100 +0800" stop="20250109065100 +0800">
+		<title lang="zh">南极奋进号高纯南极磷虾油（下单立减50）-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -48767,6 +48785,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250109052800 +0800" stop="20250109055400 +0800">
 		<title lang="zh">长空利剑 制胜先锋</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250109055400 +0800" stop="20250109062100 +0800">
+		<title lang="zh">飞越云端 直击2024新加坡航展</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
