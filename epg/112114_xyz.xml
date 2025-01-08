@@ -15273,6 +15273,9 @@
 	<programme channel="咪咕综合体育" start="20250109001500 +0800" stop="20250109015500 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第17轮 托特纳姆热刺-利物浦</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250109015500 +0800" stop="20250109033500 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第15轮 拜仁慕尼黑-RB莱比锡</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
