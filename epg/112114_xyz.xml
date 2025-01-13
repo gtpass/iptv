@@ -15222,6 +15222,9 @@
 	<programme channel="咪咕综合体育" start="20250114014500 +0800" stop="20250114015000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250114015000 +0800" stop="20250114024000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -35337,6 +35340,9 @@
 	<programme channel="纯享4K" start="20250114012300 +0800" stop="20250114015300 +0800">
 		<title lang="zh">味道4K 原味乡间b7德江篇 上</title>
 	</programme>
+	<programme channel="纯享4K" start="20250114015300 +0800" stop="20250114022300 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7保山篇（1）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -42903,6 +42909,9 @@
 	<programme channel="黑莓动画" start="20250114013600 +0800" stop="20250114015400 +0800">
 		<title lang="zh">33_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250114015400 +0800" stop="20250114024400 +0800">
+		<title lang="zh">35_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43245,6 +43254,9 @@
 	<programme channel="newtv精品纪录" start="20250114010600 +0800" stop="20250114015700 +0800">
 		<title lang="zh">第一集 理性之光</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250114015700 +0800" stop="20250114024600 +0800">
+		<title lang="zh">第二集 手术基石</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -43265,6 +43277,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250114010200 +0800" stop="20250114014800 +0800">
 		<title lang="zh">17_军刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250114014800 +0800" stop="20250114023400 +0800">
+		<title lang="zh">18_军刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -43334,6 +43349,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250114012500 +0800" stop="20250114014700 +0800">
 		<title lang="zh">军工足迹 5</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250114014700 +0800" stop="20250114020900 +0800">
+		<title lang="zh">军工荣耀（1）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
