@@ -33486,6 +33486,9 @@
 	<programme channel="黑莓动画" start="20250115013500 +0800" stop="20250115015300 +0800">
 		<title lang="zh">35_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250115015300 +0800" stop="20250115024500 +0800">
+		<title lang="zh">37_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -33744,6 +33747,9 @@
 	<programme channel="newtv超级电视剧" start="20250115011500 +0800" stop="20250115020100 +0800">
 		<title lang="zh">06_黄河在咆哮</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250115020100 +0800" stop="20250115024600 +0800">
+		<title lang="zh">07_黄河在咆哮</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -33764,6 +33770,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250115010000 +0800" stop="20250115015500 +0800">
 		<title lang="zh">第三集 长驱直入</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250115015500 +0800" stop="20250115025000 +0800">
+		<title lang="zh">第四集 攻入颅腔</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -33813,6 +33822,9 @@
 	<programme channel="newtv动作电影" start="20250115001700 +0800" stop="20250115015000 +0800">
 		<title lang="zh">混世四猴：神猴归来</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250115015000 +0800" stop="20250115032500 +0800">
+		<title lang="zh">鲨鱼帝国</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -33858,11 +33870,17 @@
 	<programme channel="newtv炫舞未来" start="20250115011400 +0800" stop="20250115015600 +0800">
 		<title lang="zh">音乐告白屋（20250107）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250115015600 +0800" stop="20250115020400 +0800">
+		<title lang="zh">我不管-金洋（完整）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250115000500 +0800" stop="20250115014800 +0800">
 		<title lang="zh">昆仑神宫</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250115014800 +0800" stop="20250115025400 +0800">
+		<title lang="zh">现在就出发第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
