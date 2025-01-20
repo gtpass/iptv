@@ -15744,6 +15744,9 @@
 	<programme channel="咪咕综合体育" start="20250121000000 +0800" stop="20250121020000 +0800">
 		<title lang="zh">网球世界-2024中国网球公开赛 男单半决赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250121020000 +0800" stop="20250121034000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第17轮 拜仁慕尼黑-霍芬海姆</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -45804,6 +45807,9 @@
 	<programme channel="newtv精品纪录" start="20250121011900 +0800" stop="20250121014900 +0800">
 		<title lang="zh">第三集 急诊特种兵</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250121014900 +0800" stop="20250121021300 +0800">
+		<title lang="zh">第四集 非常诊断</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45812,6 +45818,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250121005900 +0800" stop="20250121014600 +0800">
 		<title lang="zh">31_千古玦尘</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250121014600 +0800" stop="20250121023400 +0800">
+		<title lang="zh">32_千古玦尘</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -45830,6 +45839,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250121010200 +0800" stop="20250121015300 +0800">
 		<title lang="zh">27_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250121015300 +0800" stop="20250121023800 +0800">
+		<title lang="zh">28_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -45852,6 +45864,9 @@
 	<programme channel="newtv动作电影" start="20250121002900 +0800" stop="20250121015400 +0800">
 		<title lang="zh">倩狐之京卫怪谈</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250121015400 +0800" stop="20250121033200 +0800">
+		<title lang="zh">森林深处</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -45869,6 +45884,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250121010800 +0800" stop="20250121015900 +0800">
 		<title lang="zh">20_追爱家族</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250121015900 +0800" stop="20250121024900 +0800">
+		<title lang="zh">21_追爱家族</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45894,17 +45912,26 @@
 	<programme channel="newtv炫舞未来" start="20250121003800 +0800" stop="20250121015700 +0800">
 		<title lang="zh">开门迎春晚（20250118）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250121015700 +0800" stop="20250121024700 +0800">
+		<title lang="zh">一笑一周（20241225）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250121001000 +0800" stop="20250121015800 +0800">
 		<title lang="zh">简单的事</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250121015800 +0800" stop="20250121032400 +0800">
+		<title lang="zh">心动的信号第6季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250121010900 +0800" stop="20250121015600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250121015600 +0800" stop="20250121030800 +0800">
+		<title lang="zh">蟒山</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
