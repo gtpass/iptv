@@ -21,6 +21,9 @@
 	<programme channel="4K综艺" start="20250122043800 +0800" stop="20250122055400 +0800">
 		<title lang="zh">小小的追球20191224</title>
 	</programme>
+	<programme channel="4K综艺" start="20250122055400 +0800" stop="20250122065300 +0800">
+		<title lang="zh">小小的追球20191225</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -48630,6 +48633,9 @@
 	<programme channel="黑莓动画" start="20250122050400 +0800" stop="20250122055300 +0800">
 		<title lang="zh">09_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250122055300 +0800" stop="20250122064500 +0800">
+		<title lang="zh">14_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48939,6 +48945,9 @@
 	<programme channel="newtv超级综艺" start="20250122051900 +0800" stop="20250122060900 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250122060900 +0800" stop="20250122070900 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48956,6 +48965,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250122053000 +0800" stop="20250122060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250122060000 +0800" stop="20250122063000 +0800">
+		<title lang="zh">赛事集锦-2024年射箭世界杯总决赛3(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49004,6 +49016,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250122051700 +0800" stop="20250122060200 +0800">
 		<title lang="zh">02_锦绣未央</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250122060200 +0800" stop="20250122064700 +0800">
+		<title lang="zh">03_锦绣未央</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49281,6 +49296,9 @@
 	<programme channel="newtv军事评论" start="20250122053800 +0800" stop="20250122060000 +0800">
 		<title lang="zh">俄乌冲突二周年观察 有人战机的空中角力</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250122060000 +0800" stop="20250122062200 +0800">
+		<title lang="zh">俄乌冲突二周年观察 无人机的战场革命</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49322,6 +49340,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250122050500 +0800" stop="20250122055500 +0800">
 		<title lang="zh">29_侦察英雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250122055500 +0800" stop="20250122064600 +0800">
+		<title lang="zh">30_侦察英雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -49421,6 +49442,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250122050800 +0800" stop="20250122055000 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250122055000 +0800" stop="20250122071500 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
