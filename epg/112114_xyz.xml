@@ -45609,6 +45609,9 @@
 	<programme channel="黑莓动画" start="20250126013100 +0800" stop="20250126015000 +0800">
 		<title lang="zh">19_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250126015000 +0800" stop="20250126023900 +0800">
+		<title lang="zh">05_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45984,6 +45987,9 @@
 	<programme channel="newtv爱情喜剧" start="20250126002000 +0800" stop="20250126015900 +0800">
 		<title lang="zh">隐婚男女</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250126015900 +0800" stop="20250126024700 +0800">
+		<title lang="zh">53_锦绣未央</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -46005,6 +46011,9 @@
 	<programme channel="newtv怡伴健康" start="20250126011400 +0800" stop="20250126015600 +0800">
 		<title lang="zh">24_北部湾人家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250126015600 +0800" stop="20250126023900 +0800">
+		<title lang="zh">25_北部湾人家</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -46025,6 +46034,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250126012500 +0800" stop="20250126014700 +0800">
 		<title lang="zh">第十一届北京香山论坛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250126014700 +0800" stop="20250126020900 +0800">
+		<title lang="zh">铸剑卫国 铁骨丹魂</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -46109,6 +46121,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250126003300 +0800" stop="20250126020000 +0800">
 		<title lang="zh">飞鱼服</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250126020000 +0800" stop="20250126031900 +0800">
+		<title lang="zh">大神猴1降妖篇</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
