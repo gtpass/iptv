@@ -45738,6 +45738,9 @@
 	<programme channel="newtv精品纪录" start="20250128030200 +0800" stop="20250128035100 +0800">
 		<title lang="zh">第一集 创新引领</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250128035100 +0800" stop="20250128043800 +0800">
+		<title lang="zh">第二集 敢为人先</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45755,6 +45758,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250128030900 +0800" stop="20250128035700 +0800">
 		<title lang="zh">11_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250128035700 +0800" stop="20250128044600 +0800">
+		<title lang="zh">12_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -45788,6 +45794,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250128025700 +0800" stop="20250128034700 +0800">
 		<title lang="zh">21_我们的婚姻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250128034700 +0800" stop="20250128042100 +0800">
+		<title lang="zh">19_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -45902,6 +45911,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250128032900 +0800" stop="20250128034900 +0800">
 		<title lang="zh">山河守望 风雪边关</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250128034900 +0800" stop="20250128041100 +0800">
+		<title lang="zh">山河守望 极地卫士</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
