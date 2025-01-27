@@ -1,5 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv info-name="by spark " info-url="https://epg.112114.xyz">
+	<channel id="CCTV1">
+		<display-name lang="zh">CCTV1</display-name>
+	</channel>
+	<programme channel="CCTV1" start="20250128005700 +0800" stop="20250128012500 +0800">
+		<title lang="zh">今日说法-2025-27</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128012500 +0800" stop="20250128015400 +0800">
+		<title lang="zh">人与自然-2024-203</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128015400 +0800" stop="20250128022600 +0800">
+		<title lang="zh">晚间新闻</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128022600 +0800" stop="20250128023600 +0800">
+		<title lang="zh">2024秘境之眼-秘境西双版纳(4K)</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128023600 +0800" stop="20250128024000 +0800">
+		<title lang="zh">山水间的家-主题曲</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128024000 +0800" stop="20250128024400 +0800">
+		<title lang="zh">大唐诗人传-初唐四杰MV</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128024400 +0800" stop="20250128025000 +0800">
+		<title lang="zh">大唐诗人传-孟浩然MV</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128025000 +0800" stop="20250128041300 +0800">
+		<title lang="zh">美美与共-和美之歌2</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128041300 +0800" stop="20250128044600 +0800">
+		<title lang="zh">2024农耕探文明-2</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128044600 +0800" stop="20250128053000 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128053000 +0800" stop="20250128060000 +0800">
+		<title lang="zh">人与自然-2024-204</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128060000 +0800" stop="20250128083700 +0800">
+		<title lang="zh">朝闻天下</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128083700 +0800" stop="20250128101900 +0800">
+		<title lang="zh">中央广播电视总台2025网络春晚-1</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128101900 +0800" stop="20250128120000 +0800">
+		<title lang="zh">2025欢欢喜喜过大年-2</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128120000 +0800" stop="20250128123400 +0800">
+		<title lang="zh">新闻30分</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128123400 +0800" stop="20250128132500 +0800">
+		<title lang="zh">金蛇起舞·中国年味-1</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128132500 +0800" stop="20250128141200 +0800">
+		<title lang="zh">金蛇起舞·中国年味-2</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128141200 +0800" stop="20250128151100 +0800">
+		<title lang="zh">金蛇起舞·中国年味-3</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128151100 +0800" stop="20250128155600 +0800">
+		<title lang="zh">金蛇起舞·中国年味-4</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128155600 +0800" stop="20250128160000 +0800">
+		<title lang="zh">非遗里的中国（第二季）-国礼绝色</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128160000 +0800" stop="20250128184500 +0800">
+		<title lang="zh">新闻直播间</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128184500 +0800" stop="20250128190000 +0800">
+		<title lang="zh">新闻直播间</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128190000 +0800" stop="20250128194200 +0800">
+		<title lang="zh">新闻联播</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128194200 +0800" stop="20250128200000 +0800">
+		<title lang="zh">喜乐安宁中国年（晚间时段）-1</title>
+	</programme>
+	<programme channel="CCTV1" start="20250128200000 +0800" stop="20250128235900 +0800">
+		<title lang="zh">2025年春节联欢晚会-1</title>
+	</programme>
 	<channel id="CCTV10">
 		<display-name lang="zh">CCTV10</display-name>
 	</channel>
@@ -11186,6 +11264,18 @@
 	</programme>
 	<programme channel="咪咕24小时体育" start="20250128222900 +0800" stop="20250128235900 +0800">
 		<title lang="zh">24/25赛季CBA常规赛第32轮全场回放：新疆vs广州（庄宁宇、张兆旭）</title>
+	</programme>
+	<channel id="咪咕综合体育">
+		<display-name lang="zh">咪咕综合体育</display-name>
+	</channel>
+	<programme channel="咪咕综合体育" start="20250128000000 +0800" stop="20250128020000 +0800">
+		<title lang="zh">网球世界-2024中国网球公开赛 男单半决赛</title>
+	</programme>
+	<channel id="咪咕足球">
+		<display-name lang="zh">咪咕足球</display-name>
+	</channel>
+	<programme channel="咪咕足球" start="20250128000100 +0800" stop="20250128012100 +0800">
+		<title lang="zh">村BA</title>
 	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
@@ -33933,41 +34023,8 @@
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
-	<programme channel="newtv超级电视剧" start="20250128000000 +0800" stop="20250128020000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128020000 +0800" stop="20250128040000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128060000 +0800" stop="20250128080000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128080000 +0800" stop="20250128100600 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128100600 +0800" stop="20250128120000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128120000 +0800" stop="20250128140000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128140000 +0800" stop="20250128160000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128160000 +0800" stop="20250128180000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128180000 +0800" stop="20250128190000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128190000 +0800" stop="20250128200000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128200000 +0800" stop="20250128220000 +0800">
-		<title lang="zh">精彩节目</title>
-	</programme>
-	<programme channel="newtv超级电视剧" start="20250128220000 +0800" stop="20250128235900 +0800">
-		<title lang="zh">精彩节目</title>
+	<programme channel="newtv超级电视剧" start="20250128000400 +0800" stop="20250128004700 +0800">
+		<title lang="zh">12_飞狐外传</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
