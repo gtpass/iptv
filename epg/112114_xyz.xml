@@ -15216,6 +15216,9 @@
 	<programme channel="咪咕综合体育" start="20250130014500 +0800" stop="20250130015000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250130015000 +0800" stop="20250130024000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37098,6 +37101,9 @@
 	<programme channel="纯享4K" start="20250130013100 +0800" stop="20250130020100 +0800">
 		<title lang="zh">味道4K 美味天津</title>
 	</programme>
+	<programme channel="纯享4K" start="20250130020100 +0800" stop="20250130023100 +0800">
+		<title lang="zh">寻古中国4K 古滇记b7古国寻踪</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -44904,6 +44910,9 @@
 	<programme channel="黑莓动画" start="20250130013400 +0800" stop="20250130015300 +0800">
 		<title lang="zh">27_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250130015300 +0800" stop="20250130024300 +0800">
+		<title lang="zh">13_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45288,6 +45297,9 @@
 	<programme channel="newtv古装剧场" start="20250130011500 +0800" stop="20250130015900 +0800">
 		<title lang="zh">18_大舜</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250130015900 +0800" stop="20250130024200 +0800">
+		<title lang="zh">19_大舜</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -45321,6 +45333,9 @@
 	<programme channel="newtv爱情喜剧" start="20250130002100 +0800" stop="20250130015100 +0800">
 		<title lang="zh">情比山高</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250130015100 +0800" stop="20250130023900 +0800">
+		<title lang="zh">19_遇见幸福</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -45338,6 +45353,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250130010500 +0800" stop="20250130015000 +0800">
 		<title lang="zh">03_新万家灯火</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250130015000 +0800" stop="20250130023600 +0800">
+		<title lang="zh">04_新万家灯火</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -45365,6 +45383,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250130013800 +0800" stop="20250130020000 +0800">
 		<title lang="zh">第十五届中国航展纪实（7）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250130020000 +0800" stop="20250130022200 +0800">
+		<title lang="zh">第十五届中国航展纪实（8）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
