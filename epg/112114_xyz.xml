@@ -38658,6 +38658,9 @@
 	<programme channel="纯享4K" start="20250204031800 +0800" stop="20250204035900 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（1） 行走太湖运河间</title>
 	</programme>
+	<programme channel="纯享4K" start="20250204035900 +0800" stop="20250204044000 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（2） 谈古说今话无锡</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47049,6 +47052,9 @@
 	<programme channel="newtv超级体育" start="20250204023500 +0800" stop="20250204040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 罗马站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250204040000 +0800" stop="20250204053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第17轮 雷恩-马赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47226,6 +47232,9 @@
 	<programme channel="newtv怡伴健康" start="20250204030100 +0800" stop="20250204034900 +0800">
 		<title lang="zh">20_新万家灯火</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250204034900 +0800" stop="20250204041600 +0800">
+		<title lang="zh">胡兀鹫归来（上）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47240,6 +47249,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250204030800 +0800" stop="20250204035600 +0800">
 		<title lang="zh">47_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250204035600 +0800" stop="20250204044300 +0800">
+		<title lang="zh">48_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47285,6 +47297,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250204034400 +0800" stop="20250204034800 +0800">
 		<title lang="zh">天耀中华-李萍（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250204034800 +0800" stop="20250204050500 +0800">
+		<title lang="zh">医院保安变身“玩具侠” 行走的失物招领处（20240619）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47375,6 +47390,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250204020100 +0800" stop="20250204035500 +0800">
 		<title lang="zh">长安伏妖</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250204035500 +0800" stop="20250204053000 +0800">
+		<title lang="zh">大唐英豪之曼陀罗之谜</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
