@@ -59574,6 +59574,9 @@
 	<programme channel="爱情喜剧" start="20250203210400 +0800" stop="20250203214900 +0800">
 		<title lang="zh">45_燕云台</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250203214900 +0800" stop="20250203231200 +0800">
+		<title lang="zh">怒火十二小时</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65405,6 +65408,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250203210500 +0800" stop="20250203215500 +0800">
 		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
+	</programme>
+	<programme channel="纯享4K" start="20250203215500 +0800" stop="20250203224400 +0800">
+		<title lang="zh">大运河之歌4K 第2集 盛世气象</title>
 	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
@@ -78840,6 +78846,9 @@
 	<programme channel="黑莓动画" start="20250203214000 +0800" stop="20250203215300 +0800">
 		<title lang="zh">09_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250203215300 +0800" stop="20250203220600 +0800">
+		<title lang="zh">10_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79341,6 +79350,9 @@
 	<programme channel="newtv超级电视剧" start="20250203205900 +0800" stop="20250203214500 +0800">
 		<title lang="zh">07_蔷薇风暴</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250203214500 +0800" stop="20250203222900 +0800">
+		<title lang="zh">03_婚内婚外</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79728,6 +79740,9 @@
 	<programme channel="newtv军旅剧场" start="20250203210800 +0800" stop="20250203215300 +0800">
 		<title lang="zh">11_危机迷雾</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250203215300 +0800" stop="20250203222300 +0800">
+		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79979,6 +79994,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250203210400 +0800" stop="20250203214900 +0800">
 		<title lang="zh">45_燕云台</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250203214900 +0800" stop="20250203231200 +0800">
+		<title lang="zh">怒火十二小时</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
