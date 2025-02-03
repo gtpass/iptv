@@ -49857,6 +49857,9 @@
 	<programme channel="newtv超级综艺" start="20250204043900 +0800" stop="20250204055100 +0800">
 		<title lang="zh">2025中央广播电视总台春节联欢晚会（1）</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250204055100 +0800" stop="20250204070900 +0800">
+		<title lang="zh">2025中央广播电视总台春节联欢晚会（2）</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49872,6 +49875,9 @@
 	<programme channel="newtv超级体育" start="20250204053000 +0800" stop="20250204060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250204060000 +0800" stop="20250204063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛总决赛 表演滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49886,6 +49892,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250204042400 +0800" stop="20250204060600 +0800">
 		<title lang="zh">夺冠</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250204060600 +0800" stop="20250204080600 +0800">
+		<title lang="zh">海关战线</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -49910,6 +49919,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250204051400 +0800" stop="20250204060100 +0800">
 		<title lang="zh">04_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250204060100 +0800" stop="20250204064900 +0800">
+		<title lang="zh">05_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
