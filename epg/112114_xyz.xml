@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20250205043100 +0800" stop="20250205055600 +0800">
 		<title lang="zh">奇兵神犬20171215</title>
 	</programme>
+	<programme channel="4K综艺" start="20250205055600 +0800" stop="20250205072500 +0800">
+		<title lang="zh">奇兵神犬20171222</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -18938,6 +18941,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250205042500 +0800" stop="20250205060500 +0800">
 		<title lang="zh">足球世界-24/25赛季英超 第20轮 布莱顿-阿森纳</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250205060500 +0800" stop="20250205063000 +0800">
+		<title lang="zh">欧陆足球版图</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -49914,6 +49920,9 @@
 	<programme channel="黑莓动画" start="20250205045700 +0800" stop="20250205054600 +0800">
 		<title lang="zh">11_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250205054600 +0800" stop="20250205063700 +0800">
+		<title lang="zh">42_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -49925,6 +49934,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250205044700 +0800" stop="20250205055800 +0800">
 		<title lang="zh">猎枭行动</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250205055800 +0800" stop="20250205075200 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -50232,6 +50244,9 @@
 	<programme channel="newtv超级体育" start="20250205053000 +0800" stop="20250205060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250205060000 +0800" stop="20250205063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 美国站 表演滑</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50270,6 +50285,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250205051700 +0800" stop="20250205060300 +0800">
 		<title lang="zh">09_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250205060300 +0800" stop="20250205064900 +0800">
+		<title lang="zh">10_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50430,6 +50448,9 @@
 	<programme channel="newtv热播精选" start="20250205050500 +0800" stop="20250205055100 +0800">
 		<title lang="zh">26_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250205055100 +0800" stop="20250205063900 +0800">
+		<title lang="zh">27_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -50541,6 +50562,9 @@
 	<programme channel="newtv军事评论" start="20250205053400 +0800" stop="20250205055600 +0800">
 		<title lang="zh">共和国功勋装备b7领航向复兴</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250205055600 +0800" stop="20250205061800 +0800">
+		<title lang="zh">走进军博b7探秘奇特轻武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50585,6 +50609,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250205050700 +0800" stop="20250205055400 +0800">
 		<title lang="zh">13_一代枭雄</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250205055400 +0800" stop="20250205064200 +0800">
+		<title lang="zh">14_一代枭雄</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
