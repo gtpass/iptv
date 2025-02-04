@@ -39090,6 +39090,9 @@
 	<programme channel="纯享4K" start="20250205011700 +0800" stop="20250205014700 +0800">
 		<title lang="zh">味道4K 原味乡间b7定南篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250205014700 +0800" stop="20250205021600 +0800">
+		<title lang="zh">味道4K 原味乡间b7定南篇（下）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47304,6 +47307,9 @@
 	<programme channel="newtv超级电影" start="20250205000200 +0800" stop="20250205020000 +0800">
 		<title lang="zh">攀登者</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250205020000 +0800" stop="20250205034700 +0800">
+		<title lang="zh">这个杀手不太冷静</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47322,6 +47328,9 @@
 	<programme channel="newtv精品大剧" start="20250205011400 +0800" stop="20250205015600 +0800">
 		<title lang="zh">16_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250205015600 +0800" stop="20250205023800 +0800">
+		<title lang="zh">17_民国恩仇录</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47334,6 +47343,9 @@
 	<programme channel="newtv精品纪录" start="20250205012700 +0800" stop="20250205015300 +0800">
 		<title lang="zh">06_大脑地图</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250205015300 +0800" stop="20250205024400 +0800">
+		<title lang="zh">05_城市的远见</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47342,6 +47354,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250205010500 +0800" stop="20250205015000 +0800">
 		<title lang="zh">07_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250205015000 +0800" stop="20250205023600 +0800">
+		<title lang="zh">08_岁岁青莲</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47373,6 +47388,9 @@
 	<programme channel="newtv热播精选" start="20250205002300 +0800" stop="20250205015700 +0800">
 		<title lang="zh">天刃</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250205015700 +0800" stop="20250205024300 +0800">
+		<title lang="zh">22_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47384,6 +47402,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250205002800 +0800" stop="20250205020000 +0800">
 		<title lang="zh">蜀山之万剑封魔</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250205020000 +0800" stop="20250205033600 +0800">
+		<title lang="zh">末日回旋</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47402,6 +47423,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250205010300 +0800" stop="20250205015000 +0800">
 		<title lang="zh">52_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250205015000 +0800" stop="20250205023700 +0800">
+		<title lang="zh">53_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
