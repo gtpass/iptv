@@ -46605,6 +46605,9 @@
 	<programme channel="newtv超级体育" start="20250206023500 +0800" stop="20250206040000 +0800">
 		<title lang="zh">实况录像-2024年世界田联钻石联赛 苏黎世站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250206040000 +0800" stop="20250206053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第21轮 切尔西-伯恩茅斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46652,6 +46655,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250206031300 +0800" stop="20250206035500 +0800">
 		<title lang="zh">24_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250206035500 +0800" stop="20250206044200 +0800">
+		<title lang="zh">25_怒放</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46748,6 +46754,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250206031500 +0800" stop="20250206040000 +0800">
 		<title lang="zh">30_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250206040000 +0800" stop="20250206044800 +0800">
+		<title lang="zh">31_梦中的那片海</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
