@@ -38154,6 +38154,9 @@
 	<programme channel="纯享4K" start="20250209012200 +0800" stop="20250209015200 +0800">
 		<title lang="zh">味道4K 下饭菜b7绵阳篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250209015200 +0800" stop="20250209022200 +0800">
+		<title lang="zh">味道4K 原味乡间b7德江篇 上</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -46362,6 +46365,9 @@
 	<programme channel="newtv超级综艺" start="20250209011500 +0800" stop="20250209020100 +0800">
 		<title lang="zh">16_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250209020100 +0800" stop="20250209031800 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46385,6 +46391,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250209010700 +0800" stop="20250209015200 +0800">
 		<title lang="zh">10_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250209015200 +0800" stop="20250209023700 +0800">
+		<title lang="zh">11_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -46416,6 +46425,9 @@
 	<programme channel="newtv古装剧场" start="20250209011000 +0800" stop="20250209015600 +0800">
 		<title lang="zh">23_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250209015600 +0800" stop="20250209024100 +0800">
+		<title lang="zh">24_岁岁青莲</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -46424,6 +46436,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250209010500 +0800" stop="20250209015200 +0800">
 		<title lang="zh">17_秘密图纸</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250209015200 +0800" stop="20250209023800 +0800">
+		<title lang="zh">18_秘密图纸</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -46440,6 +46455,9 @@
 	<programme channel="newtv热播精选" start="20250209000600 +0800" stop="20250209015400 +0800">
 		<title lang="zh">追凶十九年</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250209015400 +0800" stop="20250209024000 +0800">
+		<title lang="zh">08_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -46451,6 +46469,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250209002200 +0800" stop="20250209014800 +0800">
 		<title lang="zh">绝对忠诚之国家利益</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250209014800 +0800" stop="20250209031900 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -46473,6 +46494,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250209010000 +0800" stop="20250209014800 +0800">
 		<title lang="zh">06_因为爱情有多美（DVD版）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250209014800 +0800" stop="20250209023600 +0800">
+		<title lang="zh">07_因为爱情有多美（DVD版）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -46481,6 +46505,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250209010700 +0800" stop="20250209020000 +0800">
 		<title lang="zh">“文化瑰宝 老兵守护”系列节目（一）笔墨诉兵心</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250209020000 +0800" stop="20250209025400 +0800">
+		<title lang="zh">“文化瑰宝 老兵守护”系列节目（三）守护千年奇迹兵马俑</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
