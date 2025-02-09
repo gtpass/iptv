@@ -51,6 +51,9 @@
 	<programme channel="4K综艺" start="20250210003300 +0800" stop="20250210020100 +0800">
 		<title lang="zh">奇兵神犬20171124</title>
 	</programme>
+	<programme channel="4K综艺" start="20250210020100 +0800" stop="20250210033200 +0800">
+		<title lang="zh">我最爱的女人们20190628</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -46128,6 +46131,9 @@
 	<programme channel="newtv超级综艺" start="20250210011400 +0800" stop="20250210015900 +0800">
 		<title lang="zh">20_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250210015900 +0800" stop="20250210031600 +0800">
+		<title lang="zh">扬帆远航大湾区——2025新年音乐会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46148,6 +46154,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250210010800 +0800" stop="20250210015300 +0800">
 		<title lang="zh">16_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250210015300 +0800" stop="20250210023800 +0800">
+		<title lang="zh">17_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -46173,6 +46182,9 @@
 	<programme channel="newtv精品纪录" start="20250210005600 +0800" stop="20250210014700 +0800">
 		<title lang="zh">第四集 攻入颅腔</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250210014700 +0800" stop="20250210023700 +0800">
+		<title lang="zh">第四集 商业之变</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -46181,6 +46193,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250210010500 +0800" stop="20250210015000 +0800">
 		<title lang="zh">27_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250210015000 +0800" stop="20250210023600 +0800">
+		<title lang="zh">28_岁岁青莲</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -46205,6 +46220,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250210001200 +0800" stop="20250210015000 +0800">
 		<title lang="zh">火线干探之革命</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250210015000 +0800" stop="20250210023600 +0800">
+		<title lang="zh">14_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -46241,6 +46259,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250210011200 +0800" stop="20250210020000 +0800">
 		<title lang="zh">13_因为爱情有多美（DVD版）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250210020000 +0800" stop="20250210024800 +0800">
+		<title lang="zh">14_因为爱情有多美（DVD版）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
