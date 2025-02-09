@@ -49113,6 +49113,9 @@
 	<programme channel="newtv超级综艺" start="20250210040600 +0800" stop="20250210055500 +0800">
 		<title lang="zh">国家宝藏 第四季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250210055500 +0800" stop="20250210070600 +0800">
+		<title lang="zh">开门迎春晚</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49127,6 +49130,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250210053000 +0800" stop="20250210060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250210060000 +0800" stop="20250210063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 德国阿腾堡站女子钢架雪车</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
