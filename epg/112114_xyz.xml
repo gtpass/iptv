@@ -58845,6 +58845,9 @@
 	<programme channel="爱情喜剧" start="20250210110800 +0800" stop="20250210115200 +0800">
 		<title lang="zh">28_流光之城</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250210115200 +0800" stop="20250210124000 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -64598,6 +64601,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250210113300 +0800" stop="20250210114800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7艾普松赛马</title>
+	</programme>
+	<programme channel="纯享4K" start="20250210114800 +0800" stop="20250210122900 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（13） 古都北京 与世界握手</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -78597,6 +78603,9 @@
 	<programme channel="黑莓动画" start="20250210112600 +0800" stop="20250210114900 +0800">
 		<title lang="zh">百变布鲁可第4季第17集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250210114900 +0800" stop="20250210121500 +0800">
+		<title lang="zh">13_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79518,6 +79527,9 @@
 	<programme channel="newtv超级电视剧" start="20250210111100 +0800" stop="20250210115200 +0800">
 		<title lang="zh">25_故乡的泥土</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250210115200 +0800" stop="20250210123400 +0800">
+		<title lang="zh">26_故乡的泥土</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79677,6 +79689,9 @@
 	<programme channel="newtv古装剧场" start="20250210110200 +0800" stop="20250210114700 +0800">
 		<title lang="zh">08_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250210114700 +0800" stop="20250210122600 +0800">
+		<title lang="zh">Winfavor休闲貂皮内胆派克服/连帽优雅貂皮内胆派克大衣-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79818,6 +79833,9 @@
 	<programme channel="newtv热播精选" start="20250210111500 +0800" stop="20250210115400 +0800">
 		<title lang="zh">Winfavor休闲貂皮内胆派克服/连帽优雅貂皮内胆派克大衣-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250210115400 +0800" stop="20250210132500 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79853,6 +79871,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250210110800 +0800" stop="20250210115200 +0800">
 		<title lang="zh">28_流光之城</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250210115200 +0800" stop="20250210124000 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶特惠款-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80052,6 +80073,9 @@
 	<programme channel="newtv军事评论" start="20250210112800 +0800" stop="20250210115000 +0800">
 		<title lang="zh">军武时光机（5）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250210115000 +0800" stop="20250210121200 +0800">
+		<title lang="zh">军武时光机（6）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80108,6 +80132,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250210114400 +0800" stop="20250210114700 +0800">
 		<title lang="zh">歌曲《难忘今宵》 演唱者：李谷一</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250210115900 +0800" stop="20250210120200 +0800">
+		<title lang="zh">歌曲《飞旋啊飞旋》 演唱者：解晓东 张咪 张强</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80306,6 +80333,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250210111900 +0800" stop="20250210115900 +0800">
 		<title lang="zh">30_飞狐外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250210115900 +0800" stop="20250210124400 +0800">
+		<title lang="zh">31_飞狐外传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
