@@ -16125,6 +16125,9 @@
 	<programme channel="咪咕综合体育" start="20250212021500 +0800" stop="20250212035500 +0800">
 		<title lang="zh">足球世界-24/25赛季意大利超级杯 决赛 国际米兰-AC米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250212040000 +0800" stop="20250212042500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46458,6 +46461,9 @@
 	<programme channel="newtv超级体育" start="20250212033500 +0800" stop="20250212040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季短道速滑世界巡回赛 韩国站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250212040000 +0800" stop="20250212053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第18轮 里尔-尼斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46469,6 +46475,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250212033300 +0800" stop="20250212040800 +0800">
 		<title lang="zh">速度与爱情（上）</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250212040800 +0800" stop="20250212055600 +0800">
+		<title lang="zh">速度与爱情（下）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
