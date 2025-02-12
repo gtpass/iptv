@@ -46431,6 +46431,9 @@
 	<programme channel="黑莓动画" start="20250213030500 +0800" stop="20250213035300 +0800">
 		<title lang="zh">04_蓝色监狱</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250213035300 +0800" stop="20250213043800 +0800">
+		<title lang="zh">05_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47175,6 +47178,9 @@
 	<programme channel="newtv精品大剧" start="20250213030200 +0800" stop="20250213034800 +0800">
 		<title lang="zh">地道英雄 第28集</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250213034800 +0800" stop="20250213043400 +0800">
+		<title lang="zh">地道英雄 第29集</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47199,6 +47205,9 @@
 	<programme channel="newtv精品纪录" start="20250213030400 +0800" stop="20250213035500 +0800">
 		<title lang="zh">01_下一站，火星</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250213035500 +0800" stop="20250213044700 +0800">
+		<title lang="zh">02_下一站，火星</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47214,6 +47223,9 @@
 	<programme channel="newtv古装剧场" start="20250213030100 +0800" stop="20250213034800 +0800">
 		<title lang="zh">05_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250213034800 +0800" stop="20250213043400 +0800">
+		<title lang="zh">19_玉骨遥</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47228,6 +47240,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250213030500 +0800" stop="20250213035200 +0800">
 		<title lang="zh">09_天涯浴血</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250213035200 +0800" stop="20250213044000 +0800">
+		<title lang="zh">10_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47273,6 +47288,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250213030500 +0800" stop="20250213035100 +0800">
 		<title lang="zh">12_千古玦尘</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250213035100 +0800" stop="20250213043600 +0800">
+		<title lang="zh">13_千古玦尘</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
