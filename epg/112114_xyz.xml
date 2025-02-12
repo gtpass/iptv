@@ -46974,6 +46974,9 @@
 	<programme channel="newtv超级电影" start="20250213001300 +0800" stop="20250213015900 +0800">
 		<title lang="zh">乌衣夜行</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250213015900 +0800" stop="20250213032600 +0800">
+		<title lang="zh">阿然</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47042,6 +47045,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250213002900 +0800" stop="20250213015800 +0800">
 		<title lang="zh">超级风暴</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250213015800 +0800" stop="20250213024400 +0800">
+		<title lang="zh">32_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
