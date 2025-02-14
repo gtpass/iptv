@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250215005700 +0800" stop="20250215020000 +0800">
 		<title lang="zh">我最爱的女人们20190525</title>
 	</programme>
+	<programme channel="4K综艺" start="20250215020000 +0800" stop="20250215033900 +0800">
+		<title lang="zh">我最爱的女人们20190531</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -47559,6 +47562,9 @@
 	<programme channel="newtv精品大剧" start="20250215010200 +0800" stop="20250215014800 +0800">
 		<title lang="zh">地道英雄 第36集</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250215014800 +0800" stop="20250215023400 +0800">
+		<title lang="zh">地道英雄 第37集</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47571,6 +47577,9 @@
 	<programme channel="newtv精品纪录" start="20250215013500 +0800" stop="20250215015100 +0800">
 		<title lang="zh">01_防线</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250215015100 +0800" stop="20250215020700 +0800">
+		<title lang="zh">02_抉择</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47579,6 +47588,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250215010700 +0800" stop="20250215015400 +0800">
 		<title lang="zh">11_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250215015400 +0800" stop="20250215024100 +0800">
+		<title lang="zh">12_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47598,11 +47610,17 @@
 	<programme channel="newtv家庭剧场" start="20250215010600 +0800" stop="20250215015300 +0800">
 		<title lang="zh">15_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250215015300 +0800" stop="20250215023700 +0800">
+		<title lang="zh">16_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20250215003000 +0800" stop="20250215015900 +0800">
 		<title lang="zh">速度与激情</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250215015900 +0800" stop="20250215024700 +0800">
+		<title lang="zh">43_安家</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47627,6 +47645,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250215010100 +0800" stop="20250215014700 +0800">
 		<title lang="zh">11_好事成双</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250215014700 +0800" stop="20250215023200 +0800">
+		<title lang="zh">12_好事成双</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47654,6 +47675,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250215003000 +0800" stop="20250215015400 +0800">
 		<title lang="zh">跨越时空去爱你</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250215015400 +0800" stop="20250215030000 +0800">
+		<title lang="zh">十三邀第8季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
