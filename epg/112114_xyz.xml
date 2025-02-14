@@ -46971,6 +46971,9 @@
 	<programme channel="黑莓动画" start="20250215031200 +0800" stop="20250215040000 +0800">
 		<title lang="zh">08_蓝色监狱</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250215040000 +0800" stop="20250215044500 +0800">
+		<title lang="zh">09_马达加斯加企鹅第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47679,6 +47682,9 @@
 	<programme channel="newtv超级体育" start="20250215023800 +0800" stop="20250215040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季花样滑冰大奖赛 芬兰站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250215040000 +0800" stop="20250215053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第23轮 利物浦-伊普斯维奇(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47690,6 +47696,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250215021700 +0800" stop="20250215035600 +0800">
 		<title lang="zh">冥绝村</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250215035600 +0800" stop="20250215052200 +0800">
+		<title lang="zh">又见奈良</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47708,6 +47717,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250215030800 +0800" stop="20250215035200 +0800">
 		<title lang="zh">20_警犬来啦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250215035200 +0800" stop="20250215043700 +0800">
+		<title lang="zh">02_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47787,6 +47799,9 @@
 	<programme channel="newtv军旅剧场" start="20250215031000 +0800" stop="20250215035800 +0800">
 		<title lang="zh">19_天涯浴血</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250215035800 +0800" stop="20250215044500 +0800">
+		<title lang="zh">20_天涯浴血</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47865,6 +47880,9 @@
 	<programme channel="newtv怡伴健康" start="20250215032000 +0800" stop="20250215034700 +0800">
 		<title lang="zh">充满希望的季节（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250215034700 +0800" stop="20250215041600 +0800">
+		<title lang="zh">充满希望的季节（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47895,6 +47913,9 @@
 	<programme channel="newtv军事评论" start="20250215025600 +0800" stop="20250215034900 +0800">
 		<title lang="zh">草原盛开石榴花 国防知识挑战赛 走进巴林右旗</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250215034900 +0800" stop="20250215044100 +0800">
+		<title lang="zh">博物馆里话海军 海军知识挑战赛 人民海军成立75周年特别策划</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47909,6 +47930,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250215033800 +0800" stop="20250215035000 +0800">
 		<title lang="zh">春风十万里-饶子龙</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250215035000 +0800" stop="20250215040400 +0800">
+		<title lang="zh">茶山情歌-饶子龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
