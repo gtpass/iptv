@@ -47025,6 +47025,9 @@
 	<programme channel="newtv精品纪录" start="20250217010100 +0800" stop="20250217014700 +0800">
 		<title lang="zh">第1集：向b7背</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250217014700 +0800" stop="20250217023300 +0800">
+		<title lang="zh">第2集：问b7答</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47034,6 +47037,9 @@
 	<programme channel="newtv古装剧场" start="20250217010000 +0800" stop="20250217014700 +0800">
 		<title lang="zh">19_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250217014700 +0800" stop="20250217023400 +0800">
+		<title lang="zh">20_天地姻缘七仙女</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47042,6 +47048,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250217010700 +0800" stop="20250217015400 +0800">
 		<title lang="zh">27_天涯浴血</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250217015400 +0800" stop="20250217024200 +0800">
+		<title lang="zh">28_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47124,6 +47133,9 @@
 	<programme channel="newtv精品综合" start="20250217003600 +0800" stop="20250217015200 +0800">
 		<title lang="zh">不差钱</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250217015200 +0800" stop="20250217031800 +0800">
+		<title lang="zh">十三邀第8季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47189,6 +47201,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250217002700 +0800" stop="20250217015900 +0800">
 		<title lang="zh">斗战苍穹</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250217015900 +0800" stop="20250217032700 +0800">
+		<title lang="zh">陈真之拳镇山河</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
