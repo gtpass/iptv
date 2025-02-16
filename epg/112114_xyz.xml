@@ -49341,6 +49341,9 @@
 	<programme channel="黑莓电影" start="20250217042300 +0800" stop="20250217055500 +0800">
 		<title lang="zh">混元灵珠</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250217055500 +0800" stop="20250217080600 +0800">
+		<title lang="zh">白鹿原</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -49965,6 +49968,9 @@
 	<programme channel="newtv超级体育" start="20250217053000 +0800" stop="20250217060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250217060000 +0800" stop="20250217063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 德国温特贝格站 男子钢架雪车</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50028,6 +50034,9 @@
 	<programme channel="newtv精品大剧" start="20250217051300 +0800" stop="20250217055600 +0800">
 		<title lang="zh">13_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250217055600 +0800" stop="20250217064100 +0800">
+		<title lang="zh">14_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -50063,6 +50072,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250217053200 +0800" stop="20250217055600 +0800">
 		<title lang="zh">04_精忠报国</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250217055600 +0800" stop="20250217064800 +0800">
+		<title lang="zh">04_眼前春色梦中人</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50112,6 +50124,9 @@
 	<programme channel="newtv军旅剧场" start="20250217050100 +0800" stop="20250217054700 +0800">
 		<title lang="zh">27_致命追踪</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250217054700 +0800" stop="20250217063000 +0800">
+		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50139,6 +50154,9 @@
 	<programme channel="newtv家庭剧场" start="20250217051000 +0800" stop="20250217055200 +0800">
 		<title lang="zh">21_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250217055200 +0800" stop="20250217064100 +0800">
+		<title lang="zh">HOKO富硒RO直饮厨下即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50159,6 +50177,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250217050600 +0800" stop="20250217055100 +0800">
 		<title lang="zh">04_遍地书香</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250217055100 +0800" stop="20250217065000 +0800">
+		<title lang="zh">风云战国之枭雄</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50274,6 +50295,9 @@
 	<programme channel="newtv军事评论" start="20250217053200 +0800" stop="20250217055800 +0800">
 		<title lang="zh">大学里的兵器博物馆（20240918）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250217055800 +0800" stop="20250217062500 +0800">
+		<title lang="zh">寻迹雷允飞机制造厂 上集（20240925）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50300,6 +50324,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250217051300 +0800" stop="20250217055100 +0800">
 		<title lang="zh">巧喝粥 养好胃（20250107）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250217055100 +0800" stop="20250217061200 +0800">
+		<title lang="zh">有氧跳绳跟练《花花宇宙》（20240514）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
