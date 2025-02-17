@@ -38097,6 +38097,9 @@
 	<programme channel="纯享4K" start="20250218033200 +0800" stop="20250218034700 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 春坞纸鸢图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250218034700 +0800" stop="20250218042900 +0800">
+		<title lang="zh">远方的家4K 长江行 水润华坪 物华天宝</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -46725,6 +46728,9 @@
 	<programme channel="newtv超级体育" start="20250218023500 +0800" stop="20250218040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250218040000 +0800" stop="20250218053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第18轮 里尔-尼斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46794,6 +46800,9 @@
 	<programme channel="newtv精品纪录" start="20250218032400 +0800" stop="20250218035800 +0800">
 		<title lang="zh">02_人机结合</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250218035800 +0800" stop="20250218045000 +0800">
+		<title lang="zh">第三集 通达天下</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -46826,6 +46835,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250218030900 +0800" stop="20250218035600 +0800">
 		<title lang="zh">06_血誓</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250218035600 +0800" stop="20250218044400 +0800">
+		<title lang="zh">07_血誓</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -46977,6 +46989,9 @@
 	<programme channel="newtv精品综合" start="20250218030600 +0800" stop="20250218035200 +0800">
 		<title lang="zh">16_巾帼枭雄之悬崖</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250218035200 +0800" stop="20250218043700 +0800">
+		<title lang="zh">17_巾帼枭雄之悬崖</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47006,6 +47021,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250218020800 +0800" stop="20250218035300 +0800">
 		<title lang="zh">2024-25赛季英超联赛第24轮：伯恩茅斯VS利物浦</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250218035300 +0800" stop="20250218053300 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第20轮：拜仁慕尼黑VS荷尔斯泰因基尔</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
