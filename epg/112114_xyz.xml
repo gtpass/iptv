@@ -47175,6 +47175,9 @@
 	<programme channel="newtv超级综艺" start="20250219011400 +0800" stop="20250219020100 +0800">
 		<title lang="zh">12_余生，请多指教</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250219020100 +0800" stop="20250219031800 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47190,6 +47193,9 @@
 	<programme channel="newtv超级电影" start="20250219000200 +0800" stop="20250219015900 +0800">
 		<title lang="zh">被偷走的那五年</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250219015900 +0800" stop="20250219032500 +0800">
+		<title lang="zh">预制厨神</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47198,6 +47204,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250219011500 +0800" stop="20250219020000 +0800">
 		<title lang="zh">40_警犬来啦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250219020000 +0800" stop="20250219024400 +0800">
+		<title lang="zh">41_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
