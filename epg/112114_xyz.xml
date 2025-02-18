@@ -39090,6 +39090,9 @@
 	<programme channel="纯享4K" start="20250219033200 +0800" stop="20250219034700 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 漆画b7车马出行图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250219034700 +0800" stop="20250219042900 +0800">
+		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47343,6 +47346,9 @@
 	<programme channel="newtv超级体育" start="20250219023500 +0800" stop="20250219040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250219040000 +0800" stop="20250219053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第24轮 曼彻斯特联-水晶宫(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47496,6 +47502,9 @@
 	<programme channel="newtv爱情喜剧" start="20250219030200 +0800" stop="20250219034800 +0800">
 		<title lang="zh">43_千古玦尘</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250219034800 +0800" stop="20250219043400 +0800">
+		<title lang="zh">44_千古玦尘</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47574,6 +47583,9 @@
 	<programme channel="newtv炫舞未来" start="20250219034600 +0800" stop="20250219035800 +0800">
 		<title lang="zh">李阳教练《职业防护健身系列：颈肩放松》（4K）【炫舞未来健身动起来20190817】</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250219035800 +0800" stop="20250219040600 +0800">
+		<title lang="zh">李阳教练《职业防护健身系列：缓解久站导致的脚底疼痛》（4K）【炫舞未来健身动起来20190818】</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47585,6 +47597,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250219031100 +0800" stop="20250219035600 +0800">
 		<title lang="zh">20_巾帼枭雄之悬崖</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250219035600 +0800" stop="20250219044100 +0800">
+		<title lang="zh">21_巾帼枭雄之悬崖</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
