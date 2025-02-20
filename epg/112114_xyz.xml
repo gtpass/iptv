@@ -1443,6 +1443,9 @@
 	<programme channel="4K综艺" start="20250220122800 +0800" stop="20250220135900 +0800">
 		<title lang="zh">亲爱的客栈第三季20191108</title>
 	</programme>
+	<programme channel="4K综艺" start="20250220135900 +0800" stop="20250220144000 +0800">
+		<title lang="zh">小小的追球20191126</title>
+	</programme>
 	<channel id="4K美食">
 		<display-name lang="zh">4K美食</display-name>
 	</channel>
@@ -44787,6 +44790,9 @@
 	<programme channel="明星大片" start="20250220132500 +0800" stop="20250220134800 +0800">
 		<title lang="zh">06_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20250220134800 +0800" stop="20250220143700 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -62238,6 +62244,9 @@
 	<programme channel="爱情喜剧" start="20250220131000 +0800" stop="20250220135600 +0800">
 		<title lang="zh">40_流光之城</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250220135600 +0800" stop="20250220144500 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -72858,6 +72867,9 @@
 	<programme channel="超级电影" start="20250220122500 +0800" stop="20250220135400 +0800">
 		<title lang="zh">电影《夺宝家庭》</title>
 	</programme>
+	<programme channel="超级电影" start="20250220135400 +0800" stop="20250220152100 +0800">
+		<title lang="zh">电影《冰川鲨鱼》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82950,6 +82962,9 @@
 	<programme channel="黑莓动画" start="20250220133000 +0800" stop="20250220135600 +0800">
 		<title lang="zh">05_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250220135600 +0800" stop="20250220140400 +0800">
+		<title lang="zh">40_奶龙第3季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83916,6 +83931,9 @@
 	<programme channel="newtv超级综艺" start="20250220131000 +0800" stop="20250220140000 +0800">
 		<title lang="zh">一笑一周</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250220140000 +0800" stop="20250220151700 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83993,6 +84011,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250220122500 +0800" stop="20250220135400 +0800">
 		<title lang="zh">电影《夺宝家庭》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250220135400 +0800" stop="20250220152100 +0800">
+		<title lang="zh">电影《冰川鲨鱼》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -84113,6 +84134,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250220131500 +0800" stop="20250220140000 +0800">
 		<title lang="zh">12_锦绣未央</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250220140000 +0800" stop="20250220145600 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84288,6 +84312,9 @@
 	<programme channel="newtv军旅剧场" start="20250220131500 +0800" stop="20250220135700 +0800">
 		<title lang="zh">10_大漠苍狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250220135700 +0800" stop="20250220144000 +0800">
+		<title lang="zh">11_大漠苍狼</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84396,6 +84423,9 @@
 	<programme channel="newtv热播精选" start="20250220121800 +0800" stop="20250220134700 +0800">
 		<title lang="zh">边境威龙</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250220134700 +0800" stop="20250220143600 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84440,6 +84470,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250220131000 +0800" stop="20250220135600 +0800">
 		<title lang="zh">40_流光之城</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250220135600 +0800" stop="20250220144500 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84530,6 +84563,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250220134400 +0800" stop="20250220135800 +0800">
 		<title lang="zh">小品《人到礼到》 表演：郭冬临 牛莉</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250220135800 +0800" stop="20250220141400 +0800">
+		<title lang="zh">小品《今天的幸福2》 表演：沈腾 马丽</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84681,6 +84717,9 @@
 	<programme channel="newtv军事评论" start="20250220133100 +0800" stop="20250220135200 +0800">
 		<title lang="zh">二战经典战例b7登陆战（中）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250220135200 +0800" stop="20250220141400 +0800">
+		<title lang="zh">二战经典战例b7登陆战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84753,6 +84792,9 @@
 	<programme channel="newtv炫舞未来" start="20250220131000 +0800" stop="20250220135900 +0800">
 		<title lang="zh">公淑慧激动“三连问” 不敢相信能登上春晚舞台（20230411）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250220135900 +0800" stop="20250220144700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84803,6 +84845,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250220132500 +0800" stop="20250220134800 +0800">
 		<title lang="zh">06_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250220134800 +0800" stop="20250220143700 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84872,6 +84917,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250220130400 +0800" stop="20250220135300 +0800">
 		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250220135300 +0800" stop="20250220153400 +0800">
+		<title lang="zh">正大综艺（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
