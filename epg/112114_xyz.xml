@@ -17058,6 +17058,9 @@
 	<programme channel="咪咕综合体育" start="20250221054500 +0800" stop="20250221060000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250221060000 +0800" stop="20250221063000 +0800">
+		<title lang="zh">UFC312期副赛 王聪-布鲁纳b7布拉西尔</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47097,6 +47100,9 @@
 	<programme channel="黑莓电影" start="20250221041300 +0800" stop="20250221055200 +0800">
 		<title lang="zh">仕女图</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250221055200 +0800" stop="20250221072600 +0800">
+		<title lang="zh">呼伦贝尔城</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47406,6 +47412,9 @@
 	<programme channel="newtv超级体育" start="20250221053000 +0800" stop="20250221060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250221060000 +0800" stop="20250221063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47604,6 +47613,9 @@
 	<programme channel="newtv热播精选" start="20250221050800 +0800" stop="20250221055300 +0800">
 		<title lang="zh">22_遍地书香</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250221055300 +0800" stop="20250221064700 +0800">
+		<title lang="zh">荒野间谍第2季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47694,6 +47706,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250221053000 +0800" stop="20250221055700 +0800">
 		<title lang="zh">早餐中国 第2季</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250221055700 +0800" stop="20250221063700 +0800">
+		<title lang="zh">用对方法巧锻炼（1）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47748,6 +47763,9 @@
 	<programme channel="newtv炫舞未来" start="20250221053900 +0800" stop="20250221055100 +0800">
 		<title lang="zh">李阳教练《职业防护健身系列：颈肩放松》（4K）【炫舞未来健身动起来20190817】</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250221055100 +0800" stop="20250221060600 +0800">
+		<title lang="zh">兄弟想你了-李萍（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47768,6 +47786,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250221051200 +0800" stop="20250221055900 +0800">
 		<title lang="zh">06_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250221055900 +0800" stop="20250221061000 +0800">
+		<title lang="zh">25_舒克贝塔地下之谜</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
