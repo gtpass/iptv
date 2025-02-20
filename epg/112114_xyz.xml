@@ -47025,6 +47025,9 @@
 	<programme channel="newtv超级体育" start="20250221023000 +0800" stop="20250221040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单第一轮(王雅繁-邦达尔)(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250221040000 +0800" stop="20250221053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第24轮 伯恩茅斯-利物浦 (4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47054,6 +47057,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250221032200 +0800" stop="20250221040600 +0800">
 		<title lang="zh">05_黎明决战</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250221040600 +0800" stop="20250221045000 +0800">
+		<title lang="zh">32_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47111,6 +47117,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250221031200 +0800" stop="20250221040000 +0800">
 		<title lang="zh">11_清平乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250221040000 +0800" stop="20250221044700 +0800">
+		<title lang="zh">12_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47208,6 +47217,9 @@
 	<programme channel="newtv怡伴健康" start="20250221031000 +0800" stop="20250221035800 +0800">
 		<title lang="zh">大猫传奇</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250221035800 +0800" stop="20250221044700 +0800">
+		<title lang="zh">潜伏的致命杀手</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47222,6 +47234,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250221030800 +0800" stop="20250221035600 +0800">
 		<title lang="zh">12_长歌行</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250221035600 +0800" stop="20250221044300 +0800">
+		<title lang="zh">13_长歌行</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
