@@ -72039,6 +72039,9 @@
 	<programme channel="超级电影" start="20250221101400 +0800" stop="20250221115200 +0800">
 		<title lang="zh">捉贼记</title>
 	</programme>
+	<programme channel="超级电影" start="20250221120000 +0800" stop="20250221135400 +0800">
+		<title lang="zh">电影《侵占》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83034,6 +83037,9 @@
 	<programme channel="newtv超级体育" start="20250221103100 +0800" stop="20250221120000 +0800">
 		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第22轮 马赛-圣艾蒂安(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250221120000 +0800" stop="20250221130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83057,6 +83063,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250221101400 +0800" stop="20250221115200 +0800">
 		<title lang="zh">捉贼记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250221120000 +0800" stop="20250221135400 +0800">
+		<title lang="zh">电影《侵占》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83159,6 +83168,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250221110500 +0800" stop="20250221115600 +0800">
 		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250221115600 +0800" stop="20250221123000 +0800">
+		<title lang="zh">33_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83268,6 +83280,9 @@
 	<programme channel="newtv古装剧场" start="20250221110200 +0800" stop="20250221114700 +0800">
 		<title lang="zh">13_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250221114700 +0800" stop="20250221123800 +0800">
+		<title lang="zh">生命记忆褐藻浓缩复合片特惠组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83315,6 +83330,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250221111300 +0800" stop="20250221115800 +0800">
 		<title lang="zh">13_解放大西南</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250221115800 +0800" stop="20250221124900 +0800">
+		<title lang="zh">水溶植物ω-3纯亚麻籽油微囊粉特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83655,6 +83673,9 @@
 	<programme channel="newtv军事评论" start="20250221112900 +0800" stop="20250221115100 +0800">
 		<title lang="zh">山河守望 海防青春</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250221115100 +0800" stop="20250221121300 +0800">
+		<title lang="zh">山河守望 雪域忠诚</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83927,6 +83948,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250221111300 +0800" stop="20250221115800 +0800">
 		<title lang="zh">34_包青天之七侠五义</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250221115800 +0800" stop="20250221124500 +0800">
+		<title lang="zh">35_包青天之七侠五义</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
