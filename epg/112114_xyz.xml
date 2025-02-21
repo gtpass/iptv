@@ -45063,6 +45063,9 @@
 	<programme channel="明星大片" start="20250221132800 +0800" stop="20250221135000 +0800">
 		<title lang="zh">08_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20250221135000 +0800" stop="20250221143900 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -72075,6 +72078,9 @@
 	<programme channel="超级电影" start="20250221120000 +0800" stop="20250221135400 +0800">
 		<title lang="zh">电影《侵占》</title>
 	</programme>
+	<programme channel="超级电影" start="20250221135400 +0800" stop="20250221150800 +0800">
+		<title lang="zh">电影《歪打正着》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82092,6 +82098,9 @@
 	<programme channel="黑莓动画" start="20250221132900 +0800" stop="20250221135500 +0800">
 		<title lang="zh">07_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250221135500 +0800" stop="20250221140700 +0800">
+		<title lang="zh">50_奶龙第3季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82118,6 +82127,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250221120800 +0800" stop="20250221134800 +0800">
 		<title lang="zh">第十四个目标</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250221134800 +0800" stop="20250221152400 +0800">
+		<title lang="zh">史上最强弟子</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -83055,6 +83067,9 @@
 	<programme channel="newtv超级综艺" start="20250221123500 +0800" stop="20250221135200 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250221135200 +0800" stop="20250221144200 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83123,6 +83138,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250221120000 +0800" stop="20250221135400 +0800">
 		<title lang="zh">电影《侵占》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250221135400 +0800" stop="20250221150800 +0800">
+		<title lang="zh">电影《歪打正着》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83954,6 +83972,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250221132800 +0800" stop="20250221135000 +0800">
 		<title lang="zh">08_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250221135000 +0800" stop="20250221143900 +0800">
+		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
