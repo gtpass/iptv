@@ -16524,6 +16524,9 @@
 	<programme channel="咪咕综合体育" start="20250222054500 +0800" stop="20250222060000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250222060000 +0800" stop="20250222063000 +0800">
+		<title lang="zh">UFC312期副赛 茸主-科迪b7斯蒂尔</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47337,6 +47340,9 @@
 	<programme channel="黑莓动画" start="20250222050400 +0800" stop="20250222055200 +0800">
 		<title lang="zh">17_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250222055200 +0800" stop="20250222070900 +0800">
+		<title lang="zh">43_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47348,6 +47354,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250222041000 +0800" stop="20250222055000 +0800">
 		<title lang="zh">希望的另一面</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250222055000 +0800" stop="20250222072200 +0800">
+		<title lang="zh">蜻蜓少年</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -47667,6 +47676,9 @@
 	<programme channel="newtv超级体育" start="20250222053000 +0800" stop="20250222060000 +0800">
 		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250222060000 +0800" stop="20250222063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47820,6 +47832,9 @@
 	<programme channel="newtv军旅剧场" start="20250222050700 +0800" stop="20250222055500 +0800">
 		<title lang="zh">18_红色娘子军</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250222055500 +0800" stop="20250222064600 +0800">
+		<title lang="zh">美康利健半导体激光治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47846,6 +47861,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250222050800 +0800" stop="20250222055000 +0800">
 		<title lang="zh">41_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250222055000 +0800" stop="20250222063600 +0800">
+		<title lang="zh">11_好团圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47961,6 +47979,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250222053800 +0800" stop="20250222055200 +0800">
 		<title lang="zh">早餐中国 第2季</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250222055200 +0800" stop="20250222060400 +0800">
+		<title lang="zh">皖美早餐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47984,6 +48005,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250222051200 +0800" stop="20250222055900 +0800">
 		<title lang="zh">蛟龙出海 第3集</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250222055900 +0800" stop="20250222062500 +0800">
+		<title lang="zh">军事仿生的奇妙世界</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48012,6 +48036,9 @@
 	<programme channel="newtv炫舞未来" start="20250222053300 +0800" stop="20250222054700 +0800">
 		<title lang="zh">相遇花开-饶子龙（纯净版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250222060000 +0800" stop="20250222061200 +0800">
+		<title lang="zh">李阳教练《职业防护健身系列：颈肩放松》（4K）【炫舞未来健身动起来20190817】</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48032,6 +48059,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250222050700 +0800" stop="20250222055400 +0800">
 		<title lang="zh">10_上海滩生死较量</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250222055400 +0800" stop="20250222060700 +0800">
+		<title lang="zh">01_超级飞侠第15季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
