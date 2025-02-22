@@ -21666,6 +21666,9 @@
 	<programme channel="动作电影" start="20250222193700 +0800" stop="20250222200700 +0800">
 		<title lang="zh">《美丽密码》推荐第64期</title>
 	</programme>
+	<programme channel="动作电影" start="20250222200700 +0800" stop="20250222213500 +0800">
+		<title lang="zh">特别追踪</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -82230,6 +82233,9 @@
 	<programme channel="黑莓动画" start="20250222195700 +0800" stop="20250222201200 +0800">
 		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250222201200 +0800" stop="20250222202300 +0800">
+		<title lang="zh">11_舒克贝塔地下之谜</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83259,6 +83265,9 @@
 	<programme channel="newtv超级体育" start="20250222190500 +0800" stop="20250222200000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 波兰站(录播)1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250222200000 +0800" stop="20250222220500 +0800">
+		<title lang="zh">2025年澳大利亚网球公开赛-男单决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83387,6 +83396,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250222192700 +0800" stop="20250222201600 +0800">
 		<title lang="zh">陌上又花开19</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250222201600 +0800" stop="20250222202900 +0800">
+		<title lang="zh">广告</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83742,6 +83754,9 @@
 	<programme channel="newtv军旅剧场" start="20250222193300 +0800" stop="20250222200300 +0800">
 		<title lang="zh">《四方美食》第1期-梅菜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250222200300 +0800" stop="20250222204700 +0800">
+		<title lang="zh">33_烽烟尽处</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84030,6 +84045,9 @@
 	<programme channel="newtv动作电影" start="20250222193700 +0800" stop="20250222200700 +0800">
 		<title lang="zh">《美丽密码》推荐第64期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250222200700 +0800" stop="20250222213500 +0800">
+		<title lang="zh">特别追踪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84126,6 +84144,9 @@
 	<programme channel="newtv怡伴健康" start="20250222191500 +0800" stop="20250222200100 +0800">
 		<title lang="zh">贵州混斗联盟vs重庆洁静精微 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250222200100 +0800" stop="20250222204700 +0800">
+		<title lang="zh">贵州混斗联盟vs重庆洁静精微 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84212,6 +84233,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250222194300 +0800" stop="20250222201300 +0800">
 		<title lang="zh">《八段锦》推荐第15期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250222201300 +0800" stop="20250222205800 +0800">
+		<title lang="zh">27_承欢记</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84347,6 +84371,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250222194900 +0800" stop="20250222201000 +0800">
 		<title lang="zh">谁是莫斯科恐袭事件的幕后黑手</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250222201000 +0800" stop="20250222203500 +0800">
+		<title lang="zh">美向欧洲部署战略轰炸机特遣队 以总理称特朗普胜选将强化美以联盟</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84632,6 +84659,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250222192100 +0800" stop="20250222201200 +0800">
 		<title lang="zh">水溶植物ω-3纯亚麻籽油微囊粉特惠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250222201200 +0800" stop="20250222214300 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
