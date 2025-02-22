@@ -21591,6 +21591,9 @@
 	<programme channel="动作电影" start="20250222072000 +0800" stop="20250222085500 +0800">
 		<title lang="zh">火线追凶2之鹈鹕行动</title>
 	</programme>
+	<programme channel="动作电影" start="20250222085500 +0800" stop="20250222102200 +0800">
+		<title lang="zh">史前怪兽</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28764,6 +28767,9 @@
 	<programme channel="咪咕综合体育" start="20250222085400 +0800" stop="20250222090000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250222090000 +0800" stop="20250222104000 +0800">
+		<title lang="zh">足球世界-24/25赛季英超 第21轮 阿森纳-托特纳姆热刺</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -31732,7 +31738,7 @@
 		<title lang="zh">通宵剧场</title>
 	</programme>
 	<programme channel="天津卫视" start="20250222020600 +0800" stop="20250222032700 +0800">
-		<title lang="zh">非你莫属(重播)</title>
+		<title lang="zh">非你莫属</title>
 	</programme>
 	<programme channel="天津卫视" start="20250222032700 +0800" stop="20250222042800 +0800">
 		<title lang="zh">群英会</title>
@@ -31813,7 +31819,7 @@
 		<title lang="zh">天津天气预报</title>
 	</programme>
 	<programme channel="天津卫视" start="20250222223700 +0800" stop="20250222235900 +0800">
-		<title lang="zh">非你莫属(重播)</title>
+		<title lang="zh">非你莫属</title>
 	</programme>
 	<channel id="天津少儿">
 		<display-name lang="zh">天津少儿</display-name>
@@ -36403,7 +36409,7 @@
 		<title lang="zh">山西天气预报</title>
 	</programme>
 	<programme channel="山西卫视" start="20250222072500 +0800" stop="20250222082400 +0800">
-		<title lang="zh">等着我(重播)</title>
+		<title lang="zh">等着我</title>
 	</programme>
 	<programme channel="山西卫视" start="20250222082400 +0800" stop="20250222084700 +0800">
 		<title lang="zh">动画片剧场</title>
@@ -44009,6 +44015,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250222075600 +0800" stop="20250222085200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250222085200 +0800" stop="20250222093800 +0800">
+		<title lang="zh">44_长歌行</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61028,6 +61037,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250222080400 +0800" stop="20250222084900 +0800">
 		<title lang="zh">08_长歌行</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250222084900 +0800" stop="20250222093800 +0800">
+		<title lang="zh">HOKO富硒RO直饮厨下即热净水机-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -81840,6 +81852,9 @@
 	<programme channel="黑莓电影" start="20250222072200 +0800" stop="20250222084700 +0800">
 		<title lang="zh">黄飞鸿之武神林世荣</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250222084700 +0800" stop="20250222101700 +0800">
+		<title lang="zh">马达加斯加3：欧洲大围捕</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82944,6 +82959,9 @@
 	<programme channel="newtv精品纪录" start="20250222082700 +0800" stop="20250222085500 +0800">
 		<title lang="zh">大黄村——柚林深处是客乡（20230106）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250222085500 +0800" stop="20250222094000 +0800">
+		<title lang="zh">第三集 踏石留印</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82979,6 +82997,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250222080100 +0800" stop="20250222084600 +0800">
 		<title lang="zh">66_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250222084600 +0800" stop="20250222093700 +0800">
+		<title lang="zh">生命记忆褐藻浓缩复合片特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83121,6 +83142,9 @@
 	<programme channel="newtv爱情喜剧" start="20250222080400 +0800" stop="20250222084900 +0800">
 		<title lang="zh">08_长歌行</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250222084900 +0800" stop="20250222093800 +0800">
+		<title lang="zh">HOKO富硒RO直饮厨下即热净水机-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -83141,6 +83165,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250222072000 +0800" stop="20250222085500 +0800">
 		<title lang="zh">火线追凶2之鹈鹕行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250222085500 +0800" stop="20250222102200 +0800">
+		<title lang="zh">史前怪兽</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83177,6 +83204,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250222084100 +0800" stop="20250222084700 +0800">
 		<title lang="zh">跑步后肌肉酸痛该怎么做？</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250222085200 +0800" stop="20250222090200 +0800">
+		<title lang="zh">跑步脚该如何落地？</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83265,6 +83295,9 @@
 	<programme channel="newtv军事评论" start="20250222083900 +0800" stop="20250222085900 +0800">
 		<title lang="zh">山河守望 风雪边关</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250222085900 +0800" stop="20250222092100 +0800">
+		<title lang="zh">山河守望 极地卫士</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83313,6 +83346,9 @@
 	<programme channel="newtv炫舞未来" start="20250222082300 +0800" stop="20250222090100 +0800">
 		<title lang="zh">经络通 一身轻（1）（20241223）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250222090100 +0800" stop="20250222095200 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83348,6 +83384,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250222075600 +0800" stop="20250222085200 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250222085200 +0800" stop="20250222093800 +0800">
+		<title lang="zh">44_长歌行</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
