@@ -44007,6 +44007,9 @@
 	<programme channel="明星大片" start="20250223110400 +0800" stop="20250223115400 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250223115400 +0800" stop="20250223132600 +0800">
+		<title lang="zh">公证人之深度危机</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60953,6 +60956,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250223110300 +0800" stop="20250223114700 +0800">
 		<title lang="zh">14_长歌行</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250223114700 +0800" stop="20250223123600 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -81489,6 +81495,9 @@
 	<programme channel="黑莓动画" start="20250223112600 +0800" stop="20250223115300 +0800">
 		<title lang="zh">05_钶龙战记第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250223115300 +0800" stop="20250223121600 +0800">
+		<title lang="zh">百变布鲁可第4季第7集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82467,6 +82476,9 @@
 	<programme channel="newtv超级体育" start="20250223093000 +0800" stop="20250223120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-常规赛(湖人-掘金)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250223120000 +0800" stop="20250223130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82893,6 +82905,9 @@
 	<programme channel="newtv爱情喜剧" start="20250223110300 +0800" stop="20250223114700 +0800">
 		<title lang="zh">14_长歌行</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250223114700 +0800" stop="20250223123600 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82976,6 +82991,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250223111100 +0800" stop="20250223115800 +0800">
 		<title lang="zh">29_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250223115800 +0800" stop="20250223124700 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83097,6 +83115,9 @@
 	<programme channel="newtv军事评论" start="20250223113000 +0800" stop="20250223115200 +0800">
 		<title lang="zh">山河念 英雄归</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250223115200 +0800" stop="20250223121400 +0800">
+		<title lang="zh">突袭海岛</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83154,6 +83175,9 @@
 	<programme channel="newtv炫舞未来" start="20250223113600 +0800" stop="20250223115400 +0800">
 		<title lang="zh">10_套马杆-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250223115800 +0800" stop="20250223121500 +0800">
+		<title lang="zh">微风细雨-孙爱迪</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83198,6 +83222,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250223110400 +0800" stop="20250223115400 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250223115400 +0800" stop="20250223132600 +0800">
+		<title lang="zh">公证人之深度危机</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -83354,6 +83381,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250223110800 +0800" stop="20250223115500 +0800">
 		<title lang="zh">03_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250223115500 +0800" stop="20250223124500 +0800">
+		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
