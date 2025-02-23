@@ -46284,6 +46284,15 @@
 	<programme channel="黑莓动画" start="20250224013700 +0800" stop="20250224015400 +0800">
 		<title lang="zh">83_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250224015400 +0800" stop="20250224024400 +0800">
+		<title lang="zh">09_名侦探柯南（一）（普通话版）</title>
+	</programme>
+	<channel id="黑莓电影">
+		<display-name lang="zh">黑莓电影</display-name>
+	</channel>
+	<programme channel="黑莓电影" start="20250224015500 +0800" stop="20250224032600 +0800">
+		<title lang="zh">玩偶特工</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -46497,6 +46506,9 @@
 	<programme channel="newtv超级电视剧" start="20250224010900 +0800" stop="20250224015300 +0800">
 		<title lang="zh">17_黎明决战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250224015300 +0800" stop="20250224023600 +0800">
+		<title lang="zh">18_黎明决战</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -46505,6 +46517,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250224010200 +0800" stop="20250224014900 +0800">
 		<title lang="zh">08_危机迷雾</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250224014900 +0800" stop="20250224023600 +0800">
+		<title lang="zh">09_危机迷雾</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -46520,6 +46535,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250224012900 +0800" stop="20250224015600 +0800">
 		<title lang="zh">04_最强大脑</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250224015600 +0800" stop="20250224024500 +0800">
+		<title lang="zh">01_船舶</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46572,6 +46590,9 @@
 	<programme channel="newtv动作电影" start="20250224002200 +0800" stop="20250224014800 +0800">
 		<title lang="zh">雪鹰领主</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250224014800 +0800" stop="20250224033000 +0800">
+		<title lang="zh">零点定理</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -46593,6 +46614,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250224011100 +0800" stop="20250224015900 +0800">
 		<title lang="zh">30_长歌行</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250224015900 +0800" stop="20250224024500 +0800">
+		<title lang="zh">31_长歌行</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -46610,6 +46634,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250224000900 +0800" stop="20250224015100 +0800">
 		<title lang="zh">李丁、郑健带来《今天不说相声》 二人联手上演一出别开生面的双簧（20230128）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250224015100 +0800" stop="20250224031900 +0800">
+		<title lang="zh">当代读书人撒贝宁穿越时空会见陆羽（20230305）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
