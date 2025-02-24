@@ -77325,6 +77325,9 @@
 	<programme channel="黑莓动画" start="20250224112800 +0800" stop="20250224115500 +0800">
 		<title lang="zh">07_钶龙战记第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250224115500 +0800" stop="20250224121800 +0800">
+		<title lang="zh">百变布鲁可第4季第9集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78198,6 +78201,9 @@
 	<programme channel="newtv超级体育" start="20250224090000 +0800" stop="20250224120000 +0800">
 		<title lang="zh">体育赛事精选</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250224120000 +0800" stop="20250224130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78390,6 +78396,9 @@
 	<programme channel="newtv精品纪录" start="20250224113100 +0800" stop="20250224115600 +0800">
 		<title lang="zh">第三集 没有终点的旅程</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250224115600 +0800" stop="20250224124700 +0800">
+		<title lang="zh">04_ 时间的味道</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78486,6 +78495,9 @@
 	<programme channel="newtv军旅剧场" start="20250224111400 +0800" stop="20250224115900 +0800">
 		<title lang="zh">25_解放大西南</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250224115900 +0800" stop="20250224124700 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -78578,6 +78590,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250224110200 +0800" stop="20250224115100 +0800">
 		<title lang="zh">HOKO富硒RO直饮厨下即热净水机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250224115100 +0800" stop="20250224124100 +0800">
+		<title lang="zh">21_锦心似玉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -78825,6 +78840,9 @@
 	<programme channel="newtv军事评论" start="20250224112800 +0800" stop="20250224115000 +0800">
 		<title lang="zh">西藏定日县抗震救灾纪实</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250224115000 +0800" stop="20250224121200 +0800">
+		<title lang="zh">救护专列</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -78878,6 +78896,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250224113200 +0800" stop="20250224114900 +0800">
 		<title lang="zh">那就是蒙古包-李萍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250224114900 +0800" stop="20250224120900 +0800">
+		<title lang="zh">烟雨人间-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -79085,6 +79106,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250224111200 +0800" stop="20250224115900 +0800">
 		<title lang="zh">07_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250224115900 +0800" stop="20250224124900 +0800">
+		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
