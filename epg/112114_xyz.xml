@@ -57,6 +57,9 @@
 	<programme channel="4K综艺" start="20250225023800 +0800" stop="20250225035900 +0800">
 		<title lang="zh">奇兵神犬20171229</title>
 	</programme>
+	<programme channel="4K综艺" start="20250225035900 +0800" stop="20250225052500 +0800">
+		<title lang="zh">奇兵神犬20180105</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -38877,6 +38880,9 @@
 	<programme channel="纯享4K" start="20250225031500 +0800" stop="20250225035600 +0800">
 		<title lang="zh">远方的家4K 大运河（22）金鸡湖畔新苏州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250225035600 +0800" stop="20250225043800 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（1） 行走太湖运河间</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47667,6 +47673,9 @@
 	<programme channel="newtv精品大剧" start="20250225030200 +0800" stop="20250225034900 +0800">
 		<title lang="zh">15_危机迷雾</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250225034900 +0800" stop="20250225043500 +0800">
+		<title lang="zh">16_危机迷雾</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47684,6 +47693,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250225031200 +0800" stop="20250225040000 +0800">
 		<title lang="zh">03_火车</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250225040000 +0800" stop="20250225041700 +0800">
+		<title lang="zh">01_医路前行</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47766,6 +47778,9 @@
 	<programme channel="newtv爱情喜剧" start="20250225030900 +0800" stop="20250225035200 +0800">
 		<title lang="zh">22_爱情的边疆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250225035200 +0800" stop="20250225043800 +0800">
+		<title lang="zh">23_爱情的边疆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47795,6 +47810,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250225030600 +0800" stop="20250225035700 +0800">
 		<title lang="zh">极热地区的动物宝宝</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250225035700 +0800" stop="20250225044500 +0800">
+		<title lang="zh">极地精灵</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47876,6 +47894,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250225021400 +0800" stop="20250225035900 +0800">
 		<title lang="zh">叱咤风云</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250225035900 +0800" stop="20250225051000 +0800">
+		<title lang="zh">古剑奇谭之悲歌咒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
