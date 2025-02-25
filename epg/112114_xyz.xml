@@ -70593,6 +70593,9 @@
 	<programme channel="超级电影" start="20250225123500 +0800" stop="20250225140400 +0800">
 		<title lang="zh">电影《让我过过瘾》</title>
 	</programme>
+	<programme channel="超级电影" start="20250225140400 +0800" stop="20250225152900 +0800">
+		<title lang="zh">电影《不死间谍》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -80649,6 +80652,9 @@
 	<programme channel="黑莓动画" start="20250225132500 +0800" stop="20250225135100 +0800">
 		<title lang="zh">18_熊出没之小小世界</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250225135100 +0800" stop="20250225141700 +0800">
+		<title lang="zh">15_猪猪侠之超星五灵侠6</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81672,6 +81678,9 @@
 	<programme channel="newtv超级电影" start="20250225123500 +0800" stop="20250225140400 +0800">
 		<title lang="zh">电影《让我过过瘾》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250225140400 +0800" stop="20250225152900 +0800">
+		<title lang="zh">电影《不死间谍》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -81791,6 +81800,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250225130700 +0800" stop="20250225135100 +0800">
 		<title lang="zh">34_锦绣未央</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250225135100 +0800" stop="20250225144100 +0800">
+		<title lang="zh">神飞航天研究院骨胶原蛋白肽-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82080,6 +82092,9 @@
 	<programme channel="newtv热播精选" start="20250225124700 +0800" stop="20250225135600 +0800">
 		<title lang="zh">特种兵归来3：绝密战场</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250225135600 +0800" stop="20250225144500 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82223,6 +82238,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250225133800 +0800" stop="20250225135200 +0800">
 		<title lang="zh">小品《到底怎么了》 表演：曹随风 刘安宇 蒋帅等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250225135200 +0800" stop="20250225141400 +0800">
+		<title lang="zh">小品《吃面》 宋小宝 程野</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82679,6 +82697,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250225131500 +0800" stop="20250225135600 +0800">
 		<title lang="zh">02_新白蛇传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250225135600 +0800" stop="20250225143900 +0800">
+		<title lang="zh">03_新白蛇传</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
