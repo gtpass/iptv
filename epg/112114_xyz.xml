@@ -60285,6 +60285,9 @@
 	<programme channel="爱情喜剧" start="20250225192100 +0800" stop="20250225200800 +0800">
 		<title lang="zh">17_永安梦</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250225200800 +0800" stop="20250225203800 +0800">
+		<title lang="zh">《美丽密码》推荐第67期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -80838,6 +80841,9 @@
 	<programme channel="黑莓动画" start="20250225195200 +0800" stop="20250225200300 +0800">
 		<title lang="zh">18_舒克贝塔地下之谜</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250225201300 +0800" stop="20250225203800 +0800">
+		<title lang="zh">22_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80873,6 +80879,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250225183300 +0800" stop="20250225201300 +0800">
 		<title lang="zh">侠客无名</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250225201300 +0800" stop="20250225215300 +0800">
+		<title lang="zh">爸，我一定行的</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -81981,6 +81990,9 @@
 	<programme channel="newtv超级电视剧" start="20250225192900 +0800" stop="20250225201600 +0800">
 		<title lang="zh">陌上又花开28</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250225201600 +0800" stop="20250225202800 +0800">
+		<title lang="zh">广告</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82242,6 +82254,9 @@
 	<programme channel="newtv古装剧场" start="20250225192600 +0800" stop="20250225201200 +0800">
 		<title lang="zh">12_柳舟记</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250225201200 +0800" stop="20250225205500 +0800">
+		<title lang="zh">38_女医明妃传</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82322,6 +82337,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250225193500 +0800" stop="20250225200500 +0800">
 		<title lang="zh">《四方美食》第4期-木耳</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250225200500 +0800" stop="20250225205100 +0800">
+		<title lang="zh">大号小兵第7集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82476,6 +82494,9 @@
 	<programme channel="newtv热播精选" start="20250225193300 +0800" stop="20250225200300 +0800">
 		<title lang="zh">《美丽密码》推荐第67期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250225200300 +0800" stop="20250225205100 +0800">
+		<title lang="zh">13_只是结婚的关系</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82544,6 +82565,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250225192100 +0800" stop="20250225200800 +0800">
 		<title lang="zh">17_永安梦</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250225200800 +0800" stop="20250225203800 +0800">
+		<title lang="zh">《美丽密码》推荐第67期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
