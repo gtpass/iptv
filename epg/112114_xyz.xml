@@ -45606,6 +45606,9 @@
 	<programme channel="newtv超级体育" start="20250227023500 +0800" stop="20250227040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-双打比赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250227040000 +0800" stop="20250227053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第20轮 摩纳哥-欧塞尔(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45638,6 +45641,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250227031900 +0800" stop="20250227040400 +0800">
 		<title lang="zh">02_大决战</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250227040400 +0800" stop="20250227045000 +0800">
+		<title lang="zh">03_大决战</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
