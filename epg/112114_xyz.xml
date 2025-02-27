@@ -17034,6 +17034,9 @@
 	<programme channel="咪咕综合体育" start="20250228033000 +0800" stop="20250228060000 +0800">
 		<title lang="zh">足球世界-24/25赛季意甲 第9轮 博洛尼亚-AC米兰 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250228060000 +0800" stop="20250228062000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41532,6 +41535,9 @@
 	<programme channel="纯享4K" start="20250228051000 +0800" stop="20250228055900 +0800">
 		<title lang="zh">长江之歌4K（文明篇） 第3集 大江东去</title>
 	</programme>
+	<programme channel="纯享4K" start="20250228055900 +0800" stop="20250228064900 +0800">
+		<title lang="zh">长江之歌4K（文明篇） 第4集 生态家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50766,6 +50772,9 @@
 	<programme channel="黑莓动画" start="20250228050900 +0800" stop="20250228060100 +0800">
 		<title lang="zh">01_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250228060100 +0800" stop="20250228065200 +0800">
+		<title lang="zh">08_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51024,6 +51033,9 @@
 	<programme channel="newtv超级体育" start="20250228053000 +0800" stop="20250228060000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 德国温特贝格站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250228060000 +0800" stop="20250228063000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51068,6 +51080,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250228051000 +0800" stop="20250228055500 +0800">
 		<title lang="zh">08_大决战</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250228055500 +0800" stop="20250228064100 +0800">
+		<title lang="zh">09_大决战</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51203,6 +51218,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250228050700 +0800" stop="20250228055300 +0800">
 		<title lang="zh">09_高兴的酸甜苦辣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250228055300 +0800" stop="20250228063800 +0800">
+		<title lang="zh">10_高兴的酸甜苦辣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51342,6 +51360,9 @@
 	<programme channel="newtv军事评论" start="20250228053500 +0800" stop="20250228060100 +0800">
 		<title lang="zh">军中状元360 坦克能手雪地争霸赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250228060100 +0800" stop="20250228062600 +0800">
+		<title lang="zh">喜迎元宵秀厨艺</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51374,6 +51395,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250228054200 +0800" stop="20250228055900 +0800">
 		<title lang="zh">我在春天等你-心心</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250228055900 +0800" stop="20250228061100 +0800">
+		<title lang="zh">春风十万里-饶子龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
