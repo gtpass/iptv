@@ -27873,6 +27873,9 @@
 	<programme channel="咪咕综合体育" start="20250301134700 +0800" stop="20250301140000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250301140000 +0800" stop="20250301154000 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第1轮 青岛海牛-青岛西海岸</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39465,6 +39468,9 @@
 	<programme channel="惊悚悬疑" start="20250301123200 +0800" stop="20250301135700 +0800">
 		<title lang="zh">猎仇者</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250301135700 +0800" stop="20250301155400 +0800">
+		<title lang="zh">佣兵传奇</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42947,6 +42953,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250301132500 +0800" stop="20250301134800 +0800">
 		<title lang="zh">25_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="明星大片" start="20250301134800 +0800" stop="20250301142700 +0800">
+		<title lang="zh">源伦冷榨浓香型高端亚麻籽油-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -65793,6 +65802,9 @@
 	<programme channel="纯享4K" start="20250301130700 +0800" stop="20250301135600 +0800">
 		<title lang="zh">良渚4K 第1集 斗转星移</title>
 	</programme>
+	<programme channel="纯享4K" start="20250301135600 +0800" stop="20250301144500 +0800">
+		<title lang="zh">良渚4K 第2集 礼玉天工</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81987,6 +81999,9 @@
 	<programme channel="newtv超级体育" start="20250301133500 +0800" stop="20250301135500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250301135500 +0800" stop="20250301153000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 荷兰站 (录播)1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82572,6 +82587,9 @@
 	<programme channel="newtv怡伴健康" start="20250301133600 +0800" stop="20250301134900 +0800">
 		<title lang="zh">小品《帮帮唐直播间》 表演：金一戈 蒋涛 等</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250301134900 +0800" stop="20250301142800 +0800">
+		<title lang="zh">CRESIOENM全钛餐具健康组-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82713,6 +82731,9 @@
 	<programme channel="newtv军事评论" start="20250301132400 +0800" stop="20250301134600 +0800">
 		<title lang="zh">彩色镜头下的二战（3）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250301134600 +0800" stop="20250301140800 +0800">
+		<title lang="zh">彩色镜头下的二战（4）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82836,6 +82857,9 @@
 	<programme channel="newtv精品综合" start="20250301132500 +0800" stop="20250301134800 +0800">
 		<title lang="zh">25_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250301134800 +0800" stop="20250301142700 +0800">
+		<title lang="zh">源伦冷榨浓香型高端亚麻籽油-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82868,6 +82892,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250301123200 +0800" stop="20250301135700 +0800">
 		<title lang="zh">猎仇者</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250301135700 +0800" stop="20250301155400 +0800">
+		<title lang="zh">佣兵传奇</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83018,6 +83045,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250301132600 +0800" stop="20250301135300 +0800">
 		<title lang="zh">轻又清菊粉复合益生元秒杀组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250301135300 +0800" stop="20250301143800 +0800">
+		<title lang="zh">01_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
