@@ -39495,6 +39495,9 @@
 	<programme channel="惊悚悬疑" start="20250301135700 +0800" stop="20250301155400 +0800">
 		<title lang="zh">佣兵传奇</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250301155400 +0800" stop="20250301171100 +0800">
+		<title lang="zh">侦录实案之盗亦有道</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42986,6 +42989,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250301151100 +0800" stop="20250301155000 +0800">
 		<title lang="zh">CRESIOENM全钛餐具健康组-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250301155000 +0800" stop="20250301163400 +0800">
+		<title lang="zh">12_女士的法则</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -70536,6 +70542,9 @@
 	<programme channel="超级电影" start="20250301144900 +0800" stop="20250301160700 +0800">
 		<title lang="zh">电影《幽灵毒枭》</title>
 	</programme>
+	<programme channel="超级电影" start="20250301160700 +0800" stop="20250301173500 +0800">
+		<title lang="zh">电影《你的样子》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81066,6 +81075,9 @@
 	<programme channel="黑莓动画" start="20250301151000 +0800" stop="20250301160100 +0800">
 		<title lang="zh">大牙进入水晶球世界 小马宝莉现身守护大牙美梦</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250301160100 +0800" stop="20250301163000 +0800">
+		<title lang="zh">30_笨蛋波波与小宝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82104,6 +82116,9 @@
 	<programme channel="newtv超级电影" start="20250301144900 +0800" stop="20250301160700 +0800">
 		<title lang="zh">电影《幽灵毒枭》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250301160700 +0800" stop="20250301173500 +0800">
+		<title lang="zh">电影《你的样子》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82173,6 +82188,9 @@
 	<programme channel="newtv超级电视剧" start="20250301152300 +0800" stop="20250301160200 +0800">
 		<title lang="zh">19_闪耀的她</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250301160200 +0800" stop="20250301164400 +0800">
+		<title lang="zh">20_闪耀的她</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82238,6 +82256,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250301151000 +0800" stop="20250301155600 +0800">
 		<title lang="zh">53_锦绣未央</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250301155600 +0800" stop="20250301164100 +0800">
+		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82385,6 +82406,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250301150900 +0800" stop="20250301155500 +0800">
 		<title lang="zh">28_柳舟记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250301155500 +0800" stop="20250301164100 +0800">
+		<title lang="zh">29_柳舟记</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82571,6 +82595,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250301150200 +0800" stop="20250301154900 +0800">
 		<title lang="zh">16_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250301154900 +0800" stop="20250301163600 +0800">
+		<title lang="zh">17_风声</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82905,6 +82932,9 @@
 	<programme channel="newtv军事评论" start="20250301153600 +0800" stop="20250301155800 +0800">
 		<title lang="zh">攻占杰拉港</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250301155800 +0800" stop="20250301162000 +0800">
+		<title lang="zh">美“空中炮艇”赴韩参加特战演习</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83052,6 +83082,9 @@
 	<programme channel="newtv精品综合" start="20250301151100 +0800" stop="20250301155000 +0800">
 		<title lang="zh">CRESIOENM全钛餐具健康组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250301155000 +0800" stop="20250301163400 +0800">
+		<title lang="zh">12_女士的法则</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83087,6 +83120,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250301135700 +0800" stop="20250301155400 +0800">
 		<title lang="zh">佣兵传奇</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250301155400 +0800" stop="20250301171100 +0800">
+		<title lang="zh">侦录实案之盗亦有道</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
