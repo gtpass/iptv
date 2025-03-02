@@ -35973,6 +35973,9 @@
 	<programme channel="纯享4K" start="20250303011800 +0800" stop="20250303014800 +0800">
 		<title lang="zh">信仰的感召4K 红军骁将 王尔琢</title>
 	</programme>
+	<programme channel="纯享4K" start="20250303014800 +0800" stop="20250303021700 +0800">
+		<title lang="zh">信仰的感召4K 骁将传奇 寻淮洲</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43542,6 +43545,9 @@
 	<programme channel="黑莓动画" start="20250303012700 +0800" stop="20250303014700 +0800">
 		<title lang="zh">07_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250303014700 +0800" stop="20250303023700 +0800">
+		<title lang="zh">23_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43770,6 +43776,9 @@
 	<programme channel="newtv精品大剧" start="20250303010200 +0800" stop="20250303014800 +0800">
 		<title lang="zh">13_我的绝密生涯</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250303014800 +0800" stop="20250303023500 +0800">
+		<title lang="zh">14_我的绝密生涯</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -43847,6 +43856,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250303011400 +0800" stop="20250303015700 +0800">
 		<title lang="zh">24_红高粱</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250303015700 +0800" stop="20250303024200 +0800">
+		<title lang="zh">25_红高粱</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
