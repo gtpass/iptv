@@ -39207,6 +39207,9 @@
 	<programme channel="纯享4K" start="20250304011800 +0800" stop="20250304014800 +0800">
 		<title lang="zh">信仰的感召4K 生死与共 周文雍 陈铁军</title>
 	</programme>
+	<programme channel="纯享4K" start="20250304014800 +0800" stop="20250304021800 +0800">
+		<title lang="zh">信仰的感召4K 铁肩道义 李大钊</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48150,6 +48153,9 @@
 	<programme channel="黑莓动画" start="20250304013100 +0800" stop="20250304015100 +0800">
 		<title lang="zh">09_我靠充值当武帝</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250304015100 +0800" stop="20250304024100 +0800">
+		<title lang="zh">25_名侦探柯南（一）（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48438,6 +48444,9 @@
 	<programme channel="newtv超级综艺" start="20250304010700 +0800" stop="20250304015500 +0800">
 		<title lang="zh">34_我们的婚姻</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250304015500 +0800" stop="20250304032100 +0800">
+		<title lang="zh">中国b7保定乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48456,6 +48465,9 @@
 	<programme channel="newtv超级电影" start="20250304001400 +0800" stop="20250304020600 +0800">
 		<title lang="zh">真b7三国无双</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250304020600 +0800" stop="20250304034200 +0800">
+		<title lang="zh">呼吸的音乐</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -48464,6 +48476,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250304011300 +0800" stop="20250304015300 +0800">
 		<title lang="zh">22_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250304015300 +0800" stop="20250304023200 +0800">
+		<title lang="zh">23_证词</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48501,6 +48516,9 @@
 	<programme channel="newtv古装剧场" start="20250304010800 +0800" stop="20250304014900 +0800">
 		<title lang="zh">29_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250304014900 +0800" stop="20250304023500 +0800">
+		<title lang="zh">30_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48524,6 +48542,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250304001200 +0800" stop="20250304014900 +0800">
 		<title lang="zh">暗语者</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250304014900 +0800" stop="20250304023500 +0800">
+		<title lang="zh">35_加油！妈妈</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48570,6 +48591,9 @@
 	<programme channel="newtv军事评论" start="20250304005800 +0800" stop="20250304015000 +0800">
 		<title lang="zh">追寻保定红色记忆 国防知识挑战赛走进河北保定</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250304015000 +0800" stop="20250304024300 +0800">
+		<title lang="zh">国防知识挑战赛走进32753部队</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48584,6 +48608,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250304001600 +0800" stop="20250304015900 +0800">
 		<title lang="zh">大漠追凶</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250304015900 +0800" stop="20250304030200 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
