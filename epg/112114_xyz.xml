@@ -42429,6 +42429,9 @@
 	<programme channel="明星大片" start="20250304211100 +0800" stop="20250304215600 +0800">
 		<title lang="zh">26_你比星光美丽</title>
 	</programme>
+	<programme channel="明星大片" start="20250304215600 +0800" stop="20250304224200 +0800">
+		<title lang="zh">27_你比星光美丽</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -65793,6 +65796,9 @@
 	<programme channel="纯享4K" start="20250304210400 +0800" stop="20250304215300 +0800">
 		<title lang="zh">大地之上4K 第3集 水的力量</title>
 	</programme>
+	<programme channel="纯享4K" start="20250304215300 +0800" stop="20250304224200 +0800">
+		<title lang="zh">大地之上4K 第4集 草木之间</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80946,6 +80952,9 @@
 	<programme channel="黑莓动画" start="20250304213400 +0800" stop="20250304214700 +0800">
 		<title lang="zh">27_踢踢和奇奇之魔力课堂 第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250304220000 +0800" stop="20250304221900 +0800">
+		<title lang="zh">36_画江湖之不良人第2季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81933,6 +81942,9 @@
 	<programme channel="newtv超级综艺" start="20250304205200 +0800" stop="20250304220200 +0800">
 		<title lang="zh">原声天籁——中国民歌盛典</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250304220200 +0800" stop="20250304223600 +0800">
+		<title lang="zh">国之颂</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82230,6 +82242,9 @@
 	<programme channel="newtv精品大剧" start="20250304211000 +0800" stop="20250304215500 +0800">
 		<title lang="zh">35_百战天狼</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250304215500 +0800" stop="20250304222500 +0800">
+		<title lang="zh">《八段锦》推荐第15期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82331,6 +82346,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250304211800 +0800" stop="20250304215700 +0800">
 		<title lang="zh">家乡至味2022（67）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250304215700 +0800" stop="20250304222400 +0800">
+		<title lang="zh">轻又清菊粉复合益生元秒杀组-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82691,6 +82709,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250304211800 +0800" stop="20250304214800 +0800">
 		<title lang="zh">《八段锦》推荐第15期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250304214800 +0800" stop="20250304222800 +0800">
+		<title lang="zh">24_你是我的荣耀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83349,6 +83370,9 @@
 	<programme channel="newtv精品综合" start="20250304211100 +0800" stop="20250304215600 +0800">
 		<title lang="zh">26_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250304215600 +0800" stop="20250304224200 +0800">
+		<title lang="zh">27_你比星光美丽</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83453,6 +83477,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250304211700 +0800" stop="20250304220200 +0800">
 		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250304220200 +0800" stop="20250304225400 +0800">
+		<title lang="zh">艺览天下（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -83621,6 +83648,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250304210500 +0800" stop="20250304215200 +0800">
 		<title lang="zh">06_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250304215200 +0800" stop="20250304222200 +0800">
+		<title lang="zh">《八段锦》推荐第15期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
