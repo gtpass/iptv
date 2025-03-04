@@ -16914,6 +16914,9 @@
 	<programme channel="咪咕综合体育" start="20250305034000 +0800" stop="20250305034500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250305034500 +0800" stop="20250305061500 +0800">
+		<title lang="zh">2025全国半程马拉松锦标赛 眉山站</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -48705,6 +48708,9 @@
 	<programme channel="newtv超级体育" start="20250305023500 +0800" stop="20250305040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单比赛2(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250305040000 +0800" stop="20250305053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第22轮 摩纳哥-南特 (4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48734,6 +48740,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250305030500 +0800" stop="20250305034700 +0800">
 		<title lang="zh">06_春天里的人们</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250305034700 +0800" stop="20250305043200 +0800">
+		<title lang="zh">26_大决战</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48794,6 +48803,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250305030100 +0800" stop="20250305035900 +0800">
 		<title lang="zh">20_谁是真英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250305035900 +0800" stop="20250305045700 +0800">
+		<title lang="zh">07_黄河在咆哮</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48882,6 +48894,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250305025800 +0800" stop="20250305035400 +0800">
 		<title lang="zh">49_红高粱</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250305035400 +0800" stop="20250305044900 +0800">
+		<title lang="zh">50_红高粱</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48924,6 +48939,9 @@
 	<programme channel="newtv炫舞未来" start="20250305031600 +0800" stop="20250305035600 +0800">
 		<title lang="zh">通上利下消水肿（上）（20240118）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250305035600 +0800" stop="20250305043400 +0800">
+		<title lang="zh">通上利下消水肿（下）（20240119）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48953,6 +48971,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250305010300 +0800" stop="20250305040300 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250305040300 +0800" stop="20250305063500 +0800">
+		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
