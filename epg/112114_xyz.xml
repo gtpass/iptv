@@ -82188,6 +82188,9 @@
 	<programme channel="newtv超级体育" start="20250305142800 +0800" stop="20250305160000 +0800">
 		<title lang="zh">实况录像-2025年亚洲羽毛球混合团体锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250305160000 +0800" stop="20250305180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82289,6 +82292,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250305151700 +0800" stop="20250305155800 +0800">
 		<title lang="zh">01_春色寄情人</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250305155800 +0800" stop="20250305163800 +0800">
+		<title lang="zh">02_春色寄情人</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
