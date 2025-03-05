@@ -42870,6 +42870,9 @@
 	<programme channel="明星大片" start="20250305132800 +0800" stop="20250305135000 +0800">
 		<title lang="zh">33_马达加斯加企鹅第二季</title>
 	</programme>
+	<programme channel="明星大片" start="20250305135000 +0800" stop="20250305142500 +0800">
+		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -66087,6 +66090,9 @@
 	<programme channel="纯享4K" start="20250305130700 +0800" stop="20250305135600 +0800">
 		<title lang="zh">大地之上4K 第5集 与海为邻</title>
 	</programme>
+	<programme channel="纯享4K" start="20250305135600 +0800" stop="20250305144600 +0800">
+		<title lang="zh">大地之上4K 第6集 城市与今天</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70697,6 +70703,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250305122700 +0800" stop="20250305134700 +0800">
 		<title lang="zh">电影《东北老丈人》</title>
+	</programme>
+	<programme channel="超级电影" start="20250305134700 +0800" stop="20250305152400 +0800">
+		<title lang="zh">电影《哈佛少女的快乐清单》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82122,6 +82131,9 @@
 	<programme channel="newtv超级电影" start="20250305122700 +0800" stop="20250305134700 +0800">
 		<title lang="zh">电影《东北老丈人》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250305134700 +0800" stop="20250305152400 +0800">
+		<title lang="zh">电影《哈佛少女的快乐清单》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82181,6 +82193,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250305130600 +0800" stop="20250305134700 +0800">
 		<title lang="zh">08_最美的青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250305134700 +0800" stop="20250305142900 +0800">
+		<title lang="zh">09_最美的青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82883,6 +82898,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250305132800 +0800" stop="20250305135000 +0800">
 		<title lang="zh">33_马达加斯加企鹅第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250305135000 +0800" stop="20250305142500 +0800">
+		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
