@@ -1308,6 +1308,9 @@
 	<programme channel="4K综艺" start="20250306121200 +0800" stop="20250306135000 +0800">
 		<title lang="zh">真心大冒险20180519</title>
 	</programme>
+	<programme channel="4K综艺" start="20250306135000 +0800" stop="20250306142400 +0800">
+		<title lang="zh">重返地球20180126</title>
+	</programme>
 	<channel id="4K美食">
 		<display-name lang="zh">4K美食</display-name>
 	</channel>
@@ -41850,6 +41853,9 @@
 	<programme channel="明星大片" start="20250306132700 +0800" stop="20250306135000 +0800">
 		<title lang="zh">01_夏目友人帐第7季</title>
 	</programme>
+	<programme channel="明星大片" start="20250306135000 +0800" stop="20250306142500 +0800">
+		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -78834,6 +78840,9 @@
 	<programme channel="黑莓动画" start="20250306132700 +0800" stop="20250306135300 +0800">
 		<title lang="zh">07_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250306135300 +0800" stop="20250306140500 +0800">
+		<title lang="zh">80_奶龙第3季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80052,6 +80061,9 @@
 	<programme channel="newtv精品纪录" start="20250306133000 +0800" stop="20250306135700 +0800">
 		<title lang="zh">怎么又上当了？百万钱币</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250306135700 +0800" stop="20250306144500 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80106,6 +80118,9 @@
 	<programme channel="newtv古装剧场" start="20250306131500 +0800" stop="20250306140000 +0800">
 		<title lang="zh">31_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250306140000 +0800" stop="20250306143800 +0800">
+		<title lang="zh">CRESIOENM纯钛金色碗惠选组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80156,6 +80171,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250306125100 +0800" stop="20250306135100 +0800">
 		<title lang="zh">36_昙花梦</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250306135100 +0800" stop="20250306144900 +0800">
+		<title lang="zh">37_昙花梦</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80514,6 +80532,9 @@
 	<programme channel="newtv军事评论" start="20250306133000 +0800" stop="20250306135200 +0800">
 		<title lang="zh">海滩的地堡（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250306135200 +0800" stop="20250306141400 +0800">
+		<title lang="zh">二战沙场b7阿登战役（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80619,6 +80640,9 @@
 	<programme channel="newtv精品综合" start="20250306132700 +0800" stop="20250306135000 +0800">
 		<title lang="zh">01_夏目友人帐第7季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250306135000 +0800" stop="20250306142500 +0800">
+		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80693,6 +80717,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250306122400 +0800" stop="20250306140000 +0800">
 		<title lang="zh">恰好是少年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250306140000 +0800" stop="20250306153000 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
