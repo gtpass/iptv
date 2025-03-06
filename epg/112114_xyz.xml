@@ -79110,6 +79110,9 @@
 	<programme channel="黑莓动画" start="20250306193700 +0800" stop="20250306200200 +0800">
 		<title lang="zh">12_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250306200200 +0800" stop="20250306202600 +0800">
+		<title lang="zh">13_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80355,6 +80358,9 @@
 	<programme channel="newtv精品大剧" start="20250306193000 +0800" stop="20250306201500 +0800">
 		<title lang="zh">14_你比星光美丽</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250306201500 +0800" stop="20250306204500 +0800">
+		<title lang="zh">《美丽密码》推荐第69期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80616,6 +80622,9 @@
 	<programme channel="newtv军旅剧场" start="20250306193200 +0800" stop="20250306200200 +0800">
 		<title lang="zh">《四方美食》第13期-金针菇肥牛卷（新）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250306200200 +0800" stop="20250306204600 +0800">
+		<title lang="zh">21_英雄使命</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80690,6 +80699,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250306192600 +0800" stop="20250306201200 +0800">
 		<title lang="zh">16_失笑</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250306201200 +0800" stop="20250306204200 +0800">
+		<title lang="zh">《美丽密码》推荐第69期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80970,6 +80982,9 @@
 	<programme channel="newtv怡伴健康" start="20250306193900 +0800" stop="20250306200800 +0800">
 		<title lang="zh">《四方美食》第13期-金针菇肥牛卷（新）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250306200800 +0800" stop="20250306205600 +0800">
+		<title lang="zh">辽宁智慧斗vs北京东炸团 第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81044,6 +81059,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250306194500 +0800" stop="20250306201500 +0800">
 		<title lang="zh">《美丽密码》推荐第69期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250306201500 +0800" stop="20250306210100 +0800">
+		<title lang="zh">04_六姊妹</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81171,6 +81189,9 @@
 	<programme channel="newtv军事评论" start="20250306194100 +0800" stop="20250306200300 +0800">
 		<title lang="zh">俄乌冲突深观察b7导弹互袭新战法</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250306200300 +0800" stop="20250306203000 +0800">
+		<title lang="zh">跟着老兵修飞机</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81254,6 +81275,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250306191600 +0800" stop="20250306201200 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250306201200 +0800" stop="20250306210100 +0800">
+		<title lang="zh">返乡任教将自己的钢琴搬进教室 只为让孩子们爱上唱歌（20231214）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
