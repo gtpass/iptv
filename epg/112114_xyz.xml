@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250307004700 +0800" stop="20250307014900 +0800">
 		<title lang="zh">儿行千里20170917</title>
 	</programme>
+	<programme channel="4K综艺" start="20250307014900 +0800" stop="20250307032800 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20191106</title>
+	</programme>
 	<channel id="BTV体育">
 		<display-name lang="zh">BTV体育</display-name>
 	</channel>
@@ -35673,6 +35676,9 @@
 	<programme channel="纯享4K" start="20250307012900 +0800" stop="20250307015900 +0800">
 		<title lang="zh">信仰的感召4K 铁血军魂 吴焕先</title>
 	</programme>
+	<programme channel="纯享4K" start="20250307015900 +0800" stop="20250307022900 +0800">
+		<title lang="zh">信仰的感召4K 农运领袖 彭湃</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43419,6 +43425,9 @@
 	<programme channel="黑莓电影" start="20250307001100 +0800" stop="20250307015800 +0800">
 		<title lang="zh">遗忘尼克</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250307015800 +0800" stop="20250307033000 +0800">
+		<title lang="zh">食神</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -43758,6 +43767,9 @@
 	<programme channel="newtv精品纪录" start="20250307012000 +0800" stop="20250307015800 +0800">
 		<title lang="zh">01_大脑星球</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250307015800 +0800" stop="20250307023700 +0800">
+		<title lang="zh">02_重塑大脑</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -43790,6 +43802,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250307002100 +0800" stop="20250307015900 +0800">
 		<title lang="zh">捍战2</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250307015900 +0800" stop="20250307025100 +0800">
+		<title lang="zh">11_向往的生活</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -43851,11 +43866,17 @@
 	<programme channel="newtv精品综合" start="20250307002100 +0800" stop="20250307020100 +0800">
 		<title lang="zh">小角色</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250307020100 +0800" stop="20250307032400 +0800">
+		<title lang="zh">半熟恋人第2季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250307010800 +0800" stop="20250307015300 +0800">
 		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250307015300 +0800" stop="20250307031400 +0800">
+		<title lang="zh">特工追缉令</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
