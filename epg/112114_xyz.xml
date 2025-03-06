@@ -58443,6 +58443,9 @@
 	<programme channel="爱情喜剧" start="20250306111600 +0800" stop="20250306120000 +0800">
 		<title lang="zh">17_幸福的错觉</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250306120000 +0800" stop="20250306124500 +0800">
+		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -78774,6 +78777,9 @@
 	<programme channel="黑莓动画" start="20250306113700 +0800" stop="20250306120000 +0800">
 		<title lang="zh">百变布鲁可第4季第10集</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250306120000 +0800" stop="20250306122600 +0800">
+		<title lang="zh">14_超级飞侠第15季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79725,6 +79731,9 @@
 	<programme channel="newtv超级综艺" start="20250306110000 +0800" stop="20250306115000 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250306115000 +0800" stop="20250306130700 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79757,6 +79766,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250306103200 +0800" stop="20250306120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第36轮 浙江方兴渡-山西汾酒</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250306120000 +0800" stop="20250306130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -79838,6 +79850,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250306111800 +0800" stop="20250306120000 +0800">
 		<title lang="zh">10_最美的青春</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250306120000 +0800" stop="20250306124100 +0800">
+		<title lang="zh">11_最美的青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80085,6 +80100,9 @@
 	<programme channel="newtv家庭剧场" start="20250306110700 +0800" stop="20250306120000 +0800">
 		<title lang="zh">22_永夜星河</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250306120000 +0800" stop="20250306124500 +0800">
+		<title lang="zh">05_一生只爱你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80127,6 +80145,9 @@
 	<programme channel="newtv热播精选" start="20250306111400 +0800" stop="20250306115200 +0800">
 		<title lang="zh">CRESIOENM纯钛金色碗惠选组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250306115200 +0800" stop="20250306132900 +0800">
+		<title lang="zh">期限人生</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80159,6 +80180,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250306111600 +0800" stop="20250306120000 +0800">
 		<title lang="zh">17_幸福的错觉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250306120000 +0800" stop="20250306124500 +0800">
+		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80277,6 +80301,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250306110400 +0800" stop="20250306115200 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250306115200 +0800" stop="20250306124200 +0800">
+		<title lang="zh">风味人间</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80381,6 +80408,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250306114500 +0800" stop="20250306115900 +0800">
 		<title lang="zh">风雨彩虹铿锵玫瑰-毕刚（纯净版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250306115900 +0800" stop="20250306121500 +0800">
+		<title lang="zh">酒梦-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -80582,6 +80612,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250306111700 +0800" stop="20250306115700 +0800">
 		<title lang="zh">健都牌密骨胶囊惊喜组（赠送益生菌敖东）-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250306115700 +0800" stop="20250306124900 +0800">
+		<title lang="zh">04_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
