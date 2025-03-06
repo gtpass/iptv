@@ -43875,6 +43875,9 @@
 	<programme channel="newtv超级体育" start="20250307023500 +0800" stop="20250307040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250307040000 +0800" stop="20250307053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮 曼彻斯特城-纽卡斯尔联(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43947,6 +43950,9 @@
 	<programme channel="newtv精品纪录" start="20250307030500 +0800" stop="20250307034800 +0800">
 		<title lang="zh">01_出发</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250307034800 +0800" stop="20250307045200 +0800">
+		<title lang="zh">月背之上：太空变革的黎明</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -43961,6 +43967,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250307030000 +0800" stop="20250307035000 +0800">
 		<title lang="zh">13_且试天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250307035000 +0800" stop="20250307044300 +0800">
+		<title lang="zh">67_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -43991,6 +44000,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250307025400 +0800" stop="20250307034900 +0800">
 		<title lang="zh">23_我和我的三个姐姐</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250307034900 +0800" stop="20250307043400 +0800">
+		<title lang="zh">35_高兴的酸甜苦辣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
