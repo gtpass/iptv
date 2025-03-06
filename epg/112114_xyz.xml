@@ -15978,6 +15978,9 @@
 	<programme channel="咪咕综合体育" start="20250307051000 +0800" stop="20250307060000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250307060000 +0800" stop="20250307062000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -35823,6 +35826,9 @@
 	<programme channel="纯享4K" start="20250307050400 +0800" stop="20250307055300 +0800">
 		<title lang="zh">留法岁月4K 第3集 革命之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20250307055300 +0800" stop="20250307064200 +0800">
+		<title lang="zh">留法岁月4K 第4集 报国追梦</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -44022,6 +44028,9 @@
 	<programme channel="newtv超级体育" start="20250307053000 +0800" stop="20250307060000 +0800">
 		<title lang="zh">05:30 实况录像-2024/2025赛季雪车世界杯 瑞士圣莫里茨站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250307060000 +0800" stop="20250307063000 +0800">
+		<title lang="zh">实况录像-2024年世界泳联短池游泳锦标赛 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -44066,6 +44075,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250307051000 +0800" stop="20250307055500 +0800">
 		<title lang="zh">38_大决战</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250307055500 +0800" stop="20250307064100 +0800">
+		<title lang="zh">39_大决战</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -44162,6 +44174,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250307050800 +0800" stop="20250307055300 +0800">
 		<title lang="zh">16_黄河在咆哮</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250307055300 +0800" stop="20250307063100 +0800">
+		<title lang="zh">CRESIOENM纯钛金色碗惠选组-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -44313,6 +44328,9 @@
 	<programme channel="newtv军事评论" start="20250307053400 +0800" stop="20250307055900 +0800">
 		<title lang="zh">炮弹出膛前的紧急时刻</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250307055900 +0800" stop="20250307062500 +0800">
+		<title lang="zh">儿童节的特殊实践课</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -44337,6 +44355,9 @@
 	<programme channel="newtv炫舞未来" start="20250307043900 +0800" stop="20250307055500 +0800">
 		<title lang="zh">中国阿姨热衷跳舞和体育 成功跳上里约奥运会开幕式（20240731）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250307055500 +0800" stop="20250307061300 +0800">
+		<title lang="zh">野花香-孙爱迪</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -44354,6 +44375,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250307050800 +0800" stop="20250307060000 +0800">
 		<title lang="zh">02_光荣时代</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250307060000 +0800" stop="20250307065200 +0800">
+		<title lang="zh">03_光荣时代</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -44379,6 +44403,9 @@
 	<programme channel="newtv金牌综艺" start="20250307032500 +0800" stop="20250307055700 +0800">
 		<title lang="zh">天天把歌唱（2023）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250307055700 +0800" stop="20250307072900 +0800">
+		<title lang="zh">典籍里的中国第2季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -44390,6 +44417,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250307043300 +0800" stop="20250307055300 +0800">
 		<title lang="zh">2024-25赛季英超联赛第17轮：曼联VS伯恩茅斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250307055300 +0800" stop="20250307074000 +0800">
+		<title lang="zh">2024-25赛季英超联赛第16轮：利物浦VS富勒姆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
