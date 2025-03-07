@@ -1428,6 +1428,9 @@
 	<programme channel="4K综艺" start="20250307191000 +0800" stop="20250307200200 +0800">
 		<title lang="zh">我最爱的女人们20190706</title>
 	</programme>
+	<programme channel="4K综艺" start="20250307200200 +0800" stop="20250307211600 +0800">
+		<title lang="zh">小小的追球20191217</title>
+	</programme>
 	<channel id="4K美食">
 		<display-name lang="zh">4K美食</display-name>
 	</channel>
@@ -60426,6 +60429,9 @@
 	<programme channel="爱情喜剧" start="20250307182600 +0800" stop="20250307200300 +0800">
 		<title lang="zh">目击者</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250307200300 +0800" stop="20250307203300 +0800">
+		<title lang="zh">《美丽密码》推荐第70期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82650,6 +82656,9 @@
 	<programme channel="newtv超级电视剧" start="20250307193000 +0800" stop="20250307201500 +0800">
 		<title lang="zh">22_驻站</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250307201500 +0800" stop="20250307210100 +0800">
+		<title lang="zh">23_驻站</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82724,6 +82733,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250307192800 +0800" stop="20250307201400 +0800">
 		<title lang="zh">18_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250307201400 +0800" stop="20250307204400 +0800">
+		<title lang="zh">《美丽密码》推荐第70期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82989,6 +83001,9 @@
 	<programme channel="newtv军旅剧场" start="20250307193700 +0800" stop="20250307200700 +0800">
 		<title lang="zh">《四方美食》第14期-无锡糖醋排骨（新）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250307200700 +0800" stop="20250307205100 +0800">
+		<title lang="zh">25_英雄使命</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83201,6 +83216,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250307182600 +0800" stop="20250307200300 +0800">
 		<title lang="zh">目击者</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250307200300 +0800" stop="20250307203300 +0800">
+		<title lang="zh">《美丽密码》推荐第70期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83541,6 +83559,9 @@
 	<programme channel="newtv军事评论" start="20250307194200 +0800" stop="20250307200400 +0800">
 		<title lang="zh">中国航展进行时b7智胜</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250307200400 +0800" stop="20250307202900 +0800">
+		<title lang="zh">台“天弓三型”导弹阵地意外曝光 美菲紧贴巴士海峡建港口</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83805,6 +83826,9 @@
 	<programme channel="newtv金牌综艺" start="20250307192000 +0800" stop="20250307200800 +0800">
 		<title lang="zh">自然之臻黑番茄原浆10盒装尊享组新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250307200800 +0800" stop="20250307204800 +0800">
+		<title lang="zh">艺览天下（2024）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -83954,6 +83978,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250307191600 +0800" stop="20250307200300 +0800">
 		<title lang="zh">16_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250307200300 +0800" stop="20250307204900 +0800">
+		<title lang="zh">17_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
