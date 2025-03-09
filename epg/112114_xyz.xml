@@ -40008,6 +40008,9 @@
 	<programme channel="newtv超级体育" start="20250310023800 +0800" stop="20250310040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单比赛2(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250310040000 +0800" stop="20250310053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第15轮 埃弗顿-利物浦 (4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40140,6 +40143,9 @@
 	<programme channel="newtv热播精选" start="20250310030500 +0800" stop="20250310035000 +0800">
 		<title lang="zh">27_向往的生活</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250310035000 +0800" stop="20250310044400 +0800">
+		<title lang="zh">28_向往的生活</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -40185,6 +40191,9 @@
 	<programme channel="newtv怡伴健康" start="20250310031300 +0800" stop="20250310040100 +0800">
 		<title lang="zh">草原上的动物宝贝</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250310040100 +0800" stop="20250310045700 +0800">
+		<title lang="zh">在冰与火中生存</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -40214,6 +40223,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250310025600 +0800" stop="20250310034800 +0800">
 		<title lang="zh">光荣的通信兵 国防知识挑战赛走进32753部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250310034800 +0800" stop="20250310044000 +0800">
+		<title lang="zh">哈巴河水长 军民情谊深 走进新疆阿勒泰哈巴河县</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
