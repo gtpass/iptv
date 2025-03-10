@@ -1272,6 +1272,9 @@
 	<programme channel="4K综艺" start="20250310070600 +0800" stop="20250310084500 +0800">
 		<title lang="zh">妻子的浪漫旅行第三季20200205</title>
 	</programme>
+	<programme channel="4K综艺" start="20250310084500 +0800" stop="20250310102800 +0800">
+		<title lang="zh">妻子的浪漫旅行第三季20200212</title>
+	</programme>
 	<channel id="4K美食">
 		<display-name lang="zh">4K美食</display-name>
 	</channel>
@@ -24247,52 +24250,52 @@
 		<title lang="zh">新闻早报</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310073200 +0800" stop="20250310080400 +0800">
-		<title lang="zh">上午剧场:人世间(22)</title>
+		<title lang="zh">上午剧场:人世间(28)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310080400 +0800" stop="20250310083300 +0800">
-		<title lang="zh">上午剧场:人世间(23)</title>
+		<title lang="zh">上午剧场:人世间(29)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310083300 +0800" stop="20250310094600 +0800">
-		<title lang="zh">上午剧场:人世间(24)</title>
+		<title lang="zh">上午剧场:人世间(30)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310094600 +0800" stop="20250310103700 +0800">
-		<title lang="zh">上午剧场:人世间(25)</title>
+		<title lang="zh">上午剧场:人世间(31)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310103700 +0800" stop="20250310111000 +0800">
-		<title lang="zh">上午剧场:人世间(26)</title>
+		<title lang="zh">上午剧场:人世间(32)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310111000 +0800" stop="20250310121100 +0800">
-		<title lang="zh">上午剧场:人世间(27)</title>
+		<title lang="zh">上午剧场:人世间(33)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310121100 +0800" stop="20250310121700 +0800">
 		<title lang="zh">卫视气象站</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310121700 +0800" stop="20250310130900 +0800">
-		<title lang="zh">上午剧场:人世间(28)</title>
+		<title lang="zh">上午剧场:人世间(34)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310130900 +0800" stop="20250310131600 +0800">
 		<title lang="zh">花儿朵朵</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310131600 +0800" stop="20250310134800 +0800">
-		<title lang="zh">下午剧场:铁道游击队(16)</title>
-	</programme>
-	<programme channel="吉林卫视" start="20250310134800 +0800" stop="20250310141800 +0800">
-		<title lang="zh">下午剧场:铁道游击队(17)</title>
-	</programme>
-	<programme channel="吉林卫视" start="20250310141800 +0800" stop="20250310144900 +0800">
-		<title lang="zh">下午剧场:铁道游击队(18)</title>
-	</programme>
-	<programme channel="吉林卫视" start="20250310144900 +0800" stop="20250310152300 +0800">
 		<title lang="zh">下午剧场:铁道游击队(19)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250310152300 +0800" stop="20250310155100 +0800">
+	<programme channel="吉林卫视" start="20250310134800 +0800" stop="20250310141800 +0800">
 		<title lang="zh">下午剧场:铁道游击队(20)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250310155100 +0800" stop="20250310162300 +0800">
+	<programme channel="吉林卫视" start="20250310141800 +0800" stop="20250310144900 +0800">
 		<title lang="zh">下午剧场:铁道游击队(21)</title>
 	</programme>
-	<programme channel="吉林卫视" start="20250310162300 +0800" stop="20250310170600 +0800">
+	<programme channel="吉林卫视" start="20250310144900 +0800" stop="20250310152300 +0800">
 		<title lang="zh">下午剧场:铁道游击队(22)</title>
+	</programme>
+	<programme channel="吉林卫视" start="20250310152300 +0800" stop="20250310155100 +0800">
+		<title lang="zh">下午剧场:铁道游击队(23)</title>
+	</programme>
+	<programme channel="吉林卫视" start="20250310155100 +0800" stop="20250310162300 +0800">
+		<title lang="zh">下午剧场:铁道游击队(24)</title>
+	</programme>
+	<programme channel="吉林卫视" start="20250310162300 +0800" stop="20250310170600 +0800">
+		<title lang="zh">下午剧场:铁道游击队(25)</title>
 	</programme>
 	<programme channel="吉林卫视" start="20250310170600 +0800" stop="20250310175300 +0800">
 		<title lang="zh">欢乐送</title>
@@ -36222,6 +36225,9 @@
 	<programme channel="惊悚悬疑" start="20250310071300 +0800" stop="20250310084200 +0800">
 		<title lang="zh">怪探司马洛之密室谍影</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250310084200 +0800" stop="20250310094700 +0800">
+		<title lang="zh">巨兽来袭2</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42664,7 +42670,7 @@
 		<title lang="zh">正午江苏</title>
 	</programme>
 	<programme channel="江苏卫视" start="20250310123400 +0800" stop="20250310142100 +0800">
-		<title lang="zh">非诚勿扰(重播)</title>
+		<title lang="zh">非诚勿扰</title>
 	</programme>
 	<programme channel="江苏卫视" start="20250310142100 +0800" stop="20250310162800 +0800">
 		<title lang="zh">新相亲大会</title>
@@ -43450,16 +43456,16 @@
 		<title lang="zh">动画片剧场</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310083700 +0800" stop="20250310092000 +0800">
-		<title lang="zh">白天剧场:再造之恩(28)</title>
+		<title lang="zh">白天剧场:再造之恩(26)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310092000 +0800" stop="20250310100600 +0800">
-		<title lang="zh">白天剧场:再造之恩(29)</title>
+		<title lang="zh">白天剧场:再造之恩(27)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310100600 +0800" stop="20250310110100 +0800">
-		<title lang="zh">白天剧场:再造之恩(30)</title>
+		<title lang="zh">白天剧场:再造之恩(28)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310110100 +0800" stop="20250310120200 +0800">
-		<title lang="zh">白天剧场:再造之恩(31)</title>
+		<title lang="zh">白天剧场:再造之恩(29)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310120200 +0800" stop="20250310120600 +0800">
 		<title lang="zh">午间气象</title>
@@ -43471,19 +43477,19 @@
 		<title lang="zh">食不相瞒</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310125600 +0800" stop="20250310135500 +0800">
-		<title lang="zh">金牌调解(重播)</title>
+		<title lang="zh">金牌调解</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310135500 +0800" stop="20250310145200 +0800">
-		<title lang="zh">白天剧场:再造之恩(32)</title>
+		<title lang="zh">白天剧场:再造之恩(30)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310145200 +0800" stop="20250310154800 +0800">
-		<title lang="zh">白天剧场:再造之恩(33)</title>
+		<title lang="zh">白天剧场:再造之恩(31)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310154800 +0800" stop="20250310164300 +0800">
-		<title lang="zh">白天剧场</title>
+		<title lang="zh">白天剧场:再造之恩(32)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310164300 +0800" stop="20250310173600 +0800">
-		<title lang="zh">白天剧场</title>
+		<title lang="zh">白天剧场:再造之恩(33)</title>
 	</programme>
 	<programme channel="江西卫视" start="20250310173600 +0800" stop="20250310181900 +0800">
 		<title lang="zh">白天剧场</title>
@@ -52792,10 +52798,10 @@
 		<title lang="zh">金鹰独播剧场:仁心俱乐部(8)</title>
 	</programme>
 	<programme channel="湖南卫视" start="20250310220300 +0800" stop="20250310230000 +0800">
-		<title lang="zh">芒果季风剧场:与凤行(10)</title>
+		<title lang="zh">芒果季风剧场:与凤行(9)</title>
 	</programme>
 	<programme channel="湖南卫视" start="20250310230000 +0800" stop="20250310235900 +0800">
-		<title lang="zh">芒果季风剧场:与凤行(11)</title>
+		<title lang="zh">芒果季风剧场:与凤行(10)</title>
 	</programme>
 	<channel id="湖南卫视国际">
 		<display-name lang="zh">湖南卫视国际</display-name>
@@ -73593,6 +73599,9 @@
 	<programme channel="黑莓动画" start="20250310081300 +0800" stop="20250310084100 +0800">
 		<title lang="zh">06_安迪的海底冒险中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250310084100 +0800" stop="20250310090900 +0800">
+		<title lang="zh">11_宇宙护卫队之超甲恐龙队（第一季）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74511,6 +74520,9 @@
 	<programme channel="newtv超级电视剧" start="20250310075900 +0800" stop="20250310084100 +0800">
 		<title lang="zh">07_我们的队伍向太阳</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250310084100 +0800" stop="20250310092300 +0800">
+		<title lang="zh">08_我们的队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -74688,6 +74700,9 @@
 	<programme channel="newtv家庭剧场" start="20250310080200 +0800" stop="20250310084100 +0800">
 		<title lang="zh">DR.SUNFLOWER沉香精油皂-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250310084100 +0800" stop="20250310093500 +0800">
+		<title lang="zh">04_长大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74832,6 +74847,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250310073800 +0800" stop="20250310083100 +0800">
 		<title lang="zh">05_花开如梦</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250310083100 +0800" stop="20250310092500 +0800">
+		<title lang="zh">06_花开如梦</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -74969,6 +74987,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250310071300 +0800" stop="20250310084200 +0800">
 		<title lang="zh">怪探司马洛之密室谍影</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250310084200 +0800" stop="20250310094700 +0800">
+		<title lang="zh">巨兽来袭2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
