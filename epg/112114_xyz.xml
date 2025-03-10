@@ -74871,6 +74871,9 @@
 	<programme channel="黑莓动画" start="20250310194100 +0800" stop="20250310200600 +0800">
 		<title lang="zh">20_德凯奥特曼 普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250310200600 +0800" stop="20250310203000 +0800">
+		<title lang="zh">21_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74906,6 +74909,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250310183800 +0800" stop="20250310200800 +0800">
 		<title lang="zh">马达加斯加3：欧洲大围捕</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250310200800 +0800" stop="20250310214500 +0800">
+		<title lang="zh">史上最强弟子</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -76928,6 +76934,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250310195100 +0800" stop="20250310201300 +0800">
 		<title lang="zh">胸椎灵活性训练（20241022）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250310201300 +0800" stop="20250310203500 +0800">
+		<title lang="zh">肩部训练（20241021）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
