@@ -74652,6 +74652,9 @@
 	<programme channel="newtv超级电视剧" start="20250310092300 +0800" stop="20250310100400 +0800">
 		<title lang="zh">09_我们的队伍向太阳</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250310100400 +0800" stop="20250310104600 +0800">
+		<title lang="zh">10_我们的队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75030,6 +75033,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250310092500 +0800" stop="20250310101000 +0800">
 		<title lang="zh">07_花开如梦</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250310101000 +0800" stop="20250310105500 +0800">
+		<title lang="zh">08_花开如梦</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -75125,6 +75131,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250310092800 +0800" stop="20250310101000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250310101000 +0800" stop="20250310103200 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（纯净版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -75299,6 +75308,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250310091800 +0800" stop="20250310100600 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250310100600 +0800" stop="20250310105100 +0800">
+		<title lang="zh">19_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
