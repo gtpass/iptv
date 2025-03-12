@@ -27162,6 +27162,9 @@
 	<programme channel="咪咕足球" start="20250312191500 +0800" stop="20250312220000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第39轮 上海久事-浙江稠州金租 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250312220000 +0800" stop="20250312221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -58221,6 +58224,9 @@
 	<programme channel="爱情喜剧" start="20250312210100 +0800" stop="20250312215200 +0800">
 		<title lang="zh">07_我，喜欢你</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250312215200 +0800" stop="20250312225600 +0800">
+		<title lang="zh">08_我，喜欢你</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -64049,6 +64055,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250312210300 +0800" stop="20250312215200 +0800">
 		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme>
+	<programme channel="纯享4K" start="20250312215200 +0800" stop="20250312224100 +0800">
+		<title lang="zh">大敦煌4K 第2集 敦煌密码</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -79110,6 +79119,9 @@
 	<programme channel="黑莓动画" start="20250312214400 +0800" stop="20250312215100 +0800">
 		<title lang="zh">28_善良的白女皇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250312215100 +0800" stop="20250312220400 +0800">
+		<title lang="zh">43_踢踢和奇奇之魔力课堂 第二季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80085,6 +80097,9 @@
 	<programme channel="newtv超级综艺" start="20250312205300 +0800" stop="20250312220100 +0800">
 		<title lang="zh">中国b7保定乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250312220100 +0800" stop="20250312224900 +0800">
+		<title lang="zh">文艺里的新中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80141,6 +80156,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250312193000 +0800" stop="20250312214500 +0800">
 		<title lang="zh">2024/2025赛季中国男子篮球职业联赛-第39轮(北京北汽-青岛国信制药)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250312214500 +0800" stop="20250312225000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -80366,6 +80384,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250312211600 +0800" stop="20250312214600 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第11期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250312214600 +0800" stop="20250312225200 +0800">
+		<title lang="zh">25_我姥爷1945之绝命枪</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80700,6 +80721,9 @@
 	<programme channel="newtv家庭剧场" start="20250312211000 +0800" stop="20250312215500 +0800">
 		<title lang="zh">09_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250312215500 +0800" stop="20250312230100 +0800">
+		<title lang="zh">10_大都市小爱情</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80846,6 +80870,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250312210100 +0800" stop="20250312215200 +0800">
 		<title lang="zh">07_我，喜欢你</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250312215200 +0800" stop="20250312225600 +0800">
+		<title lang="zh">08_我，喜欢你</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81083,6 +81110,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250312211800 +0800" stop="20250312214800 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第11期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250312214800 +0800" stop="20250312232800 +0800">
+		<title lang="zh">雀侠奇缘之大三元</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81524,6 +81554,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250312205400 +0800" stop="20250312220000 +0800">
 		<title lang="zh">艺览天下（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250312220000 +0800" stop="20250312003900 +0800">
+		<title lang="zh">脱口秀大会第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
