@@ -38376,6 +38376,9 @@
 	<programme channel="惊悚悬疑" start="20250312122800 +0800" stop="20250312134700 +0800">
 		<title lang="zh">狄仁杰之焚天异火</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250312134700 +0800" stop="20250312152800 +0800">
+		<title lang="zh">大漠追凶</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -41423,6 +41426,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250312132600 +0800" stop="20250312135100 +0800">
 		<title lang="zh">01_间谍过家家</title>
+	</programme>
+	<programme channel="明星大片" start="20250312135100 +0800" stop="20250312143900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58035,6 +58041,9 @@
 	<programme channel="爱情喜剧" start="20250312131900 +0800" stop="20250312140100 +0800">
 		<title lang="zh">05_火红年华</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250312140100 +0800" stop="20250312144900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63788,6 +63797,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250312130400 +0800" stop="20250312135300 +0800">
 		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme>
+	<programme channel="纯享4K" start="20250312135300 +0800" stop="20250312144200 +0800">
+		<title lang="zh">大敦煌4K 第2集 敦煌密码</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -78696,6 +78708,9 @@
 	<programme channel="黑莓动画" start="20250312132600 +0800" stop="20250312135200 +0800">
 		<title lang="zh">48_熊出没之小小世界</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250312135200 +0800" stop="20250312141900 +0800">
+		<title lang="zh">19_猪猪侠之超星五灵侠6</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79656,6 +79671,9 @@
 	<programme channel="newtv超级综艺" start="20250312121200 +0800" stop="20250312135400 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250312135400 +0800" stop="20250312160100 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79791,6 +79809,9 @@
 	<programme channel="newtv超级电视剧" start="20250312130200 +0800" stop="20250312134800 +0800">
 		<title lang="zh">06_长大</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250312134800 +0800" stop="20250312143200 +0800">
+		<title lang="zh">07_长大</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79892,6 +79913,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250312130900 +0800" stop="20250312135800 +0800">
 		<title lang="zh">07_千言万语</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250312135800 +0800" stop="20250312141800 +0800">
+		<title lang="zh">红烧牛肉罐头推广4001087099</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80124,6 +80148,9 @@
 	<programme channel="newtv爱情喜剧" start="20250312131900 +0800" stop="20250312140100 +0800">
 		<title lang="zh">05_火红年华</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250312140100 +0800" stop="20250312144900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80208,6 +80235,9 @@
 	<programme channel="newtv怡伴健康" start="20250312130500 +0800" stop="20250312135100 +0800">
 		<title lang="zh">27_血脉</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250312135100 +0800" stop="20250312145800 +0800">
+		<title lang="zh">28_血脉</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80258,6 +80288,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250312133500 +0800" stop="20250312135500 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250312135500 +0800" stop="20250312144200 +0800">
+		<title lang="zh">17_只是结婚的关系</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80451,6 +80484,9 @@
 	<programme channel="newtv精品综合" start="20250312132600 +0800" stop="20250312135100 +0800">
 		<title lang="zh">01_间谍过家家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250312135100 +0800" stop="20250312143900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80480,6 +80516,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250312122800 +0800" stop="20250312134700 +0800">
 		<title lang="zh">狄仁杰之焚天异火</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250312134700 +0800" stop="20250312152800 +0800">
+		<title lang="zh">大漠追凶</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
