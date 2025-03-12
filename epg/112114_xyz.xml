@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20250313041600 +0800" stop="20250313055200 +0800">
 		<title lang="zh">我最爱的女人们20190621</title>
 	</programme>
+	<programme channel="4K综艺" start="20250313055200 +0800" stop="20250313063400 +0800">
+		<title lang="zh">我最爱的女人们20190622</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -35121,6 +35124,9 @@
 	<programme channel="纯享4K" start="20250313050200 +0800" stop="20250313055100 +0800">
 		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
 	</programme>
+	<programme channel="纯享4K" start="20250313055100 +0800" stop="20250313064100 +0800">
+		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43053,6 +43059,9 @@
 	<programme channel="黑莓动画" start="20250313045800 +0800" stop="20250313054700 +0800">
 		<title lang="zh">27_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250313054700 +0800" stop="20250313063800 +0800">
+		<title lang="zh">34_雷欧奥特曼 重制版 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -43284,6 +43293,9 @@
 	<programme channel="newtv超级体育" start="20250313053000 +0800" stop="20250313060000 +0800">
 		<title lang="zh">赛事集锦(奥林匹克)-2024/2025赛季雪车世界杯 德国温特贝格站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250313060000 +0800" stop="20250313063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 荷兰站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43322,6 +43334,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250313051600 +0800" stop="20250313060100 +0800">
 		<title lang="zh">18_日光之城</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250313060100 +0800" stop="20250313064700 +0800">
+		<title lang="zh">19_日光之城</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -43428,6 +43443,9 @@
 	<programme channel="newtv家庭剧场" start="20250313050300 +0800" stop="20250313054700 +0800">
 		<title lang="zh">20_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250313054700 +0800" stop="20250313070300 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -43524,6 +43542,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250313054400 +0800" stop="20250313055900 +0800">
 		<title lang="zh">听起来很好吃</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250313055900 +0800" stop="20250313065700 +0800">
+		<title lang="zh">意想不到的听力危机</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -43551,6 +43572,9 @@
 	<programme channel="newtv军事评论" start="20250313052800 +0800" stop="20250313055300 +0800">
 		<title lang="zh">重返军营的“拳霸”女兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250313055300 +0800" stop="20250313061900 +0800">
+		<title lang="zh">迷彩色的夏天 第四集 青春不言败 上</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -43577,6 +43601,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250313054600 +0800" stop="20250313055200 +0800">
 		<title lang="zh">课间进行曲-金洋（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250313055200 +0800" stop="20250313061100 +0800">
+		<title lang="zh">最好的舞台-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -43691,6 +43718,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250313050200 +0800" stop="20250313055400 +0800">
 		<title lang="zh">拳王统一战：卡梅隆VS泰勒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250313055400 +0800" stop="20250313070100 +0800">
+		<title lang="zh">拳王争霸赛：桑托斯VS史蒂文森</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
