@@ -64008,6 +64008,9 @@
 	<programme channel="纯享4K" start="20250312192900 +0800" stop="20250312201100 +0800">
 		<title lang="zh">远方的家4K 长江行 金沙江：公主起舞的乐园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250312201100 +0800" stop="20250312205300 +0800">
+		<title lang="zh">远方的家4K 长江行（96） 多元文化 活力上海</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79047,6 +79050,9 @@
 	<programme channel="黑莓动画" start="20250312200000 +0800" stop="20250312200500 +0800">
 		<title lang="zh">07_小猪佩奇神奇海洋堡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250312201000 +0800" stop="20250312203500 +0800">
+		<title lang="zh">24_德凯奥特曼 普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80445,6 +80451,9 @@
 	<programme channel="newtv古装剧场" start="20250312192600 +0800" stop="20250312201300 +0800">
 		<title lang="zh">09_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250312201300 +0800" stop="20250312210300 +0800">
+		<title lang="zh">10_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80513,6 +80522,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250312193500 +0800" stop="20250312200500 +0800">
 		<title lang="zh">《健康之门》推荐第二期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250312200500 +0800" stop="20250312205000 +0800">
+		<title lang="zh">04_刀锋乱世情</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80859,6 +80871,9 @@
 	<programme channel="newtv怡伴健康" start="20250312195700 +0800" stop="20250312201500 +0800">
 		<title lang="zh">山西清徐学栋vs北京东炸团 第7局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250312201500 +0800" stop="20250312204500 +0800">
+		<title lang="zh">《花样人生》推荐第31期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81161,6 +81176,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250312195600 +0800" stop="20250312200700 +0800">
 		<title lang="zh">阳光彩虹小白马-金洋（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250312200700 +0800" stop="20250312202500 +0800">
+		<title lang="zh">野狼disco-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81473,6 +81491,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250312193500 +0800" stop="20250312200500 +0800">
 		<title lang="zh">《花样人生》推荐第31期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250312200500 +0800" stop="20250312205100 +0800">
+		<title lang="zh">36_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
