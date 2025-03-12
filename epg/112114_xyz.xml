@@ -43068,6 +43068,9 @@
 	<programme channel="newtv超级体育" start="20250313023500 +0800" stop="20250313040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单第一轮(郑钦文-托多尼)(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250313040000 +0800" stop="20250313053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第26轮 埃弗顿-曼彻斯特联(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43076,6 +43079,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250313021900 +0800" stop="20250313035900 +0800">
 		<title lang="zh">我心飞扬</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250313035900 +0800" stop="20250313053400 +0800">
+		<title lang="zh">我是代办</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -43106,6 +43112,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250313025300 +0800" stop="20250313035800 +0800">
 		<title lang="zh">20_女人的抗战</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250313035800 +0800" stop="20250313050400 +0800">
+		<title lang="zh">21_女人的抗战</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -43299,11 +43308,17 @@
 	<programme channel="newtv惊悚悬疑" start="20250313022600 +0800" stop="20250313034800 +0800">
 		<title lang="zh">入魂：津门玄案</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250313034800 +0800" stop="20250313051000 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250313003900 +0800" stop="20250313035300 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250313035300 +0800" stop="20250313051900 +0800">
+		<title lang="zh">十三邀第7季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
