@@ -66231,6 +66231,9 @@
 	<programme channel="纯享4K" start="20250313130000 +0800" stop="20250313134900 +0800">
 		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
 	</programme>
+	<programme channel="纯享4K" start="20250313134900 +0800" stop="20250313143900 +0800">
+		<title lang="zh">大敦煌4K 第4集 再造敦煌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82020,6 +82023,9 @@
 	<programme channel="newtv精品大剧" start="20250313131000 +0800" stop="20250313135300 +0800">
 		<title lang="zh">59_红高粱</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250313135300 +0800" stop="20250313143300 +0800">
+		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82515,6 +82521,9 @@
 	<programme channel="newtv军事评论" start="20250313133100 +0800" stop="20250313135300 +0800">
 		<title lang="zh">1812法俄战争b7法军的覆灭（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250313135300 +0800" stop="20250313141500 +0800">
+		<title lang="zh">1812法俄战争b7法军的覆灭（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82586,6 +82595,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250313131800 +0800" stop="20250313134600 +0800">
 		<title lang="zh">难以舍弃的婚姻（20241117）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250313134600 +0800" stop="20250313143500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
