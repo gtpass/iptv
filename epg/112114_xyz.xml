@@ -15588,6 +15588,9 @@
 	<programme channel="咪咕综合体育" start="20250314041000 +0800" stop="20250314055000 +0800">
 		<title lang="zh">英超赛场-24/25赛季英超 第26轮 曼城-利物浦</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250314055000 +0800" stop="20250314061500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -35943,6 +35946,9 @@
 	<programme channel="纯享4K" start="20250314050900 +0800" stop="20250314055800 +0800">
 		<title lang="zh">大运河之歌4K 第1集 整理河山</title>
 	</programme>
+	<programme channel="纯享4K" start="20250314055800 +0800" stop="20250314064800 +0800">
+		<title lang="zh">大运河之歌4K 第2集 盛世气象</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -44271,6 +44277,9 @@
 	<programme channel="newtv超级综艺" start="20250314041400 +0800" stop="20250314055500 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250314055500 +0800" stop="20250314064500 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -44288,6 +44297,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250314053000 +0800" stop="20250314060000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 瑞士圣莫里茨站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250314060000 +0800" stop="20250314063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -44346,6 +44358,9 @@
 	<programme channel="newtv精品大剧" start="20250314045500 +0800" stop="20250314060000 +0800">
 		<title lang="zh">35_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250314060000 +0800" stop="20250314070400 +0800">
+		<title lang="zh">01_天行健</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -44391,6 +44406,9 @@
 	<programme channel="newtv古装剧场" start="20250314045000 +0800" stop="20250314055400 +0800">
 		<title lang="zh">26_天行健</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250314055400 +0800" stop="20250314065900 +0800">
+		<title lang="zh">27_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -44432,6 +44450,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250314051300 +0800" stop="20250314055700 +0800">
 		<title lang="zh">24_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250314055700 +0800" stop="20250314071300 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
