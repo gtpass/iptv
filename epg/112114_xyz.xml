@@ -54,6 +54,9 @@
 	<programme channel="4K综艺" start="20250315013100 +0800" stop="20250315015600 +0800">
 		<title lang="zh">少年说听你说20180711</title>
 	</programme>
+	<programme channel="4K综艺" start="20250315015600 +0800" stop="20250315021700 +0800">
+		<title lang="zh">少年说听你说20180713</title>
+	</programme>
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -14999,6 +15002,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250315001500 +0800" stop="20250315015500 +0800">
 		<title lang="zh">足球世界-24/25赛季意甲 第27轮 那不勒斯-国际米兰</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250315020000 +0800" stop="20250315022500 +0800">
+		<title lang="zh">欧陆足球版图</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -35022,6 +35028,9 @@
 	<programme channel="纯享4K" start="20250315013100 +0800" stop="20250315020100 +0800">
 		<title lang="zh">味道4K 美味天津</title>
 	</programme>
+	<programme channel="纯享4K" start="20250315020100 +0800" stop="20250315023000 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7咏春拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43362,6 +43371,9 @@
 	<programme channel="newtv超级综艺" start="20250315011800 +0800" stop="20250315020400 +0800">
 		<title lang="zh">20_舍不得星星</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250315020400 +0800" stop="20250315030900 +0800">
+		<title lang="zh">中国b7保定乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43440,11 +43452,17 @@
 	<programme channel="newtv热播精选" start="20250315000900 +0800" stop="20250315020100 +0800">
 		<title lang="zh">得心拳手</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250315020100 +0800" stop="20250315030600 +0800">
+		<title lang="zh">16_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250315000400 +0800" stop="20250315015500 +0800">
 		<title lang="zh">有匪b7破雪斩</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250315015500 +0800" stop="20250315034200 +0800">
+		<title lang="zh">超时空心跳</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -43491,11 +43509,17 @@
 	<programme channel="newtv炫舞未来" start="20250315000600 +0800" stop="20250315014700 +0800">
 		<title lang="zh">国家宝藏 第三季（20210207）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250315014700 +0800" stop="20250315030000 +0800">
+		<title lang="zh">综艺喜乐汇（20210908）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250315001200 +0800" stop="20250315015300 +0800">
 		<title lang="zh">疯狂追击者</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250315015300 +0800" stop="20250315032500 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
