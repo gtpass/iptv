@@ -35067,6 +35067,9 @@
 	<programme channel="纯享4K" start="20250315031500 +0800" stop="20250315035600 +0800">
 		<title lang="zh">远方的家4K 长江行 共创家园 筑梦上海</title>
 	</programme>
+	<programme channel="纯享4K" start="20250315035600 +0800" stop="20250315043700 +0800">
+		<title lang="zh">远方的家4K 长江行 开放城市 创新生活</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -43230,6 +43233,9 @@
 	<programme channel="黑莓电影" start="20250315005800 +0800" stop="20250315035300 +0800">
 		<title lang="zh">地久天长</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250315035300 +0800" stop="20250315062800 +0800">
+		<title lang="zh">沙丘</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -43533,6 +43539,9 @@
 	<programme channel="newtv超级体育" start="20250315021000 +0800" stop="20250315040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-男单决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250315040000 +0800" stop="20250315053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第27轮 切尔西-南安普顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43578,6 +43587,9 @@
 	<programme channel="newtv精品大剧" start="20250315024100 +0800" stop="20250315034600 +0800">
 		<title lang="zh">28_女人的抗战</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250315034600 +0800" stop="20250315045200 +0800">
+		<title lang="zh">29_女人的抗战</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -43589,6 +43601,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250315024200 +0800" stop="20250315034700 +0800">
 		<title lang="zh">第2集：问b7答</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250315034700 +0800" stop="20250315043700 +0800">
+		<title lang="zh">第一集 往事千年</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -43647,6 +43662,9 @@
 	<programme channel="newtv热播精选" start="20250315030600 +0800" stop="20250315035200 +0800">
 		<title lang="zh">17_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250315035200 +0800" stop="20250315045700 +0800">
+		<title lang="zh">18_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -43701,6 +43719,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250315024300 +0800" stop="20250315034800 +0800">
 		<title lang="zh">46_倚天屠龙记</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250315034800 +0800" stop="20250315045300 +0800">
+		<title lang="zh">47_倚天屠龙记</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -43715,6 +43736,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250315030000 +0800" stop="20250315035100 +0800">
 		<title lang="zh">岗位练兵进行时 走进空军某仓库</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250315035100 +0800" stop="20250315044300 +0800">
+		<title lang="zh">博物馆里话海军 海军知识挑战赛b7人民海军成立75周年特别策划</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -43736,6 +43760,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250315034200 +0800" stop="20250315035800 +0800">
 		<title lang="zh">错位时空-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250315035800 +0800" stop="20250315044800 +0800">
+		<title lang="zh">美女评审转型音乐博主 现场上演模仿秀（20221226）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
