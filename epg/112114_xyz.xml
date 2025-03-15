@@ -32772,6 +32772,9 @@
 	<programme channel="纯享4K" start="20250316050000 +0800" stop="20250316054900 +0800">
 		<title lang="zh">大运河之歌4K 第5集 融通天下</title>
 	</programme>
+	<programme channel="纯享4K" start="20250316054900 +0800" stop="20250316063900 +0800">
+		<title lang="zh">大运河之歌4K 第6集 生生不息</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -39585,6 +39588,9 @@
 	<programme channel="黑莓电影" start="20250316035100 +0800" stop="20250316055000 +0800">
 		<title lang="zh">我的机器人女友</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250316055000 +0800" stop="20250316071000 +0800">
+		<title lang="zh">鲨卷风：锐利之心</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -39891,6 +39897,9 @@
 	<programme channel="newtv超级体育" start="20250316053000 +0800" stop="20250316060000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季雪车世界杯 挪威利勒哈默尔站 男子钢架雪车</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250316060000 +0800" stop="20250316063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 波兰站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -39975,6 +39984,9 @@
 	<programme channel="newtv精品纪录" start="20250316044400 +0800" stop="20250316055400 +0800">
 		<title lang="zh">港珠澳大桥 上集</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250316055400 +0800" stop="20250316070400 +0800">
+		<title lang="zh">港珠澳大桥 下集</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -40037,6 +40049,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250316050200 +0800" stop="20250316055200 +0800">
 		<title lang="zh">32_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250316055200 +0800" stop="20250316063600 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -40158,6 +40173,9 @@
 	<programme channel="newtv军事评论" start="20250316052400 +0800" stop="20250316054900 +0800">
 		<title lang="zh">2024国庆看国门 第四集 阿拉山口的礼物</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250316054900 +0800" stop="20250316061500 +0800">
+		<title lang="zh">2024国庆看国门 第五集 吉隆口岸前的双向奔赴</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -40184,6 +40202,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250316052600 +0800" stop="20250316054800 +0800">
 		<title lang="zh">牛仔舞系列教学（20240723）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250316054800 +0800" stop="20250316060900 +0800">
+		<title lang="zh">全身健康操（20240812）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -40217,6 +40238,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250316042000 +0800" stop="20250316055000 +0800">
 		<title lang="zh">绑架游戏</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250316055000 +0800" stop="20250316071000 +0800">
+		<title lang="zh">七剑降魔传</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -40295,6 +40319,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250316042800 +0800" stop="20250316055700 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250316055700 +0800" stop="20250316064900 +0800">
+		<title lang="zh">拳王争霸赛：拉妮-丹尼尔斯VS黛丝莉-罗宾逊</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
