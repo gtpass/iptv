@@ -14790,6 +14790,9 @@
 	<programme channel="咪咕综合体育" start="20250316034500 +0800" stop="20250316040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250316040000 +0800" stop="20250316103000 +0800">
+		<title lang="zh">UFC格斗之夜 维托里-多利泽 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39384,6 +39387,9 @@
 	<programme channel="黑莓电影" start="20250316021900 +0800" stop="20250316035100 +0800">
 		<title lang="zh">绝世古镇之九宫八卦门</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250316035100 +0800" stop="20250316055000 +0800">
+		<title lang="zh">我的机器人女友</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -39681,6 +39687,9 @@
 	<programme channel="newtv超级体育" start="20250316023800 +0800" stop="20250316040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250316040000 +0800" stop="20250316053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第23轮 皇家马德里-马德里竞技(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -39737,6 +39746,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250316030400 +0800" stop="20250316035400 +0800">
 		<title lang="zh">第四集 月球背面</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250316035400 +0800" stop="20250316044400 +0800">
+		<title lang="zh">第五集 自新大陆</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -39849,6 +39861,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250316025500 +0800" stop="20250316040000 +0800">
 		<title lang="zh">01_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250316040000 +0800" stop="20250316050500 +0800">
+		<title lang="zh">02_大嫁风尚</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -39914,6 +39929,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250316004200 +0800" stop="20250316035600 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250316035600 +0800" stop="20250316051400 +0800">
+		<title lang="zh">十三邀第7季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
