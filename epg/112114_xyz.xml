@@ -80664,6 +80664,9 @@
 	<programme channel="newtv古装剧场" start="20250315192500 +0800" stop="20250315201500 +0800">
 		<title lang="zh">20_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250315201500 +0800" stop="20250315210300 +0800">
+		<title lang="zh">21_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80736,6 +80739,9 @@
 	<programme channel="newtv军旅剧场" start="20250315193300 +0800" stop="20250315200300 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250315200300 +0800" stop="20250315210800 +0800">
+		<title lang="zh">13_刀锋乱世情</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80807,6 +80813,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250315191100 +0800" stop="20250315200100 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250315200100 +0800" stop="20250315204500 +0800">
+		<title lang="zh">13_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -81267,6 +81276,9 @@
 	<programme channel="newtv军事评论" start="20250315195100 +0800" stop="20250315201200 +0800">
 		<title lang="zh">解码美B-21轰炸机</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250315201200 +0800" stop="20250315203900 +0800">
+		<title lang="zh">钢铁风暴 雷霆出击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81359,6 +81371,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250315194700 +0800" stop="20250315200900 +0800">
 		<title lang="zh">筋膜枪颈部放松练习（20241203）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250315200900 +0800" stop="20250315203100 +0800">
+		<title lang="zh">大山里的一节体能课（20241210）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81527,6 +81542,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250315191200 +0800" stop="20250315201300 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250315201300 +0800" stop="20250315211300 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
