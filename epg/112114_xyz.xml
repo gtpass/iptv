@@ -40125,6 +40125,9 @@
 	<programme channel="黑莓电影" start="20250317001800 +0800" stop="20250317015000 +0800">
 		<title lang="zh">虚拟世界</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250317015000 +0800" stop="20250317032100 +0800">
+		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40374,6 +40377,9 @@
 	<programme channel="newtv军旅剧场" start="20250317004300 +0800" stop="20250317014900 +0800">
 		<title lang="zh">30_大汉口</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250317014900 +0800" stop="20250317025500 +0800">
+		<title lang="zh">31_大汉口</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -40511,6 +40517,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250317001500 +0800" stop="20250317015100 +0800">
 		<title lang="zh">封神：画圣归来</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250317015100 +0800" stop="20250317033700 +0800">
+		<title lang="zh">新方世玉前传侠者无畏</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
