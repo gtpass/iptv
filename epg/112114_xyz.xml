@@ -40278,6 +40278,9 @@
 	<programme channel="黑莓动画" start="20250317031500 +0800" stop="20250317040100 +0800">
 		<title lang="zh">01_一人之下 第4季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250317040100 +0800" stop="20250317041900 +0800">
+		<title lang="zh">35_我靠充值当武帝</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40491,6 +40494,9 @@
 	<programme channel="newtv超级体育" start="20250317023900 +0800" stop="20250317040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250317040000 +0800" stop="20250317053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第7轮 曼城-富勒姆</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40520,6 +40526,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250317031400 +0800" stop="20250317035900 +0800">
 		<title lang="zh">30_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250317035900 +0800" stop="20250317044000 +0800">
+		<title lang="zh">16_亲爱的孩子们</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -40617,6 +40626,9 @@
 	<programme channel="newtv爱情喜剧" start="20250317020600 +0800" stop="20250317034600 +0800">
 		<title lang="zh">虎口夺金</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250317034600 +0800" stop="20250317045200 +0800">
+		<title lang="zh">31_曾少年</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -40676,6 +40688,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250317025700 +0800" stop="20250317034900 +0800">
 		<title lang="zh">东胜之光暖北疆 国防知识挑战赛走进东胜</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250317034900 +0800" stop="20250317044100 +0800">
+		<title lang="zh">军校招考季特别节目 强军梦想从这里启航</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -40739,6 +40754,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250317021400 +0800" stop="20250317035100 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第20轮：海登海姆VS多特蒙德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250317035100 +0800" stop="20250317052900 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第14轮：美因茨VS拜仁</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
