@@ -40194,6 +40194,9 @@
 	<programme channel="黑莓动画" start="20250318045700 +0800" stop="20250318054800 +0800">
 		<title lang="zh">02_星辰变第二季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250318054800 +0800" stop="20250318063600 +0800">
+		<title lang="zh">24_蓝色监狱</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40455,6 +40458,9 @@
 	<programme channel="newtv超级体育" start="20250318053000 +0800" stop="20250318060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250318060000 +0800" stop="20250318063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40536,6 +40542,9 @@
 	<programme channel="newtv精品纪录" start="20250318045400 +0800" stop="20250318055400 +0800">
 		<title lang="zh">01_人类增强</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250318055400 +0800" stop="20250318064600 +0800">
+		<title lang="zh">02_人机结合</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -40601,6 +40610,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250318044700 +0800" stop="20250318055100 +0800">
 		<title lang="zh">40_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250318055100 +0800" stop="20250318063700 +0800">
+		<title lang="zh">01_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -40719,6 +40731,9 @@
 	<programme channel="newtv军事评论" start="20250318052300 +0800" stop="20250318054800 +0800">
 		<title lang="zh">捣毁“军”字号“特供酒”产业链</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250318054800 +0800" stop="20250318061300 +0800">
+		<title lang="zh">废墟上的无言战士</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -40749,6 +40764,9 @@
 	<programme channel="newtv炫舞未来" start="20250318052600 +0800" stop="20250318054700 +0800">
 		<title lang="zh">基础球感训练：颠球（20250106）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250318054700 +0800" stop="20250318060800 +0800">
+		<title lang="zh">亲子健身操（20241209）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40763,6 +40781,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250318045400 +0800" stop="20250318060000 +0800">
 		<title lang="zh">38_光荣时代</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250318060000 +0800" stop="20250318070500 +0800">
+		<title lang="zh">39_光荣时代</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
