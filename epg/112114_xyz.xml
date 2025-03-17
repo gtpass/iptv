@@ -25773,6 +25773,9 @@
 	<programme channel="咪咕综合体育" start="20250317111000 +0800" stop="20250317115400 +0800">
 		<title lang="zh">国球荣耀262-2025乒乓球亚洲杯 女单决赛 孙颖莎-王曼昱</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250317120000 +0800" stop="20250317135000 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第2轮 上海申花-北京国安</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39554,6 +39557,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250317105700 +0800" stop="20250317115700 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="明星大片" start="20250317115700 +0800" stop="20250317134500 +0800">
+		<title lang="zh">高楼万丈平地起</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60756,6 +60762,9 @@
 	<programme channel="纯享4K" start="20250317113400 +0800" stop="20250317114900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 狩猎纹金方奇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250317114900 +0800" stop="20250317123000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 黄河首曲 生态草原</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -74529,6 +74538,9 @@
 	<programme channel="newtv超级体育" start="20250317103200 +0800" stop="20250317120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第41轮 浙江稠州金租-广东东阳光</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250317120000 +0800" stop="20250317130000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -74600,6 +74612,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250317111400 +0800" stop="20250317115800 +0800">
 		<title lang="zh">24_长大</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250317115800 +0800" stop="20250317124200 +0800">
+		<title lang="zh">25_长大</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -74726,6 +74741,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250317110600 +0800" stop="20250317115200 +0800">
 		<title lang="zh">32_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250317115200 +0800" stop="20250317123900 +0800">
+		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -74855,6 +74873,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250317111700 +0800" stop="20250317114700 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250317114700 +0800" stop="20250317125100 +0800">
+		<title lang="zh">无名客栈之麒麟觉醒</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -75158,6 +75179,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250317105700 +0800" stop="20250317115700 +0800">
 		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250317115700 +0800" stop="20250317134500 +0800">
+		<title lang="zh">高楼万丈平地起</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
