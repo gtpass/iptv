@@ -40818,6 +40818,9 @@
 	<programme channel="newtv超级体育" start="20250319023800 +0800" stop="20250319040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250319040000 +0800" stop="20250319053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第9轮 切尔西-纽卡斯尔联</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40847,6 +40850,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250319032200 +0800" stop="20250319040700 +0800">
 		<title lang="zh">40_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250319040700 +0800" stop="20250319041200 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41051,6 +41057,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250319005100 +0800" stop="20250319022800 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250319040500 +0800" stop="20250319052700 +0800">
+		<title lang="zh">十三邀第7季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
