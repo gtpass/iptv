@@ -38682,6 +38682,9 @@
 	<programme channel="惊悚悬疑" start="20250318151000 +0800" stop="20250318155000 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250318155000 +0800" stop="20250318170500 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -58163,6 +58166,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250318144200 +0800" stop="20250318155000 +0800">
 		<title lang="zh">05_星汉灿烂</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250318155000 +0800" stop="20250318163900 +0800">
+		<title lang="zh">06_星汉灿烂</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -78786,6 +78792,9 @@
 	<programme channel="newtv超级综艺" start="20250318144400 +0800" stop="20250318160100 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250318160100 +0800" stop="20250318165100 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -78827,6 +78836,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250318142800 +0800" stop="20250318160000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第41轮</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250318160000 +0800" stop="20250318180000 +0800">
+		<title lang="zh">运动一起赢</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -78929,6 +78941,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250318151600 +0800" stop="20250318160400 +0800">
 		<title lang="zh">32_大奉打更人</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250318160400 +0800" stop="20250318165000 +0800">
+		<title lang="zh">33_大奉打更人</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79098,6 +79113,9 @@
 	<programme channel="newtv古装剧场" start="20250318144300 +0800" stop="20250318154900 +0800">
 		<title lang="zh">22_神医喜来乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250318154900 +0800" stop="20250318163600 +0800">
+		<title lang="zh">23_神医喜来乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79260,6 +79278,9 @@
 	<programme channel="newtv热播精选" start="20250318144800 +0800" stop="20250318155600 +0800">
 		<title lang="zh">31_前夜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250318155600 +0800" stop="20250318170000 +0800">
+		<title lang="zh">32_前夜</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79304,6 +79325,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250318144200 +0800" stop="20250318155000 +0800">
 		<title lang="zh">05_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250318155000 +0800" stop="20250318163900 +0800">
+		<title lang="zh">06_星汉灿烂</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -79554,6 +79578,9 @@
 	<programme channel="newtv军事评论" start="20250318153500 +0800" stop="20250318155700 +0800">
 		<title lang="zh">二战的爆发（三）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250318155700 +0800" stop="20250318161900 +0800">
+		<title lang="zh">二战的爆发（四）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79628,6 +79655,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250318153900 +0800" stop="20250318160100 +0800">
 		<title lang="zh">有氧跳绳跟练（20240528）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250318160100 +0800" stop="20250318165000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -79728,6 +79758,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250318151000 +0800" stop="20250318155000 +0800">
 		<title lang="zh">Chritsniroid轻型便携电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250318155000 +0800" stop="20250318170500 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -79781,6 +79814,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250318144100 +0800" stop="20250318154700 +0800">
 		<title lang="zh">2025乒乓球亚洲杯男单半决赛：林诗栋VS梁靖崑</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250318154700 +0800" stop="20250318163400 +0800">
+		<title lang="zh">2025乒乓球亚洲杯女单半决赛：蒯曼VS王曼昱</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
