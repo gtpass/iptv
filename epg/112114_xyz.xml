@@ -27573,6 +27573,9 @@
 	<programme channel="咪咕综合体育" start="20250318200000 +0800" stop="20250318200500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250318200500 +0800" stop="20250318214500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第28轮 马德里竞技-巴塞罗那</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63858,6 +63861,9 @@
 	<programme channel="纯享4K" start="20250318192900 +0800" stop="20250318201000 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 齐鲁海岸 多彩之地</title>
 	</programme>
+	<programme channel="纯享4K" start="20250318201000 +0800" stop="20250318205200 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 山海之间 魅力海岛</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79461,6 +79467,9 @@
 	<programme channel="newtv古装剧场" start="20250318191900 +0800" stop="20250318200600 +0800">
 		<title lang="zh">29_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250318200600 +0800" stop="20250318205400 +0800">
+		<title lang="zh">30_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79868,6 +79877,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250318192700 +0800" stop="20250318201100 +0800">
 		<title lang="zh">贵州混斗联盟vs吉林咔乐咪 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250318201100 +0800" stop="20250318204700 +0800">
+		<title lang="zh">贵州混斗联盟vs吉林咔乐咪 第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80319,6 +80331,9 @@
 	<programme channel="newtv金牌综艺" start="20250318184700 +0800" stop="20250318200700 +0800">
 		<title lang="zh">现在就出发第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250318200700 +0800" stop="20250318210700 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -80462,6 +80477,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250318185800 +0800" stop="20250318200500 +0800">
 		<title lang="zh">14_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250318200500 +0800" stop="20250318205100 +0800">
+		<title lang="zh">15_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
