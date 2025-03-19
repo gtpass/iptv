@@ -28374,6 +28374,9 @@
 	<programme channel="咪咕综合体育" start="20250319111000 +0800" stop="20250319115700 +0800">
 		<title lang="zh">国球荣耀267-2025乒乓球亚洲杯 女单半决赛 孙颖莎-陈幸同</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250319115700 +0800" stop="20250319121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
