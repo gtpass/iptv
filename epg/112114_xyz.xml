@@ -28386,6 +28386,9 @@
 	<programme channel="咪咕综合体育" start="20250319121000 +0800" stop="20250319135000 +0800">
 		<title lang="zh">足球世界-24/25赛季意甲 第27轮 那不勒斯-国际米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250319135500 +0800" stop="20250319153500 +0800">
+		<title lang="zh">足球世界-24/25赛季亚冠精英联赛 东亚区 1/8决赛次回合 横滨水手-上海海港</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -70002,6 +70005,9 @@
 	<programme channel="超级电影" start="20250319123600 +0800" stop="20250319135400 +0800">
 		<title lang="zh">电影《篮球美少女》</title>
 	</programme>
+	<programme channel="超级电影" start="20250319135400 +0800" stop="20250319152000 +0800">
+		<title lang="zh">电影《另类民兵葛二蛋》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81093,6 +81099,9 @@
 	<programme channel="newtv超级综艺" start="20250319122400 +0800" stop="20250319135400 +0800">
 		<title lang="zh">乐在旅途 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250319135400 +0800" stop="20250319144300 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81132,6 +81141,9 @@
 	<programme channel="newtv超级体育" start="20250319133500 +0800" stop="20250319135500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250319135500 +0800" stop="20250319145800 +0800">
+		<title lang="zh">实况录像-2025年世界速度滑冰锦标赛 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81164,6 +81176,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250319123600 +0800" stop="20250319135400 +0800">
 		<title lang="zh">电影《篮球美少女》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250319135400 +0800" stop="20250319152000 +0800">
+		<title lang="zh">电影《另类民兵葛二蛋》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -81224,6 +81239,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250319130900 +0800" stop="20250319135500 +0800">
 		<title lang="zh">36_长大</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250319135500 +0800" stop="20250319144000 +0800">
+		<title lang="zh">37_长大</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -81326,6 +81344,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250319124100 +0800" stop="20250319135100 +0800">
 		<title lang="zh">2023匠心独道 第5集 福建三明篇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250319135100 +0800" stop="20250319151100 +0800">
+		<title lang="zh">2023味之道b7年味 第1集 浙江宁波篇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -81651,6 +81672,9 @@
 	<programme channel="newtv怡伴健康" start="20250319130200 +0800" stop="20250319134700 +0800">
 		<title lang="zh">11_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250319134700 +0800" stop="20250319145300 +0800">
+		<title lang="zh">12_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81704,6 +81728,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250319130900 +0800" stop="20250319135500 +0800">
 		<title lang="zh">20_好事成双</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250319135500 +0800" stop="20250319144400 +0800">
+		<title lang="zh">HOKO富硒RO直饮厨下即热净水机新-渠道（右）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81774,6 +81801,9 @@
 	<programme channel="newtv军事评论" start="20250319132500 +0800" stop="20250319134600 +0800">
 		<title lang="zh">一战沙场b7维耶阿芒（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250319134600 +0800" stop="20250319140800 +0800">
+		<title lang="zh">一战沙场b7凡尔登（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81824,6 +81854,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250319130200 +0800" stop="20250319135100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250319135100 +0800" stop="20250319141200 +0800">
+		<title lang="zh">古诗韵律操（20240610）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
