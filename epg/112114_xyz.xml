@@ -41109,11 +41109,17 @@
 	<programme channel="newtv超级体育" start="20250322003500 +0800" stop="20250322020500 +0800">
 		<title lang="zh">实况录像-2025年四大洲花样滑冰锦标赛 女单自由滑</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250322020500 +0800" stop="20250322040000 +0800">
+		<title lang="zh">2025年澳大利亚网球公开赛-男单决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20250322003000 +0800" stop="20250322020400 +0800">
 		<title lang="zh">金毛犬段景柱</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250322020400 +0800" stop="20250322032500 +0800">
+		<title lang="zh">少侠班</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
