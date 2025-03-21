@@ -28587,6 +28587,9 @@
 	<programme channel="咪咕足球" start="20250321190000 +0800" stop="20250321220000 +0800">
 		<title lang="zh">当燃CBA-24/25常规赛第43轮 辽宁本钢-广州朗肽海本 直播</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250321220000 +0800" stop="20250321221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -82974,6 +82977,9 @@
 	<programme channel="newtv超级综艺" start="20250321205200 +0800" stop="20250321215700 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250321215700 +0800" stop="20250321222800 +0800">
+		<title lang="zh">中国文艺报道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83174,6 +83180,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250321211600 +0800" stop="20250321220100 +0800">
 		<title lang="zh">29_六姊妹</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250321220100 +0800" stop="20250321224700 +0800">
+		<title lang="zh">30_六姊妹</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84389,6 +84398,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250321210500 +0800" stop="20250321220100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250321220100 +0800" stop="20250321002300 +0800">
+		<title lang="zh">半熟恋人第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
