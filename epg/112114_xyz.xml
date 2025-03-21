@@ -40029,6 +40029,9 @@
 	<programme channel="惊悚悬疑" start="20250321095700 +0800" stop="20250321114900 +0800">
 		<title lang="zh">检察风云</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250321114900 +0800" stop="20250321121900 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -66537,6 +66540,9 @@
 	<programme channel="纯享4K" start="20250321113800 +0800" stop="20250321115300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 十二月令图b7五月</title>
 	</programme>
+	<programme channel="纯享4K" start="20250321115300 +0800" stop="20250321123500 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 水润江苏美如画</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81306,6 +81312,9 @@
 	<programme channel="黑莓动画" start="20250321111500 +0800" stop="20250321120100 +0800">
 		<title lang="zh">汪汪队立大功第3季08</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250321120100 +0800" stop="20250321122800 +0800">
+		<title lang="zh">09_钶龙战记第4季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82296,6 +82305,9 @@
 	<programme channel="newtv超级体育" start="20250321103200 +0800" stop="20250321120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第42轮 辽宁本钢-深圳马可波罗</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250321120000 +0800" stop="20250321130000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82461,6 +82473,9 @@
 	<programme channel="newtv精品纪录" start="20250321101800 +0800" stop="20250321120000 +0800">
 		<title lang="zh">01_7岁看老</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250321120000 +0800" stop="20250321124400 +0800">
+		<title lang="zh">01_拼搏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82592,6 +82607,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250321105700 +0800" stop="20250321115200 +0800">
 		<title lang="zh">34_烟火人家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250321115200 +0800" stop="20250321123800 +0800">
+		<title lang="zh">35_烟火人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82848,6 +82866,9 @@
 	<programme channel="newtv军事评论" start="20250321105800 +0800" stop="20250321115200 +0800">
 		<title lang="zh">鹤舞兵心岁月长</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250321115200 +0800" stop="20250321124500 +0800">
+		<title lang="zh">春节特别节目“老兵的和美乡村年”（一）繁花盛景映初心</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82977,6 +82998,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250321095700 +0800" stop="20250321114900 +0800">
 		<title lang="zh">检察风云</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250321114900 +0800" stop="20250321121900 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83105,6 +83129,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250321110300 +0800" stop="20250321115100 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250321115100 +0800" stop="20250321132600 +0800">
+		<title lang="zh">百家拳之跤神佟忠义</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
