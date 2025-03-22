@@ -27741,6 +27741,9 @@
 	<programme channel="咪咕综合体育" start="20250322195000 +0800" stop="20250322200000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250322200000 +0800" stop="20250322202500 +0800">
+		<title lang="zh">中超精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -64187,6 +64190,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250322193000 +0800" stop="20250322201200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 万千美丽乡村在“浙”里</title>
+	</programme>
+	<programme channel="纯享4K" start="20250322201200 +0800" stop="20250322205400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 阿尔金山的荒野之美</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
