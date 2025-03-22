@@ -27642,6 +27642,9 @@
 	<programme channel="咪咕综合体育" start="20250322141000 +0800" stop="20250322160000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第2轮 上海申花-北京国安</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250322160000 +0800" stop="20250322161000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -78681,6 +78684,9 @@
 	<programme channel="黑莓动画" start="20250322154200 +0800" stop="20250322155000 +0800">
 		<title lang="zh">11_植物精灵大战僵尸怪</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250322155000 +0800" stop="20250322164100 +0800">
+		<title lang="zh">大牙进入水晶球世界 小马宝莉现身守护大牙美梦</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78710,6 +78716,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250322140500 +0800" stop="20250322155500 +0800">
 		<title lang="zh">碟中谍</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250322155500 +0800" stop="20250322171600 +0800">
+		<title lang="zh">武神苏乞儿之黄金海盗</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -79926,6 +79935,9 @@
 	<programme channel="newtv精品纪录" start="20250322145700 +0800" stop="20250322154700 +0800">
 		<title lang="zh">2023匠心独道 第5集 福建三明篇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250322154700 +0800" stop="20250322162000 +0800">
+		<title lang="zh">11_我的抗战：雾都茫茫</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79976,6 +79988,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250322144400 +0800" stop="20250322155100 +0800">
 		<title lang="zh">03_锦绣安宁</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250322155100 +0800" stop="20250322163600 +0800">
+		<title lang="zh">04_锦绣安宁</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -80154,6 +80169,9 @@
 	<programme channel="newtv热播精选" start="20250322145300 +0800" stop="20250322154900 +0800">
 		<title lang="zh">12_潜行者</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250322154900 +0800" stop="20250322164400 +0800">
+		<title lang="zh">13_潜行者</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80294,6 +80312,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250322153000 +0800" stop="20250322160000 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250322160000 +0800" stop="20250322161100 +0800">
+		<title lang="zh">相声《如此家长》 表演：金霏 陈曦</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80442,6 +80463,9 @@
 	<programme channel="newtv军事评论" start="20250322153300 +0800" stop="20250322155500 +0800">
 		<title lang="zh">斯卡帕沉船行动（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250322155500 +0800" stop="20250322161700 +0800">
+		<title lang="zh">轰炸鲁昂（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80513,6 +80537,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250322150700 +0800" stop="20250322155600 +0800">
 		<title lang="zh">100组选手重出江湖 乌兰牧骑再次绽放舞台（20230624）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250322155600 +0800" stop="20250322164500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
