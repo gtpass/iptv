@@ -27627,6 +27627,9 @@
 	<programme channel="咪咕综合体育" start="20250322101500 +0800" stop="20250322115500 +0800">
 		<title lang="zh">足球世界-24/25赛季西甲 第28轮 马德里竞技-巴塞罗那</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250322120000 +0800" stop="20250322140000 +0800">
+		<title lang="zh">网球世界-2025WTA1000印第安维尔斯站女单第3轮 郑钦文-孙璐璐</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41816,6 +41819,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250322111400 +0800" stop="20250322114900 +0800">
 		<title lang="zh">LECEA钛健康保温八角杯家庭组-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250322114900 +0800" stop="20250322132800 +0800">
+		<title lang="zh">枪神赵子龙</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -63837,6 +63843,9 @@
 	<programme channel="纯享4K" start="20250322113300 +0800" stop="20250322114800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 商山四皓图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250322114800 +0800" stop="20250322122900 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 万千美丽乡村在“浙”里</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -68519,6 +68528,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250322102900 +0800" stop="20250322120400 +0800">
 		<title lang="zh">疯狂大营救</title>
+	</programme>
+	<programme channel="超级电影" start="20250322120400 +0800" stop="20250322121100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -78864,6 +78876,9 @@
 	<programme channel="newtv超级体育" start="20250322105500 +0800" stop="20250322120000 +0800">
 		<title lang="zh">2025年世界一级方程式锦标赛-中国大奖赛 冲刺赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250322120000 +0800" stop="20250322130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78887,6 +78902,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250322102900 +0800" stop="20250322120400 +0800">
 		<title lang="zh">疯狂大营救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250322120400 +0800" stop="20250322121100 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -79022,6 +79040,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250322105200 +0800" stop="20250322115500 +0800">
 		<title lang="zh">02_7岁看老</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250322115500 +0800" stop="20250322121900 +0800">
+		<title lang="zh">03_漫舞</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79197,6 +79218,9 @@
 	<programme channel="newtv热播精选" start="20250322112400 +0800" stop="20250322115300 +0800">
 		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250322115300 +0800" stop="20250322132800 +0800">
+		<title lang="zh">非常营救</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -79298,6 +79322,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250322104700 +0800" stop="20250322115200 +0800">
 		<title lang="zh">08_搜神记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250322115200 +0800" stop="20250322122000 +0800">
+		<title lang="zh">网络“暗箭”</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79496,6 +79523,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250322111400 +0800" stop="20250322114900 +0800">
 		<title lang="zh">LECEA钛健康保温八角杯家庭组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250322114900 +0800" stop="20250322132800 +0800">
+		<title lang="zh">枪神赵子龙</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
