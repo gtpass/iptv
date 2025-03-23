@@ -33969,6 +33969,9 @@
 	<programme channel="纯享4K" start="20250324011800 +0800" stop="20250324014800 +0800">
 		<title lang="zh">味道4K 原味乡间b7英德篇（1）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250324014800 +0800" stop="20250324021700 +0800">
+		<title lang="zh">味道4K 原味乡间b7英德篇（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -41133,6 +41136,9 @@
 	<programme channel="newtv超级电视剧" start="20250324010700 +0800" stop="20250324015200 +0800">
 		<title lang="zh">62_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250324015200 +0800" stop="20250324023500 +0800">
+		<title lang="zh">63_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -41181,6 +41187,9 @@
 	<programme channel="newtv家庭剧场" start="20250324010400 +0800" stop="20250324015900 +0800">
 		<title lang="zh">24_好事成双</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250324015900 +0800" stop="20250324024500 +0800">
+		<title lang="zh">25_好事成双</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41198,6 +41207,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250324000000 +0800" stop="20250324014900 +0800">
 		<title lang="zh">龙门镇客栈</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250324014900 +0800" stop="20250324033600 +0800">
+		<title lang="zh">圆环行动</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -41232,6 +41244,9 @@
 	<programme channel="newtv军事评论" start="20250324013100 +0800" stop="20250324015800 +0800">
 		<title lang="zh">决胜山岭</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250324015800 +0800" stop="20250324022400 +0800">
+		<title lang="zh">水上驰援</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -41240,6 +41255,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250324012600 +0800" stop="20250324015200 +0800">
 		<title lang="zh">披荆斩棘</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250324015200 +0800" stop="20250324021800 +0800">
+		<title lang="zh">核弹元勋</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
