@@ -43935,6 +43935,9 @@
 	<programme channel="newtv超级体育" start="20250325023500 +0800" stop="20250325040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250325040000 +0800" stop="20250325053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第13轮 曼彻斯特联-埃弗顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -43943,6 +43946,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250325022700 +0800" stop="20250325035800 +0800">
 		<title lang="zh">冰雪11天</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250325035800 +0800" stop="20250325053500 +0800">
+		<title lang="zh">老妈学车</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -44028,6 +44034,9 @@
 	<programme channel="newtv军旅剧场" start="20250325025800 +0800" stop="20250325035000 +0800">
 		<title lang="zh">05_喋血长江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250325035000 +0800" stop="20250325044100 +0800">
+		<title lang="zh">06_喋血长江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -44043,6 +44052,9 @@
 	<programme channel="newtv家庭剧场" start="20250325025800 +0800" stop="20250325035300 +0800">
 		<title lang="zh">30_好事成双</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250325035300 +0800" stop="20250325043900 +0800">
+		<title lang="zh">27_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -44054,6 +44066,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250325031400 +0800" stop="20250325040100 +0800">
 		<title lang="zh">29_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250325040100 +0800" stop="20250325045800 +0800">
+		<title lang="zh">30_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -44172,6 +44187,9 @@
 	<programme channel="newtv精品综合" start="20250325021000 +0800" stop="20250325034800 +0800">
 		<title lang="zh">大伙之家</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250325034800 +0800" stop="20250325045300 +0800">
+		<title lang="zh">12_烽火英雄传</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -44255,6 +44273,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250325024600 +0800" stop="20250325035700 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250325035700 +0800" stop="20250325051200 +0800">
+		<title lang="zh">拳王争霸赛 卡洛斯-亚当斯VS朱利安-威廉姆斯</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
