@@ -45138,6 +45138,9 @@
 	<programme channel="newtv超级体育" start="20250326023800 +0800" stop="20250326040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250326040000 +0800" stop="20250326053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法国足球甲级联赛第3轮 里尔-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45167,6 +45170,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250326031400 +0800" stop="20250326040000 +0800">
 		<title lang="zh">01_三十而已</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250326040000 +0800" stop="20250326044600 +0800">
+		<title lang="zh">13_特别行动</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45209,6 +45215,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250326030900 +0800" stop="20250326035000 +0800">
 		<title lang="zh">第3集 邱锡鹏：改变世界，从小苔藓开始，MOSS之父的大模型探索</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250326035000 +0800" stop="20250326042300 +0800">
+		<title lang="zh">第4集 鲍捷：穿越人工智能的冬天，迎接大模型时代的“恒纪元”</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -45306,6 +45315,9 @@
 	<programme channel="newtv动作电影" start="20250326023700 +0800" stop="20250326035200 +0800">
 		<title lang="zh">最后的武林2铁砂掌</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250326035200 +0800" stop="20250326052500 +0800">
+		<title lang="zh">终极审判</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -45324,6 +45336,9 @@
 	<programme channel="newtv怡伴健康" start="20250326025900 +0800" stop="20250326034700 +0800">
 		<title lang="zh">捕食者智商考验（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250326034700 +0800" stop="20250326043500 +0800">
+		<title lang="zh">捕食者智商考验（下）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45341,6 +45356,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250326031000 +0800" stop="20250326035400 +0800">
 		<title lang="zh">20_民国恩仇录</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250326035400 +0800" stop="20250326043800 +0800">
+		<title lang="zh">21_民国恩仇录</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45366,6 +45384,9 @@
 	<programme channel="newtv军事评论" start="20250326032200 +0800" stop="20250326034900 +0800">
 		<title lang="zh">新年第一训</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250326034900 +0800" stop="20250326041600 +0800">
+		<title lang="zh">合成打击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45380,6 +45401,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250326033800 +0800" stop="20250326035100 +0800">
 		<title lang="zh">Mojito-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250326035100 +0800" stop="20250326040400 +0800">
+		<title lang="zh">闲庭絮-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
