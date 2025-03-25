@@ -27186,6 +27186,9 @@
 	<programme channel="咪咕综合体育" start="20250325191500 +0800" stop="20250325200700 +0800">
 		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 女单1/4决赛 孙颖莎-大藤沙月</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250325201500 +0800" stop="20250325210500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -76278,6 +76281,9 @@
 	<programme channel="黑莓动画" start="20250325183600 +0800" stop="20250325200300 +0800">
 		<title lang="zh">葫芦兄弟电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250325200300 +0800" stop="20250325213200 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77751,6 +77757,9 @@
 	<programme channel="newtv军旅剧场" start="20250325193700 +0800" stop="20250325200700 +0800">
 		<title lang="zh">《四方美食》第25期-芹菜炒牛肉丝</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250325200700 +0800" stop="20250325205400 +0800">
+		<title lang="zh">10_天狼星行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -77832,6 +77841,9 @@
 	<programme channel="newtv家庭剧场" start="20250325191400 +0800" stop="20250325200400 +0800">
 		<title lang="zh">19_妻子的新世界</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250325200400 +0800" stop="20250325205000 +0800">
+		<title lang="zh">21_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -77900,6 +77912,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250325193800 +0800" stop="20250325200800 +0800">
 		<title lang="zh">【推荐】飞天商务十二生肖酒</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250325200800 +0800" stop="20250325205900 +0800">
+		<title lang="zh">10_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -78098,6 +78113,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250325193300 +0800" stop="20250325201600 +0800">
 		<title lang="zh">北京源莱慧精英vs广东N5 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250325201600 +0800" stop="20250325205300 +0800">
+		<title lang="zh">北京源莱慧精英vs广东N5 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -78317,6 +78335,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250325194200 +0800" stop="20250325200300 +0800">
 		<title lang="zh">环太平洋二〇二四联合军演</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250325200300 +0800" stop="20250325202900 +0800">
+		<title lang="zh">美国作势挺赖清德 把台湾当盘中餐</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
