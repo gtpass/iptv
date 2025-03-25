@@ -45027,6 +45027,9 @@
 	<programme channel="黑莓动画" start="20250326040600 +0800" stop="20250326055600 +0800">
 		<title lang="zh">间谍过家家 代号：白（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250326055600 +0800" stop="20250326060900 +0800">
+		<title lang="zh">11_宝贝多米之认知启蒙</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45354,6 +45357,9 @@
 	<programme channel="newtv超级体育" start="20250326053000 +0800" stop="20250326060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250326060000 +0800" stop="20250326063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45368,6 +45374,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250326043500 +0800" stop="20250326055900 +0800">
 		<title lang="zh">天生胆小</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250326055900 +0800" stop="20250326071700 +0800">
+		<title lang="zh">终极代码</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45420,6 +45429,9 @@
 	<programme channel="newtv精品大剧" start="20250326050300 +0800" stop="20250326055000 +0800">
 		<title lang="zh">13_飞狐外传</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250326055000 +0800" stop="20250326063000 +0800">
+		<title lang="zh">14_飞狐外传</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -45452,6 +45464,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250326051700 +0800" stop="20250326054800 +0800">
 		<title lang="zh">海天英雄 张超</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250326054800 +0800" stop="20250326061800 +0800">
+		<title lang="zh">核盾功勋 林俊德</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -45570,6 +45585,9 @@
 	<programme channel="newtv爱情喜剧" start="20250326050800 +0800" stop="20250326055600 +0800">
 		<title lang="zh">11_山村大爷</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250326055600 +0800" stop="20250326073200 +0800">
+		<title lang="zh">仙女鸟飞过的夏天</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -45678,6 +45696,9 @@
 	<programme channel="newtv军事评论" start="20250326053200 +0800" stop="20250326055700 +0800">
 		<title lang="zh">新春走军营之多彩民俗进军营 第七集 策马奔腾情谊深</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250326055700 +0800" stop="20250326062300 +0800">
+		<title lang="zh">新春走军营之战友你健身了吗 第一集 “战龙杯”军营健身巅峰赛</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45767,6 +45788,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250326043900 +0800" stop="20250326055900 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第17轮：巴列卡诺VS皇家马德里</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250326055900 +0800" stop="20250326074500 +0800">
+		<title lang="zh">2024-25赛季西甲联赛第16轮：皇家贝蒂斯VS巴塞罗那</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
