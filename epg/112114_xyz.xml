@@ -79980,6 +79980,9 @@
 	<programme channel="黑莓动画" start="20250326112500 +0800" stop="20250326115100 +0800">
 		<title lang="zh">20_超级飞侠第15季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250326115100 +0800" stop="20250326122500 +0800">
+		<title lang="zh">16_嗨道奇第2季中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81096,6 +81099,9 @@
 	<programme channel="newtv精品大剧" start="20250326110200 +0800" stop="20250326114700 +0800">
 		<title lang="zh">BEYONPAN钛健康炒锅优惠组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250326114700 +0800" stop="20250326123200 +0800">
+		<title lang="zh">11_加油！妈妈（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81155,6 +81161,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250326113000 +0800" stop="20250326120000 +0800">
 		<title lang="zh">2023美味寒假（17）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250326120000 +0800" stop="20250326122900 +0800">
+		<title lang="zh">2023美味寒假（18）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -81347,6 +81356,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250326110100 +0800" stop="20250326115000 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250326115000 +0800" stop="20250326132100 +0800">
+		<title lang="zh">超级风暴</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
