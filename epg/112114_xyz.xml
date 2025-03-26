@@ -43332,6 +43332,9 @@
 	<programme channel="newtv超级综艺" start="20250327024000 +0800" stop="20250327040200 +0800">
 		<title lang="zh">小品相声大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250327040200 +0800" stop="20250327053100 +0800">
+		<title lang="zh">乐在旅途 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -43343,6 +43346,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250327023500 +0800" stop="20250327040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单第一轮(郑钦文-托多尼)(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250327040000 +0800" stop="20250327053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第15轮 富勒姆-阿森纳(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -43464,6 +43470,9 @@
 	<programme channel="newtv家庭剧场" start="20250327031000 +0800" stop="20250327035500 +0800">
 		<title lang="zh">05_林深见鹿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250327035500 +0800" stop="20250327044400 +0800">
+		<title lang="zh">06_林深见鹿</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -43542,6 +43551,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250327030200 +0800" stop="20250327034600 +0800">
 		<title lang="zh">28_民国恩仇录</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250327034600 +0800" stop="20250327043000 +0800">
+		<title lang="zh">29_民国恩仇录</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -43569,6 +43581,9 @@
 	<programme channel="newtv军事评论" start="20250327032700 +0800" stop="20250327035300 +0800">
 		<title lang="zh">俄乌爆发“导弹袭城大战” 伊朗军舰进入红海 美战略抽身或成泡影？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250327035300 +0800" stop="20250327041800 +0800">
+		<title lang="zh">高原铁骑的惊险行车路</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -43584,6 +43599,9 @@
 	<programme channel="newtv炫舞未来" start="20250327034200 +0800" stop="20250327035700 +0800">
 		<title lang="zh">唱响新时代—毕刚（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250327035700 +0800" stop="20250327041300 +0800">
+		<title lang="zh">海那边的桃花开—毕刚（纯净版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -43595,6 +43613,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250327025800 +0800" stop="20250327034700 +0800">
 		<title lang="zh">19_烽火英雄传</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250327034700 +0800" stop="20250327043600 +0800">
+		<title lang="zh">20_烽火英雄传</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
