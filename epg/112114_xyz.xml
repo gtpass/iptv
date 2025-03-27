@@ -39948,6 +39948,9 @@
 	<programme channel="newtv超级体育" start="20250328021000 +0800" stop="20250328040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-男单半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250328040000 +0800" stop="20250328053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第16轮 利物浦-富勒姆(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40014,6 +40017,9 @@
 	<programme channel="newtv精品纪录" start="20250328030000 +0800" stop="20250328035100 +0800">
 		<title lang="zh">第一集 创新引领</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250328035100 +0800" stop="20250328044100 +0800">
+		<title lang="zh">第二集 敢为人先</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -40064,6 +40070,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250328025900 +0800" stop="20250328034800 +0800">
 		<title lang="zh">06_追爱家族</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250328034800 +0800" stop="20250328043300 +0800">
+		<title lang="zh">09_追爱家族</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
