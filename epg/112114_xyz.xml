@@ -27750,6 +27750,9 @@
 	<programme channel="咪咕综合体育" start="20250328134000 +0800" stop="20250328140500 +0800">
 		<title lang="zh">中超精华</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250328140500 +0800" stop="20250328141000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41609,6 +41612,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250328132500 +0800" stop="20250328134800 +0800">
 		<title lang="zh">33_间谍过家家</title>
+	</programme>
+	<programme channel="明星大片" start="20250328134800 +0800" stop="20250328141800 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -68094,6 +68100,9 @@
 	<programme channel="超级电影" start="20250328115400 +0800" stop="20250328135000 +0800">
 		<title lang="zh">奇迹b7笨小孩</title>
 	</programme>
+	<programme channel="超级电影" start="20250328135000 +0800" stop="20250328152800 +0800">
+		<title lang="zh">电影《拳霸3》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -78261,6 +78270,9 @@
 	<programme channel="newtv超级电影" start="20250328115400 +0800" stop="20250328135000 +0800">
 		<title lang="zh">奇迹b7笨小孩</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250328135000 +0800" stop="20250328152800 +0800">
+		<title lang="zh">电影《拳霸3》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78318,6 +78330,9 @@
 	<programme channel="newtv超级电视剧" start="20250328131600 +0800" stop="20250328140200 +0800">
 		<title lang="zh">03_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250328140200 +0800" stop="20250328144700 +0800">
+		<title lang="zh">04_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78374,6 +78389,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250328130100 +0800" stop="20250328134700 +0800">
 		<title lang="zh">14_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250328134700 +0800" stop="20250328141700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -78819,6 +78837,9 @@
 	<programme channel="newtv怡伴健康" start="20250328133900 +0800" stop="20250328135900 +0800">
 		<title lang="zh">【相声】《选择题》表演：孟鹤堂、周九良</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250328135900 +0800" stop="20250328142600 +0800">
+		<title lang="zh">懦弱丈夫起杀心</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79076,6 +79097,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250328132500 +0800" stop="20250328134800 +0800">
 		<title lang="zh">33_间谍过家家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250328134800 +0800" stop="20250328141800 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
