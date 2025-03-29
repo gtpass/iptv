@@ -41604,6 +41604,9 @@
 	<programme channel="明星大片" start="20250329110400 +0800" stop="20250329115200 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250329115200 +0800" stop="20250329133500 +0800">
+		<title lang="zh">熊猫计划</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -78945,6 +78948,9 @@
 	<programme channel="newtv超级体育" start="20250329103300 +0800" stop="20250329120000 +0800">
 		<title lang="zh">赛事集锦-2025年世界女子冰壶锦标赛 3(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250329120000 +0800" stop="20250329130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79022,6 +79028,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250329112100 +0800" stop="20250329120600 +0800">
 		<title lang="zh">05_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250329120600 +0800" stop="20250329125200 +0800">
+		<title lang="zh">06_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79685,6 +79694,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250329110400 +0800" stop="20250329115200 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250329115200 +0800" stop="20250329133500 +0800">
+		<title lang="zh">熊猫计划</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
