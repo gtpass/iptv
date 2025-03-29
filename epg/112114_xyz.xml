@@ -41628,6 +41628,9 @@
 	<programme channel="明星大片" start="20250329133500 +0800" stop="20250329135900 +0800">
 		<title lang="zh">36_间谍过家家</title>
 	</programme>
+	<programme channel="明星大片" start="20250329135900 +0800" stop="20250329144400 +0800">
+		<title lang="zh">BEYONPAN钛健康炒锅优惠组-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -79008,6 +79011,9 @@
 	<programme channel="newtv超级体育" start="20250329132500 +0800" stop="20250329140000 +0800">
 		<title lang="zh">实况录像-2025年世界花样滑冰锦标赛 冰舞韵律舞(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250329140000 +0800" stop="20250329150000 +0800">
+		<title lang="zh">实况录像-2025年世界单板滑雪锦标赛 大跳台决赛(录播)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79157,6 +79163,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250329132800 +0800" stop="20250329140000 +0800">
 		<title lang="zh">19_余生，请多指教</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250329140000 +0800" stop="20250329142900 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79349,6 +79358,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250329130700 +0800" stop="20250329135600 +0800">
 		<title lang="zh">09_无间</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250329135600 +0800" stop="20250329144600 +0800">
+		<title lang="zh">10_无间</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79659,6 +79671,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250329131200 +0800" stop="20250329135800 +0800">
 		<title lang="zh">24_柳舟记</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250329135800 +0800" stop="20250329142800 +0800">
+		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79745,6 +79760,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250329133800 +0800" stop="20250329140000 +0800">
 		<title lang="zh">二战英国铁路</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250329140000 +0800" stop="20250329142200 +0800">
+		<title lang="zh">二战德国铁路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79862,6 +79880,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250329133500 +0800" stop="20250329135900 +0800">
 		<title lang="zh">36_间谍过家家</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250329135900 +0800" stop="20250329144400 +0800">
+		<title lang="zh">BEYONPAN钛健康炒锅优惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
