@@ -26922,6 +26922,9 @@
 	<programme channel="咪咕综合体育" start="20250330215000 +0800" stop="20250330220000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250330220000 +0800" stop="20250330000000 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第29轮 巴塞罗那-吉罗纳 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -26993,6 +26996,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250330214000 +0800" stop="20250330220000 +0800">
 		<title lang="zh">荣耀之路</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250330220000 +0800" stop="20250330221000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -38279,6 +38285,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250330195000 +0800" stop="20250330215800 +0800">
 		<title lang="zh">盲探</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250330215800 +0800" stop="20250330222800 +0800">
+		<title lang="zh">《美丽密码》推荐第72期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -63414,6 +63423,9 @@
 	<programme channel="纯享4K" start="20250330210700 +0800" stop="20250330215500 +0800">
 		<title lang="zh">传承 第二季4K 第六集 流变</title>
 	</programme>
+	<programme channel="纯享4K" start="20250330215500 +0800" stop="20250330224300 +0800">
+		<title lang="zh">传承 第二季4K 第七集 家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78075,6 +78087,9 @@
 	<programme channel="黑莓动画" start="20250330201000 +0800" stop="20250330215000 +0800">
 		<title lang="zh">世纪末的魔术师 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250330215000 +0800" stop="20250330233000 +0800">
+		<title lang="zh">假面骑士（平成世代-永恒）日语版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79122,6 +79137,9 @@
 	<programme channel="newtv超级体育" start="20250330200000 +0800" stop="20250330220000 +0800">
 		<title lang="zh">2025年世界自由式滑雪锦标赛-空中技巧决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250330220000 +0800" stop="20250330003000 +0800">
+		<title lang="zh">2024/2025西班牙足球甲级联赛-第29轮(巴塞罗那-赫罗纳)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79358,6 +79376,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250330210100 +0800" stop="20250330214700 +0800">
 		<title lang="zh">06_问心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250330214700 +0800" stop="20250330221700 +0800">
+		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79641,6 +79662,9 @@
 	<programme channel="newtv军旅剧场" start="20250330212900 +0800" stop="20250330215900 +0800">
 		<title lang="zh">《美丽密码》推荐第72期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250330215900 +0800" stop="20250330224400 +0800">
+		<title lang="zh">32_天狼星行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79733,6 +79757,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250330210600 +0800" stop="20250330215700 +0800">
 		<title lang="zh">10_妈妈无罪</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250330215700 +0800" stop="20250330224400 +0800">
+		<title lang="zh">11_妈妈无罪</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80280,6 +80307,9 @@
 	<programme channel="newtv军事评论" start="20250330212800 +0800" stop="20250330215300 +0800">
 		<title lang="zh">大陆释放善意 赖清德紧闭大门</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250330215300 +0800" stop="20250330221900 +0800">
+		<title lang="zh">紧盯大陆战机 台军炒作“极度逼近”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80507,6 +80537,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250330195000 +0800" stop="20250330215800 +0800">
 		<title lang="zh">盲探</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250330215800 +0800" stop="20250330222800 +0800">
+		<title lang="zh">《美丽密码》推荐第72期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
