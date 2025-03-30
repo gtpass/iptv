@@ -36696,6 +36696,9 @@
 	<programme channel="纯享4K" start="20250331050400 +0800" stop="20250331055300 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
 	</programme>
+	<programme channel="纯享4K" start="20250331055300 +0800" stop="20250331064200 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45003,6 +45006,9 @@
 	<programme channel="newtv超级体育" start="20250331053000 +0800" stop="20250331060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250331060000 +0800" stop="20250331063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 美国站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45066,6 +45072,9 @@
 	<programme channel="newtv精品大剧" start="20250331051700 +0800" stop="20250331060100 +0800">
 		<title lang="zh">38_飞狐外传</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250331060100 +0800" stop="20250331064600 +0800">
+		<title lang="zh">39_飞狐外传</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -45090,6 +45099,9 @@
 	<programme channel="newtv精品纪录" start="20250331050900 +0800" stop="20250331054800 +0800">
 		<title lang="zh">共和国医者：张嘉庆 王泰龄</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250331054800 +0800" stop="20250331062700 +0800">
+		<title lang="zh">共和国医者：赵雅度 薛光</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45113,6 +45125,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250331045900 +0800" stop="20250331055200 +0800">
 		<title lang="zh">19_有翡</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250331055200 +0800" stop="20250331064400 +0800">
+		<title lang="zh">20_有翡</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -45141,6 +45156,9 @@
 	<programme channel="newtv军旅剧场" start="20250331053100 +0800" stop="20250331060100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250331060100 +0800" stop="20250331064400 +0800">
+		<title lang="zh">03_狐影</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -45165,6 +45183,9 @@
 	<programme channel="newtv家庭剧场" start="20250331050000 +0800" stop="20250331054600 +0800">
 		<title lang="zh">23_林深见鹿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250331054600 +0800" stop="20250331063500 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -45183,6 +45204,9 @@
 	<programme channel="newtv热播精选" start="20250331050600 +0800" stop="20250331055200 +0800">
 		<title lang="zh">25_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250331055200 +0800" stop="20250331064100 +0800">
+		<title lang="zh">26_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -45197,6 +45221,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250331050600 +0800" stop="20250331055700 +0800">
 		<title lang="zh">02_安家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250331055700 +0800" stop="20250331064500 +0800">
+		<title lang="zh">03_安家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -45288,6 +45315,9 @@
 	<programme channel="newtv军事评论" start="20250331052300 +0800" stop="20250331055000 +0800">
 		<title lang="zh">走进“狙击榴”诞生地</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250331055000 +0800" stop="20250331061600 +0800">
+		<title lang="zh">追伞花的兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45356,6 +45386,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250331041100 +0800" stop="20250331054700 +0800">
 		<title lang="zh">美人皮</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250331054700 +0800" stop="20250331072000 +0800">
+		<title lang="zh">变体</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
