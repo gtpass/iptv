@@ -36639,6 +36639,9 @@
 	<programme channel="惊悚悬疑" start="20250331101400 +0800" stop="20250331102400 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250331103400 +0800" stop="20250331124100 +0800">
+		<title lang="zh">终结者：黑暗命运</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -76152,6 +76155,9 @@
 	<programme channel="黑莓电影" start="20250331090500 +0800" stop="20250331104200 +0800">
 		<title lang="zh">谷魂</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250331104200 +0800" stop="20250331120900 +0800">
+		<title lang="zh">血战狙击岭</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -77076,6 +77082,9 @@
 	<programme channel="newtv超级电视剧" start="20250331100300 +0800" stop="20250331104600 +0800">
 		<title lang="zh">03_女医明妃传</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250331104600 +0800" stop="20250331113200 +0800">
+		<title lang="zh">15_岁岁年年柿柿红</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -77117,6 +77126,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250331095000 +0800" stop="20250331103900 +0800">
 		<title lang="zh">29_加油！妈妈（4K）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250331103900 +0800" stop="20250331112400 +0800">
+		<title lang="zh">30_加油！妈妈（4K）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -77211,6 +77223,9 @@
 	<programme channel="newtv古装剧场" start="20250331095000 +0800" stop="20250331103900 +0800">
 		<title lang="zh">32_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250331103900 +0800" stop="20250331112500 +0800">
+		<title lang="zh">39_锦绣安宁</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -77255,6 +77270,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250331094700 +0800" stop="20250331103200 +0800">
 		<title lang="zh">20_海魂</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250331103200 +0800" stop="20250331111800 +0800">
+		<title lang="zh">21_海魂</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -77538,6 +77556,9 @@
 	<programme channel="newtv军事评论" start="20250331094500 +0800" stop="20250331103700 +0800">
 		<title lang="zh">军威赫赫 第3集 新中国的第一个音符</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250331103700 +0800" stop="20250331112800 +0800">
+		<title lang="zh">军威赫赫 第4集 大国鸣响</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77594,6 +77615,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250331102800 +0800" stop="20250331104400 +0800">
 		<title lang="zh">错位时空-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250331104400 +0800" stop="20250331110000 +0800">
+		<title lang="zh">半壶纱-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -77663,6 +77687,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250331101400 +0800" stop="20250331102400 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250331103400 +0800" stop="20250331124100 +0800">
+		<title lang="zh">终结者：黑暗命运</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -77786,6 +77813,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250331094300 +0800" stop="20250331103500 +0800">
 		<title lang="zh">12_九义人</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250331103500 +0800" stop="20250331112500 +0800">
+		<title lang="zh">13_九义人</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
