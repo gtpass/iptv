@@ -25563,6 +25563,9 @@
 	<programme channel="咪咕综合体育" start="20250331110000 +0800" stop="20250331115400 +0800">
 		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 男单1/8决赛 林诗栋-安宰贤</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250331120000 +0800" stop="20250331134000 +0800">
+		<title lang="zh">足球世界-24/25赛季德甲 第26轮 柏林联合-拜仁慕尼黑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -77019,6 +77022,9 @@
 	<programme channel="newtv超级综艺" start="20250331102600 +0800" stop="20250331114800 +0800">
 		<title lang="zh">会唱歌的院子</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250331114800 +0800" stop="20250331132500 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -77048,6 +77054,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250331090000 +0800" stop="20250331120000 +0800">
 		<title lang="zh">2025年世界男子冰壶锦标赛- 循环赛(意大利队-中国队)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250331120000 +0800" stop="20250331130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -77169,6 +77178,9 @@
 	<programme channel="newtv精品大剧" start="20250331112400 +0800" stop="20250331115400 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250331115400 +0800" stop="20250331124000 +0800">
+		<title lang="zh">31_加油！妈妈（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77222,6 +77234,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250331111800 +0800" stop="20250331115100 +0800">
 		<title lang="zh">第3集：长大</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250331115100 +0800" stop="20250331120400 +0800">
+		<title lang="zh">第9集：人间至味是酸甜</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77414,6 +77429,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250331110900 +0800" stop="20250331115400 +0800">
 		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250331115400 +0800" stop="20250331132600 +0800">
+		<title lang="zh">夺宝家庭</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -77637,6 +77655,9 @@
 	<programme channel="newtv军事评论" start="20250331112800 +0800" stop="20250331115000 +0800">
 		<title lang="zh">二战西线反击战 突破半岛防线</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250331115000 +0800" stop="20250331121200 +0800">
+		<title lang="zh">一战沙场b7维耶阿芒（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77699,6 +77720,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250331110000 +0800" stop="20250331114900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250331114900 +0800" stop="20250331124800 +0800">
+		<title lang="zh">王若宁表演豫剧《谁说女子不如男》 以花木兰为题难倒一片（20240719）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
