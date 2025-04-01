@@ -27771,6 +27771,9 @@
 	<programme channel="咪咕综合体育" start="20250401113000 +0800" stop="20250401120700 +0800">
 		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 男单1/8决赛 莫雷加德-邱党</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250401120700 +0800" stop="20250401121000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42689,6 +42692,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250401110300 +0800" stop="20250401115100 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250401115100 +0800" stop="20250401134200 +0800">
+		<title lang="zh">冒牌上帝</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -71007,6 +71013,9 @@
 	<programme channel="超级电影" start="20250401102900 +0800" stop="20250401120400 +0800">
 		<title lang="zh">鬼才战队</title>
 	</programme>
+	<programme channel="超级电影" start="20250401120400 +0800" stop="20250401132500 +0800">
+		<title lang="zh">电影《别叫我酒神》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82260,6 +82269,9 @@
 	<programme channel="newtv超级电影" start="20250401102900 +0800" stop="20250401120400 +0800">
 		<title lang="zh">鬼才战队</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250401120400 +0800" stop="20250401132500 +0800">
+		<title lang="zh">电影《别叫我酒神》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82359,6 +82371,9 @@
 	<programme channel="newtv精品大剧" start="20250401111900 +0800" stop="20250401114900 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250401114900 +0800" stop="20250401123500 +0800">
+		<title lang="zh">35_加油！妈妈（4K）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82415,6 +82430,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250401112900 +0800" stop="20250401115400 +0800">
 		<title lang="zh">02_日常</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250401115400 +0800" stop="20250401122300 +0800">
+		<title lang="zh">2023美味寒假（10）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82562,6 +82580,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250401111200 +0800" stop="20250401115700 +0800">
 		<title lang="zh">05_向幸福出发</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250401115700 +0800" stop="20250401124200 +0800">
+		<title lang="zh">06_向幸福出发</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82940,6 +82961,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250401110300 +0800" stop="20250401115100 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250401115100 +0800" stop="20250401134200 +0800">
+		<title lang="zh">冒牌上帝</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
