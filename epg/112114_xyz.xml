@@ -20961,6 +20961,9 @@
 	<programme channel="动作电影" start="20250401212200 +0800" stop="20250401215200 +0800">
 		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
+	<programme channel="动作电影" start="20250401215200 +0800" stop="20250401234500 +0800">
+		<title lang="zh">千钧一发</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27983,6 +27986,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250401214500 +0800" stop="20250401220000 +0800">
 		<title lang="zh">掘金之路</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250401220000 +0800" stop="20250401221000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -66504,6 +66510,9 @@
 	<programme channel="纯享4K" start="20250401210200 +0800" stop="20250401215100 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
 	</programme>
+	<programme channel="纯享4K" start="20250401215100 +0800" stop="20250401224000 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82959,6 +82968,9 @@
 	<programme channel="newtv精品大剧" start="20250401210700 +0800" stop="20250401215300 +0800">
 		<title lang="zh">14_问心</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250401215300 +0800" stop="20250401222200 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83415,6 +83427,9 @@
 	<programme channel="newtv热播精选" start="20250401212300 +0800" stop="20250401215300 +0800">
 		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250401215300 +0800" stop="20250401232200 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83541,6 +83556,9 @@
 	<programme channel="newtv动作电影" start="20250401212200 +0800" stop="20250401215200 +0800">
 		<title lang="zh">《八段锦》推荐第19期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250401215200 +0800" stop="20250401234500 +0800">
+		<title lang="zh">千钧一发</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -83648,6 +83666,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250401211500 +0800" stop="20250401214900 +0800">
 		<title lang="zh">福建梦幻vs安徽青竹居 第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250401214900 +0800" stop="20250401223300 +0800">
+		<title lang="zh">福建梦幻vs安徽青竹居 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83880,6 +83901,9 @@
 	<programme channel="newtv军事评论" start="20250401212300 +0800" stop="20250401214900 +0800">
 		<title lang="zh">“5b720”前再挑衅 美台秘密军演</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250401214900 +0800" stop="20250401221400 +0800">
+		<title lang="zh">“5b720”就在眼前 赖清德如何交卷？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83969,6 +83993,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250401205800 +0800" stop="20250401214600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250401214600 +0800" stop="20250401220800 +0800">
+		<title lang="zh">特色武术操（20240603）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
