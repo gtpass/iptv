@@ -38901,6 +38901,9 @@
 	<programme channel="纯享4K" start="20250402050200 +0800" stop="20250402055100 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第5集 李白 仙山</title>
 	</programme>
+	<programme channel="纯享4K" start="20250402055100 +0800" stop="20250402064000 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47937,6 +47940,9 @@
 	<programme channel="黑莓动画" start="20250402042800 +0800" stop="20250402055300 +0800">
 		<title lang="zh">排球少年！！垃圾场决战</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250402055300 +0800" stop="20250402071400 +0800">
+		<title lang="zh">丑小鸭历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48267,6 +48273,9 @@
 	<programme channel="newtv超级体育" start="20250402053000 +0800" stop="20250402060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250402060000 +0800" stop="20250402063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 荷兰站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48308,6 +48317,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250402051400 +0800" stop="20250402055400 +0800">
 		<title lang="zh">11_双刺</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250402055400 +0800" stop="20250402063500 +0800">
+		<title lang="zh">12_双刺</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48360,6 +48372,9 @@
 	<programme channel="newtv精品纪录" start="20250402050400 +0800" stop="20250402055700 +0800">
 		<title lang="zh">06_我们，向何处去</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250402055700 +0800" stop="20250402063500 +0800">
+		<title lang="zh">共和国医者：黄受方 傅守静</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -48407,6 +48422,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250402050400 +0800" stop="20250402054700 +0800">
 		<title lang="zh">12_狐影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250402054700 +0800" stop="20250402061700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48474,6 +48492,9 @@
 	<programme channel="newtv爱情喜剧" start="20250402050500 +0800" stop="20250402055600 +0800">
 		<title lang="zh">13_安家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250402055600 +0800" stop="20250402064500 +0800">
+		<title lang="zh">14_安家</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48488,6 +48509,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250402042900 +0800" stop="20250402060100 +0800">
 		<title lang="zh">晨星</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250402060100 +0800" stop="20250402073700 +0800">
+		<title lang="zh">独立日大电影</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48591,6 +48615,9 @@
 	<programme channel="newtv炫舞未来" start="20250402045700 +0800" stop="20250402055700 +0800">
 		<title lang="zh">选对健康（20250321）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250402055700 +0800" stop="20250402061800 +0800">
+		<title lang="zh">脊柱灵活性训练（20240604）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48626,6 +48653,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250402042900 +0800" stop="20250402055600 +0800">
 		<title lang="zh">血战狙击岭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250402055600 +0800" stop="20250402073400 +0800">
+		<title lang="zh">拳霸3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
