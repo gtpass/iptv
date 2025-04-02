@@ -45045,6 +45045,9 @@
 	<programme channel="newtv超级综艺" start="20250403014300 +0800" stop="20250403035300 +0800">
 		<title lang="zh">小品相声大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250403035300 +0800" stop="20250403043600 +0800">
+		<title lang="zh">回声嘹亮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45056,6 +45059,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250403023500 +0800" stop="20250403040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单第一轮(郑钦文-托多尼)(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250403040000 +0800" stop="20250403053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第16轮 布赖顿-水晶宫 (4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -45129,6 +45135,9 @@
 	<programme channel="newtv精品纪录" start="20250403033300 +0800" stop="20250403035200 +0800">
 		<title lang="zh">02_实景地图采集员</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250403035200 +0800" stop="20250403041000 +0800">
+		<title lang="zh">03_铁甲设计师</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45198,6 +45207,9 @@
 	<programme channel="newtv热播精选" start="20250403030700 +0800" stop="20250403035200 +0800">
 		<title lang="zh">05_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250403035200 +0800" stop="20250403044200 +0800">
+		<title lang="zh">06_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -45252,6 +45264,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250403030500 +0800" stop="20250403035300 +0800">
 		<title lang="zh">07_独生子女的婆婆妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250403035300 +0800" stop="20250403044000 +0800">
+		<title lang="zh">08_独生子女的婆婆妈妈</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -45267,6 +45282,9 @@
 	<programme channel="newtv军事评论" start="20250403025400 +0800" stop="20250403034700 +0800">
 		<title lang="zh">“文化瑰宝 老兵守护”系列节目（三）守护千年奇迹兵马俑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250403034700 +0800" stop="20250403044100 +0800">
+		<title lang="zh">“文化瑰宝 老兵守护”系列节目（四）彭柳升：刀刻石间岁月凝</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45278,6 +45296,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250403033800 +0800" stop="20250403035600 +0800">
 		<title lang="zh">10_套马杆-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250403035600 +0800" stop="20250403040800 +0800">
+		<title lang="zh">02_牧羊曲-李萍（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -45299,6 +45320,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250403021500 +0800" stop="20250403035700 +0800">
 		<title lang="zh">缉枪</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250403035700 +0800" stop="20250403052200 +0800">
+		<title lang="zh">复仇计划</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
