@@ -28470,6 +28470,9 @@
 	<programme channel="咪咕综合体育" start="20250402173000 +0800" stop="20250402200000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第4轮 上海申花-云南玉昆 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250402200500 +0800" stop="20250402203000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -83169,6 +83172,9 @@
 	<programme channel="newtv超级电视剧" start="20250402192500 +0800" stop="20250402201000 +0800">
 		<title lang="zh">18_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250402201000 +0800" stop="20250402205500 +0800">
+		<title lang="zh">15_北上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84359,6 +84365,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250402191000 +0800" stop="20250402202200 +0800">
 		<title lang="zh">现在就出发第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250402202200 +0800" stop="20250402222100 +0800">
+		<title lang="zh">活力满分的夏天</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
