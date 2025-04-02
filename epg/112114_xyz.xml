@@ -37194,6 +37194,9 @@
 	<programme channel="纯享4K" start="20250403050300 +0800" stop="20250403055300 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250403055300 +0800" stop="20250403064200 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第3集 出塞曲</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -45006,6 +45009,9 @@
 	<programme channel="黑莓动画" start="20250403042900 +0800" stop="20250403055400 +0800">
 		<title lang="zh">奇妙萌可大电影</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250403055400 +0800" stop="20250403073500 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45312,6 +45318,9 @@
 	<programme channel="newtv超级综艺" start="20250403043600 +0800" stop="20250403060100 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250403060100 +0800" stop="20250403065100 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45329,6 +45338,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250403053000 +0800" stop="20250403060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子四人雪车决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250403060000 +0800" stop="20250403063000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季速度滑冰世界杯 加拿大站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -45371,6 +45383,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250403051100 +0800" stop="20250403055200 +0800">
 		<title lang="zh">14_双刺</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250403055200 +0800" stop="20250403063200 +0800">
+		<title lang="zh">15_双刺</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45429,6 +45444,9 @@
 	<programme channel="newtv精品纪录" start="20250403051800 +0800" stop="20250403055600 +0800">
 		<title lang="zh">共和国医者：陈在嘉 梁承玮</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250403055600 +0800" stop="20250403063100 +0800">
+		<title lang="zh">共和国医者：陈彤云</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45452,6 +45470,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250403050300 +0800" stop="20250403055500 +0800">
 		<title lang="zh">31_有翡</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250403055500 +0800" stop="20250403064700 +0800">
+		<title lang="zh">32_有翡</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -45506,6 +45527,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250403050700 +0800" stop="20250403055800 +0800">
 		<title lang="zh">35_林深见鹿</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250403055800 +0800" stop="20250403064700 +0800">
+		<title lang="zh">36_林深见鹿</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
