@@ -81573,6 +81573,9 @@
 	<programme channel="newtv超级体育" start="20250403103200 +0800" stop="20250403120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 第46轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250403120000 +0800" stop="20250403130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81768,6 +81771,9 @@
 	<programme channel="newtv精品纪录" start="20250403105900 +0800" stop="20250403114900 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250403114900 +0800" stop="20250403122800 +0800">
+		<title lang="zh">流动的盛宴</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81870,6 +81876,9 @@
 	<programme channel="newtv军旅剧场" start="20250403113100 +0800" stop="20250403120100 +0800">
 		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250403120100 +0800" stop="20250403124600 +0800">
+		<title lang="zh">29_无间</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81959,6 +81968,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250403111800 +0800" stop="20250403115700 +0800">
 		<title lang="zh">足行健老人鞋防滑按摩健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250403115700 +0800" stop="20250403132400 +0800">
+		<title lang="zh">鲨卷风</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82197,6 +82209,9 @@
 	<programme channel="newtv军事评论" start="20250403113700 +0800" stop="20250403115900 +0800">
 		<title lang="zh">谁是军营厨王（19）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250403115900 +0800" stop="20250403122100 +0800">
+		<title lang="zh">谁是军营厨王（20）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82353,6 +82368,9 @@
 	<programme channel="newtv金牌综艺" start="20250403101000 +0800" stop="20250403120700 +0800">
 		<title lang="zh">登录圆鱼洲</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250403120700 +0800" stop="20250403142400 +0800">
+		<title lang="zh">越战越勇（2024）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -82454,6 +82472,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250403110900 +0800" stop="20250403115600 +0800">
 		<title lang="zh">BEYONPAN钛健康养生壶新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250403115600 +0800" stop="20250403132500 +0800">
+		<title lang="zh">侠探锦毛鼠之血光再起</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
