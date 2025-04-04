@@ -81885,6 +81885,9 @@
 	<programme channel="newtv军旅剧场" start="20250404111000 +0800" stop="20250404115600 +0800">
 		<title lang="zh">05_潜行者</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250404115600 +0800" stop="20250404122600 +0800">
+		<title lang="zh">万向旋转净水器推广片4001087099</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82098,6 +82101,9 @@
 	<programme channel="newtv怡伴健康" start="20250404110700 +0800" stop="20250404115700 +0800">
 		<title lang="zh">44_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250404115700 +0800" stop="20250404120600 +0800">
+		<title lang="zh">小品《年货保卫战》 表演：张凯丽 张亮 李丁 等</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82142,6 +82148,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250404110100 +0800" stop="20250404115000 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250404115000 +0800" stop="20250404123800 +0800">
+		<title lang="zh">舌尖上的中国 第一季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82214,6 +82223,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250404113400 +0800" stop="20250404115600 +0800">
 		<title lang="zh">谁是军营厨王（33）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250404115600 +0800" stop="20250404121800 +0800">
+		<title lang="zh">谁是军营厨王（34）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -82361,6 +82373,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250404075800 +0800" stop="20250404084700 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-春节版-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250404084700 +0800" stop="20250404115300 +0800">
+		<title lang="zh">星光大道（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250404115300 +0800" stop="20250404155500 +0800">
+		<title lang="zh">登录圆鱼洲</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250404084700 +0800" stop="20250404115300 +0800">
 		<title lang="zh">星光大道（2024）</title>
