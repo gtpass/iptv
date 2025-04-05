@@ -39978,6 +39978,9 @@
 	<programme channel="惊悚悬疑" start="20250405122300 +0800" stop="20250405135200 +0800">
 		<title lang="zh">无底洞</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250405135200 +0800" stop="20250405152400 +0800">
+		<title lang="zh">绝命藏宝图</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43394,6 +43397,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250405133300 +0800" stop="20250405135700 +0800">
 		<title lang="zh">15_葬送的芙莉莲</title>
+	</programme>
+	<programme channel="明星大片" start="20250405135700 +0800" stop="20250405142700 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66180,6 +66186,9 @@
 	<programme channel="纯享4K" start="20250405130600 +0800" stop="20250405135500 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
 	</programme>
+	<programme channel="纯享4K" start="20250405135500 +0800" stop="20250405144400 +0800">
+		<title lang="zh">我们的征途4K 第1集</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81876,6 +81885,9 @@
 	<programme channel="newtv超级体育" start="20250405133500 +0800" stop="20250405135500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250405135500 +0800" stop="20250405152500 +0800">
+		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82016,6 +82028,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250405130500 +0800" stop="20250405134900 +0800">
 		<title lang="zh">16_婚内婚外</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250405134900 +0800" stop="20250405141800 +0800">
+		<title lang="zh">（券）自然之臻阿拉斯加鳕鱼-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82440,6 +82455,9 @@
 	<programme channel="newtv怡伴健康" start="20250405134400 +0800" stop="20250405135000 +0800">
 		<title lang="zh">【相声】《儿时玩伴》表演：孟鹤堂、周九良</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250405135800 +0800" stop="20250405141200 +0800">
+		<title lang="zh">【相声】《决赛风波》表演：陈印泉、侯振鹏</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82578,6 +82596,9 @@
 	<programme channel="newtv军事评论" start="20250405132600 +0800" stop="20250405134700 +0800">
 		<title lang="zh">古罗马的宿敌（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250405134700 +0800" stop="20250405140800 +0800">
+		<title lang="zh">古罗马的宿敌（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82692,6 +82713,9 @@
 	<programme channel="newtv精品综合" start="20250405133300 +0800" stop="20250405135700 +0800">
 		<title lang="zh">15_葬送的芙莉莲</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250405135700 +0800" stop="20250405142700 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82724,6 +82748,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250405122300 +0800" stop="20250405135200 +0800">
 		<title lang="zh">无底洞</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250405135200 +0800" stop="20250405152400 +0800">
+		<title lang="zh">绝命藏宝图</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
