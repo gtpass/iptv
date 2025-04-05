@@ -43368,6 +43368,9 @@
 	<programme channel="明星大片" start="20250405105800 +0800" stop="20250405114600 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250405114600 +0800" stop="20250405133300 +0800">
+		<title lang="zh">攻壳机动队</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -80856,6 +80859,9 @@
 	<programme channel="黑莓电影" start="20250405103800 +0800" stop="20250405115900 +0800">
 		<title lang="zh">西游之双圣战神</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250405115900 +0800" stop="20250405131300 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -81990,6 +81996,9 @@
 	<programme channel="newtv精品纪录" start="20250405110600 +0800" stop="20250405115600 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250405115600 +0800" stop="20250405123900 +0800">
+		<title lang="zh">第一集 人心向背</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82140,6 +82149,9 @@
 	<programme channel="newtv家庭剧场" start="20250405110900 +0800" stop="20250405115700 +0800">
 		<title lang="zh">23_向幸福出发</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250405115700 +0800" stop="20250405124200 +0800">
+		<title lang="zh">24_向幸福出发</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82181,6 +82193,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250405111800 +0800" stop="20250405115700 +0800">
 		<title lang="zh">足行健老人鞋防滑按摩健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250405115700 +0800" stop="20250405132900 +0800">
+		<title lang="zh">鲨卷风3</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82296,6 +82311,9 @@
 	<programme channel="newtv怡伴健康" start="20250405111500 +0800" stop="20250405120100 +0800">
 		<title lang="zh">01_生活就是家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250405120100 +0800" stop="20250405124700 +0800">
+		<title lang="zh">02_生活就是家</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82343,6 +82361,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250405110100 +0800" stop="20250405115000 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250405115000 +0800" stop="20250405123800 +0800">
+		<title lang="zh">舌尖上的中国 第一季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82412,6 +82433,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250405113600 +0800" stop="20250405115800 +0800">
 		<title lang="zh">谁是军营厨王（41）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250405115800 +0800" stop="20250405122000 +0800">
+		<title lang="zh">谁是军营厨王（42）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -82514,6 +82538,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250405105800 +0800" stop="20250405114600 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250405114600 +0800" stop="20250405133300 +0800">
+		<title lang="zh">攻壳机动队</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
