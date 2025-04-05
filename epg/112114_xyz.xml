@@ -66228,6 +66228,9 @@
 	<programme channel="纯享4K" start="20250405154300 +0800" stop="20250405155800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 壁画b7儿童跳绳图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250405155800 +0800" stop="20250405160800 +0800">
+		<title lang="zh">秘境之眼4K 成长在冬格措纳湖</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82104,6 +82107,9 @@
 	<programme channel="newtv精品大剧" start="20250405150200 +0800" stop="20250405154600 +0800">
 		<title lang="zh">18_婚内婚外</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250405154600 +0800" stop="20250405163400 +0800">
+		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82311,6 +82317,9 @@
 	<programme channel="newtv军旅剧场" start="20250405150200 +0800" stop="20250405155100 +0800">
 		<title lang="zh">40_无间</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250405155100 +0800" stop="20250405164100 +0800">
+		<title lang="zh">23_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82430,6 +82439,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250405150500 +0800" stop="20250405155300 +0800">
 		<title lang="zh">25_使徒行者3[粤语版]</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250405155300 +0800" stop="20250405163900 +0800">
+		<title lang="zh">26_使徒行者3[粤语版]</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82754,6 +82766,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250405153600 +0800" stop="20250405155800 +0800">
 		<title lang="zh">1812法俄战争b7决战在即（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250405155800 +0800" stop="20250405162000 +0800">
+		<title lang="zh">1812法俄战争b7决战在即（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
