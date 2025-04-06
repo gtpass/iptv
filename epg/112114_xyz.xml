@@ -46128,6 +46128,9 @@
 	<programme channel="newtv超级综艺" start="20250407020700 +0800" stop="20250407035900 +0800">
 		<title lang="zh">和美之夜</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250407035900 +0800" stop="20250407043400 +0800">
+		<title lang="zh">国之颂</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46139,6 +46142,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250407023800 +0800" stop="20250407040000 +0800">
 		<title lang="zh">2025年澳大利亚网球公开赛-女单决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250407040000 +0800" stop="20250407053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第9轮 朗斯-里尔</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -46185,6 +46191,9 @@
 	<programme channel="newtv精品大剧" start="20250407031300 +0800" stop="20250407035500 +0800">
 		<title lang="zh">17_谍战深海之惊蛰</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250407035500 +0800" stop="20250407044400 +0800">
+		<title lang="zh">27_十送红军</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -46202,6 +46211,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250407032400 +0800" stop="20250407035200 +0800">
 		<title lang="zh">第五集 刀锋挑战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250407035200 +0800" stop="20250407044500 +0800">
+		<title lang="zh">第三集 决策之智</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46260,6 +46272,9 @@
 	<programme channel="newtv家庭剧场" start="20250407031300 +0800" stop="20250407040000 +0800">
 		<title lang="zh">09_原来就是你</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250407040000 +0800" stop="20250407045100 +0800">
+		<title lang="zh">10_原来就是你</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -46271,6 +46286,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250407030800 +0800" stop="20250407035300 +0800">
 		<title lang="zh">26_新居之约</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250407035300 +0800" stop="20250407044200 +0800">
+		<title lang="zh">27_新居之约</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -46328,6 +46346,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250407030700 +0800" stop="20250407035500 +0800">
 		<title lang="zh">35_独生子女的婆婆妈妈</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250407035500 +0800" stop="20250407044300 +0800">
+		<title lang="zh">36_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
