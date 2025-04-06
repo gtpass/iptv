@@ -42486,6 +42486,9 @@
 	<programme channel="明星大片" start="20250406110300 +0800" stop="20250406115100 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250406115100 +0800" stop="20250406133600 +0800">
+		<title lang="zh">足球少年</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -81294,6 +81297,9 @@
 	<programme channel="newtv精品纪录" start="20250406110600 +0800" stop="20250406115600 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250406115600 +0800" stop="20250406124100 +0800">
+		<title lang="zh">第三集 踏石留印</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81486,6 +81492,9 @@
 	<programme channel="newtv热播精选" start="20250406111500 +0800" stop="20250406115400 +0800">
 		<title lang="zh">足行健老人鞋防滑按摩健康组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250406115400 +0800" stop="20250406132300 +0800">
+		<title lang="zh">鲨卷风4</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -81599,6 +81608,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250406112100 +0800" stop="20250406115100 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250406115100 +0800" stop="20250406123700 +0800">
+		<title lang="zh">03_生活就是家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81720,6 +81732,9 @@
 	<programme channel="newtv军事评论" start="20250406113300 +0800" stop="20250406115800 +0800">
 		<title lang="zh">台军验证新版“接战规则” 美菲或进行“丛林跳岛”演练</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250406115800 +0800" stop="20250406122300 +0800">
+		<title lang="zh">德国二战后首次对外永久驻军 北约展露危险动向 乌军能力提升之快震惊美媒</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81818,6 +81833,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250406110300 +0800" stop="20250406115100 +0800">
 		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250406115100 +0800" stop="20250406133600 +0800">
+		<title lang="zh">足球少年</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
