@@ -42687,6 +42687,9 @@
 	<programme channel="明星大片" start="20250406192500 +0800" stop="20250406201000 +0800">
 		<title lang="zh">28_树下有片红房子</title>
 	</programme>
+	<programme channel="明星大片" start="20250406201000 +0800" stop="20250406211000 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -59865,6 +59868,9 @@
 	<programme channel="爱情喜剧" start="20250406194500 +0800" stop="20250406201500 +0800">
 		<title lang="zh">《美丽密码》推荐第79期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250406201500 +0800" stop="20250406213600 +0800">
+		<title lang="zh">跨越时空去爱你</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65735,6 +65741,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250406193200 +0800" stop="20250406201400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 铺装红毯 耕耘深蓝</title>
+	</programme>
+	<programme channel="纯享4K" start="20250406201400 +0800" stop="20250406205600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 山海情深 美丽家园</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81672,6 +81681,9 @@
 	<programme channel="newtv超级电视剧" start="20250406192200 +0800" stop="20250406200800 +0800">
 		<title lang="zh">25_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250406200800 +0800" stop="20250406205300 +0800">
+		<title lang="zh">26_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81752,6 +81764,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250406192700 +0800" stop="20250406201300 +0800">
 		<title lang="zh">32_六姊妹</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250406201300 +0800" stop="20250406204300 +0800">
+		<title lang="zh">万向旋转净水器推广片4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82086,6 +82101,9 @@
 	<programme channel="newtv家庭剧场" start="20250406191800 +0800" stop="20250406200700 +0800">
 		<title lang="zh">02_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250406200700 +0800" stop="20250406205200 +0800">
+		<title lang="zh">11_大嫁风尚</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82226,6 +82244,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250406194500 +0800" stop="20250406201500 +0800">
 		<title lang="zh">《美丽密码》推荐第79期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250406201500 +0800" stop="20250406213600 +0800">
+		<title lang="zh">跨越时空去爱你</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82371,6 +82392,9 @@
 	<programme channel="newtv怡伴健康" start="20250406192900 +0800" stop="20250406201500 +0800">
 		<title lang="zh">北京源莱慧精英vs四川剑开天门 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250406201500 +0800" stop="20250406204400 +0800">
+		<title lang="zh">《美丽密码》推荐第79期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82451,6 +82475,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250406192800 +0800" stop="20250406201300 +0800">
 		<title lang="zh">BEYONPAN多功能钛养生壶加赠组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250406201300 +0800" stop="20250406205700 +0800">
+		<title lang="zh">23_怎敌她千娇百媚</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82749,6 +82776,9 @@
 	<programme channel="newtv精品综合" start="20250406192500 +0800" stop="20250406201000 +0800">
 		<title lang="zh">28_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250406201000 +0800" stop="20250406211000 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83003,6 +83033,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250406192100 +0800" stop="20250406200700 +0800">
 		<title lang="zh">43_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250406200700 +0800" stop="20250406205200 +0800">
+		<title lang="zh">44_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
