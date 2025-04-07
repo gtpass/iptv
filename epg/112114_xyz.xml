@@ -19737,6 +19737,9 @@
 	<programme channel="动作电影" start="20250407090700 +0800" stop="20250407103400 +0800">
 		<title lang="zh">超级风暴</title>
 	</programme>
+	<programme channel="动作电影" start="20250407103900 +0800" stop="20250407120700 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -78936,6 +78939,9 @@
 	<programme channel="newtv精品纪录" start="20250407095500 +0800" stop="20250407103700 +0800">
 		<title lang="zh">第2集：咖啡之围</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250407103700 +0800" stop="20250407111900 +0800">
+		<title lang="zh">第四集 利剑出鞘</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78977,6 +78983,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250407095400 +0800" stop="20250407103900 +0800">
 		<title lang="zh">06_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250407103900 +0800" stop="20250407112400 +0800">
+		<title lang="zh">07_长歌行</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79167,6 +79176,9 @@
 	<programme channel="newtv动作电影" start="20250407090700 +0800" stop="20250407103400 +0800">
 		<title lang="zh">超级风暴</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250407103900 +0800" stop="20250407120700 +0800">
+		<title lang="zh">纵横千里之一发千钧</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -79211,6 +79223,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250407101000 +0800" stop="20250407103800 +0800">
 		<title lang="zh">古稀老人的归宿</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250407103800 +0800" stop="20250407112400 +0800">
+		<title lang="zh">05_生活就是家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79311,6 +79326,9 @@
 	<programme channel="newtv军事评论" start="20250407101800 +0800" stop="20250407104300 +0800">
 		<title lang="zh">950亿军援法案获通过 美继续披着“援助”外衣搞霸权</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250407104300 +0800" stop="20250407110900 +0800">
+		<title lang="zh">人民海军成立75周年特别节目 “舰”证和平力量 携手共护深蓝</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79358,6 +79376,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250407101300 +0800" stop="20250407103400 +0800">
 		<title lang="zh">全身健康操（20240812）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250407103400 +0800" stop="20250407112200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
