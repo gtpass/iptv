@@ -50385,6 +50385,9 @@
 	<programme channel="newtv超级体育" start="20250408053000 +0800" stop="20250408060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250408060000 +0800" stop="20250408063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50429,6 +50432,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250408052000 +0800" stop="20250408060000 +0800">
 		<title lang="zh">35_双刺</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250408060000 +0800" stop="20250408064100 +0800">
+		<title lang="zh">36_双刺</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50487,6 +50493,9 @@
 	<programme channel="newtv精品纪录" start="20250408052300 +0800" stop="20250408055400 +0800">
 		<title lang="zh">第4集：从传承到创新</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250408055400 +0800" stop="20250408063100 +0800">
+		<title lang="zh">共和国医者：金世元</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50511,6 +50520,9 @@
 	<programme channel="newtv古装剧场" start="20250408045600 +0800" stop="20250408054900 +0800">
 		<title lang="zh">51_有翡</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250408054900 +0800" stop="20250408063800 +0800">
+		<title lang="zh">01_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50534,6 +50546,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250408051400 +0800" stop="20250408055800 +0800">
 		<title lang="zh">36_狐影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250408055800 +0800" stop="20250408062800 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -50604,6 +50619,9 @@
 	<programme channel="newtv爱情喜剧" start="20250408050900 +0800" stop="20250408055900 +0800">
 		<title lang="zh">43_安家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250408055900 +0800" stop="20250408065000 +0800">
+		<title lang="zh">44_安家</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -50667,6 +50685,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250408053800 +0800" stop="20250408055100 +0800">
 		<title lang="zh">皖美早餐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250408055100 +0800" stop="20250408063300 +0800">
+		<title lang="zh">好好过春天（中）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50697,6 +50718,9 @@
 	<programme channel="newtv军事评论" start="20250408053300 +0800" stop="20250408060000 +0800">
 		<title lang="zh">海陆空无人侦察先锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250408060000 +0800" stop="20250408062700 +0800">
+		<title lang="zh">闪亮瞬间 珠海航展明星装备盘点</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50723,6 +50747,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250408052900 +0800" stop="20250408055600 +0800">
 		<title lang="zh">擅用照片惹麻烦（20240204）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250408055600 +0800" stop="20250408062300 +0800">
+		<title lang="zh">爱错男友被惨坑（20240203）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50780,6 +50807,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250408040700 +0800" stop="20250408054700 +0800">
 		<title lang="zh">2024-25赛季英超联赛第29轮：曼城VS布赖顿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250408054700 +0800" stop="20250408074500 +0800">
+		<title lang="zh">2024-25赛季西甲联赛第28轮：马竞VS巴萨</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
