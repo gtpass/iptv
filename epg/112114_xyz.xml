@@ -50430,6 +50430,9 @@
 	<programme channel="newtv超级综艺" start="20250410023700 +0800" stop="20250410035400 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250410035400 +0800" stop="20250410051600 +0800">
+		<title lang="zh">小品相声大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50441,6 +50444,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250410023500 +0800" stop="20250410040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 半决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250410040000 +0800" stop="20250410053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第16轮 利物浦-富勒姆(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50474,6 +50480,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250410030900 +0800" stop="20250410035100 +0800">
 		<title lang="zh">04_故乡的泥土</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250410035100 +0800" stop="20250410043500 +0800">
+		<title lang="zh">42_双刺</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50547,6 +50556,9 @@
 	<programme channel="newtv军旅剧场" start="20250410030700 +0800" stop="20250410035700 +0800">
 		<title lang="zh">32_绝地枪王2（DVD版）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250410035700 +0800" stop="20250410044600 +0800">
+		<title lang="zh">33_绝地枪王2（DVD版）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50579,6 +50591,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250410031300 +0800" stop="20250410035800 +0800">
 		<title lang="zh">02_三十而已</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250410035800 +0800" stop="20250410044800 +0800">
+		<title lang="zh">03_三十而已</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50637,6 +50652,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250410031100 +0800" stop="20250410040000 +0800">
 		<title lang="zh">15_花谢花飞花满天</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250410040000 +0800" stop="20250410044900 +0800">
+		<title lang="zh">16_花谢花飞花满天</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50685,6 +50703,9 @@
 	<programme channel="newtv炫舞未来" start="20250410032000 +0800" stop="20250410034700 +0800">
 		<title lang="zh">形体开肩操-于航（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250410034700 +0800" stop="20250410050400 +0800">
+		<title lang="zh">穿衣显瘦脱衣有肉 健身小课堂开启（20250325）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50705,6 +50726,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250410015700 +0800" stop="20250410034700 +0800">
 		<title lang="zh">铁猴子传奇之边城困兽</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250410034700 +0800" stop="20250410051400 +0800">
+		<title lang="zh">铁猴子传奇之花影危机</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
