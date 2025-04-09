@@ -50280,6 +50280,9 @@
 	<programme channel="newtv超级综艺" start="20250410010100 +0800" stop="20250410014700 +0800">
 		<title lang="zh">24_九重紫</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250410014700 +0800" stop="20250410023700 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50298,6 +50301,9 @@
 	<programme channel="newtv超级电影" start="20250410002100 +0800" stop="20250410015000 +0800">
 		<title lang="zh">英雄梦</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250410015000 +0800" stop="20250410032500 +0800">
+		<title lang="zh">让老公回家</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50306,6 +50312,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250410010100 +0800" stop="20250410014600 +0800">
 		<title lang="zh">01_故乡的泥土</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250410014600 +0800" stop="20250410022800 +0800">
+		<title lang="zh">02_故乡的泥土</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
