@@ -40104,6 +40104,9 @@
 	<programme channel="惊悚悬疑" start="20250410102600 +0800" stop="20250410115700 +0800">
 		<title lang="zh">反特大案之一级戒备</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250410115700 +0800" stop="20250410123700 +0800">
+		<title lang="zh">白水杜康中视频</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -83643,6 +83646,9 @@
 	<programme channel="newtv超级体育" start="20250410103200 +0800" stop="20250410120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250410120000 +0800" stop="20250410130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84036,6 +84042,9 @@
 	<programme channel="newtv热播精选" start="20250410111600 +0800" stop="20250410115600 +0800">
 		<title lang="zh">五黑桃酥中视频</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250410115600 +0800" stop="20250410131400 +0800">
+		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84276,6 +84285,9 @@
 	<programme channel="newtv军事评论" start="20250410113100 +0800" stop="20250410115500 +0800">
 		<title lang="zh">朝鲜称将采取行动应对美韩挑衅 美军向菲律宾出口作战训练系统</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250410115500 +0800" stop="20250410122100 +0800">
+		<title lang="zh">美日拟与菲共享军事机密情报 俄战略预警雷达遭袭触碰“核反击条款”？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84323,6 +84335,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250410105900 +0800" stop="20250410114700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250410115800 +0800" stop="20250410121900 +0800">
+		<title lang="zh">牛仔舞系列教学（20230703）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84395,6 +84410,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250410102600 +0800" stop="20250410115700 +0800">
 		<title lang="zh">反特大案之一级戒备</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250410115700 +0800" stop="20250410123700 +0800">
+		<title lang="zh">白水杜康中视频</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -84521,6 +84539,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250410111100 +0800" stop="20250410114600 +0800">
 		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250410114600 +0800" stop="20250410131600 +0800">
+		<title lang="zh">大唐英豪之大漠秋水</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
