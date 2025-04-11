@@ -67143,6 +67143,9 @@
 	<programme channel="纯享4K" start="20250411193500 +0800" stop="20250411201600 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 畅游苏南运河</title>
 	</programme>
+	<programme channel="纯享4K" start="20250411201600 +0800" stop="20250411205800 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 运河岸边是我家</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83751,6 +83754,9 @@
 	<programme channel="newtv精品纪录" start="20250411193800 +0800" stop="20250411200300 +0800">
 		<title lang="zh">02_驭梦腾飞</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250411200300 +0800" stop="20250411203800 +0800">
+		<title lang="zh">LECEA富硒水杯尊享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83919,6 +83925,9 @@
 	<programme channel="newtv军旅剧场" start="20250411192200 +0800" stop="20250411201000 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250411201000 +0800" stop="20250411205100 +0800">
+		<title lang="zh">07_特赦1959_</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84005,6 +84014,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250411191900 +0800" stop="20250411200800 +0800">
 		<title lang="zh">27_我爱男保姆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250411200800 +0800" stop="20250411205300 +0800">
+		<title lang="zh">34_大嫁风尚</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84284,6 +84296,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250411192000 +0800" stop="20250411200600 +0800">
 		<title lang="zh">山东好哥哥vs山西清徐学栋 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250411200600 +0800" stop="20250411204500 +0800">
+		<title lang="zh">山东好哥哥vs山西清徐学栋 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84587,6 +84602,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250411192500 +0800" stop="20250411201400 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250411201400 +0800" stop="20250411205900 +0800">
+		<title lang="zh">06_我的后半生</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
