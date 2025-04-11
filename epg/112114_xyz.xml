@@ -46128,6 +46128,9 @@
 	<programme channel="黑莓电影" start="20250412021400 +0800" stop="20250412035900 +0800">
 		<title lang="zh">坎昆公爵夫人</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250412035900 +0800" stop="20250412052100 +0800">
+		<title lang="zh">倩女仙缘</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -46431,6 +46434,9 @@
 	<programme channel="newtv超级体育" start="20250412023800 +0800" stop="20250412040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 半决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250412040000 +0800" stop="20250412053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第17轮 曼彻斯特联-伯恩茅斯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46539,6 +46545,9 @@
 	<programme channel="newtv军旅剧场" start="20250412031000 +0800" stop="20250412040000 +0800">
 		<title lang="zh">42_绝地枪王2（DVD版）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250412040000 +0800" stop="20250412045000 +0800">
+		<title lang="zh">43_绝地枪王2（DVD版）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -46596,6 +46605,9 @@
 	<programme channel="newtv动作电影" start="20250412023400 +0800" stop="20250412035000 +0800">
 		<title lang="zh">破局锦衣卫</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250412035000 +0800" stop="20250412053400 +0800">
+		<title lang="zh">黑暗中的救赎</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -46614,6 +46626,9 @@
 	<programme channel="newtv怡伴健康" start="20250412031100 +0800" stop="20250412035800 +0800">
 		<title lang="zh">黑掌蜘蛛猴回归</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250412035800 +0800" stop="20250412045000 +0800">
+		<title lang="zh">动物劳动者b7园丁与建筑师</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -46628,6 +46643,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250412031200 +0800" stop="20250412040100 +0800">
 		<title lang="zh">28_花谢花飞花满天</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250412040100 +0800" stop="20250412044900 +0800">
+		<title lang="zh">29_花谢花飞花满天</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -46688,6 +46706,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250412023800 +0800" stop="20250412035800 +0800">
 		<title lang="zh">迷失太空</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250412035800 +0800" stop="20250412053000 +0800">
+		<title lang="zh">尼斯湖怪</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
