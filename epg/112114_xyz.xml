@@ -46962,6 +46962,9 @@
 	<programme channel="newtv精品大剧" start="20250413011000 +0800" stop="20250413015800 +0800">
 		<title lang="zh">03_雁归西窗月</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250413015800 +0800" stop="20250413024500 +0800">
+		<title lang="zh">04_雁归西窗月</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47000,6 +47003,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250413005900 +0800" stop="20250413014800 +0800">
 		<title lang="zh">32_求婚大作战</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250413014800 +0800" stop="20250413023200 +0800">
+		<title lang="zh">01_娘亲舅大</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47058,11 +47064,17 @@
 	<programme channel="newtv军事评论" start="20250413012500 +0800" stop="20250413015200 +0800">
 		<title lang="zh">火力飓风</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250413015200 +0800" stop="20250413021800 +0800">
+		<title lang="zh">背水一战 绝地反击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250413000000 +0800" stop="20250413014900 +0800">
 		<title lang="zh">乐在旅途 第三季（20250405）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250413014900 +0800" stop="20250413030500 +0800">
+		<title lang="zh">第16集：许知远对话王赓武 | 于变动之中 重新创造自己的身份</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
