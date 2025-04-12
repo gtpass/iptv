@@ -47226,6 +47226,9 @@
 	<programme channel="newtv超级体育" start="20250413053000 +0800" stop="20250413060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250413060000 +0800" stop="20250413063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年世界单板滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47544,6 +47547,9 @@
 	<programme channel="newtv军事评论" start="20250413052600 +0800" stop="20250413055200 +0800">
 		<title lang="zh">寻迹雷允飞机制造厂 上集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250413055200 +0800" stop="20250413061900 +0800">
+		<title lang="zh">寻迹雷允飞机制造厂 下集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47567,6 +47573,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250413050700 +0800" stop="20250413055700 +0800">
 		<title lang="zh">一笑一周（20250305）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250413055700 +0800" stop="20250413061500 +0800">
+		<title lang="zh">美丽中国—毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
