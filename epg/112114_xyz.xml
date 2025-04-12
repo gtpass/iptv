@@ -66258,6 +66258,9 @@
 	<programme channel="纯享4K" start="20250412193000 +0800" stop="20250412201200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 古今交织 魅力苏州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250412201200 +0800" stop="20250412205400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 运河之滨 太湖明珠</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80622,6 +80625,9 @@
 	<programme channel="黑莓电影" start="20250412183300 +0800" stop="20250412201300 +0800">
 		<title lang="zh">观山太保</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250412201300 +0800" stop="20250412215300 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -82095,6 +82101,9 @@
 	<programme channel="newtv军旅剧场" start="20250412192000 +0800" stop="20250412200800 +0800">
 		<title lang="zh">BEYONPAN全钛养生壶-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250412200800 +0800" stop="20250412205000 +0800">
+		<title lang="zh">11_特赦1959_</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82449,6 +82458,9 @@
 	<programme channel="newtv怡伴健康" start="20250412193600 +0800" stop="20250412200600 +0800">
 		<title lang="zh">《美丽密码》推荐第85期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250412200600 +0800" stop="20250412204700 +0800">
+		<title lang="zh">山西清徐学栋vs北京源莱慧精英 第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82664,6 +82676,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250412195400 +0800" stop="20250412201600 +0800">
 		<title lang="zh">谁是军营厨王（34）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250412201600 +0800" stop="20250412204100 +0800">
+		<title lang="zh">朱立伦喊亲美 “九二共识”不能丢</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
