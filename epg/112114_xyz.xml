@@ -66576,6 +66576,9 @@
 	<programme channel="超级电影" start="20250414102200 +0800" stop="20250414115500 +0800">
 		<title lang="zh">虎啸风声</title>
 	</programme>
+	<programme channel="超级电影" start="20250414120100 +0800" stop="20250414131800 +0800">
+		<title lang="zh">电影《神都蜜探》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -77361,6 +77364,9 @@
 	<programme channel="newtv超级体育" start="20250414093000 +0800" stop="20250414120000 +0800">
 		<title lang="zh">2025年国际乒联单打世界杯-小组赛第1轮1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250414120000 +0800" stop="20250414130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -77381,6 +77387,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250414102200 +0800" stop="20250414115500 +0800">
 		<title lang="zh">虎啸风声</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250414120100 +0800" stop="20250414131800 +0800">
+		<title lang="zh">电影《神都蜜探》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
