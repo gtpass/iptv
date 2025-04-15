@@ -82479,6 +82479,9 @@
 	<programme channel="newtv超级电视剧" start="20250415131600 +0800" stop="20250415135800 +0800">
 		<title lang="zh">23_我是刑警</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250415135800 +0800" stop="20250415143900 +0800">
+		<title lang="zh">24_我是刑警</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82608,6 +82611,9 @@
 	<programme channel="newtv精品纪录" start="20250415130900 +0800" stop="20250415134700 +0800">
 		<title lang="zh">飞碟之谜（下）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250415134700 +0800" stop="20250415143600 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82661,6 +82667,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250415130700 +0800" stop="20250415135300 +0800">
 		<title lang="zh">41_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250415135300 +0800" stop="20250415151300 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83091,6 +83100,9 @@
 	<programme channel="newtv军事评论" start="20250415133200 +0800" stop="20250415135400 +0800">
 		<title lang="zh">想飞的少年 第4集 高考来了</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250415135400 +0800" stop="20250415141600 +0800">
+		<title lang="zh">想飞的少年 第5集 飞机来了</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83144,6 +83156,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250415133200 +0800" stop="20250415140000 +0800">
 		<title lang="zh">三山——湖畔人家 年年有“鱼”</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250415140000 +0800" stop="20250415143500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
