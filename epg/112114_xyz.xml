@@ -81090,6 +81090,9 @@
 	<programme channel="newtv超级体育" start="20250416093000 +0800" stop="20250416120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-附加赛1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250416120000 +0800" stop="20250416130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
