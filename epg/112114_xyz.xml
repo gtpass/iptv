@@ -81309,6 +81309,9 @@
 	<programme channel="newtv军旅剧场" start="20250416094800 +0800" stop="20250416103500 +0800">
 		<title lang="zh">13_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250416103500 +0800" stop="20250416111700 +0800">
+		<title lang="zh">14_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81594,6 +81597,9 @@
 	<programme channel="newtv军事评论" start="20250416101000 +0800" stop="20250416103600 +0800">
 		<title lang="zh">以军首次对也门发动空袭 美日欲将“使用核武”写入联合文件</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250416103600 +0800" stop="20250416110100 +0800">
+		<title lang="zh">台军“汉光演习”演练海外物资转运 美军抵近朝鲜增派战机</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81644,6 +81650,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250416091600 +0800" stop="20250416103300 +0800">
 		<title lang="zh">《哪吒之魔童闹海》原班配音演员集结 分享动画电影背后的故事（20250120）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250416103300 +0800" stop="20250416112200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
