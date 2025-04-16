@@ -50235,6 +50235,9 @@
 	<programme channel="newtv超级综艺" start="20250417042700 +0800" stop="20250417055200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250417055200 +0800" stop="20250417064200 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50252,6 +50255,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250417053000 +0800" stop="20250417060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子钢架雪车决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250417060000 +0800" stop="20250417063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50345,6 +50351,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250417045900 +0800" stop="20250417055300 +0800">
 		<title lang="zh">01_筑梦金沙</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250417055300 +0800" stop="20250417062100 +0800">
+		<title lang="zh">03_造物</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50523,6 +50532,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250417050800 +0800" stop="20250417055700 +0800">
 		<title lang="zh">65_花谢花飞花满天</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250417055700 +0800" stop="20250417061300 +0800">
+		<title lang="zh">早餐中国</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50549,6 +50561,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250417053400 +0800" stop="20250417060000 +0800">
 		<title lang="zh">靶场铸剑</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250417060000 +0800" stop="20250417062700 +0800">
+		<title lang="zh">坚持战斗</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
