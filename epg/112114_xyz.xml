@@ -82641,6 +82641,9 @@
 	<programme channel="newtv超级综艺" start="20250417111500 +0800" stop="20250417120500 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250417120500 +0800" stop="20250417132900 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83160,6 +83163,9 @@
 	<programme channel="newtv怡伴健康" start="20250417112400 +0800" stop="20250417115000 +0800">
 		<title lang="zh">意外的失联（3）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250417115000 +0800" stop="20250417124000 +0800">
+		<title lang="zh">BEYONPAN健康全钛养生壶-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83417,6 +83423,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250417103300 +0800" stop="20250417115000 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250417115000 +0800" stop="20250417122900 +0800">
+		<title lang="zh">国和堂牌辅酶Q10软胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
