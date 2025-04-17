@@ -50967,6 +50967,9 @@
 	<programme channel="黑莓动画" start="20250418041900 +0800" stop="20250418055100 +0800">
 		<title lang="zh">蜡笔小新：梦境世界大突击</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250418055100 +0800" stop="20250418072000 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51243,6 +51246,9 @@
 	<programme channel="newtv超级体育" start="20250418053000 +0800" stop="20250418060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250418060000 +0800" stop="20250418063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年世界单板滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51281,6 +51287,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250418050100 +0800" stop="20250418054200 +0800">
 		<title lang="zh">34_暗夜与黎明</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250418054200 +0800" stop="20250418062400 +0800">
+		<title lang="zh">35_暗夜与黎明</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51423,6 +51432,9 @@
 	<programme channel="newtv热播精选" start="20250418051500 +0800" stop="20250418060000 +0800">
 		<title lang="zh">34_三十而已</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250418060000 +0800" stop="20250418065000 +0800">
+		<title lang="zh">35_三十而已</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51440,6 +51452,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250418050200 +0800" stop="20250418055300 +0800">
 		<title lang="zh">14_嫣语赋</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250418055300 +0800" stop="20250418064300 +0800">
+		<title lang="zh">15_嫣语赋</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -51510,6 +51525,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250418053800 +0800" stop="20250418055400 +0800">
 		<title lang="zh">早餐中国</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250418055400 +0800" stop="20250418063200 +0800">
+		<title lang="zh">有的放矢来防癌 4</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51537,6 +51555,9 @@
 	<programme channel="newtv军事评论" start="20250418052700 +0800" stop="20250418055400 +0800">
 		<title lang="zh">火力支援</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250418055400 +0800" stop="20250418062000 +0800">
+		<title lang="zh">保障尖兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51557,6 +51578,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250418052700 +0800" stop="20250418055300 +0800">
 		<title lang="zh">追赃倒计时（20240117）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250418055300 +0800" stop="20250418062000 +0800">
+		<title lang="zh">未知血迹（20240118）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
