@@ -47766,6 +47766,9 @@
 	<programme channel="newtv超级体育" start="20250419053000 +0800" stop="20250419060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250419060000 +0800" stop="20250419063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界单板滑雪锦标赛 平行回转决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47913,6 +47916,9 @@
 	<programme channel="newtv军旅剧场" start="20250419050700 +0800" stop="20250419055400 +0800">
 		<title lang="zh">34_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250419055400 +0800" stop="20250419063400 +0800">
+		<title lang="zh">白水杜康F20版398 高清10分 400-855-7879</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47958,6 +47964,9 @@
 	<programme channel="newtv热播精选" start="20250419051200 +0800" stop="20250419055700 +0800">
 		<title lang="zh">39_三十而已</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250419055700 +0800" stop="20250419064700 +0800">
+		<title lang="zh">40_三十而已</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47993,6 +48002,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250419041900 +0800" stop="20250419055400 +0800">
 		<title lang="zh">举起手来2：追击阿多丸号</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250419055400 +0800" stop="20250419070800 +0800">
+		<title lang="zh">缩小人特攻队</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48098,6 +48110,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250419053800 +0800" stop="20250419055200 +0800">
 		<title lang="zh">相遇花开-饶子龙（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250419055200 +0800" stop="20250419061200 +0800">
+		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
