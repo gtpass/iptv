@@ -47433,6 +47433,9 @@
 	<programme channel="newtv超级体育" start="20250420023500 +0800" stop="20250420040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250420040000 +0800" stop="20250420053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第19轮 巴黎圣日尔曼-兰斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47504,6 +47507,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250420030400 +0800" stop="20250420035900 +0800">
 		<title lang="zh">月背之上：太空变革的黎明</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250420035900 +0800" stop="20250420042700 +0800">
+		<title lang="zh">01_创新</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47616,6 +47622,9 @@
 	<programme channel="newtv怡伴健康" start="20250420030800 +0800" stop="20250420035500 +0800">
 		<title lang="zh">动物巡逻兵</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250420035500 +0800" stop="20250420044700 +0800">
+		<title lang="zh">狮子法则（1）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47634,6 +47643,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250420030100 +0800" stop="20250420034600 +0800">
 		<title lang="zh">19_新白蛇传</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250420034600 +0800" stop="20250420043000 +0800">
+		<title lang="zh">20_新白蛇传</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47649,6 +47661,9 @@
 	<programme channel="newtv军事评论" start="20250420025400 +0800" stop="20250420034700 +0800">
 		<title lang="zh">两个老兵的绝密航程</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250420034700 +0800" stop="20250420044100 +0800">
+		<title lang="zh">一起飞的战友</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47657,6 +47672,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250420021000 +0800" stop="20250420035200 +0800">
 		<title lang="zh">第9期全记录：孟鹤堂半夜练习“彪哥”招牌动作</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250420035200 +0800" stop="20250420040500 +0800">
+		<title lang="zh">心在跳情在烧-毕刚（教学分解）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
