@@ -47574,6 +47574,9 @@
 	<programme channel="newtv超级体育" start="20250420053000 +0800" stop="20250420060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250420060000 +0800" stop="20250420063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界单板滑雪锦标赛 障碍追逐决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47679,6 +47682,9 @@
 	<programme channel="newtv精品纪录" start="20250420053100 +0800" stop="20250420055000 +0800">
 		<title lang="zh">03_竹内亮</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250420055000 +0800" stop="20250420060800 +0800">
+		<title lang="zh">04_费嘉炯</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47702,6 +47708,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250420050800 +0800" stop="20250420055700 +0800">
 		<title lang="zh">49_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250420055700 +0800" stop="20250420064600 +0800">
+		<title lang="zh">50_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47754,6 +47763,9 @@
 	<programme channel="newtv家庭剧场" start="20250420050300 +0800" stop="20250420054900 +0800">
 		<title lang="zh">03_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250420054900 +0800" stop="20250420062900 +0800">
+		<title lang="zh">白水杜康F20版398 高清10分 400-855-7879</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -47795,6 +47807,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250420050200 +0800" stop="20250420055300 +0800">
 		<title lang="zh">25_嫣语赋</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250420055300 +0800" stop="20250420072500 +0800">
+		<title lang="zh">乱世护宝</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -47862,6 +47877,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250420051500 +0800" stop="20250420055700 +0800">
 		<title lang="zh">22_新白蛇传</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250420055700 +0800" stop="20250420062400 +0800">
+		<title lang="zh">早餐中国</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47889,6 +47907,9 @@
 	<programme channel="newtv军事评论" start="20250420053400 +0800" stop="20250420060100 +0800">
 		<title lang="zh">轻装“战神”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250420060100 +0800" stop="20250420062700 +0800">
+		<title lang="zh">短兵相接</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47913,6 +47934,9 @@
 	<programme channel="newtv炫舞未来" start="20250420052100 +0800" stop="20250420060000 +0800">
 		<title lang="zh">给脊柱减减龄（下）（20240109）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250420060000 +0800" stop="20250420060700 +0800">
+		<title lang="zh">邱慧芳教练《42式太极拳动作：3左单鞭 4提手》（4K）【炫舞未来健身动起来20190922】</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47927,6 +47951,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250420050000 +0800" stop="20250420054700 +0800">
 		<title lang="zh">02_巾帼枭雄之悬崖</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250420054700 +0800" stop="20250420063400 +0800">
+		<title lang="zh">03_巾帼枭雄之悬崖</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
