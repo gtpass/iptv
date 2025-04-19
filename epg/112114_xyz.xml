@@ -27507,6 +27507,9 @@
 	<programme channel="咪咕综合体育" start="20250419133000 +0800" stop="20250419155500 +0800">
 		<title lang="zh">国球荣耀-2025国际乒联单打世界杯 单打半决赛1 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250419155500 +0800" stop="20250419160500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59952,6 +59955,9 @@
 	<programme channel="爱情喜剧" start="20250419150600 +0800" stop="20250419155500 +0800">
 		<title lang="zh">24_大都市小爱情</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250419155500 +0800" stop="20250419172100 +0800">
+		<title lang="zh">25_大都市小爱情</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65969,6 +65975,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250419153800 +0800" stop="20250419155300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 五童纸鸢图</title>
+	</programme>
+	<programme channel="纯享4K" start="20250419155300 +0800" stop="20250419162000 +0800">
+		<title lang="zh">记住乡愁4K第九季 流沙——流光溢彩金沙滩</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -82014,6 +82023,9 @@
 	<programme channel="newtv超级体育" start="20250419140000 +0800" stop="20250419160000 +0800">
 		<title lang="zh">2025年国际乒联单打世界杯-半决赛1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250419160000 +0800" stop="20250419163100 +0800">
+		<title lang="zh">赛事集锦-2025年世界室内田径锦标赛精彩(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82182,6 +82194,9 @@
 	<programme channel="newtv精品大剧" start="20250419151400 +0800" stop="20250419160100 +0800">
 		<title lang="zh">01_梦华录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250419160100 +0800" stop="20250419164100 +0800">
+		<title lang="zh">慕伽堡198版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82269,6 +82284,9 @@
 	<programme channel="newtv精品纪录" start="20250419150300 +0800" stop="20250419155400 +0800">
 		<title lang="zh">第2集：水韵 b7 圆融的饮食智慧</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250419155400 +0800" stop="20250419172300 +0800">
+		<title lang="zh">02_东渡</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82328,6 +82346,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250419145800 +0800" stop="20250419154800 +0800">
 		<title lang="zh">09_流水迢迢</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250419154800 +0800" stop="20250419162900 +0800">
+		<title lang="zh">35_女医明妃传</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82563,6 +82584,9 @@
 	<programme channel="newtv爱情喜剧" start="20250419150600 +0800" stop="20250419155500 +0800">
 		<title lang="zh">24_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250419155500 +0800" stop="20250419172100 +0800">
+		<title lang="zh">25_大都市小爱情</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82679,6 +82703,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250419152200 +0800" stop="20250419155300 +0800">
 		<title lang="zh">护佑成长b7交通肇事的少年</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250419155300 +0800" stop="20250419163100 +0800">
+		<title lang="zh">养好五脏保健康（3）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82844,6 +82871,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250419153400 +0800" stop="20250419155600 +0800">
 		<title lang="zh">军工足迹 2</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250419155600 +0800" stop="20250419161800 +0800">
+		<title lang="zh">军武时光机（7）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
