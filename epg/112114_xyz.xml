@@ -39348,6 +39348,9 @@
 	<programme channel="惊悚悬疑" start="20250419193600 +0800" stop="20250419200600 +0800">
 		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250419200600 +0800" stop="20250419212000 +0800">
+		<title lang="zh">杀戮部队</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -60063,6 +60066,9 @@
 	<programme channel="爱情喜剧" start="20250419192200 +0800" stop="20250419200800 +0800">
 		<title lang="zh">28_大都市小爱情</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250419200800 +0800" stop="20250419203800 +0800">
+		<title lang="zh">《美丽密码》推荐第92期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66138,6 +66144,9 @@
 	<programme channel="纯享4K" start="20250419192800 +0800" stop="20250419200900 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 运河水脊 铁水互联</title>
 	</programme>
+	<programme channel="纯享4K" start="20250419200900 +0800" stop="20250419205100 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 商贸中心 运河新篇</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70856,6 +70865,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250419184700 +0800" stop="20250419201600 +0800">
 		<title lang="zh">电影《终极硬汉》</title>
+	</programme>
+	<programme channel="超级电影" start="20250419201600 +0800" stop="20250419212700 +0800">
+		<title lang="zh">电影《逆时救援》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82182,6 +82194,9 @@
 	<programme channel="newtv超级电影" start="20250419184700 +0800" stop="20250419201600 +0800">
 		<title lang="zh">电影《终极硬汉》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250419201600 +0800" stop="20250419212700 +0800">
+		<title lang="zh">电影《逆时救援》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -82349,6 +82364,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250419192700 +0800" stop="20250419201300 +0800">
 		<title lang="zh">12_我的后半生</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250419201300 +0800" stop="20250419204300 +0800">
+		<title lang="zh">《美丽密码》推荐第92期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82614,6 +82632,9 @@
 	<programme channel="newtv军旅剧场" start="20250419194400 +0800" stop="20250419201400 +0800">
 		<title lang="zh">《美丽密码》推荐第92期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250419201400 +0800" stop="20250419205800 +0800">
+		<title lang="zh">39_特赦1959</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82832,6 +82853,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250419192200 +0800" stop="20250419200800 +0800">
 		<title lang="zh">28_大都市小爱情</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250419200800 +0800" stop="20250419203800 +0800">
+		<title lang="zh">《美丽密码》推荐第92期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83418,6 +83442,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250419193600 +0800" stop="20250419200600 +0800">
 		<title lang="zh">《五脏健康操》推荐第1期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250419200600 +0800" stop="20250419212000 +0800">
+		<title lang="zh">杀戮部队</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83618,6 +83645,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250419192200 +0800" stop="20250419201000 +0800">
 		<title lang="zh">06_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250419201000 +0800" stop="20250419205800 +0800">
+		<title lang="zh">07_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
