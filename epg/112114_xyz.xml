@@ -80031,6 +80031,9 @@
 	<programme channel="newtv超级综艺" start="20250420100900 +0800" stop="20250420115100 +0800">
 		<title lang="zh">国家宝藏 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250420115100 +0800" stop="20250420131000 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80060,6 +80063,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250420093000 +0800" stop="20250420120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-季后赛第一轮</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250420120000 +0800" stop="20250420130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -80138,6 +80144,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250420112400 +0800" stop="20250420120500 +0800">
 		<title lang="zh">08_一路向前</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250420120500 +0800" stop="20250420124700 +0800">
+		<title lang="zh">09_一路向前</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
