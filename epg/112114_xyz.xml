@@ -47448,6 +47448,9 @@
 	<programme channel="黑莓动画" start="20250421023100 +0800" stop="20250421040000 +0800">
 		<title lang="zh">太空神鹰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250421040000 +0800" stop="20250421055100 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47664,6 +47667,9 @@
 	<programme channel="newtv超级体育" start="20250421023800 +0800" stop="20250421040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250421040000 +0800" stop="20250421053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第18轮 里尔—尼斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47693,6 +47699,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250421031800 +0800" stop="20250421035900 +0800">
 		<title lang="zh">34_国家孩子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250421035900 +0800" stop="20250421044100 +0800">
+		<title lang="zh">10_大侠霍元甲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47847,6 +47856,9 @@
 	<programme channel="newtv怡伴健康" start="20250421030500 +0800" stop="20250421035200 +0800">
 		<title lang="zh">狮子法则（2）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250421035200 +0800" stop="20250421044400 +0800">
+		<title lang="zh">狮子法则（3）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47864,6 +47876,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250421031100 +0800" stop="20250421035800 +0800">
 		<title lang="zh">27_新白蛇传</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250421035800 +0800" stop="20250421044400 +0800">
+		<title lang="zh">28_新白蛇传</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47901,6 +47916,9 @@
 	<programme channel="newtv炫舞未来" start="20250421033500 +0800" stop="20250421035200 +0800">
 		<title lang="zh">风吹麦浪-李莹（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250421035200 +0800" stop="20250421052100 +0800">
+		<title lang="zh">山水间的家 第三季（20240825）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47930,6 +47948,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250421011400 +0800" stop="20250421035600 +0800">
 		<title lang="zh">向幸福出发（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250421035600 +0800" stop="20250421054400 +0800">
+		<title lang="zh">我的艺术清单</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -47990,6 +48011,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250421021900 +0800" stop="20250421035400 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250421035400 +0800" stop="20250421045900 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
