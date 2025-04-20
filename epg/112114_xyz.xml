@@ -47646,6 +47646,9 @@
 	<programme channel="黑莓动画" start="20250421040000 +0800" stop="20250421055100 +0800">
 		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250421055100 +0800" stop="20250421071900 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47880,6 +47883,9 @@
 	<programme channel="newtv超级体育" start="20250421053000 +0800" stop="20250421060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子四人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250421060000 +0800" stop="20250421063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛 障碍追逐决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47921,6 +47927,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250421052200 +0800" stop="20250421060400 +0800">
 		<title lang="zh">12_大侠霍元甲</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250421060400 +0800" stop="20250421064500 +0800">
+		<title lang="zh">13_大侠霍元甲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48027,6 +48036,9 @@
 	<programme channel="newtv军旅剧场" start="20250421051000 +0800" stop="20250421055700 +0800">
 		<title lang="zh">44_红蔷薇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250421055700 +0800" stop="20250421063700 +0800">
+		<title lang="zh">白水杜康F20版398 高清10分 400-855-7879</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48053,6 +48065,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250421051100 +0800" stop="20250421060000 +0800">
 		<title lang="zh">08_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250421060000 +0800" stop="20250421064600 +0800">
+		<title lang="zh">22_好团圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48092,6 +48107,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250421050400 +0800" stop="20250421055500 +0800">
 		<title lang="zh">29_嫣语赋</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250421055500 +0800" stop="20250421064400 +0800">
+		<title lang="zh">30_嫣语赋</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48189,6 +48207,9 @@
 	<programme channel="newtv军事评论" start="20250421052500 +0800" stop="20250421055100 +0800">
 		<title lang="zh">暗夜奇袭</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250421055100 +0800" stop="20250421061800 +0800">
+		<title lang="zh">为胜利铺路</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48245,6 +48266,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250421042400 +0800" stop="20250421055100 +0800">
 		<title lang="zh">超级风暴</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250421055100 +0800" stop="20250421070300 +0800">
+		<title lang="zh">夺命巨鳄</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
