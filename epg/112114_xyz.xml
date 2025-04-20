@@ -42102,6 +42102,9 @@
 	<programme channel="明星大片" start="20250420101000 +0800" stop="20250420105800 +0800">
 		<title lang="zh">27_流水迢迢</title>
 	</programme>
+	<programme channel="明星大片" start="20250420105800 +0800" stop="20250420113600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -64194,6 +64197,9 @@
 	<programme channel="纯享4K" start="20250420102800 +0800" stop="20250420105800 +0800">
 		<title lang="zh">寻古中国4K 玉石记b7玉韫神州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250420105800 +0800" stop="20250420113800 +0800">
+		<title lang="zh">探索b7发现4K 匠人b7匠心（35）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79059,6 +79065,9 @@
 	<programme channel="黑莓动画" start="20250420091400 +0800" stop="20250420104800 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250420104800 +0800" stop="20250420115400 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80292,6 +80301,9 @@
 	<programme channel="newtv军旅剧场" start="20250420100700 +0800" stop="20250420105100 +0800">
 		<title lang="zh">30_铁血玫瑰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250420105100 +0800" stop="20250420113500 +0800">
+		<title lang="zh">31_铁血玫瑰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80484,6 +80496,9 @@
 	<programme channel="newtv怡伴健康" start="20250420100800 +0800" stop="20250420105800 +0800">
 		<title lang="zh">04_承欢记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250420105800 +0800" stop="20250420112400 +0800">
+		<title lang="zh">谁动了我的公文包</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80531,6 +80546,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250420100900 +0800" stop="20250420105400 +0800">
 		<title lang="zh">36_铁梨花</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250420105400 +0800" stop="20250420113400 +0800">
+		<title lang="zh">草本卉影油污净99元 高清10分 400-855-7879</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80643,6 +80661,9 @@
 	<programme channel="newtv炫舞未来" start="20250420094400 +0800" stop="20250420110100 +0800">
 		<title lang="zh">从田间戏台到春晚舞台 戏腔里藏着两代人的舞台梦（20250409）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250420110100 +0800" stop="20250420114600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80678,6 +80699,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250420101000 +0800" stop="20250420105800 +0800">
 		<title lang="zh">27_流水迢迢</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250420105800 +0800" stop="20250420113600 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
