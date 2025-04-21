@@ -39840,6 +39840,9 @@
 	<programme channel="明星大片" start="20250421110900 +0800" stop="20250421114700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250421114700 +0800" stop="20250421133200 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -76896,6 +76899,9 @@
 	<programme channel="newtv超级综艺" start="20250421103800 +0800" stop="20250421115500 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250421115500 +0800" stop="20250421132000 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -76928,6 +76934,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250421103200 +0800" stop="20250421120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 1/4决赛 6</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250421120000 +0800" stop="20250421130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -77058,6 +77067,9 @@
 	<programme channel="newtv精品大剧" start="20250421111100 +0800" stop="20250421115100 +0800">
 		<title lang="zh">白水杜康小批量酿造酒499版高清10分 400-855-7879</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250421115100 +0800" stop="20250421123700 +0800">
+		<title lang="zh">21_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -77114,6 +77126,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250421113200 +0800" stop="20250421115700 +0800">
 		<title lang="zh">06_弥补</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250421115700 +0800" stop="20250421122100 +0800">
+		<title lang="zh">07_复归</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -77556,6 +77571,9 @@
 	<programme channel="newtv军事评论" start="20250421112900 +0800" stop="20250421115400 +0800">
 		<title lang="zh">德舰过航台海 中方严正回应 俄军在库尔斯克发起反攻</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250421115400 +0800" stop="20250421121900 +0800">
+		<title lang="zh">黎以临时边界交火持续 五角大楼称俄乌冲突没有“灵丹妙药”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77643,6 +77661,9 @@
 	<programme channel="newtv精品综合" start="20250421110900 +0800" stop="20250421114700 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250421114700 +0800" stop="20250421133200 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -77696,6 +77717,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250421101000 +0800" stop="20250421115800 +0800">
 		<title lang="zh">斗笑社第3季衍生</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250421115800 +0800" stop="20250421150200 +0800">
+		<title lang="zh">现在就出发</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
