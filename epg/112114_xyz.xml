@@ -47220,6 +47220,9 @@
 	<programme channel="newtv超级电影" start="20250422001500 +0800" stop="20250422020600 +0800">
 		<title lang="zh">同喜</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250422020600 +0800" stop="20250422033600 +0800">
+		<title lang="zh">神偷特工</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -47231,6 +47234,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250422012500 +0800" stop="20250422020600 +0800">
 		<title lang="zh">37_国家孩子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250422020600 +0800" stop="20250422024800 +0800">
+		<title lang="zh">38_国家孩子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47253,6 +47259,9 @@
 	<programme channel="newtv精品纪录" start="20250422011700 +0800" stop="20250422014700 +0800">
 		<title lang="zh">第3集：从硬件到软件</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250422014700 +0800" stop="20250422021800 +0800">
+		<title lang="zh">第4集：从传承到创新</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47270,6 +47279,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250422010000 +0800" stop="20250422014900 +0800">
 		<title lang="zh">13_中国骑兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250422014900 +0800" stop="20250422023800 +0800">
+		<title lang="zh">14_中国骑兵</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47357,6 +47369,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250422011300 +0800" stop="20250422015300 +0800">
 		<title lang="zh">草本卉影油污净99元 高清10分 400-855-7879</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250422015300 +0800" stop="20250422032700 +0800">
+		<title lang="zh">无畏英雄</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
