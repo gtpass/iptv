@@ -42462,6 +42462,9 @@
 	<programme channel="明星大片" start="20250422111600 +0800" stop="20250422115400 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250422115400 +0800" stop="20250422134700 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -80868,6 +80871,9 @@
 	<programme channel="newtv超级体育" start="20250422103200 +0800" stop="20250422120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250422120000 +0800" stop="20250422130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -80945,6 +80951,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250422110600 +0800" stop="20250422114800 +0800">
 		<title lang="zh">18_一路向前</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250422114800 +0800" stop="20250422123000 +0800">
+		<title lang="zh">19_一路向前</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -81360,6 +81369,9 @@
 	<programme channel="newtv怡伴健康" start="20250422111500 +0800" stop="20250422120000 +0800">
 		<title lang="zh">35_生活就是家</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250422120000 +0800" stop="20250422124000 +0800">
+		<title lang="zh">草本卉影油污净99元 高清10分 400-855-7879</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81410,6 +81422,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250422111600 +0800" stop="20250422115600 +0800">
 		<title lang="zh">草本卉影油污净99元 高清10分 400-855-7879</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250422115600 +0800" stop="20250422124500 +0800">
+		<title lang="zh">舌尖上的中国 第4季</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81570,6 +81585,9 @@
 	<programme channel="newtv精品综合" start="20250422111600 +0800" stop="20250422115400 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款新-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250422115400 +0800" stop="20250422134700 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81617,6 +81635,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250422095800 +0800" stop="20250422120300 +0800">
 		<title lang="zh">德云斗笑社</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250422120300 +0800" stop="20250422151800 +0800">
+		<title lang="zh">现在就出发</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
