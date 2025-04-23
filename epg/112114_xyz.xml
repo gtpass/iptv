@@ -49173,6 +49173,9 @@
 	<programme channel="黑莓电影" start="20250424023200 +0800" stop="20250424040000 +0800">
 		<title lang="zh">夺命三头鲨</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250424040000 +0800" stop="20250424052600 +0800">
+		<title lang="zh">天问</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -49473,6 +49476,9 @@
 	<programme channel="newtv超级体育" start="20250424023500 +0800" stop="20250424040000 +0800">
 		<title lang="zh">实况录像-2025年世界花样滑冰锦标赛 男单自由滑</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250424040000 +0800" stop="20250424053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第24轮 伯恩茅斯-利物浦 (4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49503,6 +49509,9 @@
 	<programme channel="newtv超级电视剧" start="20250424031200 +0800" stop="20250424035700 +0800">
 		<title lang="zh">09_青山不墨</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250424035700 +0800" stop="20250424043900 +0800">
+		<title lang="zh">24_大侠霍元甲</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -49514,6 +49523,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250424024900 +0800" stop="20250424035700 +0800">
 		<title lang="zh">26_碧海雄心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250424035700 +0800" stop="20250424050400 +0800">
+		<title lang="zh">27_碧海雄心</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -49599,6 +49611,9 @@
 	<programme channel="newtv热播精选" start="20250424030800 +0800" stop="20250424035300 +0800">
 		<title lang="zh">19_狮子山下的故事（粤语版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250424035300 +0800" stop="20250424044300 +0800">
+		<title lang="zh">20_狮子山下的故事（粤语版）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49640,6 +49655,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250424030400 +0800" stop="20250424035200 +0800">
 		<title lang="zh">天生王者</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250424035200 +0800" stop="20250424044400 +0800">
+		<title lang="zh">神奇的蝴蝶</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
