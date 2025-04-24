@@ -27696,6 +27696,9 @@
 	<programme channel="咪咕足球" start="20250424214000 +0800" stop="20250424220000 +0800">
 		<title lang="zh">荣耀之路</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250424220000 +0800" stop="20250424221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39860,6 +39863,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250424202800 +0800" stop="20250424215900 +0800">
 		<title lang="zh">血战残阳</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250424215900 +0800" stop="20250424222900 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65964,6 +65970,9 @@
 	<programme channel="纯享4K" start="20250424210200 +0800" stop="20250424215200 +0800">
 		<title lang="zh">长江之歌4K（文明篇） 第3集 大江东去</title>
 	</programme>
+	<programme channel="纯享4K" start="20250424215200 +0800" stop="20250424224100 +0800">
+		<title lang="zh">长江之歌4K（文明篇） 第4集 生态家园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82497,6 +82506,9 @@
 	<programme channel="newtv精品纪录" start="20250424212800 +0800" stop="20250424215700 +0800">
 		<title lang="zh">原味乡间b7萧县篇（下）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250424215700 +0800" stop="20250424224000 +0800">
+		<title lang="zh">山王果有机小分子轻酵刺梨液-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82676,6 +82688,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250424213100 +0800" stop="20250424220100 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第14期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250424220100 +0800" stop="20250424223700 +0800">
+		<title lang="zh">22_特种兵之火凤凰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83088,6 +83103,9 @@
 	<programme channel="newtv怡伴健康" start="20250424211700 +0800" stop="20250424215800 +0800">
 		<title lang="zh">北京东炸团vs河北雀舞门 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250424215800 +0800" stop="20250424224200 +0800">
+		<title lang="zh">北京东炸团vs河北雀舞门 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83177,6 +83195,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250424212000 +0800" stop="20250424215000 +0800">
 		<title lang="zh">《美丽密码》推荐第97期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250424215000 +0800" stop="20250424233400 +0800">
+		<title lang="zh">十二公民</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83315,6 +83336,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250424213000 +0800" stop="20250424215500 +0800">
 		<title lang="zh">托人给特朗普带话 赖清德病急乱投医</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250424215500 +0800" stop="20250424222000 +0800">
+		<title lang="zh">特朗普就职 台媒分析美国无意“保台”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83532,6 +83556,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250424202800 +0800" stop="20250424215900 +0800">
 		<title lang="zh">血战残阳</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250424215900 +0800" stop="20250424222900 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83738,6 +83765,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250424210000 +0800" stop="20250424214800 +0800">
 		<title lang="zh">28_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250424214800 +0800" stop="20250424221800 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
