@@ -81807,6 +81807,9 @@
 	<programme channel="newtv超级电视剧" start="20250424101100 +0800" stop="20250424105200 +0800">
 		<title lang="zh">27_一路向前</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250424105200 +0800" stop="20250424113400 +0800">
+		<title lang="zh">28_一路向前</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81839,6 +81842,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250424092700 +0800" stop="20250424103500 +0800">
 		<title lang="zh">30_画眉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250424103500 +0800" stop="20250424112000 +0800">
+		<title lang="zh">31_画眉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -81882,6 +81888,9 @@
 	<programme channel="newtv精品纪录" start="20250424100400 +0800" stop="20250424103200 +0800">
 		<title lang="zh">03_深圳b724小时书吧</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250424103200 +0800" stop="20250424105700 +0800">
+		<title lang="zh">04_渑池b7新华书店</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -81923,6 +81932,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250424095300 +0800" stop="20250424103800 +0800">
 		<title lang="zh">10_传闻中的陈芊芊</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250424103800 +0800" stop="20250424112500 +0800">
+		<title lang="zh">26_流水迢迢</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82014,6 +82026,9 @@
 	<programme channel="newtv家庭剧场" start="20250424101000 +0800" stop="20250424104100 +0800">
 		<title lang="zh">01_多彩庄家院第二季</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250424104100 +0800" stop="20250424112900 +0800">
+		<title lang="zh">06_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82052,6 +82067,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250424095900 +0800" stop="20250424104400 +0800">
 		<title lang="zh">34_女医明妃传</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250424104400 +0800" stop="20250424114400 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82151,6 +82169,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250424095600 +0800" stop="20250424104500 +0800">
 		<title lang="zh">12_承欢记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250424104500 +0800" stop="20250424111200 +0800">
+		<title lang="zh">不翼而飞的藏金</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -82256,6 +82277,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250424101700 +0800" stop="20250424104200 +0800">
 		<title lang="zh">北约将举行年度核军演 日本准航母在美开启舰载机测试</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250424104200 +0800" stop="20250424110700 +0800">
+		<title lang="zh">美国将向以色列提供“萨德”反导系统 韩军向朝韩军事分界线以南进行射击</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
