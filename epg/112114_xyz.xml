@@ -27546,6 +27546,9 @@
 	<programme channel="咪咕综合体育" start="20250424102000 +0800" stop="20250424120000 +0800">
 		<title lang="zh">网球世界-2025WTA1000迈阿密站 1/4决赛 萨巴伦卡-郑钦文</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250424120000 +0800" stop="20250424120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -43256,6 +43259,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250424110100 +0800" stop="20250424115000 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250424115000 +0800" stop="20250424133200 +0800">
+		<title lang="zh">缉枪</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -81765,6 +81771,9 @@
 	<programme channel="newtv超级体育" start="20250424103200 +0800" stop="20250424120000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 1/4决赛 9</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250424120000 +0800" stop="20250424130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82365,6 +82374,9 @@
 	<programme channel="newtv军事评论" start="20250424113200 +0800" stop="20250424115800 +0800">
 		<title lang="zh">美日韩重组对朝“多国机构” 日本陆上力量入菲演习</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250424115800 +0800" stop="20250424122300 +0800">
+		<title lang="zh">美国B-2轰炸机空袭也门胡塞武装</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82455,6 +82467,9 @@
 	<programme channel="newtv精品综合" start="20250424110100 +0800" stop="20250424115000 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250424115000 +0800" stop="20250424133200 +0800">
+		<title lang="zh">缉枪</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -82508,6 +82523,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250424090000 +0800" stop="20250424115800 +0800">
 		<title lang="zh">德云斗笑社</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250424115800 +0800" stop="20250424145800 +0800">
+		<title lang="zh">现在就出发</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
