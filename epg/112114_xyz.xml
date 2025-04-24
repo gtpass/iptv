@@ -47244,6 +47244,9 @@
 	<programme channel="newtv超级综艺" start="20250425033600 +0800" stop="20250425035200 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250425035200 +0800" stop="20250425054500 +0800">
+		<title lang="zh">和美之夜</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47252,6 +47255,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250425023500 +0800" stop="20250425040000 +0800">
 		<title lang="zh">实况录像-2025年世界花样滑冰锦标赛 双人自由滑</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250425040000 +0800" stop="20250425053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第24轮 曼彻斯特联-水晶宫(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47316,6 +47322,9 @@
 	<programme channel="newtv精品纪录" start="20250425030100 +0800" stop="20250425035500 +0800">
 		<title lang="zh">第八集 创新体系</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250425035500 +0800" stop="20250425042400 +0800">
+		<title lang="zh">01_打好第一仗</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47331,6 +47340,9 @@
 	<programme channel="newtv古装剧场" start="20250425025600 +0800" stop="20250425034800 +0800">
 		<title lang="zh">15_乐游原</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250425034800 +0800" stop="20250425043800 +0800">
+		<title lang="zh">16_柳舟记</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47345,6 +47357,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250425030600 +0800" stop="20250425035500 +0800">
 		<title lang="zh">30_中国骑兵</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250425035500 +0800" stop="20250425044300 +0800">
+		<title lang="zh">01_最后一张签证</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47375,6 +47390,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250425031600 +0800" stop="20250425040100 +0800">
 		<title lang="zh">24_狮子山下的故事（粤语版）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250425040100 +0800" stop="20250425045000 +0800">
+		<title lang="zh">25_狮子山下的故事（粤语版）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47417,6 +47435,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250425031000 +0800" stop="20250425035800 +0800">
 		<title lang="zh">动物特种部队</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250425035800 +0800" stop="20250425044900 +0800">
+		<title lang="zh">狂野北极的夏天</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47462,6 +47483,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250425014600 +0800" stop="20250425034700 +0800">
 		<title lang="zh">国家宝藏 第四季（20240803）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250425034700 +0800" stop="20250425040900 +0800">
+		<title lang="zh">有氧跳绳跟练《奋斗》（20240430）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -47555,6 +47579,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250425025300 +0800" stop="20250425035700 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250425035700 +0800" stop="20250425050900 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
