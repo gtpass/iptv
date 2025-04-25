@@ -20697,6 +20697,9 @@
 	<programme channel="动作电影" start="20250425193200 +0800" stop="20250425200200 +0800">
 		<title lang="zh">《美丽密码》推荐第98期</title>
 	</programme>
+	<programme channel="动作电影" start="20250425200200 +0800" stop="20250425213500 +0800">
+		<title lang="zh">反贪风暴之加密危机</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -39530,6 +39533,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250425193300 +0800" stop="20250425200300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250425200300 +0800" stop="20250425220100 +0800">
+		<title lang="zh">新警察故事</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65697,6 +65703,9 @@
 	<programme channel="纯享4K" start="20250425193000 +0800" stop="20250425201200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 碧波荡漾 京城新印记</title>
 	</programme>
+	<programme channel="纯享4K" start="20250425201200 +0800" stop="20250425205400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 运河飘香 活力北京</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70454,6 +70463,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250425181700 +0800" stop="20250425202200 +0800">
 		<title lang="zh">电影《战国》</title>
+	</programme>
+	<programme channel="超级电影" start="20250425202200 +0800" stop="20250425214900 +0800">
+		<title lang="zh">电影《反击》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -81774,6 +81786,9 @@
 	<programme channel="newtv超级电影" start="20250425181700 +0800" stop="20250425202200 +0800">
 		<title lang="zh">电影《战国》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250425202200 +0800" stop="20250425214900 +0800">
+		<title lang="zh">电影《反击》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -81926,6 +81941,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250425192200 +0800" stop="20250425200700 +0800">
 		<title lang="zh">32_我的后半生</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250425200700 +0800" stop="20250425203700 +0800">
+		<title lang="zh">《美丽密码》推荐第98期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82088,6 +82106,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250425190100 +0800" stop="20250425200300 +0800">
 		<title lang="zh">18_雁回时</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250425200300 +0800" stop="20250425204900 +0800">
+		<title lang="zh">19_雁回时</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82445,6 +82466,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250425193200 +0800" stop="20250425200200 +0800">
 		<title lang="zh">《美丽密码》推荐第98期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250425200200 +0800" stop="20250425213500 +0800">
+		<title lang="zh">反贪风暴之加密危机</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82964,6 +82988,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250425193300 +0800" stop="20250425200300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250425200300 +0800" stop="20250425220100 +0800">
+		<title lang="zh">新警察故事</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
