@@ -47769,6 +47769,9 @@
 	<programme channel="newtv超级体育" start="20250426053000 +0800" stop="20250426060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250426060000 +0800" stop="20250426063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界单板滑雪锦标赛 障碍追逐决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47813,6 +47816,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250426051200 +0800" stop="20250426055300 +0800">
 		<title lang="zh">34_大侠霍元甲</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250426055300 +0800" stop="20250426063500 +0800">
+		<title lang="zh">35_大侠霍元甲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48116,6 +48122,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250426051300 +0800" stop="20250426060000 +0800">
 		<title lang="zh">24_巾帼枭雄之悬崖</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250426060000 +0800" stop="20250426064700 +0800">
+		<title lang="zh">25_巾帼枭雄之悬崖</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
