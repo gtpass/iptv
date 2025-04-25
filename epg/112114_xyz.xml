@@ -81438,6 +81438,9 @@
 	<programme channel="newtv超级综艺" start="20250425095000 +0800" stop="20250425104000 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250425104000 +0800" stop="20250425112200 +0800">
+		<title lang="zh">回声嘹亮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81576,6 +81579,9 @@
 	<programme channel="newtv精品大剧" start="20250425092400 +0800" stop="20250425103100 +0800">
 		<title lang="zh">33_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250425103100 +0800" stop="20250425111700 +0800">
+		<title lang="zh">34_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81711,6 +81717,9 @@
 	<programme channel="newtv军旅剧场" start="20250425095500 +0800" stop="20250425104500 +0800">
 		<title lang="zh">12_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250425104500 +0800" stop="20250425113100 +0800">
+		<title lang="zh">13_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81758,6 +81767,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250425095400 +0800" stop="20250425104100 +0800">
 		<title lang="zh">11_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250425104100 +0800" stop="20250425112500 +0800">
+		<title lang="zh">12_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82052,6 +82064,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250425095100 +0800" stop="20250425103600 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250425103600 +0800" stop="20250425115300 +0800">
+		<title lang="zh">独属于自己的了不起的小成就 绽放平凡人不平凡的光（20250421）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
