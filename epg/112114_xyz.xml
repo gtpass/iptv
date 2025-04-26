@@ -39207,6 +39207,9 @@
 	<programme channel="纯享4K" start="20250427010400 +0800" stop="20250427013400 +0800">
 		<title lang="zh">味道4K 穿街走巷b7巴南篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250427013400 +0800" stop="20250427020400 +0800">
+		<title lang="zh">味道4K 穿街走巷b7巴南篇（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48819,6 +48822,9 @@
 	<programme channel="newtv精品大剧" start="20250427010000 +0800" stop="20250427015100 +0800">
 		<title lang="zh">02_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250427015100 +0800" stop="20250427024100 +0800">
+		<title lang="zh">03_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48827,6 +48833,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250427010600 +0800" stop="20250427015600 +0800">
 		<title lang="zh">06_飞机</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250427015600 +0800" stop="20250427024400 +0800">
+		<title lang="zh">01_8天 月亮之旅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48846,6 +48855,9 @@
 	<programme channel="newtv军旅剧场" start="20250427005200 +0800" stop="20250427014000 +0800">
 		<title lang="zh">07_最后一张签证</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250427014000 +0800" stop="20250427022800 +0800">
+		<title lang="zh">08_最后一张签证</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48854,6 +48866,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250427010800 +0800" stop="20250427015500 +0800">
 		<title lang="zh">56_娘亲舅大</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250427015500 +0800" stop="20250427023900 +0800">
+		<title lang="zh">01_空巢姥爷</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48897,6 +48912,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250427005100 +0800" stop="20250427013900 +0800">
 		<title lang="zh">36_流光之城</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250427013900 +0800" stop="20250427022700 +0800">
+		<title lang="zh">37_流光之城</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48905,6 +48923,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250427010400 +0800" stop="20250427015200 +0800">
 		<title lang="zh">横扫千军：十大军事原则①</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250427015200 +0800" stop="20250427023900 +0800">
+		<title lang="zh">横扫千军：十大军事原则②</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48986,6 +49007,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250427001400 +0800" stop="20250427014500 +0800">
 		<title lang="zh">侠探锦毛鼠之鹧鸪天</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250427014500 +0800" stop="20250427032200 +0800">
+		<title lang="zh">侠捕之夺命红莲</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
