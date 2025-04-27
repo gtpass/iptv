@@ -27042,6 +27042,9 @@
 	<programme channel="咪咕综合体育" start="20250427195500 +0800" stop="20250427200500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250427200500 +0800" stop="20250427203000 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59952,6 +59955,9 @@
 	<programme channel="爱情喜剧" start="20250427191800 +0800" stop="20250427200400 +0800">
 		<title lang="zh">10_清平乐</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250427200400 +0800" stop="20250427203400 +0800">
+		<title lang="zh">《花样人生》推荐第47期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65897,6 +65903,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250427193300 +0800" stop="20250427201500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 滨海之城 宁波味道</title>
+	</programme>
+	<programme channel="纯享4K" start="20250427201500 +0800" stop="20250427205600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 创新开放 活力宁波</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81156,6 +81165,9 @@
 	<programme channel="黑莓动画" start="20250427181700 +0800" stop="20250427200700 +0800">
 		<title lang="zh">异次元的狙击手 日语版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250427200700 +0800" stop="20250427214100 +0800">
+		<title lang="zh">怪物史莱克4（4K）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82305,6 +82317,9 @@
 	<programme channel="newtv超级电视剧" start="20250427193600 +0800" stop="20250427202400 +0800">
 		<title lang="zh">08_雁回时</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250427202400 +0800" stop="20250427211500 +0800">
+		<title lang="zh">09_雁回时</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82806,6 +82821,9 @@
 	<programme channel="newtv热播精选" start="20250427192600 +0800" stop="20250427200500 +0800">
 		<title lang="zh">18_闪耀的她</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250427200500 +0800" stop="20250427204500 +0800">
+		<title lang="zh">19_闪耀的她</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82868,6 +82886,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250427191800 +0800" stop="20250427200400 +0800">
 		<title lang="zh">10_清平乐</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250427200400 +0800" stop="20250427203400 +0800">
+		<title lang="zh">《花样人生》推荐第47期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83016,6 +83037,9 @@
 	<programme channel="newtv怡伴健康" start="20250427192300 +0800" stop="20250427200500 +0800">
 		<title lang="zh">北京源莱慧热爱VS四川天门淘一街 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250427200500 +0800" stop="20250427203500 +0800">
+		<title lang="zh">《花样人生》推荐第47期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83096,6 +83120,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250427193200 +0800" stop="20250427200200 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250427200200 +0800" stop="20250427204800 +0800">
+		<title lang="zh">01_似锦</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83633,6 +83660,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250427192800 +0800" stop="20250427201300 +0800">
 		<title lang="zh">01_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250427201300 +0800" stop="20250427210000 +0800">
+		<title lang="zh">02_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
