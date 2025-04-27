@@ -80871,6 +80871,9 @@
 	<programme channel="黑莓电影" start="20250427101700 +0800" stop="20250427115200 +0800">
 		<title lang="zh">打过长江去</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250427115200 +0800" stop="20250427131100 +0800">
+		<title lang="zh">搜神记：南海美人鲛</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -81783,6 +81786,9 @@
 	<programme channel="newtv超级综艺" start="20250427103500 +0800" stop="20250427115200 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250427115200 +0800" stop="20250427132200 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81815,6 +81821,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250427091500 +0800" stop="20250427120000 +0800">
 		<title lang="zh">2025年苏迪曼杯羽毛球赛-小组赛(泰国队-中国香港队)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250427120000 +0800" stop="20250427130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -81942,6 +81951,9 @@
 	<programme channel="newtv精品大剧" start="20250427111700 +0800" stop="20250427115700 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250427115700 +0800" stop="20250427124300 +0800">
+		<title lang="zh">06_最遥远的距离</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82001,6 +82013,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250427112900 +0800" stop="20250427115900 +0800">
 		<title lang="zh">05_知识改变命运</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250427115900 +0800" stop="20250427122900 +0800">
+		<title lang="zh">06_绿色奇迹</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82094,6 +82109,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250427111100 +0800" stop="20250427115700 +0800">
 		<title lang="zh">23_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250427115700 +0800" stop="20250427131700 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
