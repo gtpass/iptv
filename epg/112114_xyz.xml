@@ -25587,6 +25587,9 @@
 	<programme channel="咪咕综合体育" start="20250428152000 +0800" stop="20250428170000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第7轮 天津津门虎-上海海港</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250428170000 +0800" stop="20250428183000 +0800">
+		<title lang="zh">网球世界-2025WTA1000迈阿密站 第2轮 郑钦文-戴维斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -63177,6 +63180,9 @@
 	<programme channel="纯享4K" start="20250428162700 +0800" stop="20250428165500 +0800">
 		<title lang="zh">记住乡愁4K第九季 上海村史馆——乡情有归处 家风代代传</title>
 	</programme>
+	<programme channel="纯享4K" start="20250428165500 +0800" stop="20250428172400 +0800">
+		<title lang="zh">味道4K 原味乡间b7嘉荫篇（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -78600,6 +78606,9 @@
 	<programme channel="newtv精品大剧" start="20250428154700 +0800" stop="20250428165400 +0800">
 		<title lang="zh">34_梦华录</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250428165400 +0800" stop="20250428173900 +0800">
+		<title lang="zh">06_承欢记</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78893,6 +78902,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250428160000 +0800" stop="20250428164900 +0800">
 		<title lang="zh">07_高兴的酸甜苦辣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250428164900 +0800" stop="20250428173400 +0800">
+		<title lang="zh">08_高兴的酸甜苦辣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79308,6 +79320,9 @@
 	<programme channel="newtv军事评论" start="20250428162500 +0800" stop="20250428164700 +0800">
 		<title lang="zh">二〇二三热点冲突冷思考 主战坦克何去何从</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250428164700 +0800" stop="20250428170900 +0800">
+		<title lang="zh">二〇二三热点冲突冷思考 防空反导新挑战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79382,6 +79397,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250428160900 +0800" stop="20250428164900 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250428164900 +0800" stop="20250428180600 +0800">
+		<title lang="zh">致青春组合领舞全场 舞台秒变广场舞现场（20240706）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -79646,6 +79664,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250428161600 +0800" stop="20250428164900 +0800">
 		<title lang="zh">04_武林秘案之美人图鉴</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250428164900 +0800" stop="20250428171900 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
