@@ -19377,6 +19377,9 @@
 	<programme channel="动作电影" start="20250428160400 +0800" stop="20250428164400 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="动作电影" start="20250428164400 +0800" stop="20250428181800 +0800">
+		<title lang="zh">邪恶小队</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -40578,6 +40581,9 @@
 	<programme channel="明星大片" start="20250428160000 +0800" stop="20250428164500 +0800">
 		<title lang="zh">14_乔家的儿女</title>
 	</programme>
+	<programme channel="明星大片" start="20250428164500 +0800" stop="20250428173500 +0800">
+		<title lang="zh">15_乔家的儿女</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -57324,6 +57330,9 @@
 	<programme channel="爱情喜剧" start="20250428155100 +0800" stop="20250428163600 +0800">
 		<title lang="zh">12_清平乐</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250428163600 +0800" stop="20250428171400 +0800">
+		<title lang="zh">美国进口RN水飞蓟籽油-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67494,6 +67503,9 @@
 	<programme channel="超级电影" start="20250428150200 +0800" stop="20250428163800 +0800">
 		<title lang="zh">电影《移城别恋》</title>
 	</programme>
+	<programme channel="超级电影" start="20250428163800 +0800" stop="20250428182400 +0800">
+		<title lang="zh">电影《亡命杀镇》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -77511,6 +77523,9 @@
 	<programme channel="黑莓动画" start="20250428153900 +0800" stop="20250428164500 +0800">
 		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250428164500 +0800" stop="20250428181400 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78405,6 +78420,9 @@
 	<programme channel="newtv超级体育" start="20250428160000 +0800" stop="20250428164500 +0800">
 		<title lang="zh">运动一起赢</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250428164500 +0800" stop="20250428193000 +0800">
+		<title lang="zh">2025年苏迪曼杯羽毛球赛-小组赛(中国队-中国香港队)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -78443,6 +78461,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250428150200 +0800" stop="20250428163800 +0800">
 		<title lang="zh">电影《移城别恋》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250428163800 +0800" stop="20250428182400 +0800">
+		<title lang="zh">电影《亡命杀镇》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -78512,6 +78533,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250428155800 +0800" stop="20250428164400 +0800">
 		<title lang="zh">36_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250428164400 +0800" stop="20250428173000 +0800">
+		<title lang="zh">01_承欢记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -78663,6 +78687,9 @@
 	<programme channel="newtv精品纪录" start="20250428160700 +0800" stop="20250428164400 +0800">
 		<title lang="zh">第4集：江湖的野味 </title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250428164400 +0800" stop="20250428171000 +0800">
+		<title lang="zh">红色基因</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78791,6 +78818,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250428154800 +0800" stop="20250428163700 +0800">
 		<title lang="zh">20_李三枪</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250428163700 +0800" stop="20250428172300 +0800">
+		<title lang="zh">22_勇敢的心2</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -78924,6 +78954,9 @@
 	<programme channel="newtv热播精选" start="20250428155900 +0800" stop="20250428164000 +0800">
 		<title lang="zh">12_双探</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250428164000 +0800" stop="20250428172900 +0800">
+		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -78972,6 +79005,9 @@
 	<programme channel="newtv爱情喜剧" start="20250428155100 +0800" stop="20250428163600 +0800">
 		<title lang="zh">12_清平乐</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250428163600 +0800" stop="20250428171400 +0800">
+		<title lang="zh">美国进口RN水飞蓟籽油-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79010,6 +79046,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250428160400 +0800" stop="20250428164400 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250428164400 +0800" stop="20250428181800 +0800">
+		<title lang="zh">邪恶小队</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -79401,6 +79440,9 @@
 	<programme channel="newtv精品综合" start="20250428160000 +0800" stop="20250428164500 +0800">
 		<title lang="zh">14_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250428164500 +0800" stop="20250428173500 +0800">
+		<title lang="zh">15_乔家的儿女</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79467,6 +79509,9 @@
 	<programme channel="newtv金牌综艺" start="20250428152000 +0800" stop="20250428164500 +0800">
 		<title lang="zh">典籍里的中国第2季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250428164500 +0800" stop="20250428174400 +0800">
+		<title lang="zh">十三邀第7季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -79502,6 +79547,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250428160200 +0800" stop="20250428164400 +0800">
 		<title lang="zh">2025年WTT重庆冠军赛女单决赛：孙颖莎VS陈幸同</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250428164400 +0800" stop="20250428172800 +0800">
+		<title lang="zh">2025年WTT重庆冠军赛男单决赛：林诗栋VS王楚钦</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
