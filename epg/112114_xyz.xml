@@ -25614,6 +25614,9 @@
 	<programme channel="咪咕综合体育" start="20250428170000 +0800" stop="20250428183000 +0800">
 		<title lang="zh">网球世界-2025WTA1000迈阿密站 第2轮 郑钦文-戴维斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250428183500 +0800" stop="20250428190000 +0800">
+		<title lang="zh">中超精华 第7轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -78729,6 +78732,9 @@
 	<programme channel="newtv精品纪录" start="20250428181400 +0800" stop="20250428184100 +0800">
 		<title lang="zh">守正出新</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250428184100 +0800" stop="20250428190800 +0800">
+		<title lang="zh">红色基因</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -78801,6 +78807,9 @@
 	<programme channel="newtv古装剧场" start="20250428175500 +0800" stop="20250428184200 +0800">
 		<title lang="zh">02_神医喜来乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250428184200 +0800" stop="20250428191200 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -78872,6 +78881,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250428175300 +0800" stop="20250428183900 +0800">
 		<title lang="zh">23_勇敢的心2</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250428183900 +0800" stop="20250428192500 +0800">
+		<title lang="zh">24_勇敢的心2</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79416,6 +79428,9 @@
 	<programme channel="newtv军事评论" start="20250428181500 +0800" stop="20250428183700 +0800">
 		<title lang="zh">二〇二三热点冲突冷思考 远程导弹新动向</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250428183700 +0800" stop="20250428185900 +0800">
+		<title lang="zh">美军“恶补”野战防</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79787,6 +79802,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250428180500 +0800" stop="20250428183500 +0800">
 		<title lang="zh">《花样人生》推荐第48期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250428183500 +0800" stop="20250428192100 +0800">
+		<title lang="zh">04_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
