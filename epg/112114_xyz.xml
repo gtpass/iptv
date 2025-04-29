@@ -39729,6 +39729,9 @@
 	<programme channel="惊悚悬疑" start="20250429095200 +0800" stop="20250429104200 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250429104200 +0800" stop="20250429120800 +0800">
+		<title lang="zh">地质灾难</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -83505,6 +83508,9 @@
 	<programme channel="newtv精品大剧" start="20250429095600 +0800" stop="20250429104100 +0800">
 		<title lang="zh">12_最遥远的距离</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250429104100 +0800" stop="20250429112100 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83543,6 +83549,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250429093600 +0800" stop="20250429104000 +0800">
 		<title lang="zh">第一集 人心向背</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250429104000 +0800" stop="20250429112900 +0800">
+		<title lang="zh">第二集 以上率下</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -83627,6 +83636,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250429094300 +0800" stop="20250429103300 +0800">
 		<title lang="zh">29_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250429103300 +0800" stop="20250429111800 +0800">
+		<title lang="zh">30_菜刀班尖刀连</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83714,6 +83726,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250429095200 +0800" stop="20250429103700 +0800">
 		<title lang="zh">04_乐游原</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250429103700 +0800" stop="20250429112300 +0800">
+		<title lang="zh">05_乐游原</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83982,6 +83997,9 @@
 	<programme channel="newtv炫舞未来" start="20250429095800 +0800" stop="20250429104300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250429104300 +0800" stop="20250429114200 +0800">
+		<title lang="zh">武术《中华少年》国风舞台演绎中华武魂 一招一式以武会友（20230108）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84048,6 +84066,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250429095200 +0800" stop="20250429104200 +0800">
 		<title lang="zh">驼蒙苏有机全脂纯奶粉-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250429104200 +0800" stop="20250429120800 +0800">
+		<title lang="zh">地质灾难</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -84062,6 +84083,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250429061700 +0800" stop="20250429105100 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250429105100 +0800" stop="20250429135200 +0800">
+		<title lang="zh">德云斗笑社</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
