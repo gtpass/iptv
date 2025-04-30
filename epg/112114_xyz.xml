@@ -20499,6 +20499,9 @@
 	<programme channel="动作电影" start="20250430213000 +0800" stop="20250430220000 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="动作电影" start="20250430220000 +0800" stop="20250430233300 +0800">
+		<title lang="zh">变体</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27836,6 +27839,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250430210000 +0800" stop="20250430215000 +0800">
 		<title lang="zh">最后之舞04</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250430220000 +0800" stop="20250430234000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA总决赛G3 四川蜀道远达-东莞新彤盛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -39746,6 +39752,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250430213000 +0800" stop="20250430220000 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250430220000 +0800" stop="20250430233200 +0800">
+		<title lang="zh">猎谎者</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -66513,6 +66522,9 @@
 	<programme channel="纯享4K" start="20250430210300 +0800" stop="20250430215300 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第3集 生于末世运偏消</title>
 	</programme>
+	<programme channel="纯享4K" start="20250430215300 +0800" stop="20250430224200 +0800">
+		<title lang="zh">曹雪芹与红楼梦4K 第4集 眼前春色梦中人</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83142,6 +83154,9 @@
 	<programme channel="newtv精品纪录" start="20250430210300 +0800" stop="20250430215300 +0800">
 		<title lang="zh">03_无声的功勋（第一季）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250430215300 +0800" stop="20250430223100 +0800">
+		<title lang="zh">美国进口RN水飞蓟籽油-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83325,6 +83340,9 @@
 	<programme channel="newtv军旅剧场" start="20250430212800 +0800" stop="20250430215600 +0800">
 		<title lang="zh">48_特种兵之火凤凰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250430215600 +0800" stop="20250430222600 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83505,6 +83523,9 @@
 	<programme channel="newtv热播精选" start="20250430212400 +0800" stop="20250430215400 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250430215400 +0800" stop="20250430223700 +0800">
+		<title lang="zh">32_闪耀的她</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83627,6 +83648,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250430213000 +0800" stop="20250430220000 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250430220000 +0800" stop="20250430233300 +0800">
+		<title lang="zh">变体</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84063,6 +84087,9 @@
 	<programme channel="newtv炫舞未来" start="20250430214100 +0800" stop="20250430215500 +0800">
 		<title lang="zh">Honey-孙爱迪</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250430215500 +0800" stop="20250430221400 +0800">
+		<title lang="zh">你要跳舞吗-毕刚</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84200,6 +84227,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250430213000 +0800" stop="20250430220000 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250430220000 +0800" stop="20250430233200 +0800">
+		<title lang="zh">猎谎者</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
