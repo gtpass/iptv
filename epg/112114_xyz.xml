@@ -48870,6 +48870,9 @@
 	<programme channel="newtv超级体育" start="20250501053000 +0800" stop="20250501060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250501060000 +0800" stop="20250501063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48911,6 +48914,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250501050600 +0800" stop="20250501054800 +0800">
 		<title lang="zh">10_回家的路有多远</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250501054800 +0800" stop="20250501062900 +0800">
+		<title lang="zh">11_回家的路有多远</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49086,6 +49092,9 @@
 	<programme channel="newtv爱情喜剧" start="20250501051300 +0800" stop="20250501060000 +0800">
 		<title lang="zh">06_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250501060000 +0800" stop="20250501073600 +0800">
+		<title lang="zh">亲密旅行</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -49209,6 +49218,9 @@
 	<programme channel="newtv炫舞未来" start="20250501053700 +0800" stop="20250501055300 +0800">
 		<title lang="zh">半壶纱-李莹（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250501055300 +0800" stop="20250501060600 +0800">
+		<title lang="zh">形体拉伸操-于航（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -49226,6 +49238,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250501050600 +0800" stop="20250501055600 +0800">
 		<title lang="zh">19_特战行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250501055600 +0800" stop="20250501064500 +0800">
+		<title lang="zh">20_特战行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
