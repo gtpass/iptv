@@ -47478,6 +47478,9 @@
 	<programme channel="黑莓电影" start="20250502041700 +0800" stop="20250502054900 +0800">
 		<title lang="zh">侠路相逢</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250502054900 +0800" stop="20250502073200 +0800">
+		<title lang="zh">悠长下课后</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47775,6 +47778,9 @@
 	<programme channel="newtv超级体育" start="20250502053000 +0800" stop="20250502060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250502060000 +0800" stop="20250502063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年世界单板滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47792,6 +47798,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250502051400 +0800" stop="20250502060700 +0800">
 		<title lang="zh">硬汉奶爸</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250502060700 +0800" stop="20250502081200 +0800">
+		<title lang="zh">逆行人生</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47925,6 +47934,9 @@
 	<programme channel="newtv军旅剧场" start="20250502050400 +0800" stop="20250502054900 +0800">
 		<title lang="zh">08_军人荣誉之铁血雄心</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250502054900 +0800" stop="20250502063700 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47970,6 +47982,9 @@
 	<programme channel="newtv热播精选" start="20250502050900 +0800" stop="20250502055400 +0800">
 		<title lang="zh">35_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250502055400 +0800" stop="20250502064500 +0800">
+		<title lang="zh">36_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47987,6 +48002,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250502050500 +0800" stop="20250502055400 +0800">
 		<title lang="zh">10_树下有片红房子</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250502055400 +0800" stop="20250502064400 +0800">
+		<title lang="zh">11_树下有片红房子</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48110,6 +48128,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250502053500 +0800" stop="20250502055800 +0800">
 		<title lang="zh">朱迅对话陈冲——文学阅读带给人以岩浆般的浸润与塑造（20250423）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250502055800 +0800" stop="20250502061200 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
