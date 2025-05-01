@@ -65523,6 +65523,9 @@
 	<programme channel="纯享4K" start="20250501193000 +0800" stop="20250501201200 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 运河之畔 水城古韵</title>
 	</programme>
+	<programme channel="纯享4K" start="20250501201200 +0800" stop="20250501205400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 香格里拉的多彩生活</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80790,6 +80793,9 @@
 	<programme channel="黑莓动画" start="20250501182600 +0800" stop="20250501200400 +0800">
 		<title lang="zh">银魂最终篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250501200400 +0800" stop="20250501214600 +0800">
+		<title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81708,6 +81714,9 @@
 	<programme channel="newtv超级综艺" start="20250501184300 +0800" stop="20250501200600 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250501200600 +0800" stop="20250501213700 +0800">
+		<title lang="zh">中国梦b7劳动美—2025五一国际劳动节“心连心”特别节目</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82614,6 +82623,9 @@
 	<programme channel="newtv怡伴健康" start="20250501193100 +0800" stop="20250501201400 +0800">
 		<title lang="zh">贵州混斗联盟vs湖南名将 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250501201400 +0800" stop="20250501204400 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82823,6 +82835,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250501195200 +0800" stop="20250501201400 +0800">
 		<title lang="zh">俄乌冲突二周年观察 有人战机的空中角力</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250501201400 +0800" stop="20250501203900 +0800">
+		<title lang="zh">炒作开战“倒计时” 美国准备三套剧本</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83237,6 +83252,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250501192400 +0800" stop="20250501201000 +0800">
 		<title lang="zh">16_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250501201000 +0800" stop="20250501205700 +0800">
+		<title lang="zh">17_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
