@@ -81918,6 +81918,9 @@
 	<programme channel="newtv超级体育" start="20250502133500 +0800" stop="20250502135900 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250502135900 +0800" stop="20250502143000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 美国站 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82365,6 +82368,9 @@
 	<programme channel="newtv热播精选" start="20250502123200 +0800" stop="20250502135700 +0800">
 		<title lang="zh">兰若行者</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250502135700 +0800" stop="20250502144700 +0800">
+		<title lang="zh">第四套人民币典藏大系-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82646,6 +82652,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250502133400 +0800" stop="20250502135600 +0800">
 		<title lang="zh">营地炊烟（13）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250502135600 +0800" stop="20250502141800 +0800">
+		<title lang="zh">“珠峰友谊-2024”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -82943,6 +82952,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250502132200 +0800" stop="20250502135600 +0800">
 		<title lang="zh">中国搏击十年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250502135600 +0800" stop="20250502143600 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
