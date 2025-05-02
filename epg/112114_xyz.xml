@@ -27585,6 +27585,9 @@
 	<programme channel="咪咕综合体育" start="20250502100400 +0800" stop="20250502104500 +0800">
 		<title lang="zh">国球荣耀-2025WTT重庆冠军赛 男单1/8决赛 梁靖崑-林高远</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250502105000 +0800" stop="20250502125000 +0800">
+		<title lang="zh">网球世界-2025WTA1000印第安维尔斯站 第3轮 郑钦文-孙璐璐</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42923,6 +42926,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250502094900 +0800" stop="20250502103900 +0800">
 		<title lang="zh">32_骊歌行</title>
+	</programme>
+	<programme channel="明星大片" start="20250502103900 +0800" stop="20250502115900 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -65901,6 +65907,9 @@
 	<programme channel="纯享4K" start="20250502100500 +0800" stop="20250502103300 +0800">
 		<title lang="zh">旅游指南4K 好吃客b7韶关</title>
 	</programme>
+	<programme channel="纯享4K" start="20250502103300 +0800" stop="20250502110300 +0800">
+		<title lang="zh">村庄故事4K 寻根右龙</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81888,6 +81897,9 @@
 	<programme channel="newtv超级电视剧" start="20250502095900 +0800" stop="20250502104300 +0800">
 		<title lang="zh">18_黑白森林</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250502104300 +0800" stop="20250502112900 +0800">
+		<title lang="zh">30_潜行者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82029,6 +82041,9 @@
 	<programme channel="newtv古装剧场" start="20250502095400 +0800" stop="20250502103400 +0800">
 		<title lang="zh">18_新白蛇传</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250502103400 +0800" stop="20250502112300 +0800">
+		<title lang="zh">19_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -82070,6 +82085,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250502094500 +0800" stop="20250502104100 +0800">
 		<title lang="zh">13_黑白密码</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250502104100 +0800" stop="20250502112900 +0800">
+		<title lang="zh">14_黑白密码</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -82260,6 +82278,9 @@
 	<programme channel="newtv怡伴健康" start="20250502095100 +0800" stop="20250502103700 +0800">
 		<title lang="zh">07_女士的法则</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250502103700 +0800" stop="20250502112300 +0800">
+		<title lang="zh">08_女士的法则</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -82365,6 +82386,9 @@
 	<programme channel="newtv军事评论" start="20250502101800 +0800" stop="20250502104400 +0800">
 		<title lang="zh">波兰自称是阻止俄罗斯的关键威慑力量 以防长对哈马斯发出“猛击”威胁</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250502104400 +0800" stop="20250502110900 +0800">
+		<title lang="zh">俄乌无人攻防激烈交锋 也门胡塞武装用导弹和无人机打击美航母</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -82463,6 +82487,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250502094900 +0800" stop="20250502103900 +0800">
 		<title lang="zh">32_骊歌行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250502103900 +0800" stop="20250502115900 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
