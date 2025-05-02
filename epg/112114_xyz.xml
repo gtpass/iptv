@@ -12321,6 +12321,18 @@
 	<programme channel="咪咕24小时体育" start="20250503225700 +0800" stop="20250503235900 +0800">
 		<title lang="zh">【赛事回放】CBA季后赛1/4决赛G5：广厦vs青岛</title>
 	</programme>
+	<channel id="咪咕综合体育">
+		<display-name lang="zh">咪咕综合体育</display-name>
+	</channel>
+	<programme channel="咪咕综合体育" start="20250503000000 +0800" stop="20250503003000 +0800">
+		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第四集</title>
+	</programme>
+	<channel id="咪咕足球">
+		<display-name lang="zh">咪咕足球</display-name>
+	</channel>
+	<programme channel="咪咕足球" start="20250503000100 +0800" stop="20250503012100 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
