@@ -82695,6 +82695,9 @@
 	<programme channel="newtv超级电视剧" start="20250503112200 +0800" stop="20250503120800 +0800">
 		<title lang="zh">35_潜行者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250503120800 +0800" stop="20250503125300 +0800">
+		<title lang="zh">36_潜行者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82835,6 +82838,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250503110800 +0800" stop="20250503115500 +0800">
 		<title lang="zh">24_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250503115500 +0800" stop="20250503131500 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83103,6 +83109,9 @@
 	<programme channel="newtv怡伴健康" start="20250503113800 +0800" stop="20250503114900 +0800">
 		<title lang="zh">相声《文化达人》 表演：辛杰 房小满</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250503115900 +0800" stop="20250503124300 +0800">
+		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83219,6 +83228,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250503113400 +0800" stop="20250503115900 +0800">
 		<title lang="zh">美以两国高级将领召开战略会议 俄打击欧洲最大天然气储存设施</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250503115900 +0800" stop="20250503122500 +0800">
+		<title lang="zh">美日韩举行2025年首次联合空中演习 美军妄图用第六代战机干预台海</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83471,6 +83483,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250503111900 +0800" stop="20250503115900 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250503115900 +0800" stop="20250503133200 +0800">
+		<title lang="zh">江湖英雄联盟之毒手仁心</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
