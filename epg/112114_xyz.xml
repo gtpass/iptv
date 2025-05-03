@@ -38271,6 +38271,9 @@
 	<programme channel="纯享4K" start="20250504013100 +0800" stop="20250504020100 +0800">
 		<title lang="zh">味道4K 原味乡间b7铅山篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250504020100 +0800" stop="20250504023100 +0800">
+		<title lang="zh">村庄故事4K 枣香乾坤湾（上）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -46767,6 +46770,9 @@
 	<programme channel="newtv精品大剧" start="20250504010800 +0800" stop="20250504015800 +0800">
 		<title lang="zh">37_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250504015800 +0800" stop="20250504024800 +0800">
+		<title lang="zh">38_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -46775,6 +46781,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250504010100 +0800" stop="20250504015400 +0800">
 		<title lang="zh">02_超级电网</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250504015400 +0800" stop="20250504024700 +0800">
+		<title lang="zh">港珠澳大桥 上集</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46820,6 +46829,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250504002600 +0800" stop="20250504020000 +0800">
 		<title lang="zh">一个好人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250504020000 +0800" stop="20250504024900 +0800">
+		<title lang="zh">17_树下有片红房子</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -46869,11 +46881,17 @@
 	<programme channel="newtv炫舞未来" start="20250504001900 +0800" stop="20250504020100 +0800">
 		<title lang="zh">国家宝藏 第三季（20210124）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250504020100 +0800" stop="20250504030400 +0800">
+		<title lang="zh">第4集：许知远对话梁建章 意义感是我一直思考的</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250504002500 +0800" stop="20250504020100 +0800">
 		<title lang="zh">暮光b7巴黎</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250504020100 +0800" stop="20250504030300 +0800">
+		<title lang="zh">跃上高阶职场</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -46895,6 +46913,9 @@
 	</channel>
 	<programme channel="newtv精品体育" start="20250504001000 +0800" stop="20250504015100 +0800">
 		<title lang="zh">2024-25赛季英超联赛第20轮：曼城VS西汉姆联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250504015100 +0800" stop="20250504033500 +0800">
+		<title lang="zh">2024-25赛季英超联赛第10轮：托特纳姆VS阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
