@@ -46710,6 +46710,9 @@
 	<programme channel="黑莓动画" start="20250504041600 +0800" stop="20250504055100 +0800">
 		<title lang="zh">哆啦A梦：伴我同行</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250504055100 +0800" stop="20250504073000 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47031,6 +47034,9 @@
 	<programme channel="newtv超级体育" start="20250504053000 +0800" stop="20250504060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250504060000 +0800" stop="20250504063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界单板滑雪锦标赛 平行回转决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47072,6 +47078,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250504051100 +0800" stop="20250504055300 +0800">
 		<title lang="zh">23_回家的路有多远</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250504055300 +0800" stop="20250504063400 +0800">
+		<title lang="zh">24_回家的路有多远</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47145,6 +47154,9 @@
 	<programme channel="newtv古装剧场" start="20250504050500 +0800" stop="20250504055500 +0800">
 		<title lang="zh">14_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250504055500 +0800" stop="20250504064600 +0800">
+		<title lang="zh">15_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47168,6 +47180,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250504045400 +0800" stop="20250504053900 +0800">
 		<title lang="zh">16_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250504053900 +0800" stop="20250504062800 +0800">
+		<title lang="zh">第三套人民币主景图大全尾三同-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47210,6 +47225,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250504050700 +0800" stop="20250504055800 +0800">
 		<title lang="zh">44_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250504055800 +0800" stop="20250504070000 +0800">
+		<title lang="zh">地球上的一年</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47295,6 +47313,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250504044200 +0800" stop="20250504053100 +0800">
 		<title lang="zh">50_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250504053100 +0800" stop="20250504062000 +0800">
+		<title lang="zh">51_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47322,6 +47343,9 @@
 	<programme channel="newtv军事评论" start="20250504050700 +0800" stop="20250504053400 +0800">
 		<title lang="zh">云台山里的兵工传奇</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250504060100 +0800" stop="20250504062700 +0800">
+		<title lang="zh">破除险情时刻、</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47346,6 +47370,9 @@
 	<programme channel="newtv炫舞未来" start="20250504052300 +0800" stop="20250504055300 +0800">
 		<title lang="zh">乐在旅途 第三季（20250329）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250504055300 +0800" stop="20250504060600 +0800">
+		<title lang="zh">形体拉伸操-于航（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47364,6 +47391,9 @@
 	<programme channel="newtv精品综合" start="20250504044200 +0800" stop="20250504053100 +0800">
 		<title lang="zh">30_特战行动</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250504053100 +0800" stop="20250504062100 +0800">
+		<title lang="zh">31_特战行动</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -47378,6 +47408,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250504042000 +0800" stop="20250504054800 +0800">
 		<title lang="zh">火线追凶2之黑色玫瑰</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250504054800 +0800" stop="20250504071600 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -47471,6 +47504,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250504050100 +0800" stop="20250504055300 +0800">
 		<title lang="zh">冠军争霸赛：恩尼斯VS楚哈吉安</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250504055300 +0800" stop="20250504063600 +0800">
+		<title lang="zh">拳王争霸赛：戴维斯VS加西亚</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
