@@ -39963,6 +39963,9 @@
 	<programme channel="纯享4K" start="20250505050900 +0800" stop="20250505055800 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
 	</programme>
+	<programme channel="纯享4K" start="20250505055800 +0800" stop="20250505064700 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48507,6 +48510,9 @@
 	<programme channel="newtv超级体育" start="20250505053000 +0800" stop="20250505060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250505060000 +0800" stop="20250505063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48518,6 +48524,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250505041700 +0800" stop="20250505055200 +0800">
 		<title lang="zh">天各一方</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250505055200 +0800" stop="20250505071700 +0800">
+		<title lang="zh">九面怪侠</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -48570,6 +48579,9 @@
 	<programme channel="newtv精品大剧" start="20250505050100 +0800" stop="20250505055000 +0800">
 		<title lang="zh">13_风雷动</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250505055000 +0800" stop="20250505063900 +0800">
+		<title lang="zh">14_风雷动</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -48587,6 +48599,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250505045600 +0800" stop="20250505054900 +0800">
 		<title lang="zh">第七集 智造先锋</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250505054900 +0800" stop="20250505063500 +0800">
+		<title lang="zh">第6集：真心英雄</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -48611,6 +48626,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250505051100 +0800" stop="20250505055900 +0800">
 		<title lang="zh">18_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250505055900 +0800" stop="20250505064800 +0800">
+		<title lang="zh">19_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48747,6 +48765,9 @@
 	<programme channel="newtv怡伴健康" start="20250505050400 +0800" stop="20250505055000 +0800">
 		<title lang="zh">34_承欢记</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250505055600 +0800" stop="20250505060200 +0800">
+		<title lang="zh">相声《贻笑大方》 表演：王琳 安亚平</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48798,6 +48819,9 @@
 	<programme channel="newtv军事评论" start="20250505053000 +0800" stop="20250505055600 +0800">
 		<title lang="zh">嘉陵江畔的长征记忆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250505055600 +0800" stop="20250505062300 +0800">
+		<title lang="zh">大山深处的“海上鹰眼”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48845,6 +48869,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250505050600 +0800" stop="20250505055500 +0800">
 		<title lang="zh">34_特战行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250505055500 +0800" stop="20250505064500 +0800">
+		<title lang="zh">35_特战行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
