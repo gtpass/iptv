@@ -39747,6 +39747,9 @@
 	<programme channel="纯享4K" start="20250505012600 +0800" stop="20250505015500 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7嘉兴篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250505015500 +0800" stop="20250505022500 +0800">
+		<title lang="zh">村庄故事4K 山水岩龙（上）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48156,6 +48159,9 @@
 	<programme channel="newtv超级电视剧" start="20250505011200 +0800" stop="20250505015800 +0800">
 		<title lang="zh">02_锦囊妙录</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250505015800 +0800" stop="20250505024300 +0800">
+		<title lang="zh">03_锦囊妙录</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48164,6 +48170,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250505005800 +0800" stop="20250505014600 +0800">
 		<title lang="zh">42_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250505014600 +0800" stop="20250505023500 +0800">
+		<title lang="zh">43_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48179,6 +48188,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250505010400 +0800" stop="20250505015300 +0800">
 		<title lang="zh">14_天地姻缘七仙女</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250505015300 +0800" stop="20250505024200 +0800">
+		<title lang="zh">15_天地姻缘七仙女</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -48237,6 +48249,9 @@
 	<programme channel="newtv怡伴健康" start="20250505010400 +0800" stop="20250505015000 +0800">
 		<title lang="zh">37_金钗谍影</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250505015000 +0800" stop="20250505024000 +0800">
+		<title lang="zh">38_金钗谍影</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48254,6 +48269,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250505010300 +0800" stop="20250505015600 +0800">
 		<title lang="zh">田应平：高黎贡山守护者</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250505015600 +0800" stop="20250505025000 +0800">
+		<title lang="zh">贵州“村超”：老兵踢出“世界波”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
