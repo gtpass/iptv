@@ -48276,6 +48276,9 @@
 	<programme channel="newtv超级综艺" start="20250505014300 +0800" stop="20250505034400 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250505034400 +0800" stop="20250505041800 +0800">
+		<title lang="zh">TOP音乐咖</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48287,6 +48290,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250505023800 +0800" stop="20250505040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250505040000 +0800" stop="20250505053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第22轮 马赛-圣艾蒂安(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -48504,6 +48510,9 @@
 	<programme channel="newtv炫舞未来" start="20250505033400 +0800" stop="20250505035000 +0800">
 		<title lang="zh">错位时空-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250505035000 +0800" stop="20250505040600 +0800">
+		<title lang="zh">半壶纱-李莹（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48599,6 +48608,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250505024400 +0800" stop="20250505035300 +0800">
 		<title lang="zh">罗布泊之九龙天棺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250505035300 +0800" stop="20250505045800 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
