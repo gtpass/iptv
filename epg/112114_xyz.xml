@@ -20244,6 +20244,9 @@
 	<programme channel="动作电影" start="20250504194300 +0800" stop="20250504201300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
+	<programme channel="动作电影" start="20250504201300 +0800" stop="20250504214200 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -65808,6 +65811,9 @@
 	<programme channel="纯享4K" start="20250504193400 +0800" stop="20250504201500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 高原深处 动物家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250504201500 +0800" stop="20250504205700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 大自然的馈赠</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81948,6 +81954,9 @@
 	<programme channel="newtv精品大剧" start="20250504192600 +0800" stop="20250504201100 +0800">
 		<title lang="zh">32_承欢记</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250504201100 +0800" stop="20250504204100 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -82022,6 +82031,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250504191900 +0800" stop="20250504201300 +0800">
 		<title lang="zh">02_土地之歌</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250504201300 +0800" stop="20250504210200 +0800">
+		<title lang="zh">第三套人民币主景图大全尾三同-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -82100,6 +82112,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250504191100 +0800" stop="20250504200200 +0800">
 		<title lang="zh">32_神医喜来乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250504200200 +0800" stop="20250504204600 +0800">
+		<title lang="zh">33_神医喜来乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -82454,6 +82469,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250504194300 +0800" stop="20250504201300 +0800">
 		<title lang="zh">《八段锦》推荐21期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250504201300 +0800" stop="20250504214200 +0800">
+		<title lang="zh">扎职3：义薄云天</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82856,6 +82874,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250504191600 +0800" stop="20250504200300 +0800">
 		<title lang="zh">07_金婚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250504200300 +0800" stop="20250504205100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
