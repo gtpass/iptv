@@ -41535,6 +41535,9 @@
 	<programme channel="纯享4K" start="20250506012900 +0800" stop="20250506015800 +0800">
 		<title lang="zh">味道4K 原味乡间b7永新篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250506015800 +0800" stop="20250506022800 +0800">
+		<title lang="zh">村庄故事4K 山庄玉露香</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51105,11 +51108,17 @@
 	<programme channel="黑莓动画" start="20250506000300 +0800" stop="20250506015400 +0800">
 		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250506015400 +0800" stop="20250506032300 +0800">
+		<title lang="zh">太空神鹰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250506002800 +0800" stop="20250506015600 +0800">
 		<title lang="zh">三更客栈</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250506015600 +0800" stop="20250506033100 +0800">
+		<title lang="zh">冰下的鱼</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -51507,6 +51516,9 @@
 	<programme channel="newtv精品综合" start="20250506000100 +0800" stop="20250506015500 +0800">
 		<title lang="zh">命中罪爱</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250506015500 +0800" stop="20250506031600 +0800">
+		<title lang="zh">跃上高阶职场</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -51519,6 +51531,12 @@
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
+	<programme channel="newtv金牌综艺" start="20250506002000 +0800" stop="20250506015900 +0800">
+		<title lang="zh">艺览天下（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250506015900 +0800" stop="20250506032400 +0800">
+		<title lang="zh">金牌喜剧班</title>
+	</programme>
 	<programme channel="newtv金牌综艺" start="20250506002000 +0800" stop="20250506015900 +0800">
 		<title lang="zh">艺览天下（2024）</title>
 	</programme>
@@ -51572,6 +51590,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250506003400 +0800" stop="20250506015400 +0800">
 		<title lang="zh">六扇门之嫣州八艳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250506015400 +0800" stop="20250506032400 +0800">
+		<title lang="zh">酒剑</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
