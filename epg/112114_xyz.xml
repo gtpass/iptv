@@ -51663,6 +51663,9 @@
 	<programme channel="newtv超级体育" start="20250506053000 +0800" stop="20250506060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子钢架雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250506060000 +0800" stop="20250506063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51786,6 +51789,9 @@
 	<programme channel="newtv古装剧场" start="20250506050200 +0800" stop="20250506055200 +0800">
 		<title lang="zh">22_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250506055200 +0800" stop="20250506064200 +0800">
+		<title lang="zh">23_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51858,6 +51864,9 @@
 	<programme channel="newtv热播精选" start="20250506050300 +0800" stop="20250506055000 +0800">
 		<title lang="zh">52_安家</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250506055000 +0800" stop="20250506064000 +0800">
+		<title lang="zh">53_安家</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51890,6 +51899,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250506043200 +0800" stop="20250506055600 +0800">
 		<title lang="zh">勇敢风暴</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250506055600 +0800" stop="20250506072800 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -51986,6 +51998,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250506050600 +0800" stop="20250506060100 +0800">
 		<title lang="zh">欢乐中国年——2023我要上春晚（20240118）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250506060100 +0800" stop="20250506061900 +0800">
+		<title lang="zh">算你狠-毕刚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
