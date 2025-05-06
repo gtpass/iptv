@@ -16323,6 +16323,9 @@
 	<programme channel="咪咕综合体育" start="20250507033000 +0800" stop="20250507055000 +0800">
 		<title lang="zh">2025赛季国际马联场地障碍世界杯西欧联赛 莱比锡站</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250507055000 +0800" stop="20250507061500 +0800">
+		<title lang="zh">中超精华 第7轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38823,6 +38826,9 @@
 	<programme channel="纯享4K" start="20250507051100 +0800" stop="20250507060000 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第5集 李白 仙山</title>
 	</programme>
+	<programme channel="纯享4K" start="20250507060000 +0800" stop="20250507065000 +0800">
+		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47478,6 +47484,9 @@
 	<programme channel="newtv超级体育" start="20250507053000 +0800" stop="20250507060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 男子双人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250507060000 +0800" stop="20250507063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47543,6 +47552,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250507045900 +0800" stop="20250507054800 +0800">
 		<title lang="zh">21_风雷动</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250507054800 +0800" stop="20250507063700 +0800">
+		<title lang="zh">22_风雷动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47697,6 +47709,9 @@
 	<programme channel="newtv动作电影" start="20250507043800 +0800" stop="20250507055300 +0800">
 		<title lang="zh">最后的武林2铁砂掌</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250507055300 +0800" stop="20250507073700 +0800">
+		<title lang="zh">零点定理</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -47720,6 +47735,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250507050200 +0800" stop="20250507054800 +0800">
 		<title lang="zh">01_三十而已</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250507054800 +0800" stop="20250507070800 +0800">
+		<title lang="zh">拉图红酒推广4001087099</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47813,6 +47831,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250507050500 +0800" stop="20250507055500 +0800">
 		<title lang="zh">07_梅花红桃</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250507055500 +0800" stop="20250507064500 +0800">
+		<title lang="zh">08_梅花红桃</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -47912,6 +47933,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250507044800 +0800" stop="20250507060000 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250507060000 +0800" stop="20250507065600 +0800">
+		<title lang="zh">冠军争霸赛：爱德华兹VS亚费</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
