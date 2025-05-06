@@ -43830,6 +43830,9 @@
 	<programme channel="明星大片" start="20250506133700 +0800" stop="20250506140100 +0800">
 		<title lang="zh">46_咒术回战</title>
 	</programme>
+	<programme channel="明星大片" start="20250506140100 +0800" stop="20250506144100 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -83823,6 +83826,9 @@
 	<programme channel="newtv古装剧场" start="20250506132000 +0800" stop="20250506140600 +0800">
 		<title lang="zh">37_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250506140600 +0800" stop="20250506144600 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84204,6 +84210,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250506133400 +0800" stop="20250506141400 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250506141400 +0800" stop="20250506145900 +0800">
+		<title lang="zh">20_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84290,6 +84299,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250506135400 +0800" stop="20250506141300 +0800">
 		<title lang="zh">破浪前行（下）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250506141300 +0800" stop="20250506143500 +0800">
+		<title lang="zh">向战而研 国防科技大学探访</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84392,6 +84404,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250506133700 +0800" stop="20250506140100 +0800">
 		<title lang="zh">46_咒术回战</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250506140100 +0800" stop="20250506144100 +0800">
+		<title lang="zh">帕南笛冰丝席99版 高清10分400-855-7879</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
