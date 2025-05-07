@@ -40329,6 +40329,9 @@
 	<programme channel="newtv超级体育" start="20250508031500 +0800" stop="20250508040000 +0800">
 		<title lang="zh">实况录像-2025年世界短道速滑锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250508040000 +0800" stop="20250508053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第26轮 纽卡斯尔联-诺丁汉森林(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40337,6 +40340,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250508020700 +0800" stop="20250508035200 +0800">
 		<title lang="zh">小锅盖娶亲</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250508035200 +0800" stop="20250508052100 +0800">
+		<title lang="zh">小锅盖当官</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -40422,6 +40428,9 @@
 	<programme channel="newtv古装剧场" start="20250508030100 +0800" stop="20250508035100 +0800">
 		<title lang="zh">28_天地姻缘七仙女</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250508035100 +0800" stop="20250508044000 +0800">
+		<title lang="zh">28_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -40439,6 +40448,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250508030900 +0800" stop="20250508035100 +0800">
 		<title lang="zh">17_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250508035100 +0800" stop="20250508043600 +0800">
+		<title lang="zh">18_谍战深海之惊蛰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -40515,6 +40527,9 @@
 	<programme channel="newtv怡伴健康" start="20250508031300 +0800" stop="20250508040100 +0800">
 		<title lang="zh">动物宝宝成长记（3）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250508040100 +0800" stop="20250508045200 +0800">
+		<title lang="zh">极端大自然</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -40572,6 +40587,9 @@
 	<programme channel="newtv炫舞未来" start="20250508031900 +0800" stop="20250508035000 +0800">
 		<title lang="zh">01_重逢</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250508035000 +0800" stop="20250508042000 +0800">
+		<title lang="zh">02_初见</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40583,6 +40601,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250508030400 +0800" stop="20250508035500 +0800">
 		<title lang="zh">09_梅花红桃</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250508035500 +0800" stop="20250508044600 +0800">
+		<title lang="zh">10_梅花红桃</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -40673,6 +40694,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250508021400 +0800" stop="20250508035000 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250508035000 +0800" stop="20250508043000 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
