@@ -51237,6 +51237,9 @@
 	<programme channel="newtv超级体育" start="20250508053000 +0800" stop="20250508060000 +0800">
 		<title lang="zh">实况录像-2025年世界雪车锦标赛 女子单人雪车决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250508060000 +0800" stop="20250508063000 +0800">
+		<title lang="zh">赛事集锦(奥林匹克)-2025年世界自由式滑雪锦标赛 双人雪上技巧决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
