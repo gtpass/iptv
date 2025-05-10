@@ -65268,6 +65268,9 @@
 	<programme channel="纯享4K" start="20250510192900 +0800" stop="20250510201100 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 秦岭深处 生态家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250510201100 +0800" stop="20250510205300 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 武陵山中 秘境探奇</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81969,6 +81972,9 @@
 	<programme channel="newtv超级电视剧" start="20250510192300 +0800" stop="20250510200900 +0800">
 		<title lang="zh">14_追风者</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250510200900 +0800" stop="20250510205000 +0800">
+		<title lang="zh">18_滤镜</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82046,6 +82052,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250510192300 +0800" stop="20250510200900 +0800">
 		<title lang="zh">02_棋士</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250510200900 +0800" stop="20250510203900 +0800">
+		<title lang="zh">《八段锦》推荐21期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82334,6 +82343,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250510185400 +0800" stop="20250510201000 +0800">
 		<title lang="zh">19_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250510201000 +0800" stop="20250510205500 +0800">
+		<title lang="zh">24_我和我的他们</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82796,6 +82808,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250510195300 +0800" stop="20250510201500 +0800">
 		<title lang="zh">美军首次在日部署舰载版F-35</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250510201500 +0800" stop="20250510204100 +0800">
+		<title lang="zh">蔡英文三点叮咛 赖清德很难堪</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
