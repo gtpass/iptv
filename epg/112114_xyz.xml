@@ -11469,6 +11469,18 @@
 	<programme channel="咪咕24小时体育" start="20250512235100 +0800" stop="20250512235900 +0800">
 		<title lang="zh">【赛事回放】德甲第31轮：拜仁慕尼黑vs美因茨</title>
 	</programme>
+	<channel id="咪咕综合体育">
+		<display-name lang="zh">咪咕综合体育</display-name>
+	</channel>
+	<programme channel="咪咕综合体育" start="20250512000000 +0800" stop="20250512001500 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第35轮 巴塞罗那-皇家马德里 直播</title>
+	</programme>
+	<channel id="咪咕足球">
+		<display-name lang="zh">咪咕足球</display-name>
+	</channel>
+	<programme channel="咪咕足球" start="20250512000100 +0800" stop="20250512012100 +0800">
+		<title lang="zh">村BA</title>
+	</programme>
 	<channel id="四川卫视">
 		<display-name lang="zh">四川卫视</display-name>
 	</channel>
