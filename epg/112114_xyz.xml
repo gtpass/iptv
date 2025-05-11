@@ -56940,6 +56940,9 @@
 	<programme channel="爱情喜剧" start="20250511191600 +0800" stop="20250511200300 +0800">
 		<title lang="zh">05_舍不得星星</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250511200300 +0800" stop="20250511203300 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -62498,6 +62501,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250511193100 +0800" stop="20250511201300 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄河臂弯里的山西运城</title>
+	</programme>
+	<programme channel="纯享4K" start="20250511201300 +0800" stop="20250511205400 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 华夏古文明 运城好风光</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -75951,6 +75957,9 @@
 	<programme channel="黑莓动画" start="20250511182300 +0800" stop="20250511200200 +0800">
 		<title lang="zh">蜡笔小新：新婚旅行飓风之遗失的野原广志</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250511200200 +0800" stop="20250511213000 +0800">
+		<title lang="zh">太空神鹰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -77208,6 +77217,9 @@
 	<programme channel="newtv古装剧场" start="20250511192400 +0800" stop="20250511200800 +0800">
 		<title lang="zh">28_永夜星河</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250511200800 +0800" stop="20250511205700 +0800">
+		<title lang="zh">29_永夜星河</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -77477,6 +77489,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250511191600 +0800" stop="20250511200300 +0800">
 		<title lang="zh">05_舍不得星星</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250511200300 +0800" stop="20250511203300 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -77835,6 +77850,9 @@
 	<programme channel="newtv军事评论" start="20250511195200 +0800" stop="20250511201400 +0800">
 		<title lang="zh">二〇二四巴黎奥运会b7正中靶心（1）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250511201400 +0800" stop="20250511203900 +0800">
+		<title lang="zh">叫嚣“大陆管不着” 赖清德难掩心虚</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -77909,6 +77927,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250511192600 +0800" stop="20250511201200 +0800">
 		<title lang="zh">22_金婚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250511201200 +0800" stop="20250511210800 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -78215,6 +78236,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250511191800 +0800" stop="20250511200500 +0800">
 		<title lang="zh">10_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250511200500 +0800" stop="20250511205300 +0800">
+		<title lang="zh">11_庆余年第二季</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
