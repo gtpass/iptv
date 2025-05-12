@@ -40578,6 +40578,9 @@
 	<programme channel="黑莓电影" start="20250513021900 +0800" stop="20250513035200 +0800">
 		<title lang="zh">洛克海特的遗物</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250513035200 +0800" stop="20250513051200 +0800">
+		<title lang="zh">卸岭之地下惊龙</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -40878,6 +40881,9 @@
 	<programme channel="newtv超级体育" start="20250513023500 +0800" stop="20250513040000 +0800">
 		<title lang="zh">实况录像-2025年ATP1000男子网球大师赛 马德里站 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250513040000 +0800" stop="20250513053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第28轮 利物浦-南安普顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40973,6 +40979,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250513030500 +0800" stop="20250513035700 +0800">
 		<title lang="zh">40_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250513035700 +0800" stop="20250513044800 +0800">
+		<title lang="zh">26_地雷战传奇之锄奸行动</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -41087,6 +41096,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250513025500 +0800" stop="20250513035900 +0800">
 		<title lang="zh">第3期上：孙芮外星人上演绝世爱恋？</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250513035900 +0800" stop="20250513041100 +0800">
+		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
