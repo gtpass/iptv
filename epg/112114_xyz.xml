@@ -51657,6 +51657,9 @@
 	<programme channel="newtv军事评论" start="20250514053100 +0800" stop="20250514055300 +0800">
 		<title lang="zh">谁是军营厨王（24）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250514055300 +0800" stop="20250514061500 +0800">
+		<title lang="zh">谁是军营厨王（25）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51671,6 +51674,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250514053100 +0800" stop="20250514055000 +0800">
 		<title lang="zh">江山-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250514055000 +0800" stop="20250514060300 +0800">
+		<title lang="zh">东方红-饶子龙（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
