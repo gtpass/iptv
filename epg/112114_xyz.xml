@@ -47859,6 +47859,9 @@
 	<programme channel="纯享4K" start="20250514153300 +0800" stop="20250514154800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7魁北克雪橇比赛</title>
 	</programme>
+	<programme channel="纯享4K" start="20250514155800 +0800" stop="20250514162500 +0800">
+		<title lang="zh">记住乡愁4K第十季 天池苗寨——打开山门唱山歌</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59097,6 +59100,9 @@
 	<programme channel="newtv超级体育" start="20250514143000 +0800" stop="20250514160000 +0800">
 		<title lang="zh">实况录像-2025年国际乒联单打世界杯 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250514160000 +0800" stop="20250514180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59444,6 +59450,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250514145900 +0800" stop="20250514155500 +0800">
 		<title lang="zh">04_暗战风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250514155500 +0800" stop="20250514165100 +0800">
+		<title lang="zh">05_暗战风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -59850,6 +59859,9 @@
 	<programme channel="newtv军事评论" start="20250514152500 +0800" stop="20250514155000 +0800">
 		<title lang="zh">新兵上战位 战鹰的守护者</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250514155000 +0800" stop="20250514161600 +0800">
+		<title lang="zh">新兵上战位 藏南边防初体验</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -59909,6 +59921,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250514154300 +0800" stop="20250514155700 +0800">
 		<title lang="zh">别知己-孙爱迪（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250514155700 +0800" stop="20250514160900 +0800">
+		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
