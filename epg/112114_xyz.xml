@@ -27657,6 +27657,9 @@
 	<programme channel="咪咕综合体育" start="20250515202000 +0800" stop="20250515220000 +0800">
 		<title lang="zh">足球世界-24/25赛季意大利杯 决赛 博洛尼亚-AC米兰</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250515220000 +0800" stop="20250515223000 +0800">
+		<title lang="zh">中超精华 第10轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27722,6 +27725,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250515211000 +0800" stop="20250515220000 +0800">
 		<title lang="zh">最后之舞05</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250515220000 +0800" stop="20250515221000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -67185,6 +67191,9 @@
 	<programme channel="纯享4K" start="20250515210500 +0800" stop="20250515215400 +0800">
 		<title lang="zh">大运河之歌4K 第3集 运河中心时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20250515215400 +0800" stop="20250515224400 +0800">
+		<title lang="zh">大运河之歌4K 第4集 奔流南北</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84150,6 +84159,9 @@
 	<programme channel="newtv精品纪录" start="20250515212900 +0800" stop="20250515215500 +0800">
 		<title lang="zh">特级英雄 黄继光</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250515215500 +0800" stop="20250515223200 +0800">
+		<title lang="zh">侧柏叶墨旱莲何首乌精油皂-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84315,6 +84327,9 @@
 	<programme channel="newtv军旅剧场" start="20250515210700 +0800" stop="20250515215300 +0800">
 		<title lang="zh">18_亮剑</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250515215300 +0800" stop="20250515222300 +0800">
+		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84398,6 +84413,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250515212300 +0800" stop="20250515215300 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250515215300 +0800" stop="20250515223700 +0800">
+		<title lang="zh">24_独生子女的婆婆妈妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85011,6 +85029,9 @@
 	<programme channel="newtv炫舞未来" start="20250515211600 +0800" stop="20250515215600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250515215600 +0800" stop="20250515221800 +0800">
+		<title lang="zh">腿部稳定性与力量训练（20250113）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85334,6 +85355,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250515211700 +0800" stop="20250515214700 +0800">
 		<title lang="zh">《五脏健康操》推荐第2期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250515214700 +0800" stop="20250515223400 +0800">
+		<title lang="zh">28_庆余年第二季</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
