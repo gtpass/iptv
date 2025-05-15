@@ -60942,6 +60942,9 @@
 	<programme channel="爱情喜剧" start="20250515131700 +0800" stop="20250515140200 +0800">
 		<title lang="zh">15_公诉</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250515140200 +0800" stop="20250515145000 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83691,6 +83694,9 @@
 	<programme channel="newtv古装剧场" start="20250515132300 +0800" stop="20250515140800 +0800">
 		<title lang="zh">31_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250515140800 +0800" stop="20250515144800 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83744,6 +83750,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250515131100 +0800" stop="20250515140600 +0800">
 		<title lang="zh">06_暗战风云</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250515140600 +0800" stop="20250515150100 +0800">
+		<title lang="zh">07_暗战风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -83876,6 +83885,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250515131700 +0800" stop="20250515140200 +0800">
 		<title lang="zh">15_公诉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250515140200 +0800" stop="20250515145000 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
