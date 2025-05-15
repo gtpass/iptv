@@ -52206,6 +52206,9 @@
 	<programme channel="newtv超级体育" start="20250516023500 +0800" stop="20250516040000 +0800">
 		<title lang="zh">实况录像-2025年ATP1000男子网球大师赛 蒙特卡洛站 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250516040000 +0800" stop="20250516053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第26轮 巴黎圣日耳曼-马赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52283,6 +52286,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250516030000 +0800" stop="20250516040100 +0800">
 		<title lang="zh">10_且试天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250516040100 +0800" stop="20250516050200 +0800">
+		<title lang="zh">04_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52371,6 +52377,9 @@
 	<programme channel="newtv怡伴健康" start="20250516024300 +0800" stop="20250516034700 +0800">
 		<title lang="zh">生存法则</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250516034700 +0800" stop="20250516045100 +0800">
+		<title lang="zh">鬣狗部落</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52401,6 +52410,9 @@
 	<programme channel="newtv军事评论" start="20250516025700 +0800" stop="20250516034800 +0800">
 		<title lang="zh">学雷锋精神当服务标兵 国防知识挑战赛走进空军后勤部某直属保障大队</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250516034800 +0800" stop="20250516044000 +0800">
+		<title lang="zh">最美生命守护人 国防知识挑战赛走进联勤保障部队第九八四医院</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52409,6 +52421,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250516024400 +0800" stop="20250516035900 +0800">
 		<title lang="zh">第4期：3000米跳伞→少年们玩的就是心跳</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250516035900 +0800" stop="20250516042100 +0800">
+		<title lang="zh">筋膜枪颈部放松练习（20241203）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
