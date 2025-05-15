@@ -17274,6 +17274,9 @@
 	<programme channel="咪咕综合体育" start="20250516055500 +0800" stop="20250516060000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250516060000 +0800" stop="20250516083000 +0800">
+		<title lang="zh">2025揭阳马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52353,6 +52356,9 @@
 	<programme channel="newtv超级体育" start="20250516053000 +0800" stop="20250516060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯1(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250516060000 +0800" stop="20250516063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 埃及站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52632,6 +52638,9 @@
 	<programme channel="newtv军事评论" start="20250516052400 +0800" stop="20250516054600 +0800">
 		<title lang="zh">谁是军营厨王（46）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250516054600 +0800" stop="20250516060800 +0800">
+		<title lang="zh">谁是军营厨王（47）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52653,6 +52662,9 @@
 	<programme channel="newtv炫舞未来" start="20250516053100 +0800" stop="20250516055000 +0800">
 		<title lang="zh">烟雨人间-毕刚（纯净版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250516055000 +0800" stop="20250516060200 +0800">
+		<title lang="zh">桥边姑娘-尚岩</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52667,6 +52679,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250516044700 +0800" stop="20250516055100 +0800">
 		<title lang="zh">04_天狼星行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250516055100 +0800" stop="20250516065500 +0800">
+		<title lang="zh">05_天狼星行动</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52763,6 +52778,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250516050100 +0800" stop="20250516055900 +0800">
 		<title lang="zh">拳王争霸赛：茨尤VS门多萨</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250516055900 +0800" stop="20250516064500 +0800">
+		<title lang="zh">拳王争霸赛：加西亚VS席尔瓦</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
