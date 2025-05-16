@@ -47820,6 +47820,9 @@
 	<programme channel="newtv超级综艺" start="20250517015800 +0800" stop="20250517035300 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250517035300 +0800" stop="20250517045300 +0800">
+		<title lang="zh">黄金100秒</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47831,6 +47834,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250517023500 +0800" stop="20250517040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-迈阿密站 半决赛(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250517040000 +0800" stop="20250517053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第29轮 曼城-布赖顿(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47858,6 +47864,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250517030400 +0800" stop="20250517035100 +0800">
 		<title lang="zh">28_暗战风云</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250517035100 +0800" stop="20250517043900 +0800">
+		<title lang="zh">29_暗战风云</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47940,6 +47949,9 @@
 	<programme channel="newtv家庭剧场" start="20250517025900 +0800" stop="20250517040000 +0800">
 		<title lang="zh">17_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250517040000 +0800" stop="20250517044300 +0800">
+		<title lang="zh">12_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -47963,6 +47975,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250517025000 +0800" stop="20250517034700 +0800">
 		<title lang="zh">26_初婚</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250517034700 +0800" stop="20250517044400 +0800">
+		<title lang="zh">27_初婚</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48041,6 +48056,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250517034000 +0800" stop="20250517035200 +0800">
 		<title lang="zh">桥边姑娘-尚岩（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250517035200 +0800" stop="20250517040500 +0800">
+		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
