@@ -56736,6 +56736,9 @@
 	<programme channel="newtv超级综艺" start="20250517102400 +0800" stop="20250517115600 +0800">
 		<title lang="zh">诗画中国</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250517115600 +0800" stop="20250517124600 +0800">
+		<title lang="zh">一笑一周</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -56768,6 +56771,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250517093000 +0800" stop="20250517120000 +0800">
 		<title lang="zh">2024/2025赛季美国职业篮球联赛-季后赛12</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250517120000 +0800" stop="20250517130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -56891,6 +56897,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250517111500 +0800" stop="20250517115500 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250517115500 +0800" stop="20250517124100 +0800">
+		<title lang="zh">06_三十而已</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -57099,6 +57108,9 @@
 	<programme channel="newtv热播精选" start="20250517110700 +0800" stop="20250517115500 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250517115500 +0800" stop="20250517131400 +0800">
+		<title lang="zh">沙鹰行动</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -57162,6 +57174,9 @@
 	<programme channel="newtv动作电影" start="20250517111100 +0800" stop="20250517115900 +0800">
 		<title lang="zh">AKG39900西兰花种子水提物固体饮料-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250517115900 +0800" stop="20250517135500 +0800">
+		<title lang="zh">危险境地</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -57218,6 +57233,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250517114200 +0800" stop="20250517115400 +0800">
 		<title lang="zh">小品《那能一样吗》 表演：蒋诗萌 何欢 章若楠 任梓慧 张弛（字幕版）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250517115400 +0800" stop="20250517123400 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -57333,6 +57351,9 @@
 	<programme channel="newtv军事评论" start="20250517113600 +0800" stop="20250517115800 +0800">
 		<title lang="zh">浩浩凌云志</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250517115800 +0800" stop="20250517122000 +0800">
+		<title lang="zh">铸剑苍穹（1）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -57390,6 +57411,9 @@
 	<programme channel="newtv炫舞未来" start="20250517105600 +0800" stop="20250517114600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250517114600 +0800" stop="20250517130600 +0800">
+		<title lang="zh">走进四川金阳（20240706）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -57428,6 +57452,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250517110900 +0800" stop="20250517115300 +0800">
 		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250517115300 +0800" stop="20250517133500 +0800">
+		<title lang="zh">嗡鸣</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
