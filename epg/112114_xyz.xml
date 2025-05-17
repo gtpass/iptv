@@ -46542,6 +46542,9 @@
 	<programme channel="纯享4K" start="20250517193300 +0800" stop="20250517201400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 水润中原美如画</title>
 	</programme>
+	<programme channel="纯享4K" start="20250517201400 +0800" stop="20250517205600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 江河之畔 幸福家园</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -57063,6 +57066,9 @@
 	<programme channel="newtv超级电视剧" start="20250517192400 +0800" stop="20250517201100 +0800">
 		<title lang="zh">07_无尽的尽头</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250517201100 +0800" stop="20250517205500 +0800">
+		<title lang="zh">08_无尽的尽头</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -57204,6 +57210,9 @@
 	<programme channel="newtv精品纪录" start="20250517193100 +0800" stop="20250517201000 +0800">
 		<title lang="zh">家乡至味2022（26）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250517201000 +0800" stop="20250517204800 +0800">
+		<title lang="zh">家乡至味2022（27）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -57278,6 +57287,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250517193100 +0800" stop="20250517200900 +0800">
 		<title lang="zh">19_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250517200900 +0800" stop="20250517205300 +0800">
+		<title lang="zh">20_御赐小仵作</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -57498,6 +57510,9 @@
 	<programme channel="newtv热播精选" start="20250517192800 +0800" stop="20250517201600 +0800">
 		<title lang="zh">28_最好的时代</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250517201600 +0800" stop="20250517210600 +0800">
+		<title lang="zh">29_最好的时代</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -57560,6 +57575,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250517192200 +0800" stop="20250517201300 +0800">
 		<title lang="zh">05_曾少年</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250517201300 +0800" stop="20250517204300 +0800">
+		<title lang="zh">《锦色人生》推荐第1期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -57900,6 +57918,9 @@
 	<programme channel="newtv军事评论" start="20250517194700 +0800" stop="20250517200900 +0800">
 		<title lang="zh">中国航展进行时b7首秀</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250517200900 +0800" stop="20250517203500 +0800">
+		<title lang="zh">心腹爆桃色丑闻 赖清德民调暴跌</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58058,6 +58079,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250517192100 +0800" stop="20250517200600 +0800">
 		<title lang="zh">思独鲜八珍糕99元   高清10分钟   400-108-7099</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250517200600 +0800" stop="20250517204600 +0800">
+		<title lang="zh">19_春色寄情人</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
