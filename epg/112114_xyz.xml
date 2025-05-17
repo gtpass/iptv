@@ -15777,6 +15777,9 @@
 	<programme channel="咪咕综合体育" start="20250518000000 +0800" stop="20250518020000 +0800">
 		<title lang="zh">足球世界-24/25赛季足总杯 决赛 水晶宫-曼城 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250518020500 +0800" stop="20250518034500 +0800">
+		<title lang="zh">足球世界-24/25赛季法甲 第30轮 马赛-蒙彼利埃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38157,6 +38160,9 @@
 	<programme channel="纯享4K" start="20250518012900 +0800" stop="20250518015900 +0800">
 		<title lang="zh">味道4K 原味乡间b7城口篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250518015900 +0800" stop="20250518022900 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7何以为中</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47421,6 +47427,9 @@
 	<programme channel="newtv超级综艺" start="20250518011700 +0800" stop="20250518020300 +0800">
 		<title lang="zh">16_暴风眼</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250518020300 +0800" stop="20250518035300 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47460,6 +47469,9 @@
 	<programme channel="newtv精品大剧" start="20250518010200 +0800" stop="20250518014600 +0800">
 		<title lang="zh">07_鹊刀门传奇</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250518014600 +0800" stop="20250518023200 +0800">
+		<title lang="zh">08_鹊刀门传奇</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47471,6 +47483,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20250518004600 +0800" stop="20250518014600 +0800">
 		<title lang="zh">15_且试天下</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250518014600 +0800" stop="20250518024600 +0800">
+		<title lang="zh">16_且试天下</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47493,11 +47508,17 @@
 	<programme channel="newtv家庭剧场" start="20250518004800 +0800" stop="20250518014800 +0800">
 		<title lang="zh">19_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250518014800 +0800" stop="20250518023100 +0800">
+		<title lang="zh">20_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
 	<programme channel="newtv热播精选" start="20250518000700 +0800" stop="20250518015500 +0800">
 		<title lang="zh">一个好人</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250518015500 +0800" stop="20250518025800 +0800">
+		<title lang="zh">06_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
