@@ -47388,6 +47388,9 @@
 	<programme channel="newtv超级体育" start="20250519023800 +0800" stop="20250519040000 +0800">
 		<title lang="zh">2025年ATP1000男子网球大师赛-印第安维尔斯站 决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250519040000 +0800" stop="20250519053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第27轮 兰斯-马赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47417,6 +47420,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250519031000 +0800" stop="20250519035500 +0800">
 		<title lang="zh">08_侦察英雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250519035500 +0800" stop="20250519044100 +0800">
+		<title lang="zh">01_运河边的人们</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47484,6 +47490,9 @@
 	<programme channel="newtv军旅剧场" start="20250519025200 +0800" stop="20250519035300 +0800">
 		<title lang="zh">18_血染大青山</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250519035300 +0800" stop="20250519045500 +0800">
+		<title lang="zh">19_血染大青山</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47499,6 +47508,9 @@
 	<programme channel="newtv家庭剧场" start="20250519025300 +0800" stop="20250519035300 +0800">
 		<title lang="zh">25_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250519035300 +0800" stop="20250519043900 +0800">
+		<title lang="zh">20_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -47510,6 +47522,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250519024800 +0800" stop="20250519034700 +0800">
 		<title lang="zh">12_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250519034700 +0800" stop="20250519044800 +0800">
+		<title lang="zh">13_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47531,6 +47546,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250519021800 +0800" stop="20250519034600 +0800">
 		<title lang="zh">钟馗归来万世妖灵</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250519034600 +0800" stop="20250519053100 +0800">
+		<title lang="zh">珍宝大战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47684,6 +47702,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250519020600 +0800" stop="20250519034800 +0800">
 		<title lang="zh">唐门之神犼双雄</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250519034800 +0800" stop="20250519052400 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
