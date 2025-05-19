@@ -50649,6 +50649,9 @@
 	<programme channel="newtv超级综艺" start="20250520025700 +0800" stop="20250520040400 +0800">
 		<title lang="zh">角儿来了</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250520040400 +0800" stop="20250520050800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50660,6 +50663,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250520023500 +0800" stop="20250520040000 +0800">
 		<title lang="zh">实况录像-2025年ATP1000男子网球大师赛 蒙特卡洛站 1/4决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250520040000 +0800" stop="20250520053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第30轮 诺丁汉森林-曼联(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -50687,6 +50693,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250520031000 +0800" stop="20250520035500 +0800">
 		<title lang="zh">12_侦察英雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250520035500 +0800" stop="20250520044000 +0800">
+		<title lang="zh">13_侦察英雄</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50751,6 +50760,9 @@
 	<programme channel="newtv军旅剧场" start="20250520024800 +0800" stop="20250520035100 +0800">
 		<title lang="zh">22_血染大青山</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250520035100 +0800" stop="20250520045400 +0800">
+		<title lang="zh">23_血染大青山</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50777,6 +50789,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250520025100 +0800" stop="20250520035200 +0800">
 		<title lang="zh">17_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250520035200 +0800" stop="20250520045200 +0800">
+		<title lang="zh">18_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50900,6 +50915,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250520015500 +0800" stop="20250520035300 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第28轮：马竞VS巴萨</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250520035300 +0800" stop="20250520052900 +0800">
+		<title lang="zh">2024-25赛季西甲联赛第33轮：巴塞罗那VS马略卡</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
