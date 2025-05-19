@@ -54483,6 +54483,9 @@
 	<programme channel="newtv超级电视剧" start="20250519133700 +0800" stop="20250519142100 +0800">
 		<title lang="zh">33_与凤行</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250519142100 +0800" stop="20250519150100 +0800">
+		<title lang="zh">34_与凤行</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -54645,6 +54648,9 @@
 	<programme channel="newtv古装剧场" start="20250519132600 +0800" stop="20250519141100 +0800">
 		<title lang="zh">48_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250519141100 +0800" stop="20250519145100 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -54695,6 +54701,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250519131300 +0800" stop="20250519141400 +0800">
 		<title lang="zh">刀光枪影第19集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250519141400 +0800" stop="20250519151800 +0800">
+		<title lang="zh">20_暗战风云</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54794,6 +54803,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250519132600 +0800" stop="20250519141000 +0800">
 		<title lang="zh">LECEA蒸汽富硒养生饭煲-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250519141000 +0800" stop="20250519150100 +0800">
+		<title lang="zh">暗黑者3_14</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -54983,6 +54995,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250519132100 +0800" stop="20250519140500 +0800">
 		<title lang="zh">24_树下有片红房子</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250519140500 +0800" stop="20250519144500 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
