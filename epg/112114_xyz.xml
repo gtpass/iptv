@@ -59874,6 +59874,9 @@
 	<programme channel="newtv超级电影" start="20250521183900 +0800" stop="20250521202600 +0800">
 		<title lang="zh">电影《绝密特勤队》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250521202600 +0800" stop="20250521223000 +0800">
+		<title lang="zh">电影《暮光之城3：月食》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
