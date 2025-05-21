@@ -18498,6 +18498,9 @@
 	<programme channel="咪咕足球" start="20250521214000 +0800" stop="20250521220000 +0800">
 		<title lang="zh">荣耀之路</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250521220000 +0800" stop="20250521221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -48372,6 +48375,9 @@
 	<programme channel="纯享4K" start="20250521210200 +0800" stop="20250521215100 +0800">
 		<title lang="zh">世界遗产漫步 大运河4K 第1集</title>
 	</programme>
+	<programme channel="纯享4K" start="20250521215100 +0800" stop="20250521224000 +0800">
+		<title lang="zh">世界遗产漫步 大运河4K 第2集</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60879,6 +60885,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250521212600 +0800" stop="20250521215600 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第17期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250521215600 +0800" stop="20250521231600 +0800">
+		<title lang="zh">控梦师</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61475,6 +61484,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250521210600 +0800" stop="20250521215100 +0800">
 		<title lang="zh">16_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250521215100 +0800" stop="20250521232800 +0800">
+		<title lang="zh">镖行天下前传之编外人选</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
