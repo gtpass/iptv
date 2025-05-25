@@ -48588,6 +48588,9 @@
 	<programme channel="newtv超级体育" start="20250526023500 +0800" stop="20250526040000 +0800">
 		<title lang="zh">实况录像-2025年ATP1000男子网球大师赛 蒙特卡洛站 1/4决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250526040000 +0800" stop="20250526053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第29轮 摩纳哥-马赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
