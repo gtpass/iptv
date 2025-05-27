@@ -18294,6 +18294,9 @@
 	<programme channel="咪咕综合体育" start="20250527194000 +0800" stop="20250527201000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250527201000 +0800" stop="20250527215000 +0800">
+		<title lang="zh">足球世界-24/25赛季西甲 第23轮 塞维利亚-巴塞罗那</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47820,6 +47823,9 @@
 	<programme channel="纯享4K" start="20250527193300 +0800" stop="20250527201400 +0800">
 		<title lang="zh">远方的家4K 中国自然秘境 扎龙——白色大鸟的故乡</title>
 	</programme>
+	<programme channel="纯享4K" start="20250527201400 +0800" stop="20250527205600 +0800">
+		<title lang="zh">远方的家4K 中国自然秘境 扎龙湿地的春天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58914,6 +58920,9 @@
 	<programme channel="黑莓动画" start="20250527184100 +0800" stop="20250527201000 +0800">
 		<title lang="zh">西游记之七十二变</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250527201000 +0800" stop="20250527213800 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59571,6 +59580,9 @@
 	<programme channel="newtv精品大剧" start="20250527193300 +0800" stop="20250527200300 +0800">
 		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250527200300 +0800" stop="20250527205600 +0800">
+		<title lang="zh">15_无尽的尽头</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59955,6 +59967,9 @@
 	<programme channel="newtv热播精选" start="20250527192800 +0800" stop="20250527200800 +0800">
 		<title lang="zh">38_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250527200800 +0800" stop="20250527205400 +0800">
+		<title lang="zh">01_在暴雪时分</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60014,6 +60029,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250527192200 +0800" stop="20250527200800 +0800">
 		<title lang="zh">15_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250527200800 +0800" stop="20250527203800 +0800">
+		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60257,6 +60275,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250527191900 +0800" stop="20250527200400 +0800">
 		<title lang="zh">20_我的后半生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250527200400 +0800" stop="20250527203400 +0800">
+		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60561,6 +60582,9 @@
 	<programme channel="newtv精品综合" start="20250527192600 +0800" stop="20250527201000 +0800">
 		<title lang="zh">08_树下有片红房子</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250527201000 +0800" stop="20250527205900 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -60656,6 +60680,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250527192500 +0800" stop="20250527201500 +0800">
 		<title lang="zh">南极奋进号高纯南极磷虾油-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250527201500 +0800" stop="20250527212000 +0800">
+		<title lang="zh">跃上高阶职场</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
