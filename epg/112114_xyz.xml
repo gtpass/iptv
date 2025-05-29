@@ -41496,6 +41496,9 @@
 	<programme channel="纯享4K" start="20250530013200 +0800" stop="20250530020100 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7河源篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250530020100 +0800" stop="20250530023000 +0800">
+		<title lang="zh">旅游指南4K 幸会师父b7太极拳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51630,6 +51633,9 @@
 	<programme channel="newtv精品大剧" start="20250530010800 +0800" stop="20250530015800 +0800">
 		<title lang="zh">20_鹊刀门传奇2</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250530015800 +0800" stop="20250530022900 +0800">
+		<title lang="zh">21_鹊刀门传奇2</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51711,6 +51717,9 @@
 	<programme channel="newtv军事评论" start="20250530005900 +0800" stop="20250530015300 +0800">
 		<title lang="zh">诸鸣：弘扬传统文化的导游小黑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250530015300 +0800" stop="20250530024600 +0800">
+		<title lang="zh">指尖流沙绘英雄</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51722,6 +51731,9 @@
 	</channel>
 	<programme channel="newtv精品综合" start="20250530000700 +0800" stop="20250530015600 +0800">
 		<title lang="zh">万劫不复</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250530015600 +0800" stop="20250530031600 +0800">
+		<title lang="zh">十三邀第7季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -51788,6 +51800,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250530002500 +0800" stop="20250530015700 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250530015700 +0800" stop="20250530034600 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
