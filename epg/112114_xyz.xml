@@ -59211,6 +59211,9 @@
 	<programme channel="newtv超级综艺" start="20250529205300 +0800" stop="20250529214800 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250529214800 +0800" stop="20250529224500 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59273,6 +59276,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250529213000 +0800" stop="20250529220000 +0800">
 		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250529220000 +0800" stop="20250529000500 +0800">
+		<title lang="zh">2025年法国网球公开赛-第2轮2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -60677,6 +60683,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250529203100 +0800" stop="20250529220500 +0800">
 		<title lang="zh">你好生活第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250529220500 +0800" stop="20250529000400 +0800">
+		<title lang="zh">五十公里桃花坞第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
