@@ -45849,6 +45849,9 @@
 	<programme channel="黑莓动画" start="20250601024800 +0800" stop="20250601035200 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250601035200 +0800" stop="20250601051700 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -46161,6 +46164,9 @@
 	<programme channel="newtv超级体育" start="20250601023600 +0800" stop="20250601040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250601040000 +0800" stop="20250601053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第33轮 伊普斯维奇-阿森纳(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46278,6 +46284,9 @@
 	<programme channel="newtv热播精选" start="20250601030200 +0800" stop="20250601034700 +0800">
 		<title lang="zh">03_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250601034700 +0800" stop="20250601045300 +0800">
+		<title lang="zh">04_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -46298,6 +46307,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250601021800 +0800" stop="20250601035900 +0800">
 		<title lang="zh">明城攻略之镇河妖</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250601035900 +0800" stop="20250601060800 +0800">
+		<title lang="zh">怪兽：黑暗世界</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -46350,6 +46362,9 @@
 	<programme channel="newtv军事评论" start="20250601025900 +0800" stop="20250601035300 +0800">
 		<title lang="zh">“文化瑰宝 老兵守护”系列节目（四）彭柳升：刀刻石间岁月凝</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250601035300 +0800" stop="20250601044600 +0800">
+		<title lang="zh">师德光：师德如光 助飞梦想</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -46367,6 +46382,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250601033900 +0800" stop="20250601035400 +0800">
 		<title lang="zh">日不落-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250601035400 +0800" stop="20250601051300 +0800">
+		<title lang="zh">第7期上：大宝请继续演蜡笔小新前传？</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -46457,6 +46475,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250601020800 +0800" stop="20250601035500 +0800">
 		<title lang="zh">酒剑</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250601035500 +0800" stop="20250601051400 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
