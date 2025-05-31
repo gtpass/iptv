@@ -55887,6 +55887,9 @@
 	<programme channel="newtv超级体育" start="20250531113000 +0800" stop="20250531120000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 中国站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250531120000 +0800" stop="20250531130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -56058,6 +56061,9 @@
 	<programme channel="newtv精品纪录" start="20250531105800 +0800" stop="20250531114700 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250531114700 +0800" stop="20250531123700 +0800">
+		<title lang="zh">01_热土脐橙丰</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -56096,6 +56102,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250531111200 +0800" stop="20250531115800 +0800">
 		<title lang="zh">36_新洛神</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250531115800 +0800" stop="20250531124600 +0800">
+		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
