@@ -42987,6 +42987,9 @@
 	<programme channel="纯享4K" start="20250602133800 +0800" stop="20250602140800 +0800">
 		<title lang="zh">传承 第三季4K 第二集 织焰</title>
 	</programme>
+	<programme channel="纯享4K" start="20250602140800 +0800" stop="20250602143200 +0800">
+		<title lang="zh">鲜生史 第二季4K 第4集 袁枚 我若心不老，岁月奈我何</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52260,6 +52263,9 @@
 	<programme channel="黑莓电影" start="20250602125400 +0800" stop="20250602140500 +0800">
 		<title lang="zh">逆时救援</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250602140500 +0800" stop="20250602155400 +0800">
+		<title lang="zh">破里拳</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52599,6 +52605,9 @@
 	<programme channel="newtv超级电视剧" start="20250602133100 +0800" stop="20250602141900 +0800">
 		<title lang="zh">12_三十而已</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250602141900 +0800" stop="20250602150600 +0800">
+		<title lang="zh">13_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52764,6 +52773,9 @@
 	<programme channel="newtv古装剧场" start="20250602131800 +0800" stop="20250602140400 +0800">
 		<title lang="zh">17_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250602140400 +0800" stop="20250602144200 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52818,6 +52830,9 @@
 	<programme channel="newtv军旅剧场" start="20250602132300 +0800" stop="20250602140900 +0800">
 		<title lang="zh">29_画眉</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250602140900 +0800" stop="20250602145400 +0800">
+		<title lang="zh">04_隐形将军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52869,6 +52884,9 @@
 	<programme channel="newtv家庭剧场" start="20250602130000 +0800" stop="20250602140600 +0800">
 		<title lang="zh">09_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250602140600 +0800" stop="20250602145300 +0800">
+		<title lang="zh">10_梦中的那片海</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52913,6 +52931,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250602132300 +0800" stop="20250602140900 +0800">
 		<title lang="zh">35_画眉</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250602140900 +0800" stop="20250602145800 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52982,6 +53003,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250602131700 +0800" stop="20250602141300 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250602141300 +0800" stop="20250602160300 +0800">
+		<title lang="zh">战狼</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -53123,6 +53147,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250602134700 +0800" stop="20250602140700 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250602140700 +0800" stop="20250602145500 +0800">
+		<title lang="zh">21_兰闺喜事</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -53285,6 +53312,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250602131800 +0800" stop="20250602140500 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250602140500 +0800" stop="20250602142600 +0800">
+		<title lang="zh">有氧跳绳跟练《龙拳》（20240521）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -53522,6 +53552,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250602131900 +0800" stop="20250602141500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250602141500 +0800" stop="20250602145900 +0800">
+		<title lang="zh">19_九流霸主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
