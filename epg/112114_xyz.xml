@@ -55713,6 +55713,9 @@
 	<programme channel="newtv精品纪录" start="20250603205800 +0800" stop="20250603215400 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250603215400 +0800" stop="20250603224200 +0800">
+		<title lang="zh">02_香</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -55880,6 +55883,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250603213000 +0800" stop="20250603220000 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250603220000 +0800" stop="20250603224400 +0800">
+		<title lang="zh">地道英雄 第21集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -56111,6 +56117,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250603210300 +0800" stop="20250603214800 +0800">
 		<title lang="zh">12_潜行者</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250603214800 +0800" stop="20250603223400 +0800">
+		<title lang="zh">13_潜行者</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -56504,6 +56513,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250603213400 +0800" stop="20250603215900 +0800">
 		<title lang="zh">《反分裂国家法》实施20周年 红线不容突破</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250603215900 +0800" stop="20250603222500 +0800">
+		<title lang="zh">称大陆“敌对势力” 赖清德自寻绝路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
