@@ -38691,6 +38691,9 @@
 	<programme channel="纯享4K" start="20250605052700 +0800" stop="20250605055700 +0800">
 		<title lang="zh">传承 第三季4K 第七集 迭新</title>
 	</programme>
+	<programme channel="纯享4K" start="20250605055700 +0800" stop="20250605062700 +0800">
+		<title lang="zh">传承 第三季4K 第八集 执念</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47781,6 +47784,9 @@
 	<programme channel="黑莓动画" start="20250605041800 +0800" stop="20250605054600 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250605054600 +0800" stop="20250605071400 +0800">
+		<title lang="zh">汪汪队立大功大电影2：超能大冒险</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48105,6 +48111,9 @@
 	<programme channel="newtv超级体育" start="20250605053000 +0800" stop="20250605060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯4(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250605060000 +0800" stop="20250605063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48147,6 +48156,9 @@
 	<programme channel="newtv超级电视剧" start="20250605050900 +0800" stop="20250605055400 +0800">
 		<title lang="zh">11_日光之城</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250605055400 +0800" stop="20250605064000 +0800">
+		<title lang="zh">12_日光之城</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48167,6 +48179,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250605050300 +0800" stop="20250605054900 +0800">
 		<title lang="zh">35_庆余年</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250605054900 +0800" stop="20250605063500 +0800">
+		<title lang="zh">36_庆余年</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48318,6 +48333,9 @@
 	<programme channel="newtv怡伴健康" start="20250605051100 +0800" stop="20250605055600 +0800">
 		<title lang="zh">16_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250605055600 +0800" stop="20250605063300 +0800">
+		<title lang="zh">艾美特半导体塔式空调扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48344,6 +48362,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250605050900 +0800" stop="20250605055600 +0800">
 		<title lang="zh">14_美人心计</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250605055600 +0800" stop="20250605062600 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48404,6 +48425,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250605053600 +0800" stop="20250605055000 +0800">
 		<title lang="zh">饿狼传说-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250605055000 +0800" stop="20250605060600 +0800">
+		<title lang="zh">护花使者-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -48512,6 +48536,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250605050100 +0800" stop="20250605055800 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250605055800 +0800" stop="20250605063200 +0800">
+		<title lang="zh">拳王争霸赛：阿赫马达利耶夫VS塔帕莱斯</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
