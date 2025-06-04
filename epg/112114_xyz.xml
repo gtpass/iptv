@@ -20832,6 +20832,9 @@
 	<programme channel="动作电影" start="20250604193900 +0800" stop="20250604200900 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第32期</title>
 	</programme>
+	<programme channel="动作电影" start="20250604200900 +0800" stop="20250604214400 +0800">
+		<title lang="zh">特殊身份</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -43209,6 +43212,9 @@
 	<programme channel="明星大片" start="20250604193100 +0800" stop="20250604201600 +0800">
 		<title lang="zh">03_公主小妹</title>
 	</programme>
+	<programme channel="明星大片" start="20250604201600 +0800" stop="20250604210400 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60017,6 +60023,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250604192400 +0800" stop="20250604200900 +0800">
 		<title lang="zh">16_潜行者</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250604200900 +0800" stop="20250604203900 +0800">
+		<title lang="zh">《八段锦》推荐第24期</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82797,6 +82806,9 @@
 	<programme channel="newtv超级电视剧" start="20250604192900 +0800" stop="20250604201500 +0800">
 		<title lang="zh">37_似锦</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250604201500 +0800" stop="20250604210000 +0800">
+		<title lang="zh">38_似锦</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82871,6 +82883,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250604192500 +0800" stop="20250604201100 +0800">
 		<title lang="zh">21_锦绣未央</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250604201100 +0800" stop="20250604204100 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第24期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82950,6 +82965,9 @@
 	<programme channel="newtv精品纪录" start="20250604194300 +0800" stop="20250604201200 +0800">
 		<title lang="zh">第15集 王昌龄：不破楼兰终不还</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250604201200 +0800" stop="20250604205000 +0800">
+		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83024,6 +83042,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250604192100 +0800" stop="20250604200700 +0800">
 		<title lang="zh">12_柳舟记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250604200700 +0800" stop="20250604205300 +0800">
+		<title lang="zh">13_柳舟记</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83310,6 +83331,9 @@
 	<programme channel="newtv爱情喜剧" start="20250604192400 +0800" stop="20250604200900 +0800">
 		<title lang="zh">16_潜行者</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250604200900 +0800" stop="20250604203900 +0800">
+		<title lang="zh">《八段锦》推荐第24期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -83354,6 +83378,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250604193900 +0800" stop="20250604200900 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第32期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250604200900 +0800" stop="20250604214400 +0800">
+		<title lang="zh">特殊身份</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83843,6 +83870,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250604193100 +0800" stop="20250604201600 +0800">
 		<title lang="zh">03_公主小妹</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250604201600 +0800" stop="20250604210400 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
