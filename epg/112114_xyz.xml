@@ -38568,6 +38568,9 @@
 	<programme channel="纯享4K" start="20250605031000 +0800" stop="20250605035000 +0800">
 		<title lang="zh">探索b7发现4K 凤阳卞庄春秋墓（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250605035000 +0800" stop="20250605043200 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 高原上的母亲河</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47964,6 +47967,9 @@
 	<programme channel="newtv超级体育" start="20250605023600 +0800" stop="20250605040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250605040000 +0800" stop="20250605053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第32轮 斯特拉斯堡-巴黎圣日耳曼(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48168,6 +48174,9 @@
 	<programme channel="newtv炫舞未来" start="20250605033300 +0800" stop="20250605034600 +0800">
 		<title lang="zh">以后的以后-李莹（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250605034600 +0800" stop="20250605040300 +0800">
+		<title lang="zh">风吹麦浪-李莹（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48176,6 +48185,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250605021100 +0800" stop="20250605034700 +0800">
 		<title lang="zh">十三邀第7季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250605034700 +0800" stop="20250605050200 +0800">
+		<title lang="zh">09_亮剑</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -48254,6 +48266,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250605020800 +0800" stop="20250605035300 +0800">
 		<title lang="zh">新方世玉前传侠者无畏</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250605035300 +0800" stop="20250605050100 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
