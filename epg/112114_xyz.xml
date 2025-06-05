@@ -40374,6 +40374,9 @@
 	<programme channel="纯享4K" start="20250606030800 +0800" stop="20250606034800 +0800">
 		<title lang="zh">探索b7发现4K 三门峡寻古（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250606034800 +0800" stop="20250606043000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 山水相依 多彩川行</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51102,6 +51105,9 @@
 	<programme channel="newtv超级综艺" start="20250606021300 +0800" stop="20250606035600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250606035600 +0800" stop="20250606040600 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51110,6 +51116,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250606023600 +0800" stop="20250606040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250606040000 +0800" stop="20250606053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第35轮 布伦特福德-曼联(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51228,6 +51237,9 @@
 	<programme channel="newtv爱情喜剧" start="20250606012500 +0800" stop="20250606035600 +0800">
 		<title lang="zh">红酒烩鸡</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250606035600 +0800" stop="20250606051100 +0800">
+		<title lang="zh">21_承欢记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51288,6 +51300,9 @@
 	<programme channel="newtv军事评论" start="20250606030000 +0800" stop="20250606035400 +0800">
 		<title lang="zh">谢建立：从特战精英到装备先锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250606035400 +0800" stop="20250606044700 +0800">
+		<title lang="zh">黄会林：我以芳华寄桃李</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51344,6 +51359,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250606020700 +0800" stop="20250606034900 +0800">
 		<title lang="zh">2024-25赛季英超联赛第17轮：西汉姆联VS布赖顿</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250606034900 +0800" stop="20250606050900 +0800">
+		<title lang="zh">2024-25赛季英超联赛第17轮：曼联VS伯恩茅斯</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
