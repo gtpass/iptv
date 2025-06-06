@@ -38610,6 +38610,9 @@
 	<programme channel="纯享4K" start="20250607030800 +0800" stop="20250607034800 +0800">
 		<title lang="zh">探索b7发现4K 三门峡寻古（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250607034800 +0800" stop="20250607043000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 河海交汇 多彩东营</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -48186,6 +48189,9 @@
 	<programme channel="newtv超级体育" start="20250607010000 +0800" stop="20250607040000 +0800">
 		<title lang="zh">2025年法国网球公开赛-男单半决赛2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250607040000 +0800" stop="20250607053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第36轮 曼联-西汉姆联(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48218,6 +48224,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250607030600 +0800" stop="20250607035100 +0800">
 		<title lang="zh">07_使徒行者3</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250607035100 +0800" stop="20250607043600 +0800">
+		<title lang="zh">17_日光之城</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48275,6 +48284,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250607024500 +0800" stop="20250607035500 +0800">
 		<title lang="zh">18_双刺</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250607035500 +0800" stop="20250607050600 +0800">
+		<title lang="zh">19_双刺</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48393,6 +48405,9 @@
 	<programme channel="newtv炫舞未来" start="20250607032700 +0800" stop="20250607034700 +0800">
 		<title lang="zh">江山-孙爱迪（完整版）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250607040000 +0800" stop="20250607041500 +0800">
+		<title lang="zh">点赞新时代-饶子龙（完整版）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48488,6 +48503,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250607020900 +0800" stop="20250607035300 +0800">
 		<title lang="zh">飞鱼服</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250607035300 +0800" stop="20250607045400 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
