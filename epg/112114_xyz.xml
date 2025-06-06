@@ -84159,6 +84159,9 @@
 	<programme channel="newtv古装剧场" start="20250606152800 +0800" stop="20250606161400 +0800">
 		<title lang="zh">34_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250606161400 +0800" stop="20250606170000 +0800">
+		<title lang="zh">35_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84332,6 +84335,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250606150300 +0800" stop="20250606160800 +0800">
 		<title lang="zh">10_绝密使命</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250606160800 +0800" stop="20250606165300 +0800">
+		<title lang="zh">11_绝密使命</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -84555,6 +84561,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250606153200 +0800" stop="20250606160200 +0800">
 		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250606160200 +0800" stop="20250606164400 +0800">
+		<title lang="zh">16_滤镜</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84659,6 +84668,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250606154900 +0800" stop="20250606161500 +0800">
 		<title lang="zh">“多技傍身”装甲兵</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250606161500 +0800" stop="20250606164000 +0800">
+		<title lang="zh">特别节目 最美的样子</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
