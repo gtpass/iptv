@@ -66150,6 +66150,9 @@
 	<programme channel="纯享4K" start="20250607193000 +0800" stop="20250607201100 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 河海交汇 多彩东营</title>
 	</programme>
+	<programme channel="纯享4K" start="20250607201100 +0800" stop="20250607205300 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 守望黄河 家园新貌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -82053,6 +82056,9 @@
 	<programme channel="黑莓动画" start="20250607183900 +0800" stop="20250607200100 +0800">
 		<title lang="zh">邋遢大王奇遇记电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250607200100 +0800" stop="20250607212600 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83046,6 +83052,9 @@
 	<programme channel="newtv超级电视剧" start="20250607193300 +0800" stop="20250607201700 +0800">
 		<title lang="zh">06_失笑</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250607201700 +0800" stop="20250607210400 +0800">
+		<title lang="zh">07_失笑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83715,6 +83724,9 @@
 	<programme channel="newtv怡伴健康" start="20250607192800 +0800" stop="20250607201100 +0800">
 		<title lang="zh">山东好哥哥vs北京东炸团--第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250607201100 +0800" stop="20250607204100 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83939,6 +83951,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250607194400 +0800" stop="20250607200600 +0800">
 		<title lang="zh">谁是军营厨王（23）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250607200600 +0800" stop="20250607203100 +0800">
+		<title lang="zh">美军退将幕后操控 台湾处处变战场</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84194,6 +84209,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250607174100 +0800" stop="20250607202000 +0800">
 		<title lang="zh">斗笑社第3季衍生</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250607202000 +0800" stop="20250607215300 +0800">
+		<title lang="zh">山水间的家（第三季）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
