@@ -39159,6 +39159,9 @@
 	<programme channel="惊悚悬疑" start="20250608104300 +0800" stop="20250608120300 +0800">
 		<title lang="zh">特工追缉令</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250608120300 +0800" stop="20250608125100 +0800">
+		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -81831,6 +81834,9 @@
 	<programme channel="黑莓动画" start="20250608104800 +0800" stop="20250608121600 +0800">
 		<title lang="zh">汪汪队立大功大电影2：超能大冒险</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250608121600 +0800" stop="20250608135800 +0800">
+		<title lang="zh">天空的遇难船 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82860,6 +82866,9 @@
 	<programme channel="newtv超级电视剧" start="20250608112400 +0800" stop="20250608120900 +0800">
 		<title lang="zh">13_兰桐花开</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250608120900 +0800" stop="20250608125500 +0800">
+		<title lang="zh">14_兰桐花开</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83376,6 +83385,9 @@
 	<programme channel="newtv军事评论" start="20250608114300 +0800" stop="20250608120500 +0800">
 		<title lang="zh">那个瞬间的年代（12）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250608120500 +0800" stop="20250608123000 +0800">
+		<title lang="zh">青春在这里淬火 第四集 军中女兵初长成</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83420,6 +83432,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250608112800 +0800" stop="20250608120700 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250608120700 +0800" stop="20250608132400 +0800">
+		<title lang="zh">武术搭档“相爱相杀” 一招一式尽显深厚功底（20250205）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83493,6 +83508,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250608104300 +0800" stop="20250608120300 +0800">
 		<title lang="zh">特工追缉令</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250608120300 +0800" stop="20250608125100 +0800">
+		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -83516,6 +83534,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250608091400 +0800" stop="20250608121800 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250608121800 +0800" stop="20250608130300 +0800">
+		<title lang="zh">光子能量半导体激光治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
