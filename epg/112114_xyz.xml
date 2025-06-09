@@ -52035,6 +52035,9 @@
 	<programme channel="newtv超级综艺" start="20250610032600 +0800" stop="20250610055600 +0800">
 		<title lang="zh">青年京剧演员大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250610055600 +0800" stop="20250610073700 +0800">
+		<title lang="zh">开播吧！国潮</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52224,6 +52227,9 @@
 	<programme channel="newtv热播精选" start="20250610044400 +0800" stop="20250610055000 +0800">
 		<title lang="zh">09_狮子山下的故事（粤语版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250610055000 +0800" stop="20250610063500 +0800">
+		<title lang="zh">10_狮子山下的故事（粤语版）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52332,6 +52338,9 @@
 	<programme channel="newtv军事评论" start="20250610052500 +0800" stop="20250610054600 +0800">
 		<title lang="zh">二战沙场b7诺曼底（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250610054600 +0800" stop="20250610060800 +0800">
+		<title lang="zh">二战沙场b7卡昂（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52355,6 +52364,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250610040600 +0800" stop="20250610055400 +0800">
 		<title lang="zh">乐在旅途 第三季（20250524）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250610055400 +0800" stop="20250610061600 +0800">
+		<title lang="zh">中老年舒展运动（20250224）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
