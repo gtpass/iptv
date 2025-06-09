@@ -57615,6 +57615,9 @@
 	<programme channel="爱情喜剧" start="20250609112900 +0800" stop="20250609121000 +0800">
 		<title lang="zh">13_刘家媳妇</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250609121000 +0800" stop="20250609123900 +0800">
+		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -78987,6 +78990,9 @@
 	<programme channel="newtv军旅剧场" start="20250609113000 +0800" stop="20250609121500 +0800">
 		<title lang="zh">17_解放大西南</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250609121500 +0800" stop="20250609125500 +0800">
+		<title lang="zh">艾美特新风智能空气扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79107,6 +79113,9 @@
 	<programme channel="newtv爱情喜剧" start="20250609112900 +0800" stop="20250609121000 +0800">
 		<title lang="zh">13_刘家媳妇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250609121000 +0800" stop="20250609123900 +0800">
+		<title lang="zh">百年鑫堂西洋参粉滋补组-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79193,6 +79202,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250609115000 +0800" stop="20250609120100 +0800">
 		<title lang="zh">相声《校园艺术论》 表演：何沄伟 韩云飞</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250609120100 +0800" stop="20250609125000 +0800">
+		<title lang="zh">美国Doctor Santon端粒酶胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79583,6 +79595,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250609112500 +0800" stop="20250609121400 +0800">
 		<title lang="zh">BEYONPAN钛锅升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250609121400 +0800" stop="20250609135200 +0800">
+		<title lang="zh">八卦掌之潜龙勿用</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
