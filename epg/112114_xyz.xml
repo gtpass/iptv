@@ -51648,6 +51648,9 @@
 	<programme channel="黑莓动画" start="20250611042500 +0800" stop="20250611055400 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250611055400 +0800" stop="20250611072500 +0800">
+		<title lang="zh">太空夺旗</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51978,6 +51981,9 @@
 	<programme channel="newtv超级体育" start="20250611053000 +0800" stop="20250611060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯3(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250611060000 +0800" stop="20250611063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52046,6 +52052,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250611050200 +0800" stop="20250611055000 +0800">
 		<title lang="zh">13_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250611055000 +0800" stop="20250611063800 +0800">
+		<title lang="zh">14_庆余年第二季</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52131,6 +52140,9 @@
 	<programme channel="newtv家庭剧场" start="20250611051200 +0800" stop="20250611054800 +0800">
 		<title lang="zh">14_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250611054800 +0800" stop="20250611063600 +0800">
+		<title lang="zh">POKONDA智能四轮电动代步车-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52160,6 +52172,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250611043400 +0800" stop="20250611054900 +0800">
 		<title lang="zh">10_好大一个家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250611054900 +0800" stop="20250611070400 +0800">
+		<title lang="zh">11_好大一个家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52286,6 +52301,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250611053100 +0800" stop="20250611055800 +0800">
 		<title lang="zh">02_守关人</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250611055800 +0800" stop="20250611060700 +0800">
+		<title lang="zh">最好的舞台-金洋</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
