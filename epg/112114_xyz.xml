@@ -27600,6 +27600,9 @@
 	<programme channel="咪咕足球" start="20250610215000 +0800" stop="20250610215500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250610215500 +0800" stop="20250610233500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第19轮 合肥文旅-黑龙江上东</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -43256,6 +43259,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250610210800 +0800" stop="20250610215300 +0800">
 		<title lang="zh">02_你好神枪手</title>
+	</programme>
+	<programme channel="明星大片" start="20250610215300 +0800" stop="20250610223700 +0800">
+		<title lang="zh">03_你好神枪手</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60897,6 +60903,9 @@
 	<programme channel="爱情喜剧" start="20250610211900 +0800" stop="20250610215200 +0800">
 		<title lang="zh">09_完美伴侣</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250610215200 +0800" stop="20250610222900 +0800">
+		<title lang="zh">10_完美伴侣</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66677,6 +66686,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250610210600 +0800" stop="20250610215600 +0800">
 		<title lang="zh">智造美好生活4K 第4集 绿 生态</title>
+	</programme>
+	<programme channel="纯享4K" start="20250610220000 +0800" stop="20250610220500 +0800">
+		<title lang="zh">听起来很好吃 第二季4K 糯米鸭子</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84201,6 +84213,9 @@
 	<programme channel="newtv精品大剧" start="20250610212700 +0800" stop="20250610215700 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250610215700 +0800" stop="20250610230200 +0800">
+		<title lang="zh">08_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84474,6 +84489,9 @@
 	<programme channel="newtv军旅剧场" start="20250610212100 +0800" stop="20250610215100 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250610215100 +0800" stop="20250610223700 +0800">
+		<title lang="zh">07_双重任务</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84713,6 +84731,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250610211900 +0800" stop="20250610215200 +0800">
 		<title lang="zh">09_完美伴侣</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250610215200 +0800" stop="20250610222900 +0800">
+		<title lang="zh">10_完美伴侣</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85101,6 +85122,9 @@
 	<programme channel="newtv军事评论" start="20250610213400 +0800" stop="20250610220000 +0800">
 		<title lang="zh">美日菲联手搅动南海局势 联合国通过加沙停火决议 以色列“生美国气”？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250610220000 +0800" stop="20250610222500 +0800">
+		<title lang="zh">台当局欲在金门实弹射击 乌克兰成为北约老式武器“垃圾场”？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85271,6 +85295,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250610210800 +0800" stop="20250610215300 +0800">
 		<title lang="zh">02_你好神枪手</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250610215300 +0800" stop="20250610223700 +0800">
+		<title lang="zh">03_你好神枪手</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
