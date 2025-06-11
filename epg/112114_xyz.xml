@@ -82758,6 +82758,9 @@
 	<programme channel="newtv精品大剧" start="20250611100400 +0800" stop="20250611105000 +0800">
 		<title lang="zh">38_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250611105000 +0800" stop="20250611113800 +0800">
+		<title lang="zh">贝卡罗莱L-a-甘磷酸胆碱复合粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83169,6 +83172,9 @@
 	<programme channel="newtv军事评论" start="20250611102600 +0800" stop="20250611105300 +0800">
 		<title lang="zh">万吨大驱 战力集结</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250611105300 +0800" stop="20250611111900 +0800">
+		<title lang="zh">深蓝力量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83225,6 +83231,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250611102300 +0800" stop="20250611110000 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250611110000 +0800" stop="20250611121500 +0800">
+		<title lang="zh">新疆姐妹带众人品美食看美景 双胞胎“貌合神离”互相揭短（20240807）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -83333,6 +83342,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250611085200 +0800" stop="20250611105600 +0800">
 		<title lang="zh">CBA总决赛5月9日：浙江方兴渡VS北京北汽</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250611105600 +0800" stop="20250611113200 +0800">
+		<title lang="zh">IBO超次轻量级拳王争霸赛：卡卡斯VS伍德</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
