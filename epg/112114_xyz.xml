@@ -17679,6 +17679,9 @@
 	<programme channel="咪咕足球" start="20250612214000 +0800" stop="20250612215500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250612215500 +0800" stop="20250612232500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第20轮 新疆天山-内蒙古农信</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60132,6 +60135,9 @@
 	<programme channel="newtv怡伴健康" start="20250612205400 +0800" stop="20250612215500 +0800">
 		<title lang="zh">四川天门淘一街vs北京源莱慧热爱--第7局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250612215500 +0800" stop="20250612222500 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第41期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60363,6 +60369,9 @@
 	<programme channel="newtv军事评论" start="20250612213300 +0800" stop="20250612215800 +0800">
 		<title lang="zh">美俄相继在亚太进行大规模演习 美国或解除对以色列供武限制？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250612215800 +0800" stop="20250612222400 +0800">
+		<title lang="zh">以军宣布批准对黎巴嫩真主党发动进攻 援乌F-16因训练分歧恐再延后</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60525,6 +60534,9 @@
 	<programme channel="newtv精品综合" start="20250612210900 +0800" stop="20250612215000 +0800">
 		<title lang="zh">08_你好神枪手</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250612215000 +0800" stop="20250612223200 +0800">
+		<title lang="zh">09_你好神枪手</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -60681,6 +60693,9 @@
 	<programme channel="newtv精品体育" start="20250612201300 +0800" stop="20250612214600 +0800">
 		<title lang="zh">NBA季后赛5月5日：勇士VS火箭</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250612214600 +0800" stop="20250612234700 +0800">
+		<title lang="zh">NBA季后赛4月26日：湖人VS森林狼</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -60797,6 +60812,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250612212100 +0800" stop="20250612215100 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第41期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250612215100 +0800" stop="20250612232200 +0800">
+		<title lang="zh">天下第一镖局2长风厉</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
