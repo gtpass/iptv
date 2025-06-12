@@ -47673,6 +47673,9 @@
 	<programme channel="纯享4K" start="20250612150900 +0800" stop="20250612160100 +0800">
 		<title lang="zh">乘火车看中国4K 第二集 丝绸之路</title>
 	</programme>
+	<programme channel="纯享4K" start="20250612160100 +0800" stop="20250612163100 +0800">
+		<title lang="zh">记住乡愁 第五季4K 广州西关历史文化街区——千年商都</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59016,6 +59019,9 @@
 	<programme channel="newtv超级体育" start="20250612150000 +0800" stop="20250612160000 +0800">
 		<title lang="zh">实况录像-2025年世界乒乓球锦标赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250612160000 +0800" stop="20250612180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59184,6 +59190,9 @@
 	<programme channel="newtv精品大剧" start="20250612150400 +0800" stop="20250612155400 +0800">
 		<title lang="zh">01_大奉打更人</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250612155400 +0800" stop="20250612164300 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59291,6 +59300,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250612150700 +0800" stop="20250612155400 +0800">
 		<title lang="zh">16_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250612155400 +0800" stop="20250612164000 +0800">
+		<title lang="zh">17_大奉打更人</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59412,6 +59424,9 @@
 	<programme channel="newtv家庭剧场" start="20250612150100 +0800" stop="20250612154700 +0800">
 		<title lang="zh">HOKO富硒款反渗透净水机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250612154700 +0800" stop="20250612163400 +0800">
+		<title lang="zh">14_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -59510,6 +59525,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250612151400 +0800" stop="20250612155600 +0800">
 		<title lang="zh">32_刘家媳妇</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250612155600 +0800" stop="20250612171100 +0800">
+		<title lang="zh">决味厨神</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -59682,6 +59700,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250612151600 +0800" stop="20250612160100 +0800">
 		<title lang="zh">06_九重紫</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250612160100 +0800" stop="20250612165000 +0800">
+		<title lang="zh">KGTOUE体感语音操控大吸力烟机-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -59780,6 +59801,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250612152900 +0800" stop="20250612155400 +0800">
 		<title lang="zh">最美新时代革命军人 能文能武教导员</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250612155400 +0800" stop="20250612162000 +0800">
+		<title lang="zh">探访“云峰八寨”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -59981,6 +60005,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250612151500 +0800" stop="20250612155300 +0800">
 		<title lang="zh">Natures Gem益生菌冻干粉畅活30000亿升级装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250612155300 +0800" stop="20250612180000 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
