@@ -52920,6 +52920,9 @@
 	<programme channel="newtv超级体育" start="20250613053000 +0800" stop="20250613060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯1(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250613060000 +0800" stop="20250613063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 美国站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -53205,6 +53208,9 @@
 	<programme channel="newtv军事评论" start="20250613053700 +0800" stop="20250613055900 +0800">
 		<title lang="zh">二战沙场b7阿尔卑斯（中）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250613055900 +0800" stop="20250613062000 +0800">
+		<title lang="zh">二战沙场b7阿尔卑斯（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53225,6 +53231,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250613042800 +0800" stop="20250613055100 +0800">
 		<title lang="zh">尚雯婕变身佘赛花 李斯丹妮首演豫剧武戏（20221022）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250613055100 +0800" stop="20250613061000 +0800">
+		<title lang="zh">江山-孙爱迪（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -53264,6 +53273,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250613044300 +0800" stop="20250613060300 +0800">
 		<title lang="zh">我的艺术清单</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250613060300 +0800" stop="20250613074800 +0800">
+		<title lang="zh">脱口秀大会第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
