@@ -17580,6 +17580,9 @@
 	<programme channel="咪咕足球" start="20250614205000 +0800" stop="20250614214000 +0800">
 		<title lang="zh">最后之舞05</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250614215500 +0800" stop="20250614233500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第17轮 浙江稠州银行-北京首钢园</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -57231,6 +57234,9 @@
 	<programme channel="newtv超级综艺" start="20250614210000 +0800" stop="20250614215300 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250614215300 +0800" stop="20250614224400 +0800">
+		<title lang="zh">乐享汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -57287,6 +57293,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250614193000 +0800" stop="20250614214000 +0800">
 		<title lang="zh">2025中国足球超级联赛-第14轮(深圳新鹏城-上海申花)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250614214000 +0800" stop="20250614233500 +0800">
+		<title lang="zh">实况录像(奥林匹克)-2025年苏迪曼杯羽毛球赛 半决赛(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -57513,6 +57522,9 @@
 	<programme channel="newtv精品大剧" start="20250614212800 +0800" stop="20250614215800 +0800">
 		<title lang="zh">《八段锦》推荐第25期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250614215800 +0800" stop="20250614230300 +0800">
+		<title lang="zh">19_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -57593,6 +57605,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250614210100 +0800" stop="20250614215000 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250614215000 +0800" stop="20250614222000 +0800">
+		<title lang="zh">潘天寿 第一集 植根传统</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -57752,6 +57767,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250614211700 +0800" stop="20250614214700 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250614214700 +0800" stop="20250614223300 +0800">
+		<title lang="zh">21_双重任务</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -58046,6 +58064,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250614212200 +0800" stop="20250614215200 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250614215200 +0800" stop="20250614232200 +0800">
+		<title lang="zh">绝境峭壁岭</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
