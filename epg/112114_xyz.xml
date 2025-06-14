@@ -57471,6 +57471,9 @@
 	<programme channel="newtv精品大剧" start="20250614193000 +0800" stop="20250614201400 +0800">
 		<title lang="zh">07_婚内婚外</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250614201400 +0800" stop="20250614204400 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -57545,6 +57548,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250614185900 +0800" stop="20250614194700 +0800">
 		<title lang="zh">丹麦原装进口PG酵母β-葡聚糖麦芽复合片-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250614194700 +0800" stop="20250614203600 +0800">
+		<title lang="zh">01_平馆善本避难记</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -57768,6 +57774,9 @@
 	<programme channel="newtv家庭剧场" start="20250614190700 +0800" stop="20250614195100 +0800">
 		<title lang="zh">21_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250614195100 +0800" stop="20250614202100 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第43期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -57836,6 +57845,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250614192400 +0800" stop="20250614195400 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第43期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250614195400 +0800" stop="20250614203500 +0800">
+		<title lang="zh">02_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -58041,6 +58053,9 @@
 	<programme channel="newtv怡伴健康" start="20250614192800 +0800" stop="20250614201100 +0800">
 		<title lang="zh">北京源莱慧精英vs山西沁乡红--第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250614201100 +0800" stop="20250614204100 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -58127,6 +58142,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250614192100 +0800" stop="20250614195100 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250614195100 +0800" stop="20250614204300 +0800">
+		<title lang="zh">17_乐游原</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -58251,6 +58269,9 @@
 	<programme channel="newtv军事评论" start="20250614193100 +0800" stop="20250614195800 +0800">
 		<title lang="zh">探访红25军长征出发地</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250614195800 +0800" stop="20250614202300 +0800">
+		<title lang="zh">日本“海上作战中心”首次公开 美为台F-16加装“蝮蛇之盾”系统</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -58326,6 +58347,9 @@
 	<programme channel="newtv炫舞未来" start="20250614192400 +0800" stop="20250614200900 +0800">
 		<title lang="zh">05_六姊妹</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250614200900 +0800" stop="20250614204600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -58388,6 +58412,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250614190000 +0800" stop="20250614194900 +0800">
 		<title lang="zh">SHARP大容量双内胆IH电饭煲/健康筷/多功能饮品杯-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250614194900 +0800" stop="20250614203100 +0800">
+		<title lang="zh">13_你好神枪手</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
