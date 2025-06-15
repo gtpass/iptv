@@ -47970,6 +47970,9 @@
 	<programme channel="newtv超级综艺" start="20250616015800 +0800" stop="20250616040000 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250616040000 +0800" stop="20250616051400 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47982,6 +47985,9 @@
 	<programme channel="newtv超级体育" start="20250616023600 +0800" stop="20250616040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250616040000 +0800" stop="20250616053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第4轮 巴黎圣日耳曼—布雷斯特</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47990,6 +47996,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250616022900 +0800" stop="20250616035800 +0800">
 		<title lang="zh">天津闲人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250616035800 +0800" stop="20250616052500 +0800">
+		<title lang="zh">绝命航班</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -48096,6 +48105,9 @@
 	<programme channel="newtv爱情喜剧" start="20250616023800 +0800" stop="20250616035300 +0800">
 		<title lang="zh">34_好大一个家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250616035300 +0800" stop="20250616050800 +0800">
+		<title lang="zh">35_好大一个家</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48197,6 +48209,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250616022100 +0800" stop="20250616034900 +0800">
 		<title lang="zh">狼群行动2</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250616034900 +0800" stop="20250616050900 +0800">
+		<title lang="zh">魁拔之幽弥狂</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
