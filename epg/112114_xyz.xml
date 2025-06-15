@@ -47970,6 +47970,9 @@
 	<programme channel="黑莓动画" start="20250616045600 +0800" stop="20250616060100 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250616060100 +0800" stop="20250616070600 +0800">
+		<title lang="zh">角落小伙伴电影版 魔法绘本里的新朋友（普通话）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47981,6 +47984,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250616040800 +0800" stop="20250616055100 +0800">
 		<title lang="zh">舞出我人生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250616055100 +0800" stop="20250616072200 +0800">
+		<title lang="zh">绑架游戏</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -48194,6 +48200,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250616053000 +0800" stop="20250616060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯1(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250616060000 +0800" stop="20250616063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -48414,6 +48423,9 @@
 	<programme channel="newtv怡伴健康" start="20250616050100 +0800" stop="20250616054600 +0800">
 		<title lang="zh">38_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250616054600 +0800" stop="20250616060200 +0800">
+		<title lang="zh">小品《一波三折》贾玲、张小斐、许君聪、ト钰、泰维、刘宏禄、孙集斌</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48441,6 +48453,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250616052100 +0800" stop="20250616055900 +0800">
 		<title lang="zh">护肤不当惹的祸</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250616055900 +0800" stop="20250616062900 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48467,6 +48482,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250616052600 +0800" stop="20250616054800 +0800">
 		<title lang="zh">全景一战b7困局（上）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250616054800 +0800" stop="20250616061000 +0800">
+		<title lang="zh">全景一战b7困局（下）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48599,6 +48617,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250616041800 +0800" stop="20250616055700 +0800">
 		<title lang="zh">女子太极剑决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250616055700 +0800" stop="20250616064500 +0800">
+		<title lang="zh">拳王争霸赛：恩尼斯VS楚卡赞</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
