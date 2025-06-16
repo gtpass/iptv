@@ -52413,6 +52413,9 @@
 	<programme channel="newtv超级体育" start="20250617053000 +0800" stop="20250617060000 +0800">
 		<title lang="zh">赛事集锦-2025年三人篮球亚洲杯2(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250617060000 +0800" stop="20250617063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52457,6 +52460,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250617053200 +0800" stop="20250617060700 +0800">
 		<title lang="zh">46_完美伴侣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250617060700 +0800" stop="20250617065300 +0800">
+		<title lang="zh">01_公诉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
