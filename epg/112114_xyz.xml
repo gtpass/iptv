@@ -41226,6 +41226,9 @@
 	<programme channel="newtv超级体育" start="20250618023600 +0800" stop="20250618040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250618040000 +0800" stop="20250618053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第5轮 摩纳哥-勒阿弗尔</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -41261,6 +41264,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250618035000 +0800" stop="20250618035500 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250618035500 +0800" stop="20250618044000 +0800">
+		<title lang="zh">02_公诉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
