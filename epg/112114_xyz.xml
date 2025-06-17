@@ -59544,6 +59544,9 @@
 	<programme channel="黑莓动画" start="20250617202400 +0800" stop="20250617215500 +0800">
 		<title lang="zh">太空夺旗</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250617215500 +0800" stop="20250617232400 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60336,6 +60339,9 @@
 	<programme channel="newtv精品纪录" start="20250617211200 +0800" stop="20250617215100 +0800">
 		<title lang="zh">永康锡雕</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250617215100 +0800" stop="20250617224000 +0800">
+		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60666,6 +60672,9 @@
 	<programme channel="newtv热播精选" start="20250617212000 +0800" stop="20250617215000 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250617215000 +0800" stop="20250617223700 +0800">
+		<title lang="zh">14_藏海花</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60894,6 +60903,9 @@
 	<programme channel="newtv怡伴健康" start="20250617211300 +0800" stop="20250617215300 +0800">
 		<title lang="zh">北京源莱慧精英vs湖南名将--第6局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250617215300 +0800" stop="20250617222300 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第45期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60980,6 +60992,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250617212000 +0800" stop="20250617215000 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第45期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250617215000 +0800" stop="20250617224100 +0800">
+		<title lang="zh">29_乐游原</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
