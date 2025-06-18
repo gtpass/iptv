@@ -47565,6 +47565,9 @@
 	<programme channel="纯享4K" start="20250618194300 +0800" stop="20250618202500 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 秦岭的动物王国</title>
 	</programme>
+	<programme channel="纯享4K" start="20250618202500 +0800" stop="20250618210700 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 神奇的“海洋精灵”</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58851,6 +58854,9 @@
 	<programme channel="黑莓动画" start="20250618184100 +0800" stop="20250618202000 +0800">
 		<title lang="zh">蜡笔小新：新婚旅行飓风之遗失的野原广志</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250618202000 +0800" stop="20250618214800 +0800">
+		<title lang="zh">太空神鹰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59580,6 +59586,9 @@
 	<programme channel="newtv精品纪录" start="20250618193500 +0800" stop="20250618202400 +0800">
 		<title lang="zh">超能康红蓝光治疗仪-医用折叠光量子治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250618202400 +0800" stop="20250618210200 +0800">
+		<title lang="zh">盏内春秋（上）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59651,6 +59660,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250618193000 +0800" stop="20250618201700 +0800">
 		<title lang="zh">19_折腰</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250618201700 +0800" stop="20250618210400 +0800">
+		<title lang="zh">20_折腰</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59879,6 +59891,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250618192900 +0800" stop="20250618201600 +0800">
 		<title lang="zh">16_藏海花</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250618201600 +0800" stop="20250618210100 +0800">
+		<title lang="zh">17_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -60180,6 +60195,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250618193700 +0800" stop="20250618202500 +0800">
 		<title lang="zh">33_乐游原</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250618202500 +0800" stop="20250618205500 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第47期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60308,6 +60326,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250618195200 +0800" stop="20250618201800 +0800">
 		<title lang="zh">北纬53度的坚守</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250618201800 +0800" stop="20250618204300 +0800">
+		<title lang="zh">反恐一线的“战场飞人”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
