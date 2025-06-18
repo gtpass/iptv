@@ -18036,6 +18036,9 @@
 	<programme channel="咪咕综合体育" start="20250618201000 +0800" stop="20250618215000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 C组第1轮 博卡青年-本菲卡</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250618220000 +0800" stop="20250618234000 +0800">
+		<title lang="zh">纪录片杰拉德：成就梦想</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18116,6 +18119,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250618205000 +0800" stop="20250618215000 +0800">
 		<title lang="zh">中国榜样篮球季对话周鹏</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250618215500 +0800" stop="20250618233500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA 常规赛第14轮 东莞新彤盛-浙江稠州银行</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -58869,6 +58875,9 @@
 	<programme channel="黑莓动画" start="20250618202000 +0800" stop="20250618214800 +0800">
 		<title lang="zh">太空神鹰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250618214800 +0800" stop="20250618232200 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59253,6 +59262,9 @@
 	<programme channel="newtv超级综艺" start="20250618205300 +0800" stop="20250618215000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250618215000 +0800" stop="20250618225600 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59460,6 +59472,9 @@
 	<programme channel="newtv超级电视剧" start="20250618210100 +0800" stop="20250618214700 +0800">
 		<title lang="zh">07_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250618214700 +0800" stop="20250618223300 +0800">
+		<title lang="zh">35_安家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59543,6 +59558,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250618212300 +0800" stop="20250618215300 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250618215300 +0800" stop="20250618225800 +0800">
+		<title lang="zh">31_新边城浪子</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -59880,6 +59898,9 @@
 	<programme channel="newtv家庭剧场" start="20250618212500 +0800" stop="20250618215500 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250618215500 +0800" stop="20250618224000 +0800">
+		<title lang="zh">24_求婚大作战</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60032,6 +60053,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250618210400 +0800" stop="20250618214900 +0800">
 		<title lang="zh">06_流水迢迢</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250618214900 +0800" stop="20250618230800 +0800">
+		<title lang="zh">心灵骇客</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60425,6 +60449,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250618213400 +0800" stop="20250618215800 +0800">
 		<title lang="zh">美称伊朗或在本周对以发动“重大袭击”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250618215800 +0800" stop="20250618222400 +0800">
+		<title lang="zh">俄军在多地拦截无人机和导弹 菲军机两次侵闯黄岩岛邻近空域 中方严正警告</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
