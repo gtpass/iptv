@@ -60576,6 +60576,9 @@
 	<programme channel="newtv精品大剧" start="20250619211400 +0800" stop="20250619214400 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250619214400 +0800" stop="20250619224900 +0800">
+		<title lang="zh">04_星汉灿烂</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60657,6 +60660,9 @@
 	<programme channel="newtv精品纪录" start="20250619210000 +0800" stop="20250619214000 +0800">
 		<title lang="zh">香江叹茶</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250619214000 +0800" stop="20250619221900 +0800">
+		<title lang="zh">百年鑫堂霍山石斛粉滋补组-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60734,6 +60740,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250619210500 +0800" stop="20250619213500 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250619213500 +0800" stop="20250619222000 +0800">
+		<title lang="zh">25_折腰</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60815,6 +60824,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250619211700 +0800" stop="20250619214700 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250619214700 +0800" stop="20250619223200 +0800">
+		<title lang="zh">09_天涯浴血</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60903,6 +60915,9 @@
 	<programme channel="newtv家庭剧场" start="20250619212200 +0800" stop="20250619215200 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250619215200 +0800" stop="20250619223700 +0800">
+		<title lang="zh">28_求婚大作战</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60977,6 +60992,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250619211800 +0800" stop="20250619214800 +0800">
 		<title lang="zh">《八段锦》推荐第25期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250619214800 +0800" stop="20250619223100 +0800">
+		<title lang="zh">22_藏海花</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -61097,6 +61115,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250619212800 +0800" stop="20250619215800 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250619215800 +0800" stop="20250619232400 +0800">
+		<title lang="zh">不死间谍</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61299,6 +61320,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250619205600 +0800" stop="20250619214200 +0800">
 		<title lang="zh">38_乐游原</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250619214200 +0800" stop="20250619222100 +0800">
+		<title lang="zh">森宝熊胆粉VIP超值组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61440,6 +61464,9 @@
 	<programme channel="newtv军事评论" start="20250619211200 +0800" stop="20250619213700 +0800">
 		<title lang="zh">普京时隔13年再次视察车臣 日本成立研究中心研制“颠覆性”武器</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250619213700 +0800" stop="20250619220300 +0800">
+		<title lang="zh">台媒叫嚣用反舰导弹封锁海峡 日本打造“军事岛链”或针对台海</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61532,6 +61559,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250619205600 +0800" stop="20250619214400 +0800">
 		<title lang="zh">02_长安的荔枝</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250619214400 +0800" stop="20250619224000 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
