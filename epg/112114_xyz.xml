@@ -60210,6 +60210,9 @@
 	<programme channel="黑莓动画" start="20250620191100 +0800" stop="20250620201500 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250620201500 +0800" stop="20250620214100 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -61083,6 +61086,9 @@
 	<programme channel="newtv家庭剧场" start="20250620191900 +0800" stop="20250620200700 +0800">
 		<title lang="zh">45_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250620200700 +0800" stop="20250620203600 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61359,6 +61365,9 @@
 	<programme channel="newtv怡伴健康" start="20250620192800 +0800" stop="20250620201400 +0800">
 		<title lang="zh">湖南名将vs北京东炸团--第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250620201400 +0800" stop="20250620204400 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61454,6 +61463,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250620192300 +0800" stop="20250620200900 +0800">
 		<title lang="zh">01_大盛魁</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250620200900 +0800" stop="20250620203900 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第49期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
