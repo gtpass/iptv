@@ -18396,6 +18396,9 @@
 	<programme channel="咪咕综合体育" start="20250621195500 +0800" stop="20250621200500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250621200500 +0800" stop="20250621203000 +0800">
+		<title lang="zh">世俱杯精华</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60696,6 +60699,9 @@
 	<programme channel="黑莓电影" start="20250621180600 +0800" stop="20250621201400 +0800">
 		<title lang="zh">变形金刚：超能勇士崛起</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250621201400 +0800" stop="20250621222300 +0800">
+		<title lang="zh">惊天魔盗团2</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61901,6 +61907,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250621192400 +0800" stop="20250621200600 +0800">
 		<title lang="zh">山西沁乡红vs北京源莱慧热爱--第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250621200600 +0800" stop="20250621203600 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
