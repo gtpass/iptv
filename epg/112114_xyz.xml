@@ -61125,6 +61125,9 @@
 	<programme channel="newtv超级体育" start="20250621210000 +0800" stop="20250621220000 +0800">
 		<title lang="zh">实况录像-2025年世界乒乓球锦标赛 男单比赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250621220000 +0800" stop="20250621000000 +0800">
+		<title lang="zh">实况录像-2024/2025赛季世界斯诺克锦标赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61533,6 +61536,9 @@
 	<programme channel="newtv古装剧场" start="20250621212500 +0800" stop="20250621215500 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250621215500 +0800" stop="20250621224300 +0800">
+		<title lang="zh">32_折腰</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61779,6 +61785,9 @@
 	<programme channel="newtv热播精选" start="20250621212500 +0800" stop="20250621215500 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250621215500 +0800" stop="20250621224400 +0800">
+		<title lang="zh">30_藏海花</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61851,6 +61860,9 @@
 	<programme channel="newtv爱情喜剧" start="20250621210700 +0800" stop="20250621215400 +0800">
 		<title lang="zh">20_流水迢迢</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250621215400 +0800" stop="20250621224000 +0800">
+		<title lang="zh">21_流水迢迢</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61901,6 +61913,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250621212600 +0800" stop="20250621215600 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250621215600 +0800" stop="20250621233200 +0800">
+		<title lang="zh">皇牌空战</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -62409,6 +62424,9 @@
 	<programme channel="newtv精品综合" start="20250621210600 +0800" stop="20250621215000 +0800">
 		<title lang="zh">35_你好神枪手</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250621215000 +0800" stop="20250621223400 +0800">
+		<title lang="zh">36_你好神枪手</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -62693,6 +62711,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250621211700 +0800" stop="20250621214700 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第50期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250621214700 +0800" stop="20250621223400 +0800">
+		<title lang="zh">40_且试天下</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
