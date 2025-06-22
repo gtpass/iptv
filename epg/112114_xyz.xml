@@ -56697,6 +56697,9 @@
 	<programme channel="newtv精品大剧" start="20250622193300 +0800" stop="20250622201400 +0800">
 		<title lang="zh">15_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250622201400 +0800" stop="20250622204400 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第51期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -56919,6 +56922,9 @@
 	<programme channel="newtv军旅剧场" start="20250622194400 +0800" stop="20250622201400 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第51期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250622201400 +0800" stop="20250622205500 +0800">
+		<title lang="zh">19_雪域雄鹰</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -56996,6 +57002,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250622191600 +0800" stop="20250622200200 +0800">
 		<title lang="zh">53_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250622200200 +0800" stop="20250622203200 +0800">
+		<title lang="zh">《五脏健康操》推荐第3期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -57270,6 +57279,9 @@
 	<programme channel="newtv怡伴健康" start="20250622192300 +0800" stop="20250622201000 +0800">
 		<title lang="zh">山西沁乡红vs北京东炸团--第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250622201000 +0800" stop="20250622204000 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -57365,6 +57377,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250622192500 +0800" stop="20250622201000 +0800">
 		<title lang="zh">10_大盛魁</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250622201000 +0800" stop="20250622204000 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
