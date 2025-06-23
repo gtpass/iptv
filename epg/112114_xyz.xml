@@ -51408,6 +51408,9 @@
 	<programme channel="黑莓动画" start="20250624023300 +0800" stop="20250624035800 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250624035800 +0800" stop="20250624053100 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51681,6 +51684,9 @@
 	<programme channel="newtv超级体育" start="20250624023600 +0800" stop="20250624040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250624040000 +0800" stop="20250624053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第8轮 曼彻斯特联-布伦特福德</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51713,6 +51719,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250624030900 +0800" stop="20250624035400 +0800">
 		<title lang="zh">10_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250624035400 +0800" stop="20250624043900 +0800">
+		<title lang="zh">27_公诉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51758,6 +51767,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250624024300 +0800" stop="20250624035800 +0800">
 		<title lang="zh">39_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250624035800 +0800" stop="20250624051400 +0800">
+		<title lang="zh">40_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51810,6 +51822,9 @@
 	<programme channel="newtv爱情喜剧" start="20250624023900 +0800" stop="20250624035400 +0800">
 		<title lang="zh">03_恋恋红尘</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250624035400 +0800" stop="20250624051000 +0800">
+		<title lang="zh">04_恋恋红尘</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51858,6 +51873,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250624030500 +0800" stop="20250624035000 +0800">
 		<title lang="zh">16_山河锦绣</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250624035000 +0800" stop="20250624042000 +0800">
+		<title lang="zh">思独鲜桃酥7099版本10分钟</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51893,6 +51911,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250624033700 +0800" stop="20250624035200 +0800">
 		<title lang="zh">兄弟想你了-李萍（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250624035200 +0800" stop="20250624041800 +0800">
+		<title lang="zh">秘鲁记者看中国（20250223）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51935,6 +51956,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250624015100 +0800" stop="20250624035000 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第28轮：马竞VS巴萨</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250624035000 +0800" stop="20250624052500 +0800">
+		<title lang="zh">2024-25赛季西甲联赛第33轮：巴塞罗那VS马略卡</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -51986,6 +52010,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250624032300 +0800" stop="20250624040000 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250624040000 +0800" stop="20250624054000 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
