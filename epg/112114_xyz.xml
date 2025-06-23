@@ -54438,6 +54438,9 @@
 	<programme channel="newtv超级电影" start="20250623115700 +0800" stop="20250623120600 +0800">
 		<title lang="zh">音乐电影欣赏</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250623120600 +0800" stop="20250623133000 +0800">
+		<title lang="zh">电影《飞鱼服》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -54488,6 +54491,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250623111800 +0800" stop="20250623120200 +0800">
 		<title lang="zh">31_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250623120200 +0800" stop="20250623124400 +0800">
+		<title lang="zh">32_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -54633,6 +54639,9 @@
 	<programme channel="newtv古装剧场" start="20250623113200 +0800" stop="20250623121100 +0800">
 		<title lang="zh">百年鑫堂霍山石斛粉滋补组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250623121100 +0800" stop="20250623125700 +0800">
+		<title lang="zh">20_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -54674,6 +54683,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250623111500 +0800" stop="20250623121100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250623121100 +0800" stop="20250623125600 +0800">
+		<title lang="zh">15_一代枭雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54720,6 +54732,9 @@
 	<programme channel="newtv家庭剧场" start="20250623110600 +0800" stop="20250623121100 +0800">
 		<title lang="zh">42_大嫁风尚</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250623121100 +0800" stop="20250623125600 +0800">
+		<title lang="zh">12_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -54758,6 +54773,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250623112300 +0800" stop="20250623121200 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250623121200 +0800" stop="20250623134400 +0800">
+		<title lang="zh">特工艾米拉</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -54878,6 +54896,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250623115400 +0800" stop="20250623120500 +0800">
 		<title lang="zh">相声《北京的旋律》 表演：李涵 迟永志</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250623120500 +0800" stop="20250623125400 +0800">
+		<title lang="zh">SHARP大容量双内胆IH电饭煲/健康筷/多功能饮品杯-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -55013,6 +55034,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250623113700 +0800" stop="20250623120400 +0800">
 		<title lang="zh">新春特别节目 透视国际军械库</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250623120400 +0800" stop="20250623123000 +0800">
+		<title lang="zh">穿越打击</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -55161,6 +55185,9 @@
 	<programme channel="newtv金牌综艺" start="20250623111000 +0800" stop="20250623120200 +0800">
 		<title lang="zh">遇鉴文明 第二季</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250623120200 +0800" stop="20250623125100 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -55259,6 +55286,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250623111900 +0800" stop="20250623121500 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250623121500 +0800" stop="20250623132700 +0800">
+		<title lang="zh">破局锦衣卫</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
