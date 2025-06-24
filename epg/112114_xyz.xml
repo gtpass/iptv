@@ -59277,6 +59277,9 @@
 	<programme channel="黑莓电影" start="20250624183300 +0800" stop="20250624201300 +0800">
 		<title lang="zh">射雕英雄传之九阴白骨爪</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250624201300 +0800" stop="20250624221800 +0800">
+		<title lang="zh">雪国列车</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -59691,6 +59694,9 @@
 	<programme channel="newtv超级电影" start="20250624183700 +0800" stop="20250624200400 +0800">
 		<title lang="zh">电影《绝色霸王花》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250624200400 +0800" stop="20250624210800 +0800">
+		<title lang="zh">电影《特种兵归来2：黑色罂粟》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -59775,6 +59781,9 @@
 	<programme channel="newtv超级电视剧" start="20250624192800 +0800" stop="20250624201300 +0800">
 		<title lang="zh">23_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250624201300 +0800" stop="20250624205900 +0800">
+		<title lang="zh">24_在暴雪时分</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -59849,6 +59858,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250624192200 +0800" stop="20250624200800 +0800">
 		<title lang="zh">23_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250624200800 +0800" stop="20250624203800 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第51期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -60005,6 +60017,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250624192600 +0800" stop="20250624201200 +0800">
 		<title lang="zh">05_永安梦</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250624201200 +0800" stop="20250624205800 +0800">
+		<title lang="zh">06_永安梦</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60428,6 +60443,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250624191800 +0800" stop="20250624200300 +0800">
 		<title lang="zh">湖南名将vs北京源莱慧热爱--第6局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250624200300 +0800" stop="20250624203300 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
