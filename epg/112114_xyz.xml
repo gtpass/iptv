@@ -17562,6 +17562,9 @@
 	<programme channel="咪咕综合体育" start="20250625184000 +0800" stop="20250625202000 +0800">
 		<title lang="zh">足球世界-2025国际足联世俱杯 C组第3轮 本菲卡-拜仁慕尼黑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250625202000 +0800" stop="20250625203000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -58265,6 +58268,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250625185500 +0800" stop="20250625202000 +0800">
 		<title lang="zh">电影《罪恶的代价》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250625202000 +0800" stop="20250625212700 +0800">
+		<title lang="zh">电影《特种兵归来3：绝密战场》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
