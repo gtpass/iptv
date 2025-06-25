@@ -17259,6 +17259,9 @@
 	<programme channel="咪咕综合体育" start="20250626011000 +0800" stop="20250626020500 +0800">
 		<title lang="zh">纪录片拜仁慕尼黑：传奇背后 第六集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250626020500 +0800" stop="20250626021000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52236,6 +52239,9 @@
 	<programme channel="newtv超级综艺" start="20250626011300 +0800" stop="20250626020000 +0800">
 		<title lang="zh">28_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250626020000 +0800" stop="20250626031800 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52292,6 +52298,9 @@
 	</channel>
 	<programme channel="newtv古装剧场" start="20250626003600 +0800" stop="20250626015200 +0800">
 		<title lang="zh">45_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250626015200 +0800" stop="20250626030800 +0800">
+		<title lang="zh">46_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52362,6 +52371,9 @@
 	<programme channel="newtv军事评论" start="20250626010000 +0800" stop="20250626015200 +0800">
 		<title lang="zh">哈巴河水长 军民情谊深 走进新疆阿勒泰哈巴河县</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250626015200 +0800" stop="20250626024400 +0800">
+		<title lang="zh">筑梦航天 薪火相传 走进东风航天城</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52382,6 +52394,9 @@
 	</channel>
 	<programme channel="newtv惊悚悬疑" start="20250626011500 +0800" stop="20250626015400 +0800">
 		<title lang="zh">罗布雍措野藿香藏蜜-通用-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250626015400 +0800" stop="20250626033700 +0800">
+		<title lang="zh">A计划</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
