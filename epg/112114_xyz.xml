@@ -17487,6 +17487,9 @@
 	<programme channel="咪咕综合体育" start="20250625112000 +0800" stop="20250625121000 +0800">
 		<title lang="zh">国球荣耀-2025乒乓球亚洲杯 女单半决赛 王曼昱-蒯曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250625121000 +0800" stop="20250625130000 +0800">
+		<title lang="zh">国球荣耀-2025乒乓球亚洲杯 女单决赛 孙颖莎-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46389,6 +46392,9 @@
 	<programme channel="纯享4K" start="20250625113400 +0800" stop="20250625121600 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 北国风光 和谐家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250625121600 +0800" stop="20250625125800 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 神奇动物在四川</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -58191,6 +58197,9 @@
 	<programme channel="newtv精品纪录" start="20250625113800 +0800" stop="20250625120400 +0800">
 		<title lang="zh">古镇里的洋村民（20250315）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250625120400 +0800" stop="20250625122900 +0800">
+		<title lang="zh">宋韵青瓷（20250316）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -58616,6 +58625,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250625114200 +0800" stop="20250625120900 +0800">
 		<title lang="zh">中国防务 闪耀沙特</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250625120900 +0800" stop="20250625123600 +0800">
+		<title lang="zh">寻踪川康边游击烽火</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
