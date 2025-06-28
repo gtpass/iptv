@@ -50490,6 +50490,9 @@
 	<programme channel="newtv超级综艺" start="20250629053900 +0800" stop="20250629054900 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250629054900 +0800" stop="20250629064900 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50508,6 +50511,9 @@
 	<programme channel="newtv超级体育" start="20250629053000 +0800" stop="20250629060000 +0800">
 		<title lang="zh">实况录像-2025年世界田联钻石联赛 厦门站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250629060000 +0800" stop="20250629063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50522,6 +50528,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250629044200 +0800" stop="20250629060000 +0800">
 		<title lang="zh">燕赤霞传之情迷兰若寺</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250629060000 +0800" stop="20250629080300 +0800">
+		<title lang="zh">拆弹专家2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50550,6 +50559,9 @@
 	<programme channel="newtv超级电视剧" start="20250629052900 +0800" stop="20250629060300 +0800">
 		<title lang="zh">09_千金女贼</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250629060300 +0800" stop="20250629064100 +0800">
+		<title lang="zh">10_千金女贼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -50570,6 +50582,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250629044400 +0800" stop="20250629055200 +0800">
 		<title lang="zh">15_永安梦</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250629055200 +0800" stop="20250629064000 +0800">
+		<title lang="zh">16_永安梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -50646,6 +50661,9 @@
 	<programme channel="newtv家庭剧场" start="20250629044100 +0800" stop="20250629054600 +0800">
 		<title lang="zh">04_山花烂漫时</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250629054600 +0800" stop="20250629063200 +0800">
+		<title lang="zh">05_山花烂漫时</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -50663,6 +50681,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250629045400 +0800" stop="20250629060000 +0800">
 		<title lang="zh">30_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250629060000 +0800" stop="20250629064600 +0800">
+		<title lang="zh">31_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -50747,6 +50768,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250629051800 +0800" stop="20250629055600 +0800">
 		<title lang="zh">管控血糖分年龄</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250629055600 +0800" stop="20250629064000 +0800">
+		<title lang="zh">13_星汉灿烂</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
