@@ -84948,6 +84948,9 @@
 	<programme channel="newtv超级综艺" start="20250628121100 +0800" stop="20250628135600 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250628135600 +0800" stop="20250628151300 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
