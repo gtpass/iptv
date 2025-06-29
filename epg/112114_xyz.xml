@@ -48180,6 +48180,9 @@
 	<programme channel="newtv超级体育" start="20250630053000 +0800" stop="20250630060000 +0800">
 		<title lang="zh">实况录像-2025年攀岩世界杯 中国吴江站 速度赛决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250630060000 +0800" stop="20250630063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48218,6 +48221,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250630045700 +0800" stop="20250630054800 +0800">
 		<title lang="zh">12_千金女贼</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250630054800 +0800" stop="20250630063400 +0800">
+		<title lang="zh">13_千金女贼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48258,6 +48264,9 @@
 	<programme channel="newtv精品纪录" start="20250630045100 +0800" stop="20250630054800 +0800">
 		<title lang="zh">第4集：从传承到创新</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250630054800 +0800" stop="20250630064700 +0800">
+		<title lang="zh">第5集：从世界到中国</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -48293,6 +48302,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250630050700 +0800" stop="20250630055200 +0800">
 		<title lang="zh">19_谁是真英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250630055200 +0800" stop="20250630064000 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48335,6 +48347,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250630045200 +0800" stop="20250630055800 +0800">
 		<title lang="zh">35_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250630055800 +0800" stop="20250630064300 +0800">
+		<title lang="zh">36_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48420,6 +48435,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250630052000 +0800" stop="20250630055000 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250630055000 +0800" stop="20250630063600 +0800">
+		<title lang="zh">17_星汉灿烂</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48447,6 +48465,9 @@
 	<programme channel="newtv军事评论" start="20250630052900 +0800" stop="20250630055100 +0800">
 		<title lang="zh">走向深蓝（2）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250630055100 +0800" stop="20250630061000 +0800">
+		<title lang="zh">走向深蓝（4）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48467,6 +48488,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250630053400 +0800" stop="20250630055500 +0800">
 		<title lang="zh">亲子健身操（20241209）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250630055500 +0800" stop="20250630063300 +0800">
+		<title lang="zh">生活中的免疫学（上）（20230925）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
