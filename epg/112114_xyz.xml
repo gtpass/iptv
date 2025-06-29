@@ -47802,6 +47802,9 @@
 	<programme channel="newtv超级电视剧" start="20250630011500 +0800" stop="20250630020200 +0800">
 		<title lang="zh">11_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250630020200 +0800" stop="20250630024700 +0800">
+		<title lang="zh">12_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47817,11 +47820,17 @@
 	<programme channel="newtv精品纪录" start="20250630003800 +0800" stop="20250630015800 +0800">
 		<title lang="zh">第五集 未来已来</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250630015800 +0800" stop="20250630025600 +0800">
+		<title lang="zh">第1集：从制造到智造</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
 	<programme channel="newtv古装剧场" start="20250630004500 +0800" stop="20250630020100 +0800">
 		<title lang="zh">13_玉骨遥</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250630020100 +0800" stop="20250630031000 +0800">
+		<title lang="zh">14_玉骨遥</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47858,6 +47867,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250630003700 +0800" stop="20250630020000 +0800">
 		<title lang="zh">蛇形行动</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250630020000 +0800" stop="20250630032400 +0800">
+		<title lang="zh">无名客栈之麒麟觉醒</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
