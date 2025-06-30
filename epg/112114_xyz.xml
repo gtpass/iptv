@@ -40920,6 +40920,9 @@
 	<programme channel="newtv超级综艺" start="20250701013500 +0800" stop="20250701035200 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250701035200 +0800" stop="20250701050200 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -40931,6 +40934,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250701023600 +0800" stop="20250701040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250701040000 +0800" stop="20250701053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第10轮 托特纳姆-阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -40962,6 +40968,9 @@
 	<programme channel="newtv超级电视剧" start="20250701030800 +0800" stop="20250701035300 +0800">
 		<title lang="zh">19_在希望的田野上</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250701035300 +0800" stop="20250701043100 +0800">
+		<title lang="zh">15_千金女贼</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40976,6 +40985,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250701025100 +0800" stop="20250701035600 +0800">
 		<title lang="zh">42_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250701035600 +0800" stop="20250701044500 +0800">
+		<title lang="zh">22_永安梦</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -41034,6 +41046,9 @@
 	<programme channel="newtv家庭剧场" start="20250701025400 +0800" stop="20250701035500 +0800">
 		<title lang="zh">43_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250701035500 +0800" stop="20250701044000 +0800">
+		<title lang="zh">11_山花烂漫时</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -41045,6 +41060,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250701025500 +0800" stop="20250701040100 +0800">
 		<title lang="zh">38_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250701040100 +0800" stop="20250701044700 +0800">
+		<title lang="zh">39_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -41118,6 +41136,9 @@
 	<programme channel="newtv军事评论" start="20250701030000 +0800" stop="20250701035300 +0800">
 		<title lang="zh">守望铁轨上的团圆路</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250701035300 +0800" stop="20250701044600 +0800">
+		<title lang="zh">周清：厦门湾的海豚卫士</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -41129,6 +41150,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250701034200 +0800" stop="20250701035500 +0800">
 		<title lang="zh">以后的以后-李莹（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250701035500 +0800" stop="20250701044500 +0800">
+		<title lang="zh">03_青海</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
