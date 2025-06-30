@@ -54459,6 +54459,9 @@
 	<programme channel="newtv超级电影" start="20250630101600 +0800" stop="20250630120600 +0800">
 		<title lang="zh">匹夫</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250630121200 +0800" stop="20250630132800 +0800">
+		<title lang="zh">电影《大力出奇迹》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -54639,6 +54642,9 @@
 	<programme channel="newtv古装剧场" start="20250630112300 +0800" stop="20250630120900 +0800">
 		<title lang="zh">47_长歌行</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250630120900 +0800" stop="20250630124800 +0800">
+		<title lang="zh">罗布雍措野藿香藏蜜-通用-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -54677,6 +54683,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250630112300 +0800" stop="20250630120800 +0800">
 		<title lang="zh">42_一代枭雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250630120800 +0800" stop="20250630124600 +0800">
+		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -54722,6 +54731,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250630111800 +0800" stop="20250630120800 +0800">
 		<title lang="zh">02_儿女情更长</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250630120800 +0800" stop="20250630125400 +0800">
+		<title lang="zh">40_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -54797,6 +54809,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250630111700 +0800" stop="20250630120300 +0800">
 		<title lang="zh">20_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250630120300 +0800" stop="20250630125000 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -55101,6 +55116,9 @@
 	<programme channel="newtv精品综合" start="20250630112000 +0800" stop="20250630120200 +0800">
 		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250630120200 +0800" stop="20250630132900 +0800">
+		<title lang="zh">天剑修仙传</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -55163,6 +55181,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250630113400 +0800" stop="20250630122400 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250630122400 +0800" stop="20250630131100 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
