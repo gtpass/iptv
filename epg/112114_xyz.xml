@@ -55329,6 +55329,9 @@
 	<programme channel="newtv金牌综艺" start="20250630131100 +0800" stop="20250630140600 +0800">
 		<title lang="zh">勇者之战</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250630140600 +0800" stop="20250630153900 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
