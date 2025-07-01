@@ -20472,6 +20472,9 @@
 	<programme channel="动作电影" start="20250701212400 +0800" stop="20250701215400 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="动作电影" start="20250701215400 +0800" stop="20250701235300 +0800">
+		<title lang="zh">夺命枪火</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -82182,6 +82185,9 @@
 	<programme channel="黑莓动画" start="20250701202400 +0800" stop="20250701214800 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250701214800 +0800" stop="20250701232100 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83196,6 +83202,9 @@
 	<programme channel="newtv超级体育" start="20250701200000 +0800" stop="20250701220000 +0800">
 		<title lang="zh">2025年温布尔登网球赛-第1轮2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250701220000 +0800" stop="20250701230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83535,6 +83544,9 @@
 	<programme channel="newtv精品纪录" start="20250701212900 +0800" stop="20250701215400 +0800">
 		<title lang="zh">第4集：富足的高原</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250701215400 +0800" stop="20250701223300 +0800">
+		<title lang="zh">艾美特无线折叠空气循环扇-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83856,6 +83868,9 @@
 	<programme channel="newtv热播精选" start="20250701211900 +0800" stop="20250701214900 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250701214900 +0800" stop="20250701223700 +0800">
+		<title lang="zh">38_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83975,6 +83990,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250701212400 +0800" stop="20250701215400 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250701215400 +0800" stop="20250701235300 +0800">
+		<title lang="zh">夺命枪火</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84389,6 +84407,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250701204200 +0800" stop="20250701215900 +0800">
 		<title lang="zh">健康减重七分吃三分练 211饮食法都来学！（20250623）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250701215900 +0800" stop="20250701224400 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
