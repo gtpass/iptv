@@ -20520,6 +20520,9 @@
 	<programme channel="动作电影" start="20250702141400 +0800" stop="20250702154800 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
 	</programme>
+	<programme channel="动作电影" start="20250702154800 +0800" stop="20250702171800 +0800">
+		<title lang="zh">蒸发太平洋</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -43481,6 +43484,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250702150900 +0800" stop="20250702155600 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250702155600 +0800" stop="20250702164200 +0800">
+		<title lang="zh">22_在希望的田野上</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -83358,6 +83364,9 @@
 	<programme channel="newtv超级体育" start="20250702150000 +0800" stop="20250702160000 +0800">
 		<title lang="zh">2025年赛艇世界杯-瓦雷泽站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250702160000 +0800" stop="20250702180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83583,6 +83592,9 @@
 	<programme channel="newtv精品纪录" start="20250702151400 +0800" stop="20250702154600 +0800">
 		<title lang="zh">第5集：凝聚的灵感</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250702154600 +0800" stop="20250702162100 +0800">
+		<title lang="zh">第6集：醇香的奇遇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83633,6 +83645,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250702150500 +0800" stop="20250702155400 +0800">
 		<title lang="zh">19_有翡</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250702155400 +0800" stop="20250702164200 +0800">
+		<title lang="zh">20_有翡</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83691,6 +83706,9 @@
 	<programme channel="newtv军旅剧场" start="20250702151200 +0800" stop="20250702155700 +0800">
 		<title lang="zh">20_天狼星行动</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250702155700 +0800" stop="20250702164300 +0800">
+		<title lang="zh">21_天狼星行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83747,6 +83765,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250702151900 +0800" stop="20250702155700 +0800">
 		<title lang="zh">礼贡堂东甲陈皮皇-渠道（右）</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250702155700 +0800" stop="20250702171200 +0800">
+		<title lang="zh">09_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83888,6 +83909,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250702141400 +0800" stop="20250702154800 +0800">
 		<title lang="zh">维和冲锋：绝境求生</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250702154800 +0800" stop="20250702171800 +0800">
+		<title lang="zh">蒸发太平洋</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84141,6 +84165,9 @@
 	<programme channel="newtv军事评论" start="20250702152000 +0800" stop="20250702154700 +0800">
 		<title lang="zh">俄乌战场上那些折戟沉沙的坦克</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250702154700 +0800" stop="20250702161300 +0800">
+		<title lang="zh">角度与力量</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84245,6 +84272,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250702150900 +0800" stop="20250702155600 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250702155600 +0800" stop="20250702164200 +0800">
+		<title lang="zh">22_在希望的田野上</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84452,6 +84482,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250702145500 +0800" stop="20250702160100 +0800">
 		<title lang="zh">12_龙汇镖局</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250702160100 +0800" stop="20250702164600 +0800">
+		<title lang="zh">13_龙汇镖局</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
