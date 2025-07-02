@@ -51321,6 +51321,9 @@
 	<programme channel="newtv超级体育" start="20250703023900 +0800" stop="20250703040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250703040000 +0800" stop="20250703053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第11轮 西汉姆联-埃弗顿</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51332,6 +51335,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250703024000 +0800" stop="20250703035800 +0800">
 		<title lang="zh">江北好人</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250703035800 +0800" stop="20250703053100 +0800">
+		<title lang="zh">刘洋卖厂记</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51350,6 +51356,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250703031200 +0800" stop="20250703035800 +0800">
 		<title lang="zh">05_特别行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250703035800 +0800" stop="20250703043500 +0800">
+		<title lang="zh">23_千金女贼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51386,6 +51395,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250703025500 +0800" stop="20250703035500 +0800">
 		<title lang="zh">《顶尖科学》 20250107 生死攸关</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250703035500 +0800" stop="20250703045500 +0800">
+		<title lang="zh">《顶尖科学》 20250108 化学里的“灵丹妙药”</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -51507,6 +51519,9 @@
 	<programme channel="newtv军事评论" start="20250703025400 +0800" stop="20250703034700 +0800">
 		<title lang="zh">杨巍：导弹老兵的汉服人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250703034700 +0800" stop="20250703044100 +0800">
+		<title lang="zh">海州湾里守岛人</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51608,6 +51623,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250703020600 +0800" stop="20250703035500 +0800">
 		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250703035500 +0800" stop="20250703045500 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
