@@ -84759,6 +84759,9 @@
 	<programme channel="newtv超级体育" start="20250703200000 +0800" stop="20250703220000 +0800">
 		<title lang="zh">2025年温布尔登网球赛-第2轮2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250703220000 +0800" stop="20250703223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84896,6 +84899,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250703211300 +0800" stop="20250703220100 +0800">
 		<title lang="zh">08_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250703220100 +0800" stop="20250703224600 +0800">
+		<title lang="zh">27_珠江人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86105,6 +86111,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250703201100 +0800" stop="20250703215500 +0800">
 		<title lang="zh">开始推理吧第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250703215500 +0800" stop="20250703223300 +0800">
+		<title lang="zh">FRUVGE司美能量态健康组-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
