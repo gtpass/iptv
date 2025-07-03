@@ -40953,6 +40953,9 @@
 	<programme channel="纯享4K" start="20250704051100 +0800" stop="20250704060100 +0800">
 		<title lang="zh">黄河之歌4K 第6集 海晏河清</title>
 	</programme>
+	<programme channel="纯享4K" start="20250704060100 +0800" stop="20250704061600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 启母阙蹴鞠图</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51666,6 +51669,9 @@
 	<programme channel="newtv家庭剧场" start="20250704043400 +0800" stop="20250704055100 +0800">
 		<title lang="zh">01_血脉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250704055100 +0800" stop="20250704063500 +0800">
+		<title lang="zh">02_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51710,6 +51716,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250704035500 +0800" stop="20250704054700 +0800">
 		<title lang="zh">镖行天下前传之至尊国宝</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250704054700 +0800" stop="20250704073600 +0800">
+		<title lang="zh">终极审判</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -51789,6 +51798,9 @@
 	<programme channel="newtv军事评论" start="20250704053400 +0800" stop="20250704055600 +0800">
 		<title lang="zh">走向深蓝（1）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250704055600 +0800" stop="20250704061800 +0800">
+		<title lang="zh">走向深蓝（2）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51810,6 +51822,9 @@
 	<programme channel="newtv炫舞未来" start="20250704053600 +0800" stop="20250704054700 +0800">
 		<title lang="zh">第1集：苏州b7丰腴江南</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250704054700 +0800" stop="20250704060300 +0800">
+		<title lang="zh">第2集：武汉b7鲜活湖广</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51824,6 +51839,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250704044400 +0800" stop="20250704055900 +0800">
 		<title lang="zh">30_兵临村下</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250704055900 +0800" stop="20250704071400 +0800">
+		<title lang="zh">31_兵临村下</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
