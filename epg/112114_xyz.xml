@@ -51327,6 +51327,9 @@
 	<programme channel="newtv超级综艺" start="20250704025800 +0800" stop="20250704034800 +0800">
 		<title lang="zh">我的艺术清单</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250704034800 +0800" stop="20250704055200 +0800">
+		<title lang="zh">青年京剧演员大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51335,6 +51338,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250704023600 +0800" stop="20250704040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250704040000 +0800" stop="20250704053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第11轮 曼彻斯特联-莱斯特城</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51435,6 +51441,9 @@
 	<programme channel="newtv家庭剧场" start="20250704023800 +0800" stop="20250704034800 +0800">
 		<title lang="zh">55_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250704034800 +0800" stop="20250704043400 +0800">
+		<title lang="zh">23_山花烂漫时</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51456,6 +51465,9 @@
 	<programme channel="newtv爱情喜剧" start="20250704023200 +0800" stop="20250704034800 +0800">
 		<title lang="zh">30_玉骨遥</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250704034800 +0800" stop="20250704050300 +0800">
+		<title lang="zh">31_玉骨遥</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51464,6 +51476,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250704020600 +0800" stop="20250704035500 +0800">
 		<title lang="zh">狄仁杰之通天赤狐</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250704035500 +0800" stop="20250704054700 +0800">
+		<title lang="zh">镖行天下前传之至尊国宝</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -51479,6 +51494,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250704030400 +0800" stop="20250704035100 +0800">
 		<title lang="zh">非洲动物宝宝</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250704035100 +0800" stop="20250704043900 +0800">
+		<title lang="zh">拉丁美洲的动物宝宝</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51513,6 +51531,9 @@
 	<programme channel="newtv军事评论" start="20250704030200 +0800" stop="20250704035600 +0800">
 		<title lang="zh">“文化瑰宝 老兵守护”系列节目（四）彭柳升：刀刻石间岁月凝</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250704035600 +0800" stop="20250704045000 +0800">
+		<title lang="zh">师德光：师德如光 助飞梦想</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51524,6 +51545,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250704032500 +0800" stop="20250704034700 +0800">
 		<title lang="zh">体育是最好的教育（20240826）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250704034700 +0800" stop="20250704040900 +0800">
+		<title lang="zh">牛仔舞系列教学（20240820）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -51554,6 +51578,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250704013000 +0800" stop="20250704035800 +0800">
 		<title lang="zh">正大综艺（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250704035800 +0800" stop="20250704070200 +0800">
+		<title lang="zh">越战越勇（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -51611,6 +51638,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250704023400 +0800" stop="20250704040000 +0800">
 		<title lang="zh">罗布泊之九龙天棺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250704040000 +0800" stop="20250704043600 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
