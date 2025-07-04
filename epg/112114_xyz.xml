@@ -20727,6 +20727,9 @@
 	<programme channel="动作电影" start="20250704092800 +0800" stop="20250704105600 +0800">
 		<title lang="zh">火线追凶2之死亡杰作</title>
 	</programme>
+	<programme channel="动作电影" start="20250704105600 +0800" stop="20250704113400 +0800">
+		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27686,6 +27689,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250704093000 +0800" stop="20250704110500 +0800">
 		<title lang="zh">当燃CBA-24/25 常规赛第28轮 山西汾酒-福建晋江文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250704110500 +0800" stop="20250704112000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -39918,6 +39924,9 @@
 	<programme channel="惊悚悬疑" start="20250704094900 +0800" stop="20250704105200 +0800">
 		<title lang="zh">伏魔罗汉</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250704105200 +0800" stop="20250704121400 +0800">
+		<title lang="zh">倩女仙缘</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43328,6 +43337,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250704100700 +0800" stop="20250704105300 +0800">
 		<title lang="zh">24_折腰</title>
+	</programme>
+	<programme channel="明星大片" start="20250704105300 +0800" stop="20250704113900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -83502,6 +83514,9 @@
 	<programme channel="黑莓动画" start="20250704092800 +0800" stop="20250704104600 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250704104600 +0800" stop="20250704121000 +0800">
+		<title lang="zh">淘气包马小跳</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84555,6 +84570,9 @@
 	<programme channel="newtv超级电视剧" start="20250704100600 +0800" stop="20250704105200 +0800">
 		<title lang="zh">11_好事成双</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250704105200 +0800" stop="20250704113800 +0800">
+		<title lang="zh">12_好事成双</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84699,6 +84717,9 @@
 	<programme channel="newtv军旅剧场" start="20250704094200 +0800" stop="20250704105800 +0800">
 		<title lang="zh">02_菜刀班尖刀连</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250704105800 +0800" stop="20250704114400 +0800">
+		<title lang="zh">03_菜刀班尖刀连</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84824,6 +84845,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250704092800 +0800" stop="20250704105600 +0800">
 		<title lang="zh">火线追凶2之死亡杰作</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250704105600 +0800" stop="20250704113400 +0800">
+		<title lang="zh">礼贡堂非遗透骨灸舒筋通络保健膏-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84993,6 +85017,9 @@
 	<programme channel="newtv军事评论" start="20250704103600 +0800" stop="20250704105800 +0800">
 		<title lang="zh">谁是军营厨王（23）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250704105800 +0800" stop="20250704112000 +0800">
+		<title lang="zh">谁是军营厨王（24）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85068,6 +85095,9 @@
 	<programme channel="newtv精品综合" start="20250704100700 +0800" stop="20250704105300 +0800">
 		<title lang="zh">24_折腰</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250704105300 +0800" stop="20250704113900 +0800">
+		<title lang="zh">AKG39900西兰花种子水提物固体饮料-周年庆-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85094,6 +85124,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250704094900 +0800" stop="20250704105200 +0800">
 		<title lang="zh">伏魔罗汉</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250704105200 +0800" stop="20250704121400 +0800">
+		<title lang="zh">倩女仙缘</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -85208,6 +85241,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250704100200 +0800" stop="20250704104700 +0800">
 		<title lang="zh">04_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250704104700 +0800" stop="20250704113200 +0800">
+		<title lang="zh">03_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
