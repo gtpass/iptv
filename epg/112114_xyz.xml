@@ -51375,6 +51375,9 @@
 	<programme channel="newtv超级体育" start="20250705023000 +0800" stop="20250705040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250705040000 +0800" stop="20250705053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第9轮 马赛-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51404,6 +51407,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250705030700 +0800" stop="20250705035300 +0800">
 		<title lang="zh">15_特别行动</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250705035300 +0800" stop="20250705043500 +0800">
+		<title lang="zh">31_千金女贼</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
