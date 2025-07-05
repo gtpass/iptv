@@ -41865,6 +41865,9 @@
 	<programme channel="纯享4K" start="20250706051200 +0800" stop="20250706060100 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
 	</programme>
+	<programme channel="纯享4K" start="20250706060100 +0800" stop="20250706061600 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 圣阿德雷斯的帆船赛</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52671,6 +52674,9 @@
 	<programme channel="newtv超级体育" start="20250706053000 +0800" stop="20250706060000 +0800">
 		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250706060000 +0800" stop="20250706063000 +0800">
+		<title lang="zh">实况录像-2025年射箭世界杯 中国站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52754,6 +52760,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250706050200 +0800" stop="20250706055800 +0800">
 		<title lang="zh">奔赴星辰</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250706055800 +0800" stop="20250706065500 +0800">
+		<title lang="zh">太空家园</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52935,6 +52944,9 @@
 	<programme channel="newtv军事评论" start="20250706052500 +0800" stop="20250706054700 +0800">
 		<title lang="zh">两路上高原 泸定篇（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250706054700 +0800" stop="20250706060900 +0800">
+		<title lang="zh">两路上高原 可可西里篇（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53006,6 +53018,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250706041400 +0800" stop="20250706055900 +0800">
 		<title lang="zh">2024-25赛季英超联赛第8轮：曼联VS布伦特福德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250706055900 +0800" stop="20250706074000 +0800">
+		<title lang="zh">2024-25赛季英超联赛第25轮：利物浦VS伍尔弗汉普顿</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
