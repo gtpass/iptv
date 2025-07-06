@@ -39598,6 +39598,9 @@
 	<programme channel="惊悚悬疑" start="20250706112000 +0800" stop="20250706120700 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250706120700 +0800" stop="20250706134800 +0800">
+		<title lang="zh">大漠追凶</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -67210,6 +67213,9 @@
 	<programme channel="纯享4K" start="20250706113300 +0800" stop="20250706121400 +0800">
 		<title lang="zh">远方的家4K 秘境之旅 大兴安岭的森林故事</title>
 	</programme>
+	<programme channel="纯享4K" start="20250706121400 +0800" stop="20250706125600 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 万物共生南滚河</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -72258,6 +72264,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250706101700 +0800" stop="20250706120500 +0800">
 		<title lang="zh">八卦掌之潜龙勿用</title>
+	</programme>
+	<programme channel="超级电影" start="20250706121200 +0800" stop="20250706134300 +0800">
+		<title lang="zh">电影《英雄泪》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -84823,6 +84832,9 @@
 	<programme channel="newtv超级电影" start="20250706101700 +0800" stop="20250706120500 +0800">
 		<title lang="zh">八卦掌之潜龙勿用</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250706121200 +0800" stop="20250706134300 +0800">
+		<title lang="zh">电影《英雄泪》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84990,6 +85002,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250706112900 +0800" stop="20250706121400 +0800">
 		<title lang="zh">20_神隐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250706121400 +0800" stop="20250706130200 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-周年庆-渠道（右）</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85399,6 +85414,9 @@
 	<programme channel="newtv炫舞未来" start="20250706114500 +0800" stop="20250706121100 +0800">
 		<title lang="zh">追“茶”（20240903）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250706121100 +0800" stop="20250706124600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85467,6 +85485,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250706112000 +0800" stop="20250706120700 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250706120700 +0800" stop="20250706134800 +0800">
+		<title lang="zh">大漠追凶</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
