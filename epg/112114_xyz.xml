@@ -19668,6 +19668,9 @@
 	<programme channel="动作电影" start="20250707213000 +0800" stop="20250707220000 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="动作电影" start="20250707220000 +0800" stop="20250707231200 +0800">
+		<title lang="zh">第五次死刑</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -41108,6 +41111,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250707210600 +0800" stop="20250707215300 +0800">
 		<title lang="zh">37_玫瑰的故事</title>
+	</programme>
+	<programme channel="明星大片" start="20250707215300 +0800" stop="20250707224100 +0800">
+		<title lang="zh">38_玫瑰的故事</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -63213,6 +63219,9 @@
 	<programme channel="纯享4K" start="20250707210900 +0800" stop="20250707215800 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第3集 王维 长安</title>
 	</programme>
+	<programme channel="纯享4K" start="20250707215800 +0800" stop="20250707222700 +0800">
+		<title lang="zh">好吃客4K 海南四大名菜</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79326,6 +79335,9 @@
 	<programme channel="newtv超级综艺" start="20250707205200 +0800" stop="20250707215000 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250707215000 +0800" stop="20250707230900 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79373,6 +79385,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250707210000 +0800" stop="20250707220000 +0800">
 		<title lang="zh">天下足球</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250707220000 +0800" stop="20250707223000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -79508,6 +79523,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250707210300 +0800" stop="20250707215100 +0800">
 		<title lang="zh">20_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250707215100 +0800" stop="20250707223600 +0800">
+		<title lang="zh">04_大武当</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80088,6 +80106,9 @@
 	<programme channel="newtv动作电影" start="20250707213000 +0800" stop="20250707220000 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250707220000 +0800" stop="20250707231200 +0800">
+		<title lang="zh">第五次死刑</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80171,6 +80192,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250707204400 +0800" stop="20250707215300 +0800">
 		<title lang="zh">山西浪人秦vs贵州混斗联盟 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250707215300 +0800" stop="20250707222900 +0800">
+		<title lang="zh">四川剑开天门vs贵州混斗联盟 第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80499,6 +80523,9 @@
 	<programme channel="newtv炫舞未来" start="20250707205600 +0800" stop="20250707214600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250707214600 +0800" stop="20250707220100 +0800">
+		<title lang="zh">孤勇者-李萍</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80570,6 +80597,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250707210600 +0800" stop="20250707215300 +0800">
 		<title lang="zh">37_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250707215300 +0800" stop="20250707224100 +0800">
+		<title lang="zh">38_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
