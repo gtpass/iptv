@@ -27507,6 +27507,9 @@
 	<programme channel="咪咕综合体育" start="20250708213500 +0800" stop="20250708220000 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250708220000 +0800" stop="20250708234000 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/8决赛 弗拉门戈-拜仁慕尼黑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66162,6 +66165,9 @@
 	<programme channel="纯享4K" start="20250708210600 +0800" stop="20250708215500 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme>
+	<programme channel="纯享4K" start="20250708215500 +0800" stop="20250708221000 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 二〇二四年巴黎奥运会会徽</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83703,6 +83709,9 @@
 	<programme channel="newtv超级体育" start="20250708213000 +0800" stop="20250708220000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250708220000 +0800" stop="20250708010500 +0800">
+		<title lang="zh">2025年温布尔登网球赛-1/4决赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83843,6 +83852,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250708210500 +0800" stop="20250708215300 +0800">
 		<title lang="zh">23_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250708215300 +0800" stop="20250708223800 +0800">
+		<title lang="zh">07_大武当</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84297,6 +84309,9 @@
 	<programme channel="newtv热播精选" start="20250708212600 +0800" stop="20250708215600 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250708215600 +0800" stop="20250708233500 +0800">
+		<title lang="zh">半熟恋人第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84503,6 +84518,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250708214200 +0800" stop="20250708215900 +0800">
 		<title lang="zh">四川剑开天门vs贵州混斗联盟 第7局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250708215900 +0800" stop="20250708222900 +0800">
+		<title lang="zh">《时尚小咖秀》推荐第60期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85172,6 +85190,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250708213000 +0800" stop="20250708220000 +0800">
 		<title lang="zh">《时尚小咖秀》推荐第60期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250708220000 +0800" stop="20250708232300 +0800">
+		<title lang="zh">锦鼠御猫之九幽血狼</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
