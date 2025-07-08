@@ -39633,6 +39633,9 @@
 	<programme channel="惊悚悬疑" start="20250708100000 +0800" stop="20250708104900 +0800">
 		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250708104900 +0800" stop="20250708120400 +0800">
+		<title lang="zh">说谎者游戏</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -70797,6 +70800,9 @@
 	<programme channel="超级电影" start="20250708103500 +0800" stop="20250708105900 +0800">
 		<title lang="zh">爱情麻辣烫-徐帆 郭涛</title>
 	</programme>
+	<programme channel="超级电影" start="20250708105900 +0800" stop="20250708124900 +0800">
+		<title lang="zh">地道战</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83301,6 +83307,9 @@
 	<programme channel="newtv超级电影" start="20250708103500 +0800" stop="20250708105900 +0800">
 		<title lang="zh">爱情麻辣烫-徐帆 郭涛</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250708105900 +0800" stop="20250708124900 +0800">
+		<title lang="zh">地道战</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83348,6 +83357,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250708101600 +0800" stop="20250708110200 +0800">
 		<title lang="zh">30_好事成双</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250708110200 +0800" stop="20250708114700 +0800">
+		<title lang="zh">31_好事成双</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83550,6 +83562,9 @@
 	<programme channel="newtv热播精选" start="20250708101100 +0800" stop="20250708105700 +0800">
 		<title lang="zh">15_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250708105700 +0800" stop="20250708115300 +0800">
+		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -83688,6 +83703,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250708100800 +0800" stop="20250708105400 +0800">
 		<title lang="zh">55_星汉灿烂b7月升沧海</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250708105400 +0800" stop="20250708112400 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83753,6 +83771,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250708102700 +0800" stop="20250708105300 +0800">
 		<title lang="zh">铁翼重锤 轰炸机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250708105300 +0800" stop="20250708112000 +0800">
+		<title lang="zh">影像里的明日装备</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83867,6 +83888,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250708100000 +0800" stop="20250708104900 +0800">
 		<title lang="zh">雷曼金龙纪念版机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250708104900 +0800" stop="20250708120400 +0800">
+		<title lang="zh">说谎者游戏</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83984,6 +84008,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250708094500 +0800" stop="20250708104600 +0800">
 		<title lang="zh">19_新边城浪子</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250708104600 +0800" stop="20250708113100 +0800">
+		<title lang="zh">20_新边城浪子</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
