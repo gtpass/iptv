@@ -51147,6 +51147,9 @@
 	<programme channel="newtv超级体育" start="20250709053000 +0800" stop="20250709060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250709060000 +0800" stop="20250709063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
