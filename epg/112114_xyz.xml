@@ -52407,6 +52407,9 @@
 	<programme channel="newtv超级体育" start="20250710053000 +0800" stop="20250710060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250710060000 +0800" stop="20250710063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52548,6 +52551,9 @@
 	<programme channel="newtv家庭剧场" start="20250710051000 +0800" stop="20250710055700 +0800">
 		<title lang="zh">25_血脉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250710055700 +0800" stop="20250710064700 +0800">
+		<title lang="zh">琦玉坊和田白玉收藏组-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52565,6 +52571,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250710045000 +0800" stop="20250710055500 +0800">
 		<title lang="zh">40_安家</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250710055500 +0800" stop="20250710070900 +0800">
+		<title lang="zh">风云战国之枭雄</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52595,6 +52604,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250710035300 +0800" stop="20250710054600 +0800">
 		<title lang="zh">笑傲江湖</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250710054600 +0800" stop="20250710074900 +0800">
+		<title lang="zh">终极胜利</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52670,6 +52682,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250710053900 +0800" stop="20250710060100 +0800">
 		<title lang="zh">深蓝使命 神盾锋芒</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250710060100 +0800" stop="20250710062300 +0800">
+		<title lang="zh">深蓝使命 远洋之约</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
