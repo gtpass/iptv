@@ -40182,6 +40182,9 @@
 	<programme channel="惊悚悬疑" start="20250709105100 +0800" stop="20250709121400 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250709121400 +0800" stop="20250709125300 +0800">
+		<title lang="zh">高纯钛抗菌保鲜盒/高纯全钛保鲜盒家庭装-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -84744,6 +84747,9 @@
 	<programme channel="newtv怡伴健康" start="20250709115100 +0800" stop="20250709120100 +0800">
 		<title lang="zh">相声《独家录制》何云伟、李菁</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250709120100 +0800" stop="20250709123800 +0800">
+		<title lang="zh">美国云杉新一代黑金原生乌发素-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84870,6 +84876,9 @@
 	<programme channel="newtv军事评论" start="20250709114000 +0800" stop="20250709120600 +0800">
 		<title lang="zh">助攻神器 直抵战场</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250709120600 +0800" stop="20250709123300 +0800">
+		<title lang="zh">机密代号304</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84923,6 +84932,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250709104800 +0800" stop="20250709120500 +0800">
 		<title lang="zh">初中辍学从服务员逆袭成博士 小小用十年时间改写人生（20250226）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250709120500 +0800" stop="20250709125500 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84987,6 +84999,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250709105100 +0800" stop="20250709121400 +0800">
 		<title lang="zh">重案行动之连环凶杀（普通话版）</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250709121400 +0800" stop="20250709125300 +0800">
+		<title lang="zh">高纯钛抗菌保鲜盒/高纯全钛保鲜盒家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85016,6 +85031,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250709101400 +0800" stop="20250709121400 +0800">
 		<title lang="zh">一馔千年</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250709121400 +0800" stop="20250709130400 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -85118,6 +85136,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250709112500 +0800" stop="20250709121200 +0800">
 		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250709121200 +0800" stop="20250709140100 +0800">
+		<title lang="zh">永春白鹤拳之擎天画卷</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
