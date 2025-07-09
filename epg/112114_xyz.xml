@@ -21126,6 +21126,9 @@
 	<programme channel="动作电影" start="20250709195100 +0800" stop="20250709202100 +0800">
 		<title lang="zh">《美丽密码》推荐第99期</title>
 	</programme>
+	<programme channel="动作电影" start="20250709202100 +0800" stop="20250709212700 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -83595,6 +83598,9 @@
 	<programme channel="黑莓动画" start="20250709192000 +0800" stop="20250709202600 +0800">
 		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250709202600 +0800" stop="20250709220100 +0800">
+		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84852,6 +84858,9 @@
 	<programme channel="newtv精品纪录" start="20250709194700 +0800" stop="20250709202400 +0800">
 		<title lang="zh">美国云杉新一代黑金原生乌发素-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250709202400 +0800" stop="20250709210300 +0800">
+		<title lang="zh">08_味道云南</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84920,6 +84929,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250709193000 +0800" stop="20250709201900 +0800">
 		<title lang="zh">27_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250709201900 +0800" stop="20250709211100 +0800">
+		<title lang="zh">37_流水迢迢</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85128,6 +85140,9 @@
 	<programme channel="newtv热播精选" start="20250709194200 +0800" stop="20250709202800 +0800">
 		<title lang="zh">27_我的后半生</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250709202800 +0800" stop="20250709211400 +0800">
+		<title lang="zh">28_我的后半生</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85235,6 +85250,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250709195100 +0800" stop="20250709202100 +0800">
 		<title lang="zh">《美丽密码》推荐第99期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250709202100 +0800" stop="20250709212700 +0800">
+		<title lang="zh">猎心之迷毒之罪</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85538,6 +85556,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250709195200 +0800" stop="20250709201700 +0800">
 		<title lang="zh">青春在这里淬火 第四集 军中女兵初长成</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250709201700 +0800" stop="20250709204300 +0800">
+		<title lang="zh">欧洲讨论向乌派兵 俄罗斯与北约参与同一演习 大批美制航空炸弹运抵以色列</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
