@@ -84525,6 +84525,9 @@
 	<programme channel="newtv超级电视剧" start="20250711211400 +0800" stop="20250711220000 +0800">
 		<title lang="zh">32_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250711220000 +0800" stop="20250711224500 +0800">
+		<title lang="zh">16_大武当</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84602,6 +84605,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250711212200 +0800" stop="20250711215200 +0800">
 		<title lang="zh">《美丽密码》推荐第101期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250711215200 +0800" stop="20250711223800 +0800">
+		<title lang="zh">13_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84990,6 +84996,9 @@
 	<programme channel="newtv热播精选" start="20250711212500 +0800" stop="20250711215500 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250711215500 +0800" stop="20250711234600 +0800">
+		<title lang="zh">半熟恋人第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85205,6 +85214,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250711211400 +0800" stop="20250711220100 +0800">
 		<title lang="zh">广东粤战粤勇vs广东N5  第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250711220100 +0800" stop="20250711223100 +0800">
+		<title lang="zh">《美丽密码》推荐第101期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85757,6 +85769,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250711202700 +0800" stop="20250711220000 +0800">
 		<title lang="zh">NBA常规赛4月5日：雷霆VS火箭</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250711220000 +0800" stop="20250711234400 +0800">
+		<title lang="zh">NBA常规赛4月6日：雄鹿VS热火</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
