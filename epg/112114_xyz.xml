@@ -20868,6 +20868,9 @@
 	<programme channel="动作电影" start="20250711133500 +0800" stop="20250711141200 +0800">
 		<title lang="zh">美国云杉新一代黑金原生乌发素-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250711141200 +0800" stop="20250711162900 +0800">
+		<title lang="zh">怒火冲天</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -66315,6 +66318,9 @@
 	<programme channel="纯享4K" start="20250711131700 +0800" stop="20250711140700 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第2集 寒江雪</title>
 	</programme>
+	<programme channel="纯享4K" start="20250711140700 +0800" stop="20250711142200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 国画b7双骑图</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84192,6 +84198,9 @@
 	<programme channel="newtv超级电视剧" start="20250711132300 +0800" stop="20250711141400 +0800">
 		<title lang="zh">28_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250711141400 +0800" stop="20250711150100 +0800">
+		<title lang="zh">29_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84462,6 +84471,9 @@
 	<programme channel="newtv热播精选" start="20250711133400 +0800" stop="20250711141600 +0800">
 		<title lang="zh">27_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250711141600 +0800" stop="20250711150300 +0800">
+		<title lang="zh">美国进口RN鱼油酸神经酸-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84530,6 +84542,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250711133500 +0800" stop="20250711141200 +0800">
 		<title lang="zh">美国云杉新一代黑金原生乌发素-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250711141200 +0800" stop="20250711162900 +0800">
+		<title lang="zh">怒火冲天</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84807,6 +84822,9 @@
 	<programme channel="newtv炫舞未来" start="20250711140000 +0800" stop="20250711140500 +0800">
 		<title lang="zh">尹志雪教练《养生系列——调理肝经 胆经》（4K）【炫舞未来健身动起来20191003】</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250711140500 +0800" stop="20250711144400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85022,6 +85040,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250711123000 +0800" stop="20250711140300 +0800">
 		<title lang="zh">江湖英雄联盟之毒手仁心</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250711140300 +0800" stop="20250711144200 +0800">
+		<title lang="zh">高纯钛抗菌保鲜盒/高纯全钛保鲜盒家庭装-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
