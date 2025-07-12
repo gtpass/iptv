@@ -39858,6 +39858,9 @@
 	<programme channel="惊悚悬疑" start="20250712193300 +0800" stop="20250712200300 +0800">
 		<title lang="zh">《锦色人生》推荐第四期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250712200300 +0800" stop="20250712220700 +0800">
+		<title lang="zh">碟中谍2</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -84000,6 +84003,9 @@
 	<programme channel="黑莓动画" start="20250712184300 +0800" stop="20250712200800 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250712200800 +0800" stop="20250712214000 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85164,6 +85170,9 @@
 	<programme channel="newtv超级电视剧" start="20250712192800 +0800" stop="20250712201500 +0800">
 		<title lang="zh">33_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250712201500 +0800" stop="20250712210200 +0800">
+		<title lang="zh">34_庆余年第二季</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85316,6 +85325,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250712193900 +0800" stop="20250712200400 +0800">
 		<title lang="zh">07_收获桑榆</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250712200400 +0800" stop="20250712204400 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85590,6 +85602,9 @@
 	<programme channel="newtv热播精选" start="20250712192300 +0800" stop="20250712201100 +0800">
 		<title lang="zh">01_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250712201100 +0800" stop="20250712210000 +0800">
+		<title lang="zh">02_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85766,6 +85781,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250712191900 +0800" stop="20250712200200 +0800">
 		<title lang="zh">北京源莱慧精英vs广东N5 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250712200200 +0800" stop="20250712203900 +0800">
+		<title lang="zh">北京源莱慧精英vs广东N5 第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86070,6 +86088,9 @@
 	<programme channel="newtv炫舞未来" start="20250712191400 +0800" stop="20250712200200 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250712200200 +0800" stop="20250712210200 +0800">
+		<title lang="zh">“经济适用男”的爱情独白</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86189,6 +86210,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250712193300 +0800" stop="20250712200300 +0800">
 		<title lang="zh">《锦色人生》推荐第四期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250712200300 +0800" stop="20250712220700 +0800">
+		<title lang="zh">碟中谍2</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -86375,6 +86399,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250712191800 +0800" stop="20250712200400 +0800">
 		<title lang="zh">41_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250712200400 +0800" stop="20250712205100 +0800">
+		<title lang="zh">42_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
