@@ -43536,6 +43536,9 @@
 	<programme channel="明星大片" start="20250712211200 +0800" stop="20250712215700 +0800">
 		<title lang="zh">11_向幸福出发</title>
 	</programme>
+	<programme channel="明星大片" start="20250712215700 +0800" stop="20250712224200 +0800">
+		<title lang="zh">12_向幸福出发</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -85050,6 +85053,9 @@
 	<programme channel="newtv超级综艺" start="20250712205100 +0800" stop="20250712214700 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250712214700 +0800" stop="20250712224700 +0800">
+		<title lang="zh">合唱先锋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85238,6 +85244,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250712210200 +0800" stop="20250712214900 +0800">
 		<title lang="zh">35_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250712214900 +0800" stop="20250712223400 +0800">
+		<title lang="zh">19_大武当</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -85488,6 +85497,9 @@
 	<programme channel="newtv古装剧场" start="20250712211700 +0800" stop="20250712214700 +0800">
 		<title lang="zh">《美丽密码》推荐第102期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250712214700 +0800" stop="20250712223400 +0800">
+		<title lang="zh">07_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85640,6 +85652,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250712212200 +0800" stop="20250712215200 +0800">
 		<title lang="zh">《美丽密码》推荐第102期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250712215200 +0800" stop="20250712222100 +0800">
+		<title lang="zh">20_多彩庄家院第二季</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85913,6 +85928,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250712210900 +0800" stop="20250712215200 +0800">
 		<title lang="zh">北京龙腾四海vs北京源莱慧精英 第1局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250712215200 +0800" stop="20250712224000 +0800">
+		<title lang="zh">北京龙腾四海vs北京源莱慧精英 第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86321,6 +86339,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250712211200 +0800" stop="20250712215700 +0800">
 		<title lang="zh">11_向幸福出发</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250712215700 +0800" stop="20250712224200 +0800">
+		<title lang="zh">12_向幸福出发</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
