@@ -47739,6 +47739,9 @@
 	<programme channel="newtv超级体育" start="20250713023600 +0800" stop="20250713040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250713040000 +0800" stop="20250713053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第15轮 富勒姆-阿森纳(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47768,6 +47771,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250713030500 +0800" stop="20250713035000 +0800">
 		<title lang="zh">23_一代枭雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250713035000 +0800" stop="20250713043200 +0800">
+		<title lang="zh">17_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47825,6 +47831,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250713023200 +0800" stop="20250713034800 +0800">
 		<title lang="zh">08_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250713034800 +0800" stop="20250713050300 +0800">
+		<title lang="zh">04_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47888,6 +47897,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250713030600 +0800" stop="20250713035400 +0800">
 		<title lang="zh">狼族传奇</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250713035400 +0800" stop="20250713045600 +0800">
+		<title lang="zh">神奇的动物家庭</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47961,6 +47973,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250713021700 +0800" stop="20250713035400 +0800">
 		<title lang="zh">谷魂</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250713035400 +0800" stop="20250713052600 +0800">
+		<title lang="zh">昆仑神宫</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -48026,6 +48041,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250713020200 +0800" stop="20250713035600 +0800">
 		<title lang="zh">侠捕之夺命红莲</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250713035600 +0800" stop="20250713051600 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
