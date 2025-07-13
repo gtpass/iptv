@@ -65403,6 +65403,9 @@
 	<programme channel="纯享4K" start="20250713192700 +0800" stop="20250713200900 +0800">
 		<title lang="zh">远方的家4K 千年长河话古今 运河明珠 文武沧州</title>
 	</programme>
+	<programme channel="纯享4K" start="20250713200900 +0800" stop="20250713205100 +0800">
+		<title lang="zh">远方的家4K 千年长河话古今 一河悠悠百艺生</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70559,6 +70562,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250713185800 +0800" stop="20250713201900 +0800">
 		<title lang="zh">电影《怒火追凶》</title>
+	</programme>
+	<programme channel="超级电影" start="20250713201900 +0800" stop="20250713213100 +0800">
+		<title lang="zh">电影《特警使命：狙击风暴》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83144,6 +83150,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250713185800 +0800" stop="20250713201900 +0800">
 		<title lang="zh">电影《怒火追凶》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250713201900 +0800" stop="20250713213100 +0800">
+		<title lang="zh">电影《特警使命：狙击风暴》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
