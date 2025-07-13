@@ -82953,6 +82953,9 @@
 	<programme channel="newtv超级电视剧" start="20250713151100 +0800" stop="20250713155300 +0800">
 		<title lang="zh">39_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250713155300 +0800" stop="20250713164100 +0800">
+		<title lang="zh">40_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83235,6 +83238,9 @@
 	<programme channel="newtv家庭剧场" start="20250713151100 +0800" stop="20250713155700 +0800">
 		<title lang="zh">13_大都市小爱情</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250713155700 +0800" stop="20250713160700 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83282,6 +83288,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250713143100 +0800" stop="20250713155300 +0800">
 		<title lang="zh">06_风声</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250713155300 +0800" stop="20250713163800 +0800">
+		<title lang="zh">07_风声</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83417,6 +83426,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250713152600 +0800" stop="20250713155300 +0800">
 		<title lang="zh">离婚抢孩子</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250713155300 +0800" stop="20250713163100 +0800">
+		<title lang="zh">小心“三高”伤眼</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
