@@ -47835,6 +47835,9 @@
 	<programme channel="newtv超级体育" start="20250714023000 +0800" stop="20250714040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250714040000 +0800" stop="20250714053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第12轮 朗斯-马赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47954,6 +47957,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250714023600 +0800" stop="20250714035100 +0800">
 		<title lang="zh">12_烟火人家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250714035100 +0800" stop="20250714050700 +0800">
+		<title lang="zh">13_烟火人家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
