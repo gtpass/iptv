@@ -37872,6 +37872,9 @@
 	<programme channel="惊悚悬疑" start="20250714191800 +0800" stop="20250714202200 +0800">
 		<title lang="zh">特种兵归来2：黑色罂粟</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250714202200 +0800" stop="20250714205200 +0800">
+		<title lang="zh">《美丽密码》推荐第103期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -41138,6 +41141,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250714193400 +0800" stop="20250714201900 +0800">
 		<title lang="zh">16_向幸福出发</title>
+	</programme>
+	<programme channel="明星大片" start="20250714201900 +0800" stop="20250714210900 +0800">
+		<title lang="zh">德国米技炉周年庆超值惠选装-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -57653,6 +57659,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250714193600 +0800" stop="20250714202300 +0800">
 		<title lang="zh">06_柳舟记</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250714202300 +0800" stop="20250714205300 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -78426,6 +78435,9 @@
 	<programme channel="黑莓动画" start="20250714184700 +0800" stop="20250714202400 +0800">
 		<title lang="zh">银魂最终篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250714202400 +0800" stop="20250714220700 +0800">
+		<title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79452,6 +79464,9 @@
 	<programme channel="newtv超级电视剧" start="20250714193500 +0800" stop="20250714202000 +0800">
 		<title lang="zh">03_大盛魁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250714202000 +0800" stop="20250714210600 +0800">
+		<title lang="zh">04_大盛魁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79697,6 +79712,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250714193600 +0800" stop="20250714202800 +0800">
 		<title lang="zh">42_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250714202800 +0800" stop="20250714211900 +0800">
+		<title lang="zh">43_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79955,6 +79973,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250714193600 +0800" stop="20250714202300 +0800">
 		<title lang="zh">06_柳舟记</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250714202300 +0800" stop="20250714205300 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80478,6 +80499,9 @@
 	<programme channel="newtv精品综合" start="20250714193400 +0800" stop="20250714201900 +0800">
 		<title lang="zh">16_向幸福出发</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250714201900 +0800" stop="20250714210900 +0800">
+		<title lang="zh">德国米技炉周年庆超值惠选装-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80531,6 +80555,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250714191800 +0800" stop="20250714202200 +0800">
 		<title lang="zh">特种兵归来2：黑色罂粟</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250714202200 +0800" stop="20250714205200 +0800">
+		<title lang="zh">《美丽密码》推荐第103期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
