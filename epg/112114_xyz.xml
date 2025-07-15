@@ -27633,6 +27633,9 @@
 	<programme channel="咪咕足球" start="20250715214000 +0800" stop="20250715215000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250715215000 +0800" stop="20250715233000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第1轮 东莞新彤盛-内蒙古农信</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -84348,6 +84351,9 @@
 	<programme channel="newtv家庭剧场" start="20250715212300 +0800" stop="20250715215300 +0800">
 		<title lang="zh">32_多彩庄家院第二季</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250715215300 +0800" stop="20250715223800 +0800">
+		<title lang="zh">65_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84630,6 +84636,9 @@
 	<programme channel="newtv怡伴健康" start="20250715212900 +0800" stop="20250715220000 +0800">
 		<title lang="zh">重庆地主爱好者vs河北科讯传媒 第3局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250715220000 +0800" stop="20250715223600 +0800">
+		<title lang="zh">重庆地主爱好者vs河北科讯传媒 第4局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84716,6 +84725,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250715210200 +0800" stop="20250715214800 +0800">
 		<title lang="zh">38_天龙八部</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250715214800 +0800" stop="20250715221800 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -84948,6 +84960,9 @@
 	<programme channel="newtv炫舞未来" start="20250715203500 +0800" stop="20250715215200 +0800">
 		<title lang="zh">六位来自河北衡水的男女嘉宾 来了一场场别开生面的家庭相亲大会（20250204）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250715215200 +0800" stop="20250715223100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85133,6 +85148,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250715203600 +0800" stop="20250715215700 +0800">
 		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250715215700 +0800" stop="20250715223700 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
