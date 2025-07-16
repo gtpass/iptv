@@ -27861,6 +27861,9 @@
 	<programme channel="咪咕综合体育" start="20250716120000 +0800" stop="20250716121500 +0800">
 		<title lang="zh">睛彩圈圈点第一期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250716121500 +0800" stop="20250716140000 +0800">
+		<title lang="zh">国球荣耀-2025WTT美国大满贯 半决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40173,6 +40176,9 @@
 	<programme channel="惊悚悬疑" start="20250716112600 +0800" stop="20250716120600 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250716120600 +0800" stop="20250716134500 +0800">
+		<title lang="zh">危险境地</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43811,6 +43817,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250716112800 +0800" stop="20250716121200 +0800">
 		<title lang="zh">18_且试天下</title>
+	</programme>
+	<programme channel="明星大片" start="20250716121200 +0800" stop="20250716134400 +0800">
+		<title lang="zh">战疫时期的爱情</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60276,6 +60285,9 @@
 	<programme channel="爱情喜剧" start="20250716112400 +0800" stop="20250716121100 +0800">
 		<title lang="zh">19_舍不得星星</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250716121100 +0800" stop="20250716125100 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66221,6 +66233,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250716112900 +0800" stop="20250716121100 +0800">
 		<title lang="zh">远方的家4K 千年长河话古今 正阳门下 品味北京</title>
+	</programme>
+	<programme channel="纯享4K" start="20250716121100 +0800" stop="20250716125300 +0800">
+		<title lang="zh">远方的家4K 千年长河话古今 运河载来的国粹京韵</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -82887,6 +82902,9 @@
 	<programme channel="黑莓电影" start="20250716102400 +0800" stop="20250716121100 +0800">
 		<title lang="zh">警察故事2013</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250716121100 +0800" stop="20250716140500 +0800">
+		<title lang="zh">幻体续命游戏</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83916,6 +83934,9 @@
 	<programme channel="newtv精品大剧" start="20250716112200 +0800" stop="20250716120700 +0800">
 		<title lang="zh">光盾半导体激光治疗仪-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250716120700 +0800" stop="20250716131700 +0800">
+		<title lang="zh">29_独爱一生</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83954,6 +83975,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250716112800 +0800" stop="20250716120800 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250716120800 +0800" stop="20250716130800 +0800">
+		<title lang="zh">第六集 拍蝇惩贪</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84032,6 +84056,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250716112600 +0800" stop="20250716120600 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250716120600 +0800" stop="20250716130700 +0800">
+		<title lang="zh">22_香草美人</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84146,6 +84173,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250716112400 +0800" stop="20250716121100 +0800">
 		<title lang="zh">19_舍不得星星</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250716121100 +0800" stop="20250716125100 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84357,6 +84387,9 @@
 	<programme channel="newtv军事评论" start="20250716114400 +0800" stop="20250716120600 +0800">
 		<title lang="zh">俄乌冲突二周年观察 有人战机的空中角力</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250716120600 +0800" stop="20250716122800 +0800">
+		<title lang="zh">俄乌冲突二周年观察 无人机的战场革命</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84444,6 +84477,9 @@
 	<programme channel="newtv精品综合" start="20250716112800 +0800" stop="20250716121200 +0800">
 		<title lang="zh">18_且试天下</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250716121200 +0800" stop="20250716134400 +0800">
+		<title lang="zh">战疫时期的爱情</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -84473,6 +84509,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250716112600 +0800" stop="20250716120600 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250716120600 +0800" stop="20250716134500 +0800">
+		<title lang="zh">危险境地</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
