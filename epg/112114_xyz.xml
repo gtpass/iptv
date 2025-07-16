@@ -20970,6 +20970,9 @@
 	<programme channel="动作电影" start="20250716212500 +0800" stop="20250716215500 +0800">
 		<title lang="zh">《锦色人生》推荐第四期</title>
 	</programme>
+	<programme channel="动作电影" start="20250716215500 +0800" stop="20250716231800 +0800">
+		<title lang="zh">初级特工</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -28025,6 +28028,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250716214000 +0800" stop="20250716215000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250716215000 +0800" stop="20250716233000 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA季后赛半决赛第2轮 内蒙古农信-东莞新彤盛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -84243,6 +84249,9 @@
 	<programme channel="newtv精品大剧" start="20250716212700 +0800" stop="20250716215700 +0800">
 		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250716215700 +0800" stop="20250716224300 +0800">
+		<title lang="zh">33_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84561,6 +84570,9 @@
 	<programme channel="newtv家庭剧场" start="20250716213300 +0800" stop="20250716220000 +0800">
 		<title lang="zh">36_多彩庄家院第二季</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250716220000 +0800" stop="20250716224800 +0800">
+		<title lang="zh">67_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84753,6 +84765,9 @@
 	<programme channel="newtv动作电影" start="20250716212500 +0800" stop="20250716215500 +0800">
 		<title lang="zh">《锦色人生》推荐第四期</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250716215500 +0800" stop="20250716231800 +0800">
+		<title lang="zh">初级特工</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84939,6 +84954,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250716211000 +0800" stop="20250716215500 +0800">
 		<title lang="zh">41_天龙八部</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250716215500 +0800" stop="20250716222500 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85085,6 +85103,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250716212900 +0800" stop="20250716215400 +0800">
 		<title lang="zh">叫嚣“大陆最怕我” 赖清德贻笑世人</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250716215400 +0800" stop="20250716222000 +0800">
+		<title lang="zh">国民党再喊蓝白合作 柯文哲为何泼冷水？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
