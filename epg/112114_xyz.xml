@@ -83040,6 +83040,9 @@
 	<programme channel="黑莓电影" start="20250716190100 +0800" stop="20250716202400 +0800">
 		<title lang="zh">极地追击</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250716202400 +0800" stop="20250716221800 +0800">
+		<title lang="zh">人生开门红</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84255,6 +84258,9 @@
 	<programme channel="newtv精品纪录" start="20250716195200 +0800" stop="20250716202200 +0800">
 		<title lang="zh">双阳梅花鹿鹿茸血肽冻干粉-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250716202200 +0800" stop="20250716211200 +0800">
+		<title lang="zh">第4集：沈寿</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84323,6 +84329,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250716193700 +0800" stop="20250716202400 +0800">
 		<title lang="zh">02_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250716202400 +0800" stop="20250716211000 +0800">
+		<title lang="zh">03_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84734,6 +84743,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250716200000 +0800" stop="20250716203100 +0800">
 		<title lang="zh">福建梦幻vs安徽青竹居 第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250716203100 +0800" stop="20250716210100 +0800">
+		<title lang="zh">《锦色人生》推荐第四期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85265,6 +85277,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250716182800 +0800" stop="20250716202100 +0800">
 		<title lang="zh">NBA季后赛4月29日：火箭VS勇士</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250716202100 +0800" stop="20250716221600 +0800">
+		<title lang="zh">NBA季后赛4月30日：快船VS掘金</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
