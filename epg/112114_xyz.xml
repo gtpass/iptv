@@ -17256,6 +17256,9 @@
 	<programme channel="咪咕综合体育" start="20250717031500 +0800" stop="20250717055500 +0800">
 		<title lang="zh">UFConESPN69期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250717060000 +0800" stop="20250717083000 +0800">
+		<title lang="zh">2025上海佘山半程马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41004,6 +41007,9 @@
 	<programme channel="纯享4K" start="20250717054100 +0800" stop="20250717055600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 版画b7在圣乔治门前滑冰</title>
 	</programme>
+	<programme channel="纯享4K" start="20250717055600 +0800" stop="20250717062000 +0800">
+		<title lang="zh">了不起的冬天4K 第8集 小算盘</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51666,6 +51672,9 @@
 	<programme channel="newtv超级体育" start="20250717053000 +0800" stop="20250717060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250717060000 +0800" stop="20250717063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51828,6 +51837,9 @@
 	<programme channel="newtv热播精选" start="20250717045200 +0800" stop="20250717055700 +0800">
 		<title lang="zh">19_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250717055700 +0800" stop="20250717064300 +0800">
+		<title lang="zh">20_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -51944,6 +51956,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250717052700 +0800" stop="20250717054900 +0800">
 		<title lang="zh">营地炊烟（20）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250717054900 +0800" stop="20250717061100 +0800">
+		<title lang="zh">营地炊烟（21）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52085,6 +52100,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250717043100 +0800" stop="20250717055900 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250717055900 +0800" stop="20250717062400 +0800">
+		<title lang="zh">拳王争霸赛：德尔加多VS巴尔特拉</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
