@@ -67230,6 +67230,9 @@
 	<programme channel="纯享4K" start="20250717193700 +0800" stop="20250717201900 +0800">
 		<title lang="zh">远方的家4K 千年长河话古今 穿越古今看北京</title>
 	</programme>
+	<programme channel="纯享4K" start="20250717201900 +0800" stop="20250717210100 +0800">
+		<title lang="zh">远方的家4K 千年长河话古今 雁栖湖畔 国际会都</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84999,6 +85002,9 @@
 	<programme channel="newtv精品大剧" start="20250717194500 +0800" stop="20250717203100 +0800">
 		<title lang="zh">35_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250717203100 +0800" stop="20250717210100 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85076,6 +85082,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250717194000 +0800" stop="20250717201900 +0800">
 		<title lang="zh">第四集 科学天才</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250717201900 +0800" stop="20250717204900 +0800">
+		<title lang="zh">双阳梅花鹿鹿茸血肽冻干粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85353,6 +85362,9 @@
 	<programme channel="newtv热播精选" start="20250717193100 +0800" stop="20250717202000 +0800">
 		<title lang="zh">17_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250717202000 +0800" stop="20250717210800 +0800">
+		<title lang="zh">18_爱的二八定律</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85554,6 +85566,9 @@
 	<programme channel="newtv怡伴健康" start="20250717193600 +0800" stop="20250717202200 +0800">
 		<title lang="zh">重庆洁静精微vs福建梦幻 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250717202200 +0800" stop="20250717205200 +0800">
+		<title lang="zh">《锦色人生》推荐第四期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85643,6 +85658,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250717193100 +0800" stop="20250717201700 +0800">
 		<title lang="zh">45_天龙八部</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250717201700 +0800" stop="20250717204700 +0800">
+		<title lang="zh">《八段锦》推荐第26期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85875,6 +85893,9 @@
 	<programme channel="newtv炫舞未来" start="20250717193800 +0800" stop="20250717202600 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250717202600 +0800" stop="20250717212600 +0800">
+		<title lang="zh">“经济适用男”的爱情独白</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86081,6 +86102,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250717184700 +0800" stop="20250717202000 +0800">
 		<title lang="zh">NBA季后赛5月5日：勇士VS火箭</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250717202000 +0800" stop="20250717222100 +0800">
+		<title lang="zh">NBA季后赛4月26日：湖人VS森林狼</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
