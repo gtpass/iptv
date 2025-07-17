@@ -41595,6 +41595,9 @@
 	<programme channel="纯享4K" start="20250718053700 +0800" stop="20250718055200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 大梅诗意图b7放风筝</title>
 	</programme>
+	<programme channel="纯享4K" start="20250718055200 +0800" stop="20250718061700 +0800">
+		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52524,6 +52527,9 @@
 	<programme channel="newtv超级体育" start="20250718053000 +0800" stop="20250718060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250718060000 +0800" stop="20250718063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52565,6 +52571,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250718052300 +0800" stop="20250718060400 +0800">
 		<title lang="zh">39_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250718060400 +0800" stop="20250718064800 +0800">
+		<title lang="zh">40_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52641,6 +52650,9 @@
 	<programme channel="newtv军旅剧场" start="20250718051100 +0800" stop="20250718055700 +0800">
 		<title lang="zh">20_大漠苍狼</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250718055700 +0800" stop="20250718063700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52706,6 +52718,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250718035600 +0800" stop="20250718054900 +0800">
 		<title lang="zh">六扇门之忠义烽火</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250718054900 +0800" stop="20250718073100 +0800">
+		<title lang="zh">人类削减计划</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52787,6 +52802,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250718053000 +0800" stop="20250718055200 +0800">
 		<title lang="zh">那个瞬间的年代（1）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250718055200 +0800" stop="20250718061200 +0800">
+		<title lang="zh">歼-10 铁翼追光</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
