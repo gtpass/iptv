@@ -59955,6 +59955,9 @@
 	<programme channel="爱情喜剧" start="20250719095300 +0800" stop="20250719110500 +0800">
 		<title lang="zh">04_幸福有配方</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250719110500 +0800" stop="20250719114600 +0800">
+		<title lang="zh">05_幸福有配方</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83343,6 +83346,9 @@
 	<programme channel="newtv爱情喜剧" start="20250719095300 +0800" stop="20250719110500 +0800">
 		<title lang="zh">04_幸福有配方</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250719110500 +0800" stop="20250719114600 +0800">
+		<title lang="zh">05_幸福有配方</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -83411,6 +83417,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250719095700 +0800" stop="20250719110200 +0800">
 		<title lang="zh">45_安家</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250719110200 +0800" stop="20250719114900 +0800">
+		<title lang="zh">46_安家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83531,6 +83540,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250719104800 +0800" stop="20250719110900 +0800">
 		<title lang="zh">美“鱼鹰”复飞或成“定时炸弹”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250719110900 +0800" stop="20250719113100 +0800">
+		<title lang="zh">俄军猎杀美制“海玛斯”与“爱国者”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
