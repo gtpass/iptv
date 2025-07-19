@@ -48177,6 +48177,9 @@
 	<programme channel="newtv超级体育" start="20250720023600 +0800" stop="20250720040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250720040000 +0800" stop="20250720053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第18轮 曼彻斯特城-埃弗顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48185,6 +48188,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250720021500 +0800" stop="20250720035400 +0800">
 		<title lang="zh">高铁作证</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250720035400 +0800" stop="20250720053200 +0800">
+		<title lang="zh">判决（2017）</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -48237,6 +48243,9 @@
 	<programme channel="newtv精品纪录" start="20250720030200 +0800" stop="20250720035700 +0800">
 		<title lang="zh">02_除障</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250720035700 +0800" stop="20250720045200 +0800">
+		<title lang="zh">03_迷雾</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -48249,6 +48258,9 @@
 	<programme channel="newtv古装剧场" start="20250720023700 +0800" stop="20250720035300 +0800">
 		<title lang="zh">15_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250720035300 +0800" stop="20250720050900 +0800">
+		<title lang="zh">16_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -48260,6 +48272,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250720024000 +0800" stop="20250720035600 +0800">
 		<title lang="zh">29_我的绝密生涯</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250720035600 +0800" stop="20250720051100 +0800">
+		<title lang="zh">25_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48464,6 +48479,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250720032300 +0800" stop="20250720040000 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250720040000 +0800" stop="20250720054000 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
