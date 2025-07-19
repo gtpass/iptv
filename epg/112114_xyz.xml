@@ -39720,6 +39720,9 @@
 	<programme channel="惊悚悬疑" start="20250719173200 +0800" stop="20250719200700 +0800">
 		<title lang="zh">沙丘（英语版）</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250719200700 +0800" stop="20250719203700 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -60062,6 +60065,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250719192300 +0800" stop="20250719200900 +0800">
 		<title lang="zh">28_柳舟记</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250719200900 +0800" stop="20250719203900 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82209,6 +82215,9 @@
 	<programme channel="黑莓动画" start="20250719183700 +0800" stop="20250719200600 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250719200600 +0800" stop="20250719000000 +0800">
+		<title lang="zh">11_一人之下 第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83454,6 +83463,9 @@
 	<programme channel="newtv精品大剧" start="20250719185500 +0800" stop="20250719201000 +0800">
 		<title lang="zh">42_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250719201000 +0800" stop="20250719205500 +0800">
+		<title lang="zh">43_清平乐[DVD版]</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83757,6 +83769,9 @@
 	<programme channel="newtv家庭剧场" start="20250719194300 +0800" stop="20250719201300 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250719201300 +0800" stop="20250719204100 +0800">
+		<title lang="zh">42_多彩庄家院第二季</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83886,6 +83901,9 @@
 	<programme channel="newtv爱情喜剧" start="20250719192300 +0800" stop="20250719200900 +0800">
 		<title lang="zh">28_柳舟记</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250719200900 +0800" stop="20250719203900 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84011,6 +84029,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250719193100 +0800" stop="20250719201500 +0800">
 		<title lang="zh">福建梦幻vs安徽青竹居 第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250719201500 +0800" stop="20250719204500 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84234,6 +84255,9 @@
 	<programme channel="newtv军事评论" start="20250719194800 +0800" stop="20250719201500 +0800">
 		<title lang="zh">火力盲盒 集装箱武器系统</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250719201500 +0800" stop="20250719204100 +0800">
+		<title lang="zh">海上小机场 轻型航母</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84314,6 +84338,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250719192500 +0800" stop="20250719200300 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250719200300 +0800" stop="20250719212000 +0800">
+		<title lang="zh">谁的画上过央视新闻？（20250709）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84425,6 +84452,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250719173200 +0800" stop="20250719200700 +0800">
 		<title lang="zh">沙丘（英语版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250719200700 +0800" stop="20250719203700 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
