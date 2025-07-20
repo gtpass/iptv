@@ -27267,6 +27267,9 @@
 	<programme channel="咪咕综合体育" start="20250720064000 +0800" stop="20250720094000 +0800">
 		<title lang="zh">2025赛季国际马联场地障碍世界杯总决赛第3轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250720094500 +0800" stop="20250720112500 +0800">
+		<title lang="zh">足球世界-2025国际足联世俱杯 1/8决赛 多特蒙德-蒙特雷</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27295,6 +27298,12 @@
 		<title lang="zh">睛彩圈圈点第二期</title>
 	</programme>
 	<programme channel="咪咕足球" start="20250720091500 +0800" stop="20250720092000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250720092000 +0800" stop="20250720094500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第二期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250720094500 +0800" stop="20250720095500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
@@ -65685,6 +65694,9 @@
 	<programme channel="纯享4K" start="20250720090900 +0800" stop="20250720093900 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7都江堰篇 上</title>
 	</programme>
+	<programme channel="纯享4K" start="20250720093900 +0800" stop="20250720100900 +0800">
+		<title lang="zh">味道4K 我的家乡菜b7都江堰篇 下</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -70838,6 +70850,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250720075900 +0800" stop="20250720094600 +0800">
 		<title lang="zh">袁天罡之夺命天敌</title>
+	</programme>
+	<programme channel="超级电影" start="20250720094600 +0800" stop="20250720113100 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -82257,6 +82272,9 @@
 	<programme channel="黑莓电影" start="20250720074000 +0800" stop="20250720093000 +0800">
 		<title lang="zh">血战湘江</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250720093000 +0800" stop="20250720105700 +0800">
+		<title lang="zh">画江湖之不良帅</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83187,6 +83205,9 @@
 	<programme channel="newtv超级综艺" start="20250720082900 +0800" stop="20250720094700 +0800">
 		<title lang="zh">你好时光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250720094700 +0800" stop="20250720110400 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83241,6 +83262,9 @@
 	<programme channel="newtv超级电影" start="20250720075900 +0800" stop="20250720094600 +0800">
 		<title lang="zh">袁天罡之夺命天敌</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250720094600 +0800" stop="20250720113100 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83282,6 +83306,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250720085200 +0800" stop="20250720093400 +0800">
 		<title lang="zh">11_特赦1959</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250720093400 +0800" stop="20250720101600 +0800">
+		<title lang="zh">12_特赦1959</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83349,6 +83376,12 @@
 	<programme channel="newtv精品纪录" start="20250720082100 +0800" stop="20250720091800 +0800">
 		<title lang="zh">02_两岸家书</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250720091800 +0800" stop="20250720094300 +0800">
+		<title lang="zh">01_家园</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250720094300 +0800" stop="20250720100800 +0800">
+		<title lang="zh">02_天路</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83409,6 +83442,9 @@
 	<programme channel="newtv军旅剧场" start="20250720080900 +0800" stop="20250720092300 +0800">
 		<title lang="zh">35_警犬来啦</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250720092300 +0800" stop="20250720103700 +0800">
+		<title lang="zh">36_警犬来啦</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83442,6 +83478,9 @@
 	<programme channel="newtv家庭剧场" start="20250720083800 +0800" stop="20250720092700 +0800">
 		<title lang="zh">LECEA缓释富硒焕活水杯超值组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250720092700 +0800" stop="20250720104200 +0800">
+		<title lang="zh">05_兰桐花开</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -83471,6 +83510,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250720082900 +0800" stop="20250720091800 +0800">
 		<title lang="zh">AMOS无涂层钛健康低糖饭煲-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250720091800 +0800" stop="20250720101900 +0800">
+		<title lang="zh">50_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -83601,6 +83643,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250720084500 +0800" stop="20250720093200 +0800">
 		<title lang="zh">23_燕云台</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250720093200 +0800" stop="20250720100200 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -83657,6 +83702,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250720090400 +0800" stop="20250720092600 +0800">
 		<title lang="zh">美军新型武器研发接连遇挫</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250720092600 +0800" stop="20250720094800 +0800">
+		<title lang="zh">美军加速组建“濒海作战团”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -83867,6 +83915,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250720090500 +0800" stop="20250720094300 +0800">
 		<title lang="zh">慕本崎安神助眠长康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250720094300 +0800" stop="20250720104500 +0800">
+		<title lang="zh">17_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
