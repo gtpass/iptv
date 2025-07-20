@@ -38985,6 +38985,9 @@
 	<programme channel="纯享4K" start="20250721053200 +0800" stop="20250721060100 +0800">
 		<title lang="zh">好吃客4K 一桌好菜</title>
 	</programme>
+	<programme channel="纯享4K" start="20250721060100 +0800" stop="20250721062900 +0800">
+		<title lang="zh">好吃客4K 孔子故里曲阜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47778,6 +47781,9 @@
 	<programme channel="newtv超级体育" start="20250721053000 +0800" stop="20250721060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 中国站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250721060000 +0800" stop="20250721063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47819,6 +47825,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250721051500 +0800" stop="20250721060200 +0800">
 		<title lang="zh">11_柳舟记</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250721060200 +0800" stop="20250721064900 +0800">
+		<title lang="zh">12_柳舟记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47946,6 +47955,9 @@
 	<programme channel="newtv热播精选" start="20250721045100 +0800" stop="20250721055700 +0800">
 		<title lang="zh">39_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250721055700 +0800" stop="20250721064200 +0800">
+		<title lang="zh">40_加油！妈妈</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47960,6 +47972,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250721043800 +0800" stop="20250721055400 +0800">
 		<title lang="zh">16_我，喜欢你</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250721055400 +0800" stop="20250721070800 +0800">
+		<title lang="zh">17_我，喜欢你</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48051,6 +48066,9 @@
 	<programme channel="newtv军事评论" start="20250721052800 +0800" stop="20250721055500 +0800">
 		<title lang="zh">空中截击</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250721055500 +0800" stop="20250721062200 +0800">
+		<title lang="zh">战斗烟火中</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48125,6 +48143,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250721040000 +0800" stop="20250721054600 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第34轮：美因茨VS勒沃库森</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250721054600 +0800" stop="20250721072100 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第34轮：霍芬海姆VS拜仁慕尼黑</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
