@@ -78570,6 +78570,9 @@
 	<programme channel="黑莓动画" start="20250721190300 +0800" stop="20250721202700 +0800">
 		<title lang="zh">淘气包马小跳</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250721202700 +0800" stop="20250721220600 +0800">
+		<title lang="zh">忍者神龟：变种大乱斗</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79848,6 +79851,9 @@
 	<programme channel="newtv古装剧场" start="20250721193400 +0800" stop="20250721202000 +0800">
 		<title lang="zh">18_九重紫</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250721202000 +0800" stop="20250721210600 +0800">
+		<title lang="zh">19_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79917,6 +79923,9 @@
 	<programme channel="newtv军旅剧场" start="20250721194100 +0800" stop="20250721202700 +0800">
 		<title lang="zh">06_猎狼刀</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250721202700 +0800" stop="20250721211200 +0800">
+		<title lang="zh">07_猎狼刀</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79982,6 +79991,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250721193300 +0800" stop="20250721201700 +0800">
 		<title lang="zh">01_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250721201700 +0800" stop="20250721204700 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80456,6 +80468,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250721200500 +0800" stop="20250721203100 +0800">
 		<title lang="zh">派人常驻金门 美军挑衅必遭回击</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250721203100 +0800" stop="20250721205600 +0800">
+		<title lang="zh">直击国民党要害 四大改革迫在眉睫</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
