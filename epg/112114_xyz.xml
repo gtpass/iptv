@@ -41160,6 +41160,9 @@
 	<programme channel="纯享4K" start="20250722034100 +0800" stop="20250722035600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 东汉彩绘壁画b7武士图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250722035600 +0800" stop="20250722043800 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 家园新貌 龙羊筑梦</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52221,6 +52224,9 @@
 	<programme channel="newtv军旅剧场" start="20250722023100 +0800" stop="20250722034600 +0800">
 		<title lang="zh">35_我的绝密生涯</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250722034600 +0800" stop="20250722050100 +0800">
+		<title lang="zh">05_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52328,6 +52334,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250722025800 +0800" stop="20250722035000 +0800">
 		<title lang="zh">精武强能砺刀锋 走进武警第二机动总队某支队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250722035000 +0800" stop="20250722044200 +0800">
+		<title lang="zh">铁心向党铸忠诚 走进新疆军区某红军师</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52454,6 +52463,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250722032300 +0800" stop="20250722035900 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250722035900 +0800" stop="20250722053900 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
