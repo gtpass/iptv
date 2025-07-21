@@ -25950,6 +25950,9 @@
 	<programme channel="咪咕足球" start="20250721135000 +0800" stop="20250721141500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250721141500 +0800" stop="20250721142000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41180,6 +41183,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250721133700 +0800" stop="20250721140100 +0800">
 		<title lang="zh">25_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="明星大片" start="20250721140100 +0800" stop="20250721143900 +0800">
+		<title lang="zh">coolests健康纯钛金色碗套组-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67953,6 +67959,9 @@
 	<programme channel="超级电影" start="20250721123600 +0800" stop="20250721140200 +0800">
 		<title lang="zh">电影《酒剑》</title>
 	</programme>
+	<programme channel="超级电影" start="20250721140200 +0800" stop="20250721151400 +0800">
+		<title lang="zh">电影《六扇门之血手奇谭》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79314,6 +79323,9 @@
 	<programme channel="newtv超级电影" start="20250721123600 +0800" stop="20250721140200 +0800">
 		<title lang="zh">电影《酒剑》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250721140200 +0800" stop="20250721151400 +0800">
+		<title lang="zh">电影《六扇门之血手奇谭》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79373,6 +79385,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250721132300 +0800" stop="20250721140900 +0800">
 		<title lang="zh">29_九重紫</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250721140900 +0800" stop="20250721145500 +0800">
+		<title lang="zh">30_九重紫</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -79848,6 +79863,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250721133400 +0800" stop="20250721141400 +0800">
 		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250721141400 +0800" stop="20250721150200 +0800">
+		<title lang="zh">48_安家</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79934,6 +79952,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250721134200 +0800" stop="20250721140400 +0800">
 		<title lang="zh">彩色镜头下的二战（3）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250721140400 +0800" stop="20250721142600 +0800">
+		<title lang="zh">彩色镜头下的二战（4）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80033,6 +80054,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250721133700 +0800" stop="20250721140100 +0800">
 		<title lang="zh">25_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250721140100 +0800" stop="20250721143900 +0800">
+		<title lang="zh">coolests健康纯钛金色碗套组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
