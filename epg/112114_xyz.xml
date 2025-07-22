@@ -27135,6 +27135,9 @@
 	<programme channel="咪咕综合体育" start="20250722213500 +0800" stop="20250722220000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250722220000 +0800" stop="20250722000000 +0800">
+		<title lang="zh">网球世界-2025WTA500柏林站 决赛 王欣瑜-万卓索娃</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39656,6 +39659,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250722202400 +0800" stop="20250722214900 +0800">
 		<title lang="zh">狙击者</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250722214900 +0800" stop="20250722221900 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -84165,6 +84171,9 @@
 	<programme channel="newtv超级综艺" start="20250722210900 +0800" stop="20250722220600 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250722220600 +0800" stop="20250722230100 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84224,6 +84233,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250722200000 +0800" stop="20250722220000 +0800">
 		<title lang="zh">2025中国足协杯-1/4决赛(云南玉昆-广东广州豹)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250722220000 +0800" stop="20250722230500 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -84369,6 +84381,9 @@
 	<programme channel="newtv超级电视剧" start="20250722211200 +0800" stop="20250722215700 +0800">
 		<title lang="zh">29_大盛魁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250722215700 +0800" stop="20250722224400 +0800">
+		<title lang="zh">24_乔家的儿女</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84452,6 +84467,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250722212200 +0800" stop="20250722215200 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250722215200 +0800" stop="20250722223900 +0800">
+		<title lang="zh">56_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84612,6 +84630,9 @@
 	<programme channel="newtv古装剧场" start="20250722211700 +0800" stop="20250722214700 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250722214700 +0800" stop="20250722223300 +0800">
+		<title lang="zh">37_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84767,6 +84788,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250722210900 +0800" stop="20250722215500 +0800">
 		<title lang="zh">07_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250722215500 +0800" stop="20250722223800 +0800">
+		<title lang="zh">08_乔家的儿女</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85395,6 +85419,9 @@
 	<programme channel="newtv炫舞未来" start="20250722211300 +0800" stop="20250722220100 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250722220100 +0800" stop="20250722221600 +0800">
+		<title lang="zh">孤勇者-李萍</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85523,6 +85550,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250722202400 +0800" stop="20250722214900 +0800">
 		<title lang="zh">狙击者</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250722214900 +0800" stop="20250722221900 +0800">
+		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -85742,6 +85772,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250722213000 +0800" stop="20250722220000 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250722220000 +0800" stop="20250722232600 +0800">
+		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
