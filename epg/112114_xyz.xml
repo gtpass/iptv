@@ -27159,6 +27159,9 @@
 	<programme channel="咪咕足球" start="20250722135000 +0800" stop="20250722141500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250722141500 +0800" stop="20250722142000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -83916,6 +83919,9 @@
 	<programme channel="newtv超级综艺" start="20250722130000 +0800" stop="20250722141700 +0800">
 		<title lang="zh">非常6+1</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250722141700 +0800" stop="20250722153400 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84809,6 +84815,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250722133800 +0800" stop="20250722141700 +0800">
 		<title lang="zh">百福今生十八位合香药枕健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250722141700 +0800" stop="20250722150700 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
