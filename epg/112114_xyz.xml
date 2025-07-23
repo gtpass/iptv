@@ -41229,6 +41229,9 @@
 	<programme channel="纯享4K" start="20250724033400 +0800" stop="20250724034900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 国画b7公孙大娘舞剑图</title>
 	</programme>
+	<programme channel="纯享4K" start="20250724034900 +0800" stop="20250724043100 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 黄河穿城 民谣寄情</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52167,6 +52170,9 @@
 	<programme channel="newtv超级体育" start="20250724023600 +0800" stop="20250724040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250724040000 +0800" stop="20250724053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第19轮 马德里竞技-奥萨苏纳</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52254,6 +52260,9 @@
 	<programme channel="newtv军旅剧场" start="20250724024000 +0800" stop="20250724035700 +0800">
 		<title lang="zh">03_暗战风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250724035700 +0800" stop="20250724051200 +0800">
+		<title lang="zh">11_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52280,6 +52289,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250724024700 +0800" stop="20250724034900 +0800">
 		<title lang="zh">12_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250724034900 +0800" stop="20250724043300 +0800">
+		<title lang="zh">13_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52338,6 +52350,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250724024900 +0800" stop="20250724035900 +0800">
 		<title lang="zh">68_大秦赋</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250724035900 +0800" stop="20250724044400 +0800">
+		<title lang="zh">69_大秦赋</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52371,6 +52386,9 @@
 	<programme channel="newtv炫舞未来" start="20250724021800 +0800" stop="20250724034700 +0800">
 		<title lang="zh">第8期：甜麻了～芬芳vs兄友智斗笑能团</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250724034700 +0800" stop="20250724052000 +0800">
+		<title lang="zh">山水间的家 第三季 （20241117）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52392,11 +52410,17 @@
 	<programme channel="newtv惊悚悬疑" start="20250724022600 +0800" stop="20250724034700 +0800">
 		<title lang="zh">魁拔之幽弥狂</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250724034700 +0800" stop="20250724051600 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250724004300 +0800" stop="20250724035400 +0800">
 		<title lang="zh">开门大吉（2024）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250724035400 +0800" stop="20250724065800 +0800">
+		<title lang="zh">向幸福出发（2024）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52457,6 +52481,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250724015900 +0800" stop="20250724035000 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250724035000 +0800" stop="20250724042700 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
