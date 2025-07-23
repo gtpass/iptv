@@ -28107,6 +28107,9 @@
 	<programme channel="咪咕综合体育" start="20250723215500 +0800" stop="20250723220000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250723220000 +0800" stop="20250723234000 +0800">
+		<title lang="zh">网球世界-2025WTA1000罗马站 1/4决赛 萨巴伦卡-郑钦文</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -83922,6 +83925,9 @@
 	<programme channel="newtv精品大剧" start="20250723210300 +0800" stop="20250723214900 +0800">
 		<title lang="zh">60_清平乐[DVD版]</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250723214900 +0800" stop="20250723221900 +0800">
+		<title lang="zh">《百病食疗》推荐第三期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84306,6 +84312,9 @@
 	<programme channel="newtv热播精选" start="20250723211800 +0800" stop="20250723214800 +0800">
 		<title lang="zh">《爱生活爱健康》推荐第二期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250723214800 +0800" stop="20250723232400 +0800">
+		<title lang="zh">半熟恋人第4季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84518,6 +84527,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250723211100 +0800" stop="20250723214800 +0800">
 		<title lang="zh">贵州混斗联盟vs重庆洁静精微 第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250723214800 +0800" stop="20250723222900 +0800">
+		<title lang="zh">贵州混斗联盟vs重庆洁静精微 第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84752,6 +84764,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250723212900 +0800" stop="20250723215400 +0800">
 		<title lang="zh">大陆海警强力护渔 台当局敢硬碰硬？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250723215400 +0800" stop="20250723222000 +0800">
+		<title lang="zh">台当局称“继续执法” 加码三招对抗大陆</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
