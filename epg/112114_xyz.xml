@@ -83508,6 +83508,9 @@
 	<programme channel="黑莓动画" start="20250724104300 +0800" stop="20250724121400 +0800">
 		<title lang="zh">太空夺旗</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250724121400 +0800" stop="20250724131900 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84453,6 +84456,9 @@
 	<programme channel="newtv超级综艺" start="20250724105800 +0800" stop="20250724121800 +0800">
 		<title lang="zh">一馔千年</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250724121800 +0800" stop="20250724135500 +0800">
+		<title lang="zh">乐在旅途 第三季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85041,6 +85047,9 @@
 	<programme channel="newtv军事评论" start="20250724114800 +0800" stop="20250724121000 +0800">
 		<title lang="zh">揭秘美军“地狱景观”计划</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250724121000 +0800" stop="20250724123200 +0800">
+		<title lang="zh">全景一战b7苦战（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85082,6 +85091,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250724104600 +0800" stop="20250724120300 +0800">
 		<title lang="zh">学中医的新疆美女阿依祖热木给小尼把脉 一不小心说出小尼有点阳虚（20250707）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250724120300 +0800" stop="20250724124200 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
