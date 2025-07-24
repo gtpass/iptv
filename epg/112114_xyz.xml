@@ -27924,6 +27924,9 @@
 	<programme channel="咪咕足球" start="20250724135000 +0800" stop="20250724141500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第二期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250724142000 +0800" stop="20250724154000 +0800">
+		<title lang="zh">2025全运会男篮资格赛 B组第4轮 河北-天津</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -67299,6 +67302,9 @@
 	<programme channel="纯享4K" start="20250724134700 +0800" stop="20250724141600 +0800">
 		<title lang="zh">好吃客4K 绍兴</title>
 	</programme>
+	<programme channel="纯享4K" start="20250724141600 +0800" stop="20250724144000 +0800">
+		<title lang="zh">了不起的冬天4K 第10集 了不起的冬天</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84785,6 +84791,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250724130200 +0800" stop="20250724141500 +0800">
 		<title lang="zh">34_问心</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250724141500 +0800" stop="20250724150100 +0800">
+		<title lang="zh">35_问心</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
