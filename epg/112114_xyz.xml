@@ -39966,6 +39966,9 @@
 	<programme channel="纯享4K" start="20250726034100 +0800" stop="20250726035600 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 相扑俑</title>
 	</programme>
+	<programme channel="纯享4K" start="20250726035600 +0800" stop="20250726043800 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 黄河之滨 塞北江南</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50457,6 +50460,9 @@
 	<programme channel="黑莓动画" start="20250726025300 +0800" stop="20250726035700 +0800">
 		<title lang="zh">角落小伙伴电影版 蓝色月夜的魔法之子（普通话版）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250726035700 +0800" stop="20250726052200 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -50766,6 +50772,9 @@
 	<programme channel="newtv超级体育" start="20250726023600 +0800" stop="20250726040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250726040000 +0800" stop="20250726053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第22轮 布伦特福德-利物浦(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50798,6 +50807,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250726030700 +0800" stop="20250726035200 +0800">
 		<title lang="zh">12_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250726035200 +0800" stop="20250726043800 +0800">
+		<title lang="zh">29_柳舟记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50958,6 +50970,9 @@
 	<programme channel="newtv军事评论" start="20250726025600 +0800" stop="20250726034900 +0800">
 		<title lang="zh">何玲：为语言障碍者开启“新声”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250726034900 +0800" stop="20250726044300 +0800">
+		<title lang="zh">为烈士点亮“回家”的路 2024年清明节特别节目</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50996,6 +51011,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250726021900 +0800" stop="20250726035000 +0800">
 		<title lang="zh">暗影2</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250726035000 +0800" stop="20250726050100 +0800">
+		<title lang="zh">逆时救援</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -51062,6 +51080,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250726020500 +0800" stop="20250726035000 +0800">
 		<title lang="zh">新方世玉前传侠者无畏</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250726035000 +0800" stop="20250726042700 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
