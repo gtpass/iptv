@@ -17028,6 +17028,9 @@
 	<programme channel="咪咕综合体育" start="20250726032000 +0800" stop="20250726060000 +0800">
 		<title lang="zh">UFConESPN70期主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250726060000 +0800" stop="20250726061500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40089,6 +40092,9 @@
 	<programme channel="纯享4K" start="20250726053200 +0800" stop="20250726055600 +0800">
 		<title lang="zh">辣椒的征途4K 第3集 北粉南酱 辣不一样</title>
 	</programme>
+	<programme channel="纯享4K" start="20250726055600 +0800" stop="20250726062100 +0800">
+		<title lang="zh">辣椒的征途4K 第4集 吃辣的小概率事件</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -50910,6 +50916,9 @@
 	<programme channel="newtv超级体育" start="20250726053000 +0800" stop="20250726060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250726060000 +0800" stop="20250726063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 6</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -50933,6 +50942,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250726054400 +0800" stop="20250726055000 +0800">
 		<title lang="zh">让梦想照进故乡</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250726055000 +0800" stop="20250726073700 +0800">
+		<title lang="zh">叶问4：完结篇</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51039,6 +51051,9 @@
 	<programme channel="newtv军旅剧场" start="20250726043300 +0800" stop="20250726054800 +0800">
 		<title lang="zh">18_危机迷雾</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250726054800 +0800" stop="20250726063300 +0800">
+		<title lang="zh">19_危机迷雾</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51077,6 +51092,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250726044800 +0800" stop="20250726055200 +0800">
 		<title lang="zh">24_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250726055200 +0800" stop="20250726063900 +0800">
+		<title lang="zh">25_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -51158,6 +51176,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250726045100 +0800" stop="20250726055300 +0800">
 		<title lang="zh">与奥运同行 一起动起来 4</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250726055300 +0800" stop="20250726064100 +0800">
+		<title lang="zh">45_燕云台</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
