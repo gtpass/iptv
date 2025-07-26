@@ -83610,6 +83610,9 @@
 	<programme channel="newtv超级综艺" start="20250726100100 +0800" stop="20250726111100 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250726111100 +0800" stop="20250726123100 +0800">
+		<title lang="zh">一馔千年</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83726,6 +83729,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250726103200 +0800" stop="20250726111700 +0800">
 		<title lang="zh">15_岁岁年年柿柿红</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250726111700 +0800" stop="20250726120200 +0800">
+		<title lang="zh">16_岁岁年年柿柿红</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
