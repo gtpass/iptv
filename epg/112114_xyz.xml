@@ -20472,6 +20472,9 @@
 	<programme channel="动作电影" start="20250726212500 +0800" stop="20250726215500 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
 	</programme>
+	<programme channel="动作电影" start="20250726215500 +0800" stop="20250726235600 +0800">
+		<title lang="zh">深海越狱</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27533,6 +27536,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250726214500 +0800" stop="20250726215000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250726215000 +0800" stop="20250726221000 +0800">
+		<title lang="zh">中超精华 第17轮</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -66222,6 +66228,9 @@
 	<programme channel="纯享4K" start="20250726212700 +0800" stop="20250726215200 +0800">
 		<title lang="zh">辣椒的征途4K 第4集 吃辣的小概率事件</title>
 	</programme>
+	<programme channel="纯享4K" start="20250726215200 +0800" stop="20250726222200 +0800">
+		<title lang="zh">信仰的感召4K 骁将传奇 寻淮洲</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84003,6 +84012,9 @@
 	<programme channel="newtv超级综艺" start="20250726205200 +0800" stop="20250726214900 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250726214900 +0800" stop="20250726224300 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84209,6 +84221,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250726210900 +0800" stop="20250726215400 +0800">
 		<title lang="zh">41_大盛魁</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250726215400 +0800" stop="20250726224200 +0800">
+		<title lang="zh">36_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84609,6 +84624,9 @@
 	<programme channel="newtv家庭剧场" start="20250726211200 +0800" stop="20250726215700 +0800">
 		<title lang="zh">22_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250726215700 +0800" stop="20250726224500 +0800">
+		<title lang="zh">23_乔家的儿女</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84812,6 +84830,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250726212500 +0800" stop="20250726215500 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250726215500 +0800" stop="20250726235600 +0800">
+		<title lang="zh">深海越狱</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -85215,6 +85236,9 @@
 	<programme channel="newtv炫舞未来" start="20250726203200 +0800" stop="20250726214900 +0800">
 		<title lang="zh">十四年同学缘分天定 熬过异地恋终成眷侣（20250210）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250726214900 +0800" stop="20250726223700 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85553,6 +85577,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250726212000 +0800" stop="20250726215000 +0800">
 		<title lang="zh">《美丽飞扬》推荐第一期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250726215000 +0800" stop="20250726223600 +0800">
+		<title lang="zh">04_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
