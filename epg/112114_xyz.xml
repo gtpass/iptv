@@ -33867,6 +33867,9 @@
 	<programme channel="纯享4K" start="20250728053000 +0800" stop="20250728060000 +0800">
 		<title lang="zh">信仰的感召4K 不死英雄 瞿秋白</title>
 	</programme>
+	<programme channel="纯享4K" start="20250728060000 +0800" stop="20250728063000 +0800">
+		<title lang="zh">信仰的感召4K 毕生奋勇 黄公略</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -41193,6 +41196,9 @@
 	<programme channel="黑莓电影" start="20250728042600 +0800" stop="20250728055800 +0800">
 		<title lang="zh">冬之物语</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250728055800 +0800" stop="20250728075100 +0800">
+		<title lang="zh">一竞到底</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -41406,6 +41412,9 @@
 	<programme channel="newtv超级体育" start="20250728053000 +0800" stop="20250728060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250728060000 +0800" stop="20250728063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -41502,6 +41511,9 @@
 	<programme channel="newtv古装剧场" start="20250728043300 +0800" stop="20250728054800 +0800">
 		<title lang="zh">48_三生三世枕上书</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250728054800 +0800" stop="20250728070300 +0800">
+		<title lang="zh">57_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -41519,6 +41531,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250728043200 +0800" stop="20250728054700 +0800">
 		<title lang="zh">24_危机迷雾</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250728054700 +0800" stop="20250728063100 +0800">
+		<title lang="zh">25_危机迷雾</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -41616,6 +41631,9 @@
 	<programme channel="newtv怡伴健康" start="20250728051300 +0800" stop="20250728060100 +0800">
 		<title lang="zh">47_燕云台</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250728060100 +0800" stop="20250728064100 +0800">
+		<title lang="zh">《超级美味》推荐第1期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -41687,6 +41705,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250728053700 +0800" stop="20250728055500 +0800">
 		<title lang="zh">野花香-孙爱迪</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250728055500 +0800" stop="20250728060900 +0800">
+		<title lang="zh">追梦人-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -41801,6 +41822,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250728040700 +0800" stop="20250728054700 +0800">
 		<title lang="zh">女子太极剑决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250728054700 +0800" stop="20250728063700 +0800">
+		<title lang="zh">拳王争霸赛：毛里西奥-拉拉VS利-伍德</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>

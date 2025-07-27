@@ -220,7 +220,7 @@
 | 214 | [SD]bernama *e | stream1.freetv.fun | <https://stream1.freetv.fun/c07abc89eefd4f35e9c687d9922d6635fc816f8799a05242ce1b3df4b87e31b1.ctv> |
 | 215 | [HD]bet | stream1.freetv.fun | <https://stream1.freetv.fun/067b06e2fad9f5a1bb627ccfc5696dbf5112be5ff23e01043d1c1663c5f532b1.m3u8> |
 | 216 | [BD]bfm business | stream1.freetv.fun | <https://stream1.freetv.fun/d43471c06149e5f8b725351675ebbc5ca96372c7635216f3150f9382f5296bf2.m3u8> |
-| 217 | [SD]bfm tv | stream1.freetv.fun | <https://stream1.freetv.fun/c697ec1a5690ada827af29865091a3f2414bb80482b590c1ac78481c41d098aa.m3u8> |
+| 217 | [BD]dbm tv | stream1.freetv.fun | <https://stream1.freetv.fun/8050b6cc09864e3f7d1fcc75ede62d57132c66df7302778ab4ccbdf663e51be6.m3u8> |
 | 218 | [BD]new brasil | stream1.freetv.fun | <https://stream1.freetv.fun/0ed4b469706957be13fcc3feaba4a29e19b54b83b6a0e2d91717f000aa195918.m3u8> |
 | 219 | [BD]biz tv | stream1.freetv.fun | <https://stream1.freetv.fun/af30ae82f9f5911ee1585e7b8925210a629abcc59474662d709b57a89f0274c6.m3u8> |
 | 220 | [HD]boo *e | stream1.freetv.fun | <https://stream1.freetv.fun/e70d54bd8fbe2b9860a051404604c9109b1bdd5d519a8a28ce867c0b4d167d03.ctv> |
@@ -561,7 +561,7 @@
 | 555 | [VGA]fubo sports network | stream1.freetv.fun | <https://stream1.freetv.fun/ea0deec3841e76a545168c2bb33e459528341c746d42c54ee78302792d3c8907.m3u8> |
 | 556 | [HD]fuji tv | stream1.freetv.fun | <https://stream1.freetv.fun/1d0933badfe4eefcbc6ec932fdeeac04d92b10c7589474f987b566ccb1087491.m3u8> |
 | 557 | [HD]探索亚洲 *wj | stream1.freetv.fun | <https://stream1.freetv.fun/365a6d94e5b47fcfcc35339e7996ae26eedf28b63294e4b5b20ee3eae8d5d71b.ctv> |
-| 558 | [HD]fx *s | stream1.freetv.fun | <https://stream1.freetv.fun/984e399711c81a8233b0d5f5a2d92e536f1d75585fb6195634cce683d6bc43a4.m3u8> |
+| 558 | [HD]fx == | stream1.freetv.fun | <https://stream1.freetv.fun/b4a5ebefc1f3e40d8ea5128713bf91ff04a20b8360bcaccb5ce73b9c2ae7e8ba.ctv> |
 | 559 | [HD]fxm | stream1.freetv.fun | <https://stream1.freetv.fun/417942fdec7af69490903b3628ea29cdd0c8f83bdba21a615198d41f5f130e0f.m3u8> |
 | 560 | [BD]family gekijyo | stream1.freetv.fun | <https://stream1.freetv.fun/20a5ddfcd9e581d7cf2706b33d0cf25479d3ddf2d1139bc8dde28c6d8dcdb6d4.m3u8> |
 | 561 | [BD]fashion tv | stream1.freetv.fun | <https://stream1.freetv.fun/466804074e0bde1281d81de3d40f4af283fba65630afe0d15480d13aec03de2a.m3u8> |
@@ -2033,4 +2033,4 @@
 | 2027 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/c2275b572ec49684dc532efc606c5f6b264581f346379559e72ec2137c1ecb1d.m3u8> |
 | 2028 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/f3e4792919e603bd0eb00254eb263931dbab92a22578853745d8dbe977714338.m3u8> |
 
-Updated at **Sun Jul 27 2025 22:16:14 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Jul 27 2025 22:23:17 GMT+0000 (Coordinated Universal Time)**
