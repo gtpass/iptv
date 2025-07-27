@@ -33645,6 +33645,9 @@
 	<programme channel="纯享4K" start="20250728034500 +0800" stop="20250728035000 +0800">
 		<title lang="zh">如果国宝会说话4K 大秦景教流行中国碑 时间之门</title>
 	</programme>
+	<programme channel="纯享4K" start="20250728035500 +0800" stop="20250728043700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 敕勒川上的宁静家园</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40950,6 +40953,9 @@
 	<programme channel="黑莓动画" start="20250728021600 +0800" stop="20250728035700 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250728035700 +0800" stop="20250728053500 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -41151,6 +41157,9 @@
 	<programme channel="newtv超级综艺" start="20250728020800 +0800" stop="20250728040900 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250728040900 +0800" stop="20250728054200 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -41162,6 +41171,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250728023600 +0800" stop="20250728040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250728040000 +0800" stop="20250728053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第14轮 朗斯-蒙彼利埃 (4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -41189,6 +41201,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250728030600 +0800" stop="20250728035100 +0800">
 		<title lang="zh">22_军人荣誉之铁血雄心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250728035100 +0800" stop="20250728043700 +0800">
+		<title lang="zh">37_柳舟记</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41346,6 +41361,9 @@
 	<programme channel="newtv军事评论" start="20250728025800 +0800" stop="20250728035000 +0800">
 		<title lang="zh">魏义民：九旬老兵的传奇人生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250728035000 +0800" stop="20250728044300 +0800">
+		<title lang="zh">警号012642，欢迎归队！</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -41382,6 +41400,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250728022600 +0800" stop="20250728035100 +0800">
 		<title lang="zh">猎仇者</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250728035100 +0800" stop="20250728051800 +0800">
+		<title lang="zh">复仇者格林：战事再起</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -41399,6 +41420,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250728025000 +0800" stop="20250728035500 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第28轮：弗赖堡VS多特蒙德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250728035500 +0800" stop="20250728054100 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第34轮：美因茨VS勒沃库森</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
