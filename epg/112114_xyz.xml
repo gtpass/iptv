@@ -36282,6 +36282,9 @@
 	<programme channel="纯享4K" start="20250729052500 +0800" stop="20250729055500 +0800">
 		<title lang="zh">信仰的感召4K 人民英雄 方志敏</title>
 	</programme>
+	<programme channel="纯享4K" start="20250729055500 +0800" stop="20250729062500 +0800">
+		<title lang="zh">信仰的感召4K 铁血军魂 吴焕先</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45663,6 +45666,9 @@
 	<programme channel="newtv超级体育" start="20250729053000 +0800" stop="20250729060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250729060000 +0800" stop="20250729063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45704,6 +45710,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250729052000 +0800" stop="20250729060600 +0800">
 		<title lang="zh">03_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250729060600 +0800" stop="20250729065100 +0800">
+		<title lang="zh">04_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45876,6 +45885,9 @@
 	<programme channel="newtv怡伴健康" start="20250729051300 +0800" stop="20250729055800 +0800">
 		<title lang="zh">01_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250729055800 +0800" stop="20250729063800 +0800">
+		<title lang="zh">《超级美味》推荐第1期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45896,6 +45908,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250729052800 +0800" stop="20250729055800 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250729055800 +0800" stop="20250729070000 +0800">
+		<title lang="zh">运动不会辜负你（下）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45956,6 +45971,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250729053000 +0800" stop="20250729055200 +0800">
 		<title lang="zh">民族风健身舞《见到你很高兴》（20240520）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250729055200 +0800" stop="20250729061400 +0800">
+		<title lang="zh">有氧跳绳跟练《龙拳》（20240521）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
