@@ -36027,6 +36027,9 @@
 	<programme channel="纯享4K" start="20250730013900 +0800" stop="20250730020800 +0800">
 		<title lang="zh">味道4K 边疆风味b7昌吉篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250730020800 +0800" stop="20250730024800 +0800">
+		<title lang="zh">探索b7发现4K 明初父子将军墓（2）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -36317,6 +36320,126 @@
 	</programme>
 	<programme channel="翡翠台" start="20250730050500 +0800" stop="20250730060000 +0800">
 		<title lang="zh">街坊廚神食四方[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730060000 +0800" stop="20250730074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730074000 +0800" stop="20250730074500 +0800">
+		<title lang="zh">環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730074500 +0800" stop="20250730081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730081000 +0800" stop="20250730084000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730084000 +0800" stop="20250730090000 +0800">
+		<title lang="zh">香港早晨[粵] 及 周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730090000 +0800" stop="20250730100000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730100000 +0800" stop="20250730100500 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730100500 +0800" stop="20250730103500 +0800">
+		<title lang="zh">我愛玫瑰園#104[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730103500 +0800" stop="20250730113500 +0800">
+		<title lang="zh">川內相親#21[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730113500 +0800" stop="20250730114000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730114000 +0800" stop="20250730121500 +0800">
+		<title lang="zh">交易現場[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730121500 +0800" stop="20250730125000 +0800">
+		<title lang="zh">新派煮意[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730125000 +0800" stop="20250730125500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730125500 +0800" stop="20250730130000 +0800">
+		<title lang="zh">周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730130000 +0800" stop="20250730132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730132000 +0800" stop="20250730141000 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730141000 +0800" stop="20250730144000 +0800">
+		<title lang="zh">呃錢[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730144000 +0800" stop="20250730145000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730145000 +0800" stop="20250730155000 +0800">
+		<title lang="zh">親親我好媽#7[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730155000 +0800" stop="20250730162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730162000 +0800" stop="20250730165000 +0800">
+		<title lang="zh">櫻桃小丸子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730165000 +0800" stop="20250730172000 +0800">
+		<title lang="zh">Hands Up[粵] 及 成語動畫廊[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730172000 +0800" stop="20250730175000 +0800">
+		<title lang="zh">屁屁偵探[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730175000 +0800" stop="20250730180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730180000 +0800" stop="20250730182500 +0800">
+		<title lang="zh">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730182500 +0800" stop="20250730183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730183000 +0800" stop="20250730191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730191500 +0800" stop="20250730192500 +0800">
+		<title lang="zh">世界觀[粵] 及 天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730192500 +0800" stop="20250730193000 +0800">
+		<title lang="zh">有理說得清[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730193000 +0800" stop="20250730193500 +0800">
+		<title lang="zh">周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730193500 +0800" stop="20250730200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730200000 +0800" stop="20250730203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2609[粵] 及 外幣匯率[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730203000 +0800" stop="20250730213000 +0800">
+		<title lang="zh">麻雀樂團#3[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730213000 +0800" stop="20250730223000 +0800">
+		<title lang="zh">中年好翻身#26[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730223000 +0800" stop="20250730230000 +0800">
+		<title lang="zh">真相猜•情•尋[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730230000 +0800" stop="20250730231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730231500 +0800" stop="20250730234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730234500 +0800" stop="20250730235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730235000 +0800" stop="20250730235500 +0800">
+		<title lang="zh">天氣報告[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250730235500 +0800" stop="20250730235900 +0800">
+		<title lang="zh">茶是故鄉濃#18[粵]</title>
 	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
@@ -44952,6 +45075,9 @@
 	<programme channel="newtv超级综艺" start="20250730011400 +0800" stop="20250730020200 +0800">
 		<title lang="zh">36_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250730020200 +0800" stop="20250730035000 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45000,6 +45126,9 @@
 	<programme channel="newtv精品纪录" start="20250730003300 +0800" stop="20250730020100 +0800">
 		<title lang="zh">01_筑梦金沙</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250730020100 +0800" stop="20250730033000 +0800">
+		<title lang="zh">02_迎难而上</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -45032,6 +45161,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250730000200 +0800" stop="20250730020400 +0800">
 		<title lang="zh">怒火冲天</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250730020400 +0800" stop="20250730024900 +0800">
+		<title lang="zh">05_青山不墨</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -45066,6 +45198,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250730004300 +0800" stop="20250730020800 +0800">
 		<title lang="zh">12_榜上佳婿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250730020800 +0800" stop="20250730025300 +0800">
+		<title lang="zh">13_榜上佳婿</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -45086,6 +45221,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250730004900 +0800" stop="20250730020500 +0800">
 		<title lang="zh">第四章 挚（20250726）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250730020500 +0800" stop="20250730033900 +0800">
+		<title lang="zh">经典电影《大醉侠》欣赏（20250727）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
