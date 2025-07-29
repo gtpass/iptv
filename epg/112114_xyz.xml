@@ -36261,6 +36261,9 @@
 	<programme channel="纯享4K" start="20250730052200 +0800" stop="20250730055200 +0800">
 		<title lang="zh">信仰的感召4K 农运领袖 彭湃</title>
 	</programme>
+	<programme channel="纯享4K" start="20250730055200 +0800" stop="20250730062200 +0800">
+		<title lang="zh">信仰的感召4K 温婉骄杨 杨开慧</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -45021,6 +45024,9 @@
 	<programme channel="黑莓动画" start="20250730042400 +0800" stop="20250730055300 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250730055300 +0800" stop="20250730072200 +0800">
+		<title lang="zh">星际大逃亡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45327,6 +45333,9 @@
 	<programme channel="newtv超级综艺" start="20250730050400 +0800" stop="20250730060400 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250730060400 +0800" stop="20250730072100 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45344,6 +45353,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250730053000 +0800" stop="20250730060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250730060000 +0800" stop="20250730063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -45413,6 +45425,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250730045200 +0800" stop="20250730055700 +0800">
 		<title lang="zh">03_西出玉门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250730055700 +0800" stop="20250730063300 +0800">
+		<title lang="zh">04_西出玉门</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -45485,6 +45500,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250730051000 +0800" stop="20250730055300 +0800">
 		<title lang="zh">38_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250730055300 +0800" stop="20250730061300 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -45609,6 +45627,9 @@
 	<programme channel="newtv军事评论" start="20250730052300 +0800" stop="20250730054800 +0800">
 		<title lang="zh">韩军称韩朝间不再存在缓冲区 日本外相突访乌克兰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250730054800 +0800" stop="20250730061300 +0800">
+		<title lang="zh">美英联合对胡塞武装发动空袭 红海危机升级 美宣称对乌军事支持已经暂停</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45629,6 +45650,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250730051900 +0800" stop="20250730055700 +0800">
 		<title lang="zh">好好过夏天（上）（20240622）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250730055700 +0800" stop="20250730063500 +0800">
+		<title lang="zh">好好过夏天（中）（20240623）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -45689,6 +45713,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250730040600 +0800" stop="20250730054700 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第36轮：西班牙人VS巴塞罗那</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250730054700 +0800" stop="20250730072900 +0800">
+		<title lang="zh">2024-25赛季英超联赛第38轮：诺丁汉森林VS切尔西</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
