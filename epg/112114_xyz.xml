@@ -40284,6 +40284,9 @@
 	<programme channel="惊悚悬疑" start="20250729195000 +0800" stop="20250729202000 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250729202000 +0800" stop="20250729214500 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -67440,6 +67443,9 @@
 	<programme channel="纯享4K" start="20250729193600 +0800" stop="20250729201800 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄河之畔 守望沃土</title>
 	</programme>
+	<programme channel="纯享4K" start="20250729201800 +0800" stop="20250729210000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 高原上的蒙古牧歌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85416,6 +85422,9 @@
 	<programme channel="newtv怡伴健康" start="20250729193000 +0800" stop="20250729201600 +0800">
 		<title lang="zh">山东好哥哥vs北京源莱慧精英 第6局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250729201600 +0800" stop="20250729204600 +0800">
+		<title lang="zh">《美丽飞扬》推荐第一期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85842,6 +85851,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250729195000 +0800" stop="20250729202000 +0800">
 		<title lang="zh">《百病食疗》推荐第三期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250729202000 +0800" stop="20250729214500 +0800">
+		<title lang="zh">陆小凤传奇之绣花大盗</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85931,6 +85943,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250729184200 +0800" stop="20250729202300 +0800">
 		<title lang="zh">NBA季后赛5月16日：雷霆VS掘金</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250729202300 +0800" stop="20250729220500 +0800">
+		<title lang="zh">NBA季后赛5月10日：雷霆VS掘金</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
