@@ -27720,6 +27720,9 @@
 	<programme channel="咪咕综合体育" start="20250729120500 +0800" stop="20250729123000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250729123000 +0800" stop="20250729124500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -67083,6 +67086,9 @@
 	<programme channel="纯享4K" start="20250729114300 +0800" stop="20250729122500 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 黄河之畔 守望沃土</title>
 	</programme>
+	<programme channel="纯享4K" start="20250729122500 +0800" stop="20250729130700 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 高原上的蒙古牧歌</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -72212,6 +72218,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250729103900 +0800" stop="20250729122500 +0800">
 		<title lang="zh">第五行动组II较量</title>
+	</programme>
+	<programme channel="超级电影" start="20250729122500 +0800" stop="20250729123300 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83136,6 +83145,9 @@
 	<programme channel="黑莓动画" start="20250729105600 +0800" stop="20250729122500 +0800">
 		<title lang="zh">摩登森林之美食总动员</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250729122500 +0800" stop="20250729135300 +0800">
+		<title lang="zh">棉球方块历险记</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84135,6 +84147,9 @@
 	<programme channel="newtv超级电影" start="20250729103900 +0800" stop="20250729122500 +0800">
 		<title lang="zh">第五行动组II较量</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250729122500 +0800" stop="20250729123300 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -84360,6 +84375,9 @@
 	<programme channel="newtv军旅剧场" start="20250729114300 +0800" stop="20250729122300 +0800">
 		<title lang="zh">《超级美味》推荐第1期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250729122300 +0800" stop="20250729133500 +0800">
+		<title lang="zh">30_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84558,6 +84576,9 @@
 	<programme channel="newtv怡伴健康" start="20250729114800 +0800" stop="20250729122800 +0800">
 		<title lang="zh">《超级美味》推荐第1期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250729122800 +0800" stop="20250729144800 +0800">
+		<title lang="zh">京剧《生死恨》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84605,6 +84626,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250729120600 +0800" stop="20250729121800 +0800">
 		<title lang="zh">第24集：江苏连云港 海大米红烧肉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250729121800 +0800" stop="20250729124800 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
