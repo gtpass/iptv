@@ -26958,6 +26958,9 @@
 	<programme channel="咪咕综合体育" start="20250730201500 +0800" stop="20250730202000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250730202000 +0800" stop="20250730211000 +0800">
+		<title lang="zh">世俱杯全进球</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -64770,6 +64773,9 @@
 	<programme channel="纯享4K" start="20250730193500 +0800" stop="20250730201700 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 丝路重镇 生态家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20250730201700 +0800" stop="20250730205900 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 丹霞映水 古道新说</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81543,6 +81549,9 @@
 	<programme channel="newtv超级电视剧" start="20250730193200 +0800" stop="20250730201700 +0800">
 		<title lang="zh">51_大盛魁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250730201700 +0800" stop="20250730210200 +0800">
+		<title lang="zh">52_大盛魁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81617,6 +81626,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250730193100 +0800" stop="20250730201900 +0800">
 		<title lang="zh">19_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250730201900 +0800" stop="20250730204900 +0800">
+		<title lang="zh">《美丽飞扬》推荐第一期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -81765,6 +81777,9 @@
 	<programme channel="newtv古装剧场" start="20250730193300 +0800" stop="20250730201900 +0800">
 		<title lang="zh">16_似锦</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250730201900 +0800" stop="20250730210800 +0800">
+		<title lang="zh">07_永安梦</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -81906,6 +81921,9 @@
 	<programme channel="newtv家庭剧场" start="20250730194100 +0800" stop="20250730202600 +0800">
 		<title lang="zh">01_珠江人家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250730202600 +0800" stop="20250730205600 +0800">
+		<title lang="zh">《百病食疗》推荐第三期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -81971,6 +81989,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250730194100 +0800" stop="20250730202600 +0800">
 		<title lang="zh">25_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250730202600 +0800" stop="20250730211200 +0800">
+		<title lang="zh">26_欢乐颂4</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82370,6 +82391,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250730195100 +0800" stop="20250730201700 +0800">
 		<title lang="zh">跟着老兵修飞机</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250730201700 +0800" stop="20250730204300 +0800">
+		<title lang="zh">设计“蔡赖共治” 美国安的什么心？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
