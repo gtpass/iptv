@@ -45087,6 +45087,9 @@
 	<programme channel="newtv超级体育" start="20250731023600 +0800" stop="20250731040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250731040000 +0800" stop="20250731053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第18轮 曼彻斯特城-埃弗顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45161,6 +45164,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250731024300 +0800" stop="20250731035800 +0800">
 		<title lang="zh">03_庆余年</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250731035800 +0800" stop="20250731051500 +0800">
+		<title lang="zh">04_庆余年</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -45299,6 +45305,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250731020200 +0800" stop="20250731035300 +0800">
 		<title lang="zh">一见你就笑</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250731035300 +0800" stop="20250731050200 +0800">
+		<title lang="zh">02_铁血使命</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
