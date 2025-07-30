@@ -45327,6 +45327,9 @@
 	<programme channel="newtv超级体育" start="20250731053000 +0800" stop="20250731060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250731060000 +0800" stop="20250731063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45371,6 +45374,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250731051900 +0800" stop="20250731060500 +0800">
 		<title lang="zh">11_我的后半生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250731060500 +0800" stop="20250731065000 +0800">
+		<title lang="zh">12_我的后半生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -45447,6 +45453,9 @@
 	<programme channel="newtv军旅剧场" start="20250731051100 +0800" stop="20250731055100 +0800">
 		<title lang="zh">《超级美味》推荐第1期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250731055100 +0800" stop="20250731070700 +0800">
+		<title lang="zh">03_伏击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -45486,6 +45495,9 @@
 	<programme channel="newtv热播精选" start="20250731050500 +0800" stop="20250731055100 +0800">
 		<title lang="zh">13_青山不墨</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250731055100 +0800" stop="20250731065600 +0800">
+		<title lang="zh">14_青山不墨</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -45497,6 +45509,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250731042300 +0800" stop="20250731054800 +0800">
 		<title lang="zh">05_生活就是家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250731054800 +0800" stop="20250731070400 +0800">
+		<title lang="zh">06_生活就是家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -45587,6 +45602,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250731052100 +0800" stop="20250731054600 +0800">
 		<title lang="zh">朝鲜半岛开年风波不断 台当局幻想“倚美谋独” 亚太在冲突与挑战中寻和平</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250731054600 +0800" stop="20250731061200 +0800">
+		<title lang="zh">美国报复 升级中东危机 北约备战 俄乌和谈无望？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
