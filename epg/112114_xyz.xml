@@ -26847,6 +26847,9 @@
 	<programme channel="咪咕综合体育" start="20250730152000 +0800" stop="20250730160000 +0800">
 		<title lang="zh">国球荣耀-2025WTT美国大满贯 混双决赛 林诗栋/蒯曼-林钟勋/申裕斌</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250730160000 +0800" stop="20250730162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第三期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -26903,6 +26906,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250730155000 +0800" stop="20250730160000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250730160000 +0800" stop="20250730173000 +0800">
+		<title lang="zh">2025国际篮联女篮亚洲杯 小组赛 中国女篮-新西兰女篮</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -64494,6 +64500,9 @@
 	<programme channel="纯享4K" start="20250730153700 +0800" stop="20250730155200 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 油画b7橄榄球运动员</title>
 	</programme>
+	<programme channel="纯享4K" start="20250730155200 +0800" stop="20250730160700 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 国画b7后赤壁赋图卷</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81120,6 +81129,9 @@
 	<programme channel="newtv超级体育" start="20250730143000 +0800" stop="20250730160000 +0800">
 		<title lang="zh">实况录像-2025年中国羽毛球公开赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250730160000 +0800" stop="20250730165500 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81291,6 +81303,9 @@
 	<programme channel="newtv精品大剧" start="20250730152500 +0800" stop="20250730155300 +0800">
 		<title lang="zh">22_鹊刀门传奇</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250730155300 +0800" stop="20250730162800 +0800">
+		<title lang="zh">美国云杉新一代东革阿里黑金能量丸-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -81344,6 +81359,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250730152200 +0800" stop="20250730155200 +0800">
 		<title lang="zh">胜利序曲（下）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250730155200 +0800" stop="20250730164100 +0800">
+		<title lang="zh">第7集：云之南</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -81443,6 +81461,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250730144400 +0800" stop="20250730155500 +0800">
 		<title lang="zh">34_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250730155500 +0800" stop="20250730164000 +0800">
+		<title lang="zh">36_风声</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81858,6 +81879,9 @@
 	<programme channel="newtv军事评论" start="20250730153400 +0800" stop="20250730155600 +0800">
 		<title lang="zh">隔海炮战（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250730155600 +0800" stop="20250730161800 +0800">
+		<title lang="zh">战胜希特勒（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81929,6 +81953,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250730153500 +0800" stop="20250730154800 +0800">
 		<title lang="zh">情深深雨蒙蒙-李萍</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250730160100 +0800" stop="20250730161700 +0800">
+		<title lang="zh">小品《坑》沈腾、马丽、艾伦、常远、宋阳、于健</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
