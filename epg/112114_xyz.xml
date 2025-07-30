@@ -26970,6 +26970,9 @@
 	<programme channel="咪咕综合体育" start="20250730213000 +0800" stop="20250730215500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250730215500 +0800" stop="20250730220000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27050,6 +27053,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250730214000 +0800" stop="20250730215000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250730215000 +0800" stop="20250730233000 +0800">
+		<title lang="zh">当燃CBA-24/25季后赛1/4决赛G2 浙江方兴渡-青岛国信制药</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
