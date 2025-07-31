@@ -45450,6 +45450,9 @@
 	<programme channel="黑莓电影" start="20250801042100 +0800" stop="20250801055400 +0800">
 		<title lang="zh">修复生命</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250801055400 +0800" stop="20250801074000 +0800">
+		<title lang="zh">人在星途</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -45747,6 +45750,9 @@
 	<programme channel="newtv超级体育" start="20250801053000 +0800" stop="20250801060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250801060000 +0800" stop="20250801063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 6</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45860,6 +45866,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250801043600 +0800" stop="20250801055200 +0800">
 		<title lang="zh">05_伏击</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250801055200 +0800" stop="20250801063900 +0800">
+		<title lang="zh">06_伏击</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -46004,6 +46013,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250801052300 +0800" stop="20250801054900 +0800">
 		<title lang="zh">美求助日韩重振造船业 B-52携高超音速导弹现身关岛</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250801054900 +0800" stop="20250801061400 +0800">
+		<title lang="zh">俄首发击毁“海马斯”视频 Sora或助美军布局生成式AI</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
