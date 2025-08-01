@@ -19749,6 +19749,9 @@
 	<programme channel="动作电影" start="20250801201500 +0800" stop="20250801214800 +0800">
 		<title lang="zh">东邪西毒：终极版</title>
 	</programme>
+	<programme channel="动作电影" start="20250801214800 +0800" stop="20250801221800 +0800">
+		<title lang="zh">《美丽飞扬》推荐第一期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -38934,6 +38937,9 @@
 	<programme channel="惊悚悬疑" start="20250801203800 +0800" stop="20250801215600 +0800">
 		<title lang="zh">恐龙侵袭</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250801215600 +0800" stop="20250801222600 +0800">
+		<title lang="zh">《八段锦》推荐第28期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42041,6 +42047,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250801211100 +0800" stop="20250801215600 +0800">
 		<title lang="zh">24_承欢记</title>
+	</programme>
+	<programme channel="明星大片" start="20250801215600 +0800" stop="20250801224100 +0800">
+		<title lang="zh">25_承欢记</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -59207,6 +59216,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250801210600 +0800" stop="20250801215400 +0800">
 		<title lang="zh">11_滤镜</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250801215400 +0800" stop="20250801224800 +0800">
+		<title lang="zh">12_滤镜</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82440,6 +82452,9 @@
 	<programme channel="newtv精品纪录" start="20250801211800 +0800" stop="20250801214800 +0800">
 		<title lang="zh">第九集 转折年代</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250801214800 +0800" stop="20250801221800 +0800">
+		<title lang="zh">原味乡间b7都江堰篇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82590,6 +82605,9 @@
 	<programme channel="newtv军旅剧场" start="20250801212200 +0800" stop="20250801215100 +0800">
 		<title lang="zh">《美丽飞扬》推荐第一期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250801215100 +0800" stop="20250801223700 +0800">
+		<title lang="zh">21_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82737,6 +82755,9 @@
 	<programme channel="newtv热播精选" start="20250801212000 +0800" stop="20250801215000 +0800">
 		<title lang="zh">《八段锦》推荐第28期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250801215000 +0800" stop="20250801223600 +0800">
+		<title lang="zh">35_欢乐颂4</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82803,6 +82824,9 @@
 	<programme channel="newtv爱情喜剧" start="20250801210600 +0800" stop="20250801215400 +0800">
 		<title lang="zh">11_滤镜</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250801215400 +0800" stop="20250801224800 +0800">
+		<title lang="zh">12_滤镜</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82847,6 +82871,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250801201500 +0800" stop="20250801214800 +0800">
 		<title lang="zh">东邪西毒：终极版</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250801214800 +0800" stop="20250801221800 +0800">
+		<title lang="zh">《美丽飞扬》推荐第一期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -83322,6 +83349,9 @@
 	<programme channel="newtv精品综合" start="20250801211100 +0800" stop="20250801215600 +0800">
 		<title lang="zh">24_承欢记</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250801215600 +0800" stop="20250801224100 +0800">
+		<title lang="zh">25_承欢记</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83375,6 +83405,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250801203800 +0800" stop="20250801215600 +0800">
 		<title lang="zh">恐龙侵袭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250801215600 +0800" stop="20250801222600 +0800">
+		<title lang="zh">《八段锦》推荐第28期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
