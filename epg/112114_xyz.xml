@@ -61158,6 +61158,9 @@
 	<programme channel="爱情喜剧" start="20250802112200 +0800" stop="20250802120800 +0800">
 		<title lang="zh">03_蔷薇风暴</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250802120800 +0800" stop="20250802123900 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67103,6 +67106,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250802113200 +0800" stop="20250802121400 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 千年古都新风采</title>
+	</programme>
+	<programme channel="纯享4K" start="20250802121400 +0800" stop="20250802125600 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 麦香渔乐 黄河欢歌</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84225,6 +84231,9 @@
 	<programme channel="newtv超级体育" start="20250802100000 +0800" stop="20250802121500 +0800">
 		<title lang="zh">2025年世界泳联世锦赛(游泳)-女子50米自由泳 预赛 等</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250802121500 +0800" stop="20250802132000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84354,6 +84363,9 @@
 	<programme channel="newtv精品大剧" start="20250802112600 +0800" stop="20250802121100 +0800">
 		<title lang="zh">02_长歌行</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250802121100 +0800" stop="20250802123100 +0800">
+		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84389,6 +84401,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250802112500 +0800" stop="20250802120800 +0800">
 		<title lang="zh">02_人为差错</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250802120800 +0800" stop="20250802125100 +0800">
+		<title lang="zh">03_紧急迫降</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84582,6 +84597,9 @@
 	<programme channel="newtv爱情喜剧" start="20250802112200 +0800" stop="20250802120800 +0800">
 		<title lang="zh">03_蔷薇风暴</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250802120800 +0800" stop="20250802123900 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84665,6 +84683,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250802112300 +0800" stop="20250802120600 +0800">
 		<title lang="zh">21_最好的时代</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250802120600 +0800" stop="20250802124600 +0800">
+		<title lang="zh">《超级美味》推荐第1期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84782,6 +84803,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250802114700 +0800" stop="20250802120900 +0800">
 		<title lang="zh">二〇二四兵器大事件b7战舰风云</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250802120900 +0800" stop="20250802123100 +0800">
+		<title lang="zh">俄乌冲突中的城市攻防战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85022,6 +85046,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250802110400 +0800" stop="20250802120600 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250802120600 +0800" stop="20250802133500 +0800">
+		<title lang="zh">大唐英豪之大漠秋水</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
