@@ -36363,6 +36363,9 @@
 	<programme channel="纯享4K" start="20250803034300 +0800" stop="20250803034800 +0800">
 		<title lang="zh">如果国宝会说话4K 飞天 天衣飞扬</title>
 	</programme>
+	<programme channel="纯享4K" start="20250803034800 +0800" stop="20250803043000 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 大漠豪情中卫美</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -45831,6 +45834,9 @@
 	<programme channel="newtv超级综艺" start="20250803014900 +0800" stop="20250803035300 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250803035300 +0800" stop="20250803042800 +0800">
+		<title lang="zh">动物园里有什么</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45842,6 +45848,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250803023600 +0800" stop="20250803040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250803040000 +0800" stop="20250803053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第24轮 曼彻斯特联-水晶宫(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -45957,6 +45966,9 @@
 	<programme channel="newtv爱情喜剧" start="20250803023500 +0800" stop="20250803040100 +0800">
 		<title lang="zh">19_生活就是家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250803040100 +0800" stop="20250803052600 +0800">
+		<title lang="zh">20_生活就是家</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -45983,6 +45995,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250803025900 +0800" stop="20250803034700 +0800">
 		<title lang="zh">探秘猞猁家族</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250803034700 +0800" stop="20250803043500 +0800">
+		<title lang="zh">漫长的迁徙</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
