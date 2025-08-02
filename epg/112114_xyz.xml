@@ -27030,6 +27030,9 @@
 	<programme channel="咪咕综合体育" start="20250802134500 +0800" stop="20250802140000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250802140000 +0800" stop="20250802174500 +0800">
+		<title lang="zh">一杆定音-2025斯诺克上海大师赛 半决赛第2场 第一阶段 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27068,6 +27071,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250802133500 +0800" stop="20250802141500 +0800">
 		<title lang="zh">西班牙黄金一代02 篮球万岁</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250802141500 +0800" stop="20250802142000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -43307,6 +43313,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250802134600 +0800" stop="20250802141000 +0800">
 		<title lang="zh">49_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="明星大片" start="20250802141000 +0800" stop="20250802145800 +0800">
+		<title lang="zh">美国DoctorSanton免疫包-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -61197,6 +61206,9 @@
 	<programme channel="爱情喜剧" start="20250802132500 +0800" stop="20250802141000 +0800">
 		<title lang="zh">05_蔷薇风暴</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250802141000 +0800" stop="20250802145700 +0800">
+		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67154,6 +67166,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250802133600 +0800" stop="20250802140600 +0800">
 		<title lang="zh">信仰的感召4K 革命长者 何叔衡</title>
+	</programme>
+	<programme channel="纯享4K" start="20250802140600 +0800" stop="20250802145800 +0800">
+		<title lang="zh">遇鉴文明4K 写意绘真 国画与油画</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84258,6 +84273,9 @@
 	<programme channel="newtv超级综艺" start="20250802125700 +0800" stop="20250802141400 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250802141400 +0800" stop="20250802153100 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84396,6 +84414,9 @@
 	<programme channel="newtv超级电视剧" start="20250802131900 +0800" stop="20250802140600 +0800">
 		<title lang="zh">08_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250802140600 +0800" stop="20250802144800 +0800">
+		<title lang="zh">11_海天雄鹰</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84446,6 +84467,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250802133500 +0800" stop="20250802140200 +0800">
 		<title lang="zh">33_鹊刀门传奇</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250802140200 +0800" stop="20250802144900 +0800">
+		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84678,6 +84702,9 @@
 	<programme channel="newtv热播精选" start="20250802132800 +0800" stop="20250802141300 +0800">
 		<title lang="zh">04_前夜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250802141300 +0800" stop="20250802151400 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84719,6 +84746,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250802132500 +0800" stop="20250802141000 +0800">
 		<title lang="zh">05_蔷薇风暴</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250802141000 +0800" stop="20250802145700 +0800">
+		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85056,6 +85086,9 @@
 	<programme channel="newtv精品综合" start="20250802134600 +0800" stop="20250802141000 +0800">
 		<title lang="zh">49_樱桃小丸子 第二季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250802141000 +0800" stop="20250802145800 +0800">
+		<title lang="zh">美国DoctorSanton免疫包-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -85124,6 +85157,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250802134200 +0800" stop="20250802140200 +0800">
 		<title lang="zh">南同虫草菌丝体洋参胶囊01</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250802140200 +0800" stop="20250802160200 +0800">
+		<title lang="zh">一笑一周</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
