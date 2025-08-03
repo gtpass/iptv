@@ -45291,6 +45291,9 @@
 	<programme channel="黑莓动画" start="20250804042200 +0800" stop="20250804054900 +0800">
 		<title lang="zh">棉球方块历险记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250804054900 +0800" stop="20250804071900 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -45501,6 +45504,9 @@
 	<programme channel="newtv超级综艺" start="20250804041200 +0800" stop="20250804054200 +0800">
 		<title lang="zh">金牌喜剧班</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250804054200 +0800" stop="20250804070200 +0800">
+		<title lang="zh">舞蹈世界</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -45519,6 +45525,9 @@
 	<programme channel="newtv超级体育" start="20250804053000 +0800" stop="20250804060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250804060000 +0800" stop="20250804063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 埃及站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45530,6 +45539,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250804035900 +0800" stop="20250804054000 +0800">
 		<title lang="zh">喀什古丽</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250804054000 +0800" stop="20250804071900 +0800">
+		<title lang="zh">横空出世</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45636,6 +45648,9 @@
 	<programme channel="newtv军旅剧场" start="20250804042100 +0800" stop="20250804054700 +0800">
 		<title lang="zh">14_伏击</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250804054700 +0800" stop="20250804063300 +0800">
+		<title lang="zh">15_伏击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -45732,6 +45747,9 @@
 	<programme channel="newtv怡伴健康" start="20250804051600 +0800" stop="20250804060100 +0800">
 		<title lang="zh">13_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250804060100 +0800" stop="20250804064100 +0800">
+		<title lang="zh">《超级美味》推荐第1期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45783,6 +45801,9 @@
 	<programme channel="newtv军事评论" start="20250804053100 +0800" stop="20250804055300 +0800">
 		<title lang="zh">谁是军营厨王（9）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250804055300 +0800" stop="20250804061500 +0800">
+		<title lang="zh">谁是军营厨王（10）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45806,6 +45827,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250804053100 +0800" stop="20250804054900 +0800">
 		<title lang="zh">第3集：顺德b7本味岭南</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250804054900 +0800" stop="20250804062800 +0800">
+		<title lang="zh">管好慢病三字经b7骨质疏松（20240825）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
