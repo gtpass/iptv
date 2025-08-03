@@ -27186,6 +27186,9 @@
 	<programme channel="咪咕综合体育" start="20250803120000 +0800" stop="20250803122500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第四期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250803122500 +0800" stop="20250803124500 +0800">
+		<title lang="zh">中超精华 第18轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39572,6 +39575,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250803113600 +0800" stop="20250803122400 +0800">
 		<title lang="zh">美国DoctorSanton免疫包-渠道（右）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250803122400 +0800" stop="20250803141800 +0800">
+		<title lang="zh">死亡护理师</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -60279,6 +60285,9 @@
 	<programme channel="爱情喜剧" start="20250803115300 +0800" stop="20250803122400 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250803122400 +0800" stop="20250803133900 +0800">
+		<title lang="zh">08_蔷薇风暴</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66110,6 +66119,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250803114000 +0800" stop="20250803122100 +0800">
 		<title lang="zh">远方的家4K 山河锦绣看中国 大漠豪情中卫美</title>
+	</programme>
+	<programme channel="纯享4K" start="20250803122100 +0800" stop="20250803130300 +0800">
+		<title lang="zh">远方的家4K 山河锦绣看中国 移民之城 生态之洲</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -83340,6 +83352,9 @@
 	<programme channel="newtv古装剧场" start="20250803113100 +0800" stop="20250803121700 +0800">
 		<title lang="zh">23_独孤天下</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250803121700 +0800" stop="20250803130400 +0800">
+		<title lang="zh">LECEA超轻结晶钛炒锅-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -83495,6 +83510,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250803115300 +0800" stop="20250803122400 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250803122400 +0800" stop="20250803133900 +0800">
+		<title lang="zh">08_蔷薇风暴</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83822,6 +83840,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250803113600 +0800" stop="20250803122400 +0800">
 		<title lang="zh">美国DoctorSanton免疫包-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250803122400 +0800" stop="20250803141800 +0800">
+		<title lang="zh">死亡护理师</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
