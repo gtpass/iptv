@@ -45282,6 +45282,9 @@
 	<programme channel="newtv超级体育" start="20250804023600 +0800" stop="20250804040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250804040000 +0800" stop="20250804053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第15轮 埃弗顿-利物浦</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -45290,6 +45293,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250804023200 +0800" stop="20250804035900 +0800">
 		<title lang="zh">悬赏缉拿</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250804035900 +0800" stop="20250804054000 +0800">
+		<title lang="zh">喀什古丽</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -45327,6 +45333,9 @@
 	<programme channel="newtv精品大剧" start="20250804024300 +0800" stop="20250804035500 +0800">
 		<title lang="zh">06_老酒馆</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250804035500 +0800" stop="20250804043300 +0800">
+		<title lang="zh">22_西出玉门</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -45338,6 +45347,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250804030100 +0800" stop="20250804035500 +0800">
 		<title lang="zh">瞬息万变</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250804035500 +0800" stop="20250804043800 +0800">
+		<title lang="zh">一刻千金</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -45462,6 +45474,9 @@
 	<programme channel="newtv军事评论" start="20250804030100 +0800" stop="20250804035300 +0800">
 		<title lang="zh">黄会林：我以芳华寄桃李</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250804035300 +0800" stop="20250804044700 +0800">
+		<title lang="zh">常晓忠 梁锋 我在南海当“岛长”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -45522,6 +45537,9 @@
 	<programme channel="newtv精品体育" start="20250804024500 +0800" stop="20250804035000 +0800">
 		<title lang="zh">2024-25赛季德甲联赛第28轮：弗赖堡VS多特蒙德</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250804035000 +0800" stop="20250804053700 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第34轮：美因茨VS勒沃库森</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -45572,6 +45590,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250804025900 +0800" stop="20250804035600 +0800">
 		<title lang="zh">女子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250804035600 +0800" stop="20250804053500 +0800">
+		<title lang="zh">女子太极剑决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
