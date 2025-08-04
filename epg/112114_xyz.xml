@@ -47301,6 +47301,9 @@
 	<programme channel="newtv超级体育" start="20250805053000 +0800" stop="20250805060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250805060000 +0800" stop="20250805063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 埃及站 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47346,6 +47349,9 @@
 	<programme channel="newtv超级电视剧" start="20250805052000 +0800" stop="20250805060600 +0800">
 		<title lang="zh">31_我的后半生</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250805060600 +0800" stop="20250805065100 +0800">
+		<title lang="zh">32_我的后半生</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47366,6 +47372,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250805045100 +0800" stop="20250805055600 +0800">
 		<title lang="zh">27_西出玉门</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250805055600 +0800" stop="20250805063000 +0800">
+		<title lang="zh">28_西出玉门</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47408,6 +47417,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250805043700 +0800" stop="20250805055100 +0800">
 		<title lang="zh">13_天行健</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250805055100 +0800" stop="20250805065200 +0800">
+		<title lang="zh">14_天行健</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47468,6 +47480,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250805045100 +0800" stop="20250805055600 +0800">
 		<title lang="zh">33_青山不墨</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250805055600 +0800" stop="20250805070200 +0800">
+		<title lang="zh">34_青山不墨</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47532,6 +47547,9 @@
 	<programme channel="newtv怡伴健康" start="20250805051600 +0800" stop="20250805060100 +0800">
 		<title lang="zh">15_大武当</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250805060100 +0800" stop="20250805064100 +0800">
+		<title lang="zh">《超级美味》推荐第1期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47558,6 +47576,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250805052100 +0800" stop="20250805055100 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250805055100 +0800" stop="20250805070900 +0800">
+		<title lang="zh">地震避险指南（上）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -47609,6 +47630,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250805043300 +0800" stop="20250805055400 +0800">
 		<title lang="zh">樊锦诗（20220508）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250805055400 +0800" stop="20250805063200 +0800">
+		<title lang="zh">第4期：穿越古今重读边塞诗感悟戍边精神</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
