@@ -38412,6 +38412,9 @@
 	<programme channel="纯享4K" start="20250806013500 +0800" stop="20250806020500 +0800">
 		<title lang="zh">味道4K 穿街走巷b7青县篇（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250806020500 +0800" stop="20250806024500 +0800">
+		<title lang="zh">探索b7发现4K 泉城元墓探秘（1）</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -38633,6 +38636,126 @@
 	</programme>
 	<programme channel="翡翠台" start="20250806050500 +0800" stop="20250806060000 +0800">
 		<title lang="zh">街坊廚神食四方[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806060000 +0800" stop="20250806074000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806074000 +0800" stop="20250806074500 +0800">
+		<title lang="zh">環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806074500 +0800" stop="20250806081000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806081000 +0800" stop="20250806084000 +0800">
+		<title lang="zh">香港早晨[粵] 及 交通消息[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806084000 +0800" stop="20250806090000 +0800">
+		<title lang="zh">香港早晨[粵] 及 周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806090000 +0800" stop="20250806100000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806100000 +0800" stop="20250806100500 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806100500 +0800" stop="20250806103500 +0800">
+		<title lang="zh">我愛玫瑰園#109[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806103500 +0800" stop="20250806113500 +0800">
+		<title lang="zh">川內相親#26[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806113500 +0800" stop="20250806114000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806114000 +0800" stop="20250806121500 +0800">
+		<title lang="zh">交易現場[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806121500 +0800" stop="20250806125000 +0800">
+		<title lang="zh">新派煮意[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806125000 +0800" stop="20250806125500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806125500 +0800" stop="20250806130000 +0800">
+		<title lang="zh">周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806130000 +0800" stop="20250806132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806132000 +0800" stop="20250806141000 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806141000 +0800" stop="20250806144000 +0800">
+		<title lang="zh">呃錢[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806144000 +0800" stop="20250806145000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806145000 +0800" stop="20250806155000 +0800">
+		<title lang="zh">親親我好媽#12[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806155000 +0800" stop="20250806162000 +0800">
+		<title lang="zh">交易現場[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806162000 +0800" stop="20250806165000 +0800">
+		<title lang="zh">櫻桃小丸子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806165000 +0800" stop="20250806172000 +0800">
+		<title lang="zh">Hands Up[粵] 及 成語動畫廊[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806172000 +0800" stop="20250806175000 +0800">
+		<title lang="zh">屁屁偵探[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806175000 +0800" stop="20250806180000 +0800">
+		<title lang="zh">財經新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806180000 +0800" stop="20250806182500 +0800">
+		<title lang="zh">今日有樓睇[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806182500 +0800" stop="20250806183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806183000 +0800" stop="20250806191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806191500 +0800" stop="20250806192500 +0800">
+		<title lang="zh">世界觀[粵] 及 天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806192500 +0800" stop="20250806193000 +0800">
+		<title lang="zh">有理說得清[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806193000 +0800" stop="20250806193500 +0800">
+		<title lang="zh">周遊東涌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806193500 +0800" stop="20250806200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806200000 +0800" stop="20250806203000 +0800">
+		<title lang="zh">愛．回家之開心速遞#2614[粵] 及 外幣匯率[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806203000 +0800" stop="20250806213000 +0800">
+		<title lang="zh">麻雀樂團#8[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806213000 +0800" stop="20250806223000 +0800">
+		<title lang="zh">藏海傳#3[粵/普][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806223000 +0800" stop="20250806230000 +0800">
+		<title lang="zh">玩轉粵東粵北懶人包[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806230000 +0800" stop="20250806231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806231500 +0800" stop="20250806234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806234500 +0800" stop="20250806235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806235000 +0800" stop="20250806235500 +0800">
+		<title lang="zh">天氣報告[粵] 及 潮流生活誌[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20250806235500 +0800" stop="20250806235900 +0800">
+		<title lang="zh">茶是故鄉濃#23[粵]</title>
 	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
@@ -48015,6 +48138,9 @@
 	<programme channel="newtv超级体育" start="20250806010500 +0800" stop="20250806020500 +0800">
 		<title lang="zh">顶级赛事-围棋</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250806020500 +0800" stop="20250806023600 +0800">
+		<title lang="zh">实况录像-2025年世界田联钻石联赛 奥斯陆站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48044,6 +48170,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250806010000 +0800" stop="20250806021200 +0800">
 		<title lang="zh">12_老酒馆</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250806021200 +0800" stop="20250806025400 +0800">
+		<title lang="zh">13_老酒馆</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48087,11 +48216,17 @@
 	<programme channel="newtv热播精选" start="20250806001400 +0800" stop="20250806020800 +0800">
 		<title lang="zh">无畏英雄</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250806020800 +0800" stop="20250806031400 +0800">
+		<title lang="zh">01_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20250806000100 +0800" stop="20250806020600 +0800">
 		<title lang="zh">缘分天定</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250806020600 +0800" stop="20250806033100 +0800">
+		<title lang="zh">34_生活就是家</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48119,6 +48254,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250806012500 +0800" stop="20250806021000 +0800">
 		<title lang="zh">01_紫檀王</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250806021000 +0800" stop="20250806024000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
