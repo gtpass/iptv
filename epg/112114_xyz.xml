@@ -40533,6 +40533,9 @@
 	<programme channel="惊悚悬疑" start="20250806184400 +0800" stop="20250806201800 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250806201800 +0800" stop="20250806204800 +0800">
+		<title lang="zh">《八段锦》推荐第29期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -83823,6 +83826,9 @@
 	<programme channel="newtv精品纪录" start="20250806193300 +0800" stop="20250806202200 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250806202200 +0800" stop="20250806211100 +0800">
+		<title lang="zh">02_伟大的长城</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83897,6 +83903,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250806193600 +0800" stop="20250806202800 +0800">
 		<title lang="zh">01_长相思</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250806202800 +0800" stop="20250806211600 +0800">
+		<title lang="zh">02_长相思</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84393,6 +84402,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250806200000 +0800" stop="20250806203000 +0800">
 		<title lang="zh">《美丽飞扬》推荐第二期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250806203000 +0800" stop="20250806211600 +0800">
+		<title lang="zh">17_林深见鹿</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84618,6 +84630,9 @@
 	<programme channel="newtv炫舞未来" start="20250806192000 +0800" stop="20250806202000 +0800">
 		<title lang="zh">我愿为你发光</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250806202000 +0800" stop="20250806210600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -84731,6 +84746,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250806184400 +0800" stop="20250806201800 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250806201800 +0800" stop="20250806204800 +0800">
+		<title lang="zh">《八段锦》推荐第29期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -84956,6 +84974,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250806194000 +0800" stop="20250806202500 +0800">
 		<title lang="zh">46_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250806202500 +0800" stop="20250806211000 +0800">
+		<title lang="zh">47_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
