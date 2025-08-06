@@ -48051,6 +48051,9 @@
 	<programme channel="newtv超级体育" start="20250807023600 +0800" stop="20250807040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250807040000 +0800" stop="20250807053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第23轮 皇家马德里-马德里竞技(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48080,6 +48083,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250807030500 +0800" stop="20250807035100 +0800">
 		<title lang="zh">45_特战荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250807035100 +0800" stop="20250807043200 +0800">
+		<title lang="zh">01_热血青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
