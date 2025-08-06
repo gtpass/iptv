@@ -28260,6 +28260,9 @@
 	<programme channel="咪咕足球" start="20250806122500 +0800" stop="20250806140500 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第3轮 内蒙古农信-新疆国达氢</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250806141000 +0800" stop="20250806154000 +0800">
+		<title lang="zh">2025国际篮联女篮亚洲杯 小组赛 中国女篮-新西兰女篮</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -43865,6 +43868,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250806133800 +0800" stop="20250806140200 +0800">
 		<title lang="zh">57_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="明星大片" start="20250806140200 +0800" stop="20250806144900 +0800">
+		<title lang="zh">自然之臻人参发酵浓缩液特惠组-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -66360,6 +66366,9 @@
 	<programme channel="纯享4K" start="20250806133600 +0800" stop="20250806140600 +0800">
 		<title lang="zh">美丽中国说4K 白头叶猴</title>
 	</programme>
+	<programme channel="纯享4K" start="20250806140600 +0800" stop="20250806145900 +0800">
+		<title lang="zh">遇鉴文明4K 瑰宝荟萃 故宫与卢浮宫</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83319,6 +83328,9 @@
 	<programme channel="newtv超级电视剧" start="20250806133300 +0800" stop="20250806141400 +0800">
 		<title lang="zh">27_海天雄鹰</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250806141400 +0800" stop="20250806145600 +0800">
+		<title lang="zh">28_海天雄鹰</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83366,6 +83378,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250806125800 +0800" stop="20250806140800 +0800">
 		<title lang="zh">08_鹊刀门传奇2</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250806140800 +0800" stop="20250806143500 +0800">
+		<title lang="zh">09_鹊刀门传奇2</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -83883,6 +83898,9 @@
 	<programme channel="newtv军事评论" start="20250806134000 +0800" stop="20250806140200 +0800">
 		<title lang="zh">全景一战b7突变（下）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250806140200 +0800" stop="20250806142400 +0800">
+		<title lang="zh">全景一战b7落幕（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -83937,6 +83955,9 @@
 	<programme channel="newtv炫舞未来" start="20250806135300 +0800" stop="20250806141400 +0800">
 		<title lang="zh">大山里的一节体能课（20241210）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250806141400 +0800" stop="20250806143600 +0800">
+		<title lang="zh">筋膜枪颈部放松练习（20241203）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83978,6 +83999,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250806133800 +0800" stop="20250806140200 +0800">
 		<title lang="zh">57_樱桃小丸子 第二季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250806140200 +0800" stop="20250806144900 +0800">
+		<title lang="zh">自然之臻人参发酵浓缩液特惠组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -84047,6 +84071,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250806133600 +0800" stop="20250806140700 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250806140700 +0800" stop="20250806152700 +0800">
+		<title lang="zh">一笑一周</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -84158,6 +84185,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250806133100 +0800" stop="20250806141100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250806141100 +0800" stop="20250806145900 +0800">
+		<title lang="zh">47_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
