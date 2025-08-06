@@ -83421,6 +83421,9 @@
 	<programme channel="newtv超级电视剧" start="20250806153700 +0800" stop="20250806161900 +0800">
 		<title lang="zh">30_海天雄鹰</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250806161900 +0800" stop="20250806170700 +0800">
+		<title lang="zh">32_我们的婚姻</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84272,6 +84275,12 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250806140700 +0800" stop="20250806152700 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250806152700 +0800" stop="20250806160600 +0800">
+		<title lang="zh">邻家诗话第5季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250806160600 +0800" stop="20250806165300 +0800">
+		<title lang="zh">自然之臻人参发酵浓缩液特惠组-渠道（右）</title>
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250806152700 +0800" stop="20250806160600 +0800">
 		<title lang="zh">邻家诗话第5季</title>
