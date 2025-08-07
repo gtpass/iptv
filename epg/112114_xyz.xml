@@ -51534,6 +51534,9 @@
 	<programme channel="newtv超级体育" start="20250808023600 +0800" stop="20250808040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250808040000 +0800" stop="20250808053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮 曼彻斯特城-纽卡斯尔联(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51716,6 +51719,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250808025800 +0800" stop="20250808035100 +0800">
 		<title lang="zh">星火燎原 第2集 信念如磐</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250808035100 +0800" stop="20250808044400 +0800">
+		<title lang="zh">星火燎原 第3集 骁勇善战</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
