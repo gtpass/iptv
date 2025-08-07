@@ -28239,6 +28239,9 @@
 	<programme channel="咪咕综合体育" start="20250807185000 +0800" stop="20250807203000 +0800">
 		<title lang="zh">英超赛场-英超夏季系列赛 曼联-伯恩茅斯</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250807203000 +0800" stop="20250807205500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
