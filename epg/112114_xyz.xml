@@ -49761,6 +49761,9 @@
 	<programme channel="newtv超级体育" start="20250809023600 +0800" stop="20250809040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250809040000 +0800" stop="20250809053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第25轮 利物浦-伍尔弗汉普顿</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -49863,6 +49866,9 @@
 	<programme channel="newtv热播精选" start="20250809025500 +0800" stop="20250809040000 +0800">
 		<title lang="zh">16_新居之约</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250809040000 +0800" stop="20250809050600 +0800">
+		<title lang="zh">17_新居之约</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49952,6 +49958,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250809030100 +0800" stop="20250809035200 +0800">
 		<title lang="zh">《笑动剧场2025》20250703 相声《交友之道》</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250809035200 +0800" stop="20250809044200 +0800">
+		<title lang="zh">01_北京</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
