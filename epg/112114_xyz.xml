@@ -20865,6 +20865,9 @@
 	<programme channel="动作电影" start="20250809092600 +0800" stop="20250809105600 +0800">
 		<title lang="zh">缩小人特攻队</title>
 	</programme>
+	<programme channel="动作电影" start="20250809105600 +0800" stop="20250809112600 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -82917,6 +82920,9 @@
 	<programme channel="黑莓电影" start="20250809093200 +0800" stop="20250809105900 +0800">
 		<title lang="zh">红番区</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250809105900 +0800" stop="20250809122700 +0800">
+		<title lang="zh">鲨卷风5</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83940,6 +83946,9 @@
 	<programme channel="newtv超级电视剧" start="20250809101700 +0800" stop="20250809110200 +0800">
 		<title lang="zh">33_爱的二八定律</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250809110200 +0800" stop="20250809114800 +0800">
+		<title lang="zh">34_爱的二八定律</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83975,6 +83984,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250809092900 +0800" stop="20250809105400 +0800">
 		<title lang="zh">28_长歌行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250809105400 +0800" stop="20250809114100 +0800">
+		<title lang="zh">29_长歌行</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84144,6 +84156,9 @@
 	<programme channel="newtv热播精选" start="20250809101000 +0800" stop="20250809104900 +0800">
 		<title lang="zh">茯苓添康健康2</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250809104900 +0800" stop="20250809112500 +0800">
+		<title lang="zh">17_岁岁青莲</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84197,6 +84212,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250809092600 +0800" stop="20250809105600 +0800">
 		<title lang="zh">缩小人特攻队</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250809105600 +0800" stop="20250809112600 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
