@@ -60858,6 +60858,9 @@
 	<programme channel="爱情喜剧" start="20250810210400 +0800" stop="20250810214900 +0800">
 		<title lang="zh">22_三生三世枕上书</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250810214900 +0800" stop="20250810223500 +0800">
+		<title lang="zh">23_三生三世枕上书</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -84195,6 +84198,9 @@
 	<programme channel="newtv超级综艺" start="20250810212400 +0800" stop="20250810220200 +0800">
 		<title lang="zh">动物园里有什么</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250810220200 +0800" stop="20250810225400 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -84248,6 +84254,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250810193000 +0800" stop="20250810215500 +0800">
 		<title lang="zh">2026亚足联女足U20亚洲杯-预选赛(中国队-黎巴嫩队)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250810215500 +0800" stop="20250810003000 +0800">
+		<title lang="zh">2025年英格兰社区盾-(水晶宫-利物浦)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -84711,6 +84720,9 @@
 	<programme channel="newtv军旅剧场" start="20250810211800 +0800" stop="20250810214800 +0800">
 		<title lang="zh">《蜂博园野花蜜推荐》</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250810214800 +0800" stop="20250810223300 +0800">
+		<title lang="zh">14_十送红军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84785,6 +84797,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250810211100 +0800" stop="20250810215700 +0800">
 		<title lang="zh">10_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250810215700 +0800" stop="20250810224300 +0800">
+		<title lang="zh">11_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84932,6 +84947,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250810210400 +0800" stop="20250810214900 +0800">
 		<title lang="zh">22_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250810214900 +0800" stop="20250810223500 +0800">
+		<title lang="zh">23_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85170,6 +85188,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250810210800 +0800" stop="20250810215500 +0800">
 		<title lang="zh">28_林深见鹿</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250810215500 +0800" stop="20250810222500 +0800">
+		<title lang="zh">《蜂博园野花蜜推荐》</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85313,6 +85334,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250810212400 +0800" stop="20250810214900 +0800">
 		<title lang="zh">撞船事件新进展 两岸如何破僵局？</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250810214900 +0800" stop="20250810221400 +0800">
+		<title lang="zh">高调“感恩”李登辉 赖清德媚日添新招</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
