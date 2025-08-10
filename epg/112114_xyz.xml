@@ -47835,6 +47835,9 @@
 	<programme channel="newtv超级综艺" start="20250811015600 +0800" stop="20250811040100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250811040100 +0800" stop="20250811050200 +0800">
+		<title lang="zh">原声天籁——中国民歌盛典</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47846,6 +47849,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250811023800 +0800" stop="20250811040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250811040000 +0800" stop="20250811053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季法甲联赛第22轮 马赛—圣艾蒂安(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47876,6 +47882,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250811030800 +0800" stop="20250811035300 +0800">
 		<title lang="zh">20_山河锦绣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250811035300 +0800" stop="20250811043500 +0800">
+		<title lang="zh">17_热血青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47919,6 +47928,9 @@
 	<programme channel="newtv古装剧场" start="20250811023800 +0800" stop="20250811035500 +0800">
 		<title lang="zh">40_庆余年</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250811035500 +0800" stop="20250811050800 +0800">
+		<title lang="zh">31_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47945,6 +47957,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250811023600 +0800" stop="20250811035200 +0800">
 		<title lang="zh">10_兰桐花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250811035200 +0800" stop="20250811043700 +0800">
+		<title lang="zh">07_烟火人家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
