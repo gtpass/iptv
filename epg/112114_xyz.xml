@@ -47691,6 +47691,9 @@
 	<programme channel="newtv超级综艺" start="20250811011100 +0800" stop="20250811015600 +0800">
 		<title lang="zh">08_功勋</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250811015600 +0800" stop="20250811040100 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47714,6 +47717,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250811005200 +0800" stop="20250811013700 +0800">
 		<title lang="zh">17_山河锦绣</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250811013700 +0800" stop="20250811022300 +0800">
+		<title lang="zh">18_山河锦绣</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
