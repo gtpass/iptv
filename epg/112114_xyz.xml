@@ -80545,6 +80545,9 @@
 	<programme channel="newtv精品纪录" start="20250811154300 +0800" stop="20250811161100 +0800">
 		<title lang="zh">永定林氏——干国家事 读圣贤书（20250226）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250811161100 +0800" stop="20250811163900 +0800">
+		<title lang="zh">金溪陆氏——读书明理 躬身笃行（20250227）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80704,6 +80707,9 @@
 	<programme channel="newtv家庭剧场" start="20250811152300 +0800" stop="20250811160900 +0800">
 		<title lang="zh">22_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250811160900 +0800" stop="20250811165800 +0800">
+		<title lang="zh">帕米便携式氢氧一体机特价款-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80757,6 +80763,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250811152400 +0800" stop="20250811160300 +0800">
 		<title lang="zh">茯苓添康健康2</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250811160300 +0800" stop="20250811164700 +0800">
+		<title lang="zh">32_前夜</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -81078,6 +81087,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250811154300 +0800" stop="20250811160500 +0800">
 		<title lang="zh">二战生死战 冲出撒哈拉</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250811160500 +0800" stop="20250811162700 +0800">
+		<title lang="zh">神舟十八号载人飞行任务纪实</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
