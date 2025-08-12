@@ -28066,6 +28066,9 @@
 	<programme channel="咪咕综合体育" start="20250812213000 +0800" stop="20250812215500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第五期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250812220000 +0800" stop="20250812221500 +0800">
+		<title lang="zh">睛彩圈圈点第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -84325,6 +84328,9 @@
 	<programme channel="newtv超级体育" start="20250812210000 +0800" stop="20250812220000 +0800">
 		<title lang="zh">实况录像-2025年成都世界运动会 (录播)2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250812220000 +0800" stop="20250812230000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84805,6 +84811,9 @@
 	<programme channel="newtv军旅剧场" start="20250812212100 +0800" stop="20250812215100 +0800">
 		<title lang="zh">《蜂博园野花蜜推荐》</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250812215100 +0800" stop="20250812223600 +0800">
+		<title lang="zh">23_十送红军</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84882,6 +84891,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250812211300 +0800" stop="20250812215900 +0800">
 		<title lang="zh">17_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250812215900 +0800" stop="20250812224500 +0800">
+		<title lang="zh">18_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -85186,6 +85198,9 @@
 	<programme channel="newtv怡伴健康" start="20250812211100 +0800" stop="20250812215000 +0800">
 		<title lang="zh">山西清徐学栋vs四川蓉城-第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250812215000 +0800" stop="20250812222500 +0800">
+		<title lang="zh">湖南星火燎原vs北京睿翼精英-第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85425,6 +85440,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250812212800 +0800" stop="20250812215300 +0800">
 		<title lang="zh">大陆巡航台湾海峡 赖清德向美日求援</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250812215300 +0800" stop="20250812221900 +0800">
+		<title lang="zh">菲舰又闯南海 赖清德竟还帮腔</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -85848,6 +85866,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250812213100 +0800" stop="20250812220100 +0800">
 		<title lang="zh">《八段锦》推荐第30期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250812220100 +0800" stop="20250812232500 +0800">
+		<title lang="zh">雪鹰领主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
