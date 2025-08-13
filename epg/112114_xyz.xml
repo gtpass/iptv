@@ -81898,6 +81898,9 @@
 	<programme channel="黑莓动画" start="20250813092200 +0800" stop="20250813104800 +0800">
 		<title lang="zh">奇妙萌可大电影</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250813104800 +0800" stop="20250813121500 +0800">
+		<title lang="zh">葫芦兄弟电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82894,6 +82897,9 @@
 	<programme channel="newtv精品纪录" start="20250813100200 +0800" stop="20250813104600 +0800">
 		<title lang="zh">06_刘宇 国风舞蹈演员 歌手</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250813104600 +0800" stop="20250813111100 +0800">
+		<title lang="zh">01_传承</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82959,6 +82965,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250813094500 +0800" stop="20250813105700 +0800">
 		<title lang="zh">21_热血青春</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250813105700 +0800" stop="20250813113800 +0800">
+		<title lang="zh">22_热血青春</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
