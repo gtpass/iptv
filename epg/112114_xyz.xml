@@ -71551,6 +71551,9 @@
 	<programme channel="超级电影" start="20250813200200 +0800" stop="20250813220600 +0800">
 		<title lang="zh">电影《暮光之城3：月食》</title>
 	</programme>
+	<programme channel="超级电影" start="20250813220600 +0800" stop="20250813234700 +0800">
+		<title lang="zh">电影《游侠》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -83239,6 +83242,9 @@
 	<programme channel="newtv超级体育" start="20250813210000 +0800" stop="20250813220000 +0800">
 		<title lang="zh">实况录像-2025年成都世界运动会 (录播)4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250813220000 +0800" stop="20250813230000 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83286,6 +83292,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250813200200 +0800" stop="20250813220600 +0800">
 		<title lang="zh">电影《暮光之城3：月食》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250813220600 +0800" stop="20250813234700 +0800">
+		<title lang="zh">电影《游侠》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -83548,6 +83557,9 @@
 	<programme channel="newtv精品纪录" start="20250813205900 +0800" stop="20250813214900 +0800">
 		<title lang="zh">01_千古情缘—红楼梦</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250813214900 +0800" stop="20250813221900 +0800">
+		<title lang="zh">山海拾味b7东山篇（下）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83781,6 +83793,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250813211700 +0800" stop="20250813214700 +0800">
 		<title lang="zh">【推荐】雅德荣氨糖软骨素</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250813214700 +0800" stop="20250813223300 +0800">
+		<title lang="zh">22_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
