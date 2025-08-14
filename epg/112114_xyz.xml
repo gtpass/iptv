@@ -50811,6 +50811,9 @@
 	<programme channel="黑莓动画" start="20250815021000 +0800" stop="20250815035100 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250815035100 +0800" stop="20250815053000 +0800">
+		<title lang="zh">01_假面骑士令和第一世代（日语版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51114,6 +51117,9 @@
 	<programme channel="newtv超级体育" start="20250815023600 +0800" stop="20250815040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250815040000 +0800" stop="20250815053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第26轮 马略卡-阿拉维斯(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51146,6 +51152,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250815032700 +0800" stop="20250815040700 +0800">
 		<title lang="zh">07_利刃出击</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250815040700 +0800" stop="20250815044900 +0800">
+		<title lang="zh">33_热血青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
