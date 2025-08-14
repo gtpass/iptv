@@ -84985,6 +84985,9 @@
 	<programme channel="newtv精品纪录" start="20250814095100 +0800" stop="20250814104800 +0800">
 		<title lang="zh">第3集：跨境巨头与淘金者</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250814104800 +0800" stop="20250814113700 +0800">
+		<title lang="zh">帕米便携式氢氧一体机特价款-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85084,6 +85087,9 @@
 	<programme channel="newtv家庭剧场" start="20250814093200 +0800" stop="20250814105500 +0800">
 		<title lang="zh">16_故乡，别来无恙</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250814105500 +0800" stop="20250814121900 +0800">
+		<title lang="zh">17_故乡，别来无恙</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85119,6 +85125,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250814100300 +0800" stop="20250814105600 +0800">
 		<title lang="zh">茯苓添康健康1</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250814105600 +0800" stop="20250814113800 +0800">
+		<title lang="zh">32_岁岁青莲</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -85258,6 +85267,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250814100700 +0800" stop="20250814105200 +0800">
 		<title lang="zh">35_新洛神</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250814105200 +0800" stop="20250814114200 +0800">
+		<title lang="zh">盛世国宝熊猫币珍藏组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85320,6 +85332,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250814103300 +0800" stop="20250814110000 +0800">
 		<title lang="zh">甲弹对抗</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250814110000 +0800" stop="20250814112600 +0800">
+		<title lang="zh">野战防空 弹幕制造者</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
