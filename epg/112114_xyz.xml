@@ -28666,6 +28666,9 @@
 	<programme channel="咪咕综合体育" start="20250815152000 +0800" stop="20250815160000 +0800">
 		<title lang="zh">国球荣耀-2025乒乓球亚洲杯 男单铜牌赛 林诗栋-林昀儒</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250815160000 +0800" stop="20250815162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -86286,6 +86289,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250815152700 +0800" stop="20250815155800 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250815155800 +0800" stop="20250815182900 +0800">
+		<title lang="zh">德云斗笑社</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
