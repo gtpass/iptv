@@ -28582,6 +28582,9 @@
 	<programme channel="咪咕综合体育" start="20250815114000 +0800" stop="20250815120500 +0800">
 		<title lang="zh">中超精华 第18轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250815120500 +0800" stop="20250815123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28635,6 +28638,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250815120000 +0800" stop="20250815120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250815120500 +0800" stop="20250815122000 +0800">
+		<title lang="zh">睛彩圈圈点第五期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44958,6 +44964,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250815112800 +0800" stop="20250815121400 +0800">
 		<title lang="zh">38_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="明星大片" start="20250815121400 +0800" stop="20250815134500 +0800">
+		<title lang="zh">小旋风柴进之逼上梁山</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -84190,6 +84199,9 @@
 	<programme channel="黑莓电影" start="20250815100100 +0800" stop="20250815121200 +0800">
 		<title lang="zh">无名战士</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250815121200 +0800" stop="20250815140600 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -85123,6 +85135,9 @@
 	<programme channel="newtv超级综艺" start="20250815105400 +0800" stop="20250815121100 +0800">
 		<title lang="zh">开门大吉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250815121100 +0800" stop="20250815132700 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85395,6 +85410,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250815112200 +0800" stop="20250815120400 +0800">
 		<title lang="zh">28_热血青春</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250815120400 +0800" stop="20250815124400 +0800">
+		<title lang="zh">《超级美味》推荐第2期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85708,6 +85726,9 @@
 	<programme channel="newtv军事评论" start="20250815115100 +0800" stop="20250815121200 +0800">
 		<title lang="zh">二战中的苏联歌曲——《海港之夜》</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250815121200 +0800" stop="20250815123300 +0800">
+		<title lang="zh">二战中的苏联歌曲——《再见 起伏的群山》</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85800,6 +85821,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250815112800 +0800" stop="20250815121400 +0800">
 		<title lang="zh">38_星汉灿烂b7月升沧海</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250815121400 +0800" stop="20250815134500 +0800">
+		<title lang="zh">小旋风柴进之逼上梁山</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
