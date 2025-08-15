@@ -41646,6 +41646,9 @@
 	<programme channel="纯享4K" start="20250816033800 +0800" stop="20250816034800 +0800">
 		<title lang="zh">秘境之眼4K 成长在冬格措纳湖</title>
 	</programme>
+	<programme channel="纯享4K" start="20250816034800 +0800" stop="20250816043000 +0800">
+		<title lang="zh">远方的家4K 我家那片海 科技赋能 探索海洋</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52812,6 +52815,9 @@
 	<programme channel="newtv超级体育" start="20250816023600 +0800" stop="20250816040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250816040000 +0800" stop="20250816053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第27轮 切尔西-南安普顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52860,6 +52866,9 @@
 	<programme channel="newtv精品大剧" start="20250816024500 +0800" stop="20250816035800 +0800">
 		<title lang="zh">08_黑白密码</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250816035800 +0800" stop="20250816044800 +0800">
+		<title lang="zh">32_长相思</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52877,6 +52886,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250816024400 +0800" stop="20250816034800 +0800">
 		<title lang="zh">02_除障</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250816034800 +0800" stop="20250816045200 +0800">
+		<title lang="zh">03_迷雾</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -53028,11 +53040,17 @@
 	<programme channel="newtv炫舞未来" start="20250816030800 +0800" stop="20250816034600 +0800">
 		<title lang="zh">护好脊柱有法宝（下）（20240726）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250816040000 +0800" stop="20250816040300 +0800">
+		<title lang="zh">广场舞金曲《来吧 朋友》 演唱：郭峰</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
 	<programme channel="newtv精品综合" start="20250816010300 +0800" stop="20250816034900 +0800">
 		<title lang="zh">广东十虎苏灿之卧龙在田</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250816034900 +0800" stop="20250816061000 +0800">
+		<title lang="zh">令人心动的offer第5季</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
