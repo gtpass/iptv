@@ -52581,6 +52581,9 @@
 	<programme channel="newtv超级体育" start="20250817023600 +0800" stop="20250817040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250817040000 +0800" stop="20250817053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第28轮 利物浦-南安普顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52607,6 +52610,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250817031200 +0800" stop="20250817035800 +0800">
 		<title lang="zh">17_利刃出击</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250817035800 +0800" stop="20250817044500 +0800">
+		<title lang="zh">01_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52692,6 +52698,9 @@
 	<programme channel="newtv爱情喜剧" start="20250817023600 +0800" stop="20250817040100 +0800">
 		<title lang="zh">05_承欢记</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250817040100 +0800" stop="20250817052600 +0800">
+		<title lang="zh">06_承欢记</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52772,6 +52781,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250817033700 +0800" stop="20250817035600 +0800">
 		<title lang="zh">你要跳舞吗-毕刚</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250817035600 +0800" stop="20250817051300 +0800">
+		<title lang="zh">纤夫远去号子悠 非遗川江号子唱响舞台（20250510）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
