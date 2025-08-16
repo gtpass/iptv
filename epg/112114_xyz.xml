@@ -28111,6 +28111,9 @@
 	<programme channel="咪咕综合体育" start="20250816152000 +0800" stop="20250816160000 +0800">
 		<title lang="zh">国球荣耀-2025WTT仁川冠军赛 男单决赛 向鹏-李尚洙</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250816160000 +0800" stop="20250816162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第五期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44424,6 +44427,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250816144900 +0800" stop="20250816155900 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="明星大片" start="20250816155900 +0800" stop="20250816170100 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -67960,6 +67966,9 @@
 	<programme channel="纯享4K" start="20250816154300 +0800" stop="20250816155800 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 安法拉瓶</title>
 	</programme>
+	<programme channel="纯享4K" start="20250816155800 +0800" stop="20250816162800 +0800">
+		<title lang="zh">记住乡愁4K第七季 第十一集 富川——潇贺古道上的和美之城</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85474,6 +85483,9 @@
 	<programme channel="newtv超级综艺" start="20250816141400 +0800" stop="20250816160000 +0800">
 		<title lang="zh">故宫之声国宝音乐会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250816160000 +0800" stop="20250816162100 +0800">
+		<title lang="zh">国风超有戏b7寻风季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85680,6 +85692,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250816151700 +0800" stop="20250816155700 +0800">
 		<title lang="zh">09_飞狐外传（4K）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250816155700 +0800" stop="20250816163700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86311,6 +86326,9 @@
 	<programme channel="newtv炫舞未来" start="20250816154100 +0800" stop="20250816155600 +0800">
 		<title lang="zh">哈尼宝贝-毕刚</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250816155600 +0800" stop="20250816163500 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86355,6 +86373,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250816144900 +0800" stop="20250816155900 +0800">
 		<title lang="zh">祛湿专题分享</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250816155900 +0800" stop="20250816170100 +0800">
+		<title lang="zh">17_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
