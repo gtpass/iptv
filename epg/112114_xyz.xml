@@ -85981,6 +85981,9 @@
 	<programme channel="newtv超级综艺" start="20250817212800 +0800" stop="20250817220100 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250817220100 +0800" stop="20250817232200 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -86343,6 +86346,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250817205600 +0800" stop="20250817215100 +0800">
 		<title lang="zh">08_时代随想</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250817215100 +0800" stop="20250817222000 +0800">
+		<title lang="zh">我的家乡菜b7安岳篇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86839,6 +86845,9 @@
 	<programme channel="newtv怡伴健康" start="20250817211400 +0800" stop="20250817215100 +0800">
 		<title lang="zh">天津狼图腾vs广东瑜满珠江-第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250817215100 +0800" stop="20250817222100 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87057,6 +87066,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250817212900 +0800" stop="20250817215400 +0800">
 		<title lang="zh">“台独”翻不了天：台军不想打不敢打</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250817215400 +0800" stop="20250817222000 +0800">
+		<title lang="zh">“台独”翻不了天：赖清德后院起火</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
