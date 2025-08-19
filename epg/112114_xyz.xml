@@ -53232,6 +53232,9 @@
 	<programme channel="newtv超级体育" start="20250820023600 +0800" stop="20250820040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250820040000 +0800" stop="20250820053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
