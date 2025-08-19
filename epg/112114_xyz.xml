@@ -28230,6 +28230,9 @@
 	<programme channel="咪咕综合体育" start="20250819101500 +0800" stop="20250819115500 +0800">
 		<title lang="zh">足球世界-2025赛季女超 第14轮 广东省女足-江苏无锡女足</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250819120500 +0800" stop="20250819123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28280,6 +28283,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250819113500 +0800" stop="20250819120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250819120500 +0800" stop="20250819122000 +0800">
+		<title lang="zh">睛彩圈圈点第六期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -72507,6 +72513,9 @@
 	<programme channel="超级电影" start="20250819102400 +0800" stop="20250819120000 +0800">
 		<title lang="zh">响彻云霄</title>
 	</programme>
+	<programme channel="超级电影" start="20250819120800 +0800" stop="20250819134900 +0800">
+		<title lang="zh">电影《足球少年》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84354,6 +84363,9 @@
 	<programme channel="newtv超级体育" start="20250819103200 +0800" stop="20250819120000 +0800">
 		<title lang="zh">实况录像-2025年中国羽毛球公开赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250819120000 +0800" stop="20250819130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84377,6 +84389,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250819102400 +0800" stop="20250819120000 +0800">
 		<title lang="zh">响彻云霄</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250819120800 +0800" stop="20250819134900 +0800">
+		<title lang="zh">电影《足球少年》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
