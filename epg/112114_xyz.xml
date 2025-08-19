@@ -53379,6 +53379,9 @@
 	<programme channel="newtv超级体育" start="20250820053000 +0800" stop="20250820060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250820060000 +0800" stop="20250820063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -53396,6 +53399,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250820054000 +0800" stop="20250820055500 +0800">
 		<title lang="zh">我和我的祖国：护航</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250820055500 +0800" stop="20250820062900 +0800">
+		<title lang="zh">我和我的父辈：诗</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -53423,6 +53429,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250820050800 +0800" stop="20250820055400 +0800">
 		<title lang="zh">14_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250820055400 +0800" stop="20250820063900 +0800">
+		<title lang="zh">15_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -53652,6 +53661,9 @@
 	<programme channel="newtv军事评论" start="20250820052100 +0800" stop="20250820054700 +0800">
 		<title lang="zh">甲午沉舰的新发现</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250820054700 +0800" stop="20250820061400 +0800">
+		<title lang="zh">跟着老兵修飞机</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53699,6 +53711,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250820042500 +0800" stop="20250820055100 +0800">
 		<title lang="zh">海平面上升</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250820055100 +0800" stop="20250820071800 +0800">
+		<title lang="zh">异形：汇合</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
