@@ -41322,6 +41322,9 @@
 	<programme channel="惊悚悬疑" start="20250820195800 +0800" stop="20250820202800 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250820202800 +0800" stop="20250820214300 +0800">
+		<title lang="zh">怪谈五命河</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -67980,6 +67983,9 @@
 	<programme channel="纯享4K" start="20250820194000 +0800" stop="20250820202200 +0800">
 		<title lang="zh">远方的家4K 我家那片海 红蓝辉映 文化盘锦</title>
 	</programme>
+	<programme channel="纯享4K" start="20250820202200 +0800" stop="20250820210400 +0800">
+		<title lang="zh">远方的家4K 我家那片海 大辽河畔 鱼米之乡</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -73262,6 +73268,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250820191100 +0800" stop="20250820202500 +0800">
 		<title lang="zh">电影《天堂计划》</title>
+	</programme>
+	<programme channel="超级电影" start="20250820202500 +0800" stop="20250820215100 +0800">
+		<title lang="zh">电影《暗影》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -85446,6 +85455,9 @@
 	<programme channel="newtv超级电影" start="20250820191100 +0800" stop="20250820202500 +0800">
 		<title lang="zh">电影《天堂计划》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250820202500 +0800" stop="20250820215100 +0800">
+		<title lang="zh">电影《暗影》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -85604,6 +85616,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250820193700 +0800" stop="20250820202300 +0800">
 		<title lang="zh">24_好事成双</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250820202300 +0800" stop="20250820205300 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85898,6 +85913,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250820194400 +0800" stop="20250820203000 +0800">
 		<title lang="zh">15_梦中的那片海</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250820203000 +0800" stop="20250820210000 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -86385,6 +86403,9 @@
 	<programme channel="newtv军事评论" start="20250820200900 +0800" stop="20250820203100 +0800">
 		<title lang="zh">无上荣光 黄宗德</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250820203100 +0800" stop="20250820205600 +0800">
+		<title lang="zh">特朗普硬要保护费 两岸都不买账</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86579,6 +86600,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250820195800 +0800" stop="20250820202800 +0800">
 		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250820202800 +0800" stop="20250820214300 +0800">
+		<title lang="zh">怪谈五命河</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -86795,6 +86819,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250820193600 +0800" stop="20250820202400 +0800">
 		<title lang="zh">12_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250820202400 +0800" stop="20250820211200 +0800">
+		<title lang="zh">13_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
