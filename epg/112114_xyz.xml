@@ -52170,6 +52170,9 @@
 	<programme channel="黑莓动画" start="20250821022700 +0800" stop="20250821035400 +0800">
 		<title lang="zh">棉球方块历险记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250821035400 +0800" stop="20250821052400 +0800">
+		<title lang="zh">摩登森林之美食总动员</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52485,6 +52488,9 @@
 	<programme channel="newtv超级体育" start="20250821023600 +0800" stop="20250821040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250821040000 +0800" stop="20250821053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 摩纳哥-勒阿弗尔</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52514,6 +52520,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250821025900 +0800" stop="20250821034100 +0800">
 		<title lang="zh">37_利刃出击</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250821034100 +0800" stop="20250821042800 +0800">
+		<title lang="zh">17_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52596,6 +52605,9 @@
 	<programme channel="newtv热播精选" start="20250821024900 +0800" stop="20250821035400 +0800">
 		<title lang="zh">25_狮子山下的故事</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250821035400 +0800" stop="20250821043300 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52665,6 +52677,9 @@
 	<programme channel="newtv军事评论" start="20250821025700 +0800" stop="20250821034900 +0800">
 		<title lang="zh">行进在光荣的战旗下《谁是终极英雄》国防知识挑战赛</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250821034900 +0800" stop="20250821044100 +0800">
+		<title lang="zh">双拥花开春满园 国防知识挑战赛走进山东曲阜</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52679,6 +52694,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250821032800 +0800" stop="20250821034900 +0800">
 		<title lang="zh">追光者——周玲（20250630）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250821034900 +0800" stop="20250821050600 +0800">
+		<title lang="zh">各地文旅出大招（20250602）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
