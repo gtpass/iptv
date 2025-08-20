@@ -52614,6 +52614,9 @@
 	<programme channel="newtv超级综艺" start="20250821050100 +0800" stop="20250821060100 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250821060100 +0800" stop="20250821070100 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52631,6 +52634,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250821053000 +0800" stop="20250821060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250821060000 +0800" stop="20250821063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52673,6 +52679,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250821051100 +0800" stop="20250821055900 +0800">
 		<title lang="zh">19_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250821055900 +0800" stop="20250821064300 +0800">
+		<title lang="zh">20_我和我爸的十七岁</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52847,6 +52856,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250821051100 +0800" stop="20250821060000 +0800">
 		<title lang="zh">22_骊歌行</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250821060000 +0800" stop="20250821064000 +0800">
+		<title lang="zh">美丽人生推荐第一期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
