@@ -44346,6 +44346,9 @@
 	<programme channel="明星大片" start="20250821192500 +0800" stop="20250821201400 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20250821201400 +0800" stop="20250821211000 +0800">
+		<title lang="zh">29_舍不得星星</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -61731,6 +61734,9 @@
 	<programme channel="爱情喜剧" start="20250821192300 +0800" stop="20250821200800 +0800">
 		<title lang="zh">02_香水佳人</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250821200800 +0800" stop="20250821205500 +0800">
+		<title lang="zh">03_香水佳人</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -67769,6 +67775,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250821193400 +0800" stop="20250821201600 +0800">
 		<title lang="zh">远方的家4K 我家那片海 渤海湾里的锦绣之地</title>
+	</programme>
+	<programme channel="纯享4K" start="20250821201600 +0800" stop="20250821205800 +0800">
+		<title lang="zh">远方的家4K 我家那片海 渤海之滨 多彩滨州</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -85170,6 +85179,9 @@
 	<programme channel="newtv精品大剧" start="20250821192500 +0800" stop="20250821201000 +0800">
 		<title lang="zh">28_好事成双</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250821201000 +0800" stop="20250821204000 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85253,6 +85265,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250821193300 +0800" stop="20250821201300 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250821201300 +0800" stop="20250821205600 +0800">
+		<title lang="zh">01_通往权力之路</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -85458,6 +85473,9 @@
 	<programme channel="newtv家庭剧场" start="20250821192600 +0800" stop="20250821201200 +0800">
 		<title lang="zh">19_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250821201200 +0800" stop="20250821204200 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85533,6 +85551,9 @@
 	<programme channel="newtv热播精选" start="20250821191700 +0800" stop="20250821200300 +0800">
 		<title lang="zh">22_梦中的那片海</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250821200300 +0800" stop="20250821204900 +0800">
+		<title lang="zh">23_梦中的那片海</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85592,6 +85613,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250821192300 +0800" stop="20250821200800 +0800">
 		<title lang="zh">02_香水佳人</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250821200800 +0800" stop="20250821205500 +0800">
+		<title lang="zh">03_香水佳人</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85796,6 +85820,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250821185200 +0800" stop="20250821200700 +0800">
 		<title lang="zh">第3期上：五哈冰雪版智勇大冲关</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250821200700 +0800" stop="20250821203700 +0800">
+		<title lang="zh">《八段锦》推荐第31期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86007,6 +86034,9 @@
 	<programme channel="newtv炫舞未来" start="20250821191200 +0800" stop="20250821201200 +0800">
 		<title lang="zh">我的养老金就是我的“底气”</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250821201200 +0800" stop="20250821210100 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -86066,6 +86096,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250821192500 +0800" stop="20250821201400 +0800">
 		<title lang="zh">飞利浦超薄三防全网通手机-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250821201400 +0800" stop="20250821211000 +0800">
+		<title lang="zh">29_舍不得星星</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
