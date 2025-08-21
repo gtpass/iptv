@@ -28347,6 +28347,9 @@
 	<programme channel="咪咕综合体育" start="20250821153000 +0800" stop="20250821155500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250821160000 +0800" stop="20250821162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第六期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -72777,6 +72780,9 @@
 	<programme channel="超级电影" start="20250821143000 +0800" stop="20250821155800 +0800">
 		<title lang="zh">电影《山海战纪2之怪兽之王》</title>
 	</programme>
+	<programme channel="超级电影" start="20250821155800 +0800" stop="20250821171800 +0800">
+		<title lang="zh">电影《东北老丈人》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84936,6 +84942,9 @@
 	<programme channel="newtv超级体育" start="20250821150000 +0800" stop="20250821160000 +0800">
 		<title lang="zh">实况录像-2025年世乒联大满贯赛 瑞典站 单打第二轮等(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250821160000 +0800" stop="20250821180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84968,6 +84977,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250821143000 +0800" stop="20250821155800 +0800">
 		<title lang="zh">电影《山海战纪2之怪兽之王》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250821155800 +0800" stop="20250821171800 +0800">
+		<title lang="zh">电影《东北老丈人》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -85308,6 +85320,9 @@
 	<programme channel="newtv家庭剧场" start="20250821151100 +0800" stop="20250821155100 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250821155100 +0800" stop="20250821170800 +0800">
+		<title lang="zh">24_闪耀的她</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85512,6 +85527,9 @@
 	<programme channel="newtv怡伴健康" start="20250821151400 +0800" stop="20250821155400 +0800">
 		<title lang="zh">美丽人生推荐第一期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250821155400 +0800" stop="20250821163000 +0800">
+		<title lang="zh">剧说心理b7谁的青春不“反常”</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -85662,6 +85680,9 @@
 	<programme channel="newtv军事评论" start="20250821152400 +0800" stop="20250821155100 +0800">
 		<title lang="zh">“星座”级护卫舰的曲折进化之路</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250821155100 +0800" stop="20250821161800 +0800">
+		<title lang="zh">2024国内武器装备大看台）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85721,6 +85742,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250821153100 +0800" stop="20250821155200 +0800">
 		<title lang="zh">全身健康操（20241104）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250821155200 +0800" stop="20250821161400 +0800">
+		<title lang="zh">健身舞《最美最美的中国》（20241001）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85871,6 +85895,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250821134600 +0800" stop="20250821154900 +0800">
 		<title lang="zh">CBA季后赛4月27日：山西VS北京</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250821154900 +0800" stop="20250821173600 +0800">
+		<title lang="zh">CBA季后赛4月26日：浙江方兴渡VS辽宁本钢</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
