@@ -51000,6 +51000,9 @@
 	<programme channel="黑莓电影" start="20250824023800 +0800" stop="20250824040000 +0800">
 		<title lang="zh">倩女仙缘2</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250824040000 +0800" stop="20250824052700 +0800">
+		<title lang="zh">举起手来！</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51222,6 +51225,9 @@
 	<programme channel="newtv超级综艺" start="20250824015400 +0800" stop="20250824040600 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250824040600 +0800" stop="20250824051900 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51231,6 +51237,9 @@
 	<programme channel="newtv超级体育" start="20250824023300 +0800" stop="20250824040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250824040000 +0800" stop="20250824053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第29轮 曼城-布赖顿(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51239,6 +51248,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250824020900 +0800" stop="20250824035000 +0800">
 		<title lang="zh">英国博士东北妞</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250824035000 +0800" stop="20250824043700 +0800">
+		<title lang="zh">法国毒网(上)</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51257,6 +51269,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250824031500 +0800" stop="20250824040000 +0800">
 		<title lang="zh">07_一代枭雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250824040000 +0800" stop="20250824044200 +0800">
+		<title lang="zh">05_在希望的田野上</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51396,6 +51411,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250824031900 +0800" stop="20250824034800 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250824034800 +0800" stop="20250824051300 +0800">
+		<title lang="zh">42_三十而已</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51411,6 +51429,9 @@
 	<programme channel="newtv军事评论" start="20250824025900 +0800" stop="20250824035100 +0800">
 		<title lang="zh">曙光初升耀皖江 国防知识挑战赛走进安庆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250824035100 +0800" stop="20250824044400 +0800">
+		<title lang="zh">《用奋斗托起青春梦想》之三 奋进之光</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51422,6 +51443,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250824033800 +0800" stop="20250824035700 +0800">
 		<title lang="zh">烟雨人间-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250824035700 +0800" stop="20250824041700 +0800">
+		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
