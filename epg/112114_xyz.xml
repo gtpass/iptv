@@ -27453,6 +27453,9 @@
 	<programme channel="咪咕综合体育" start="20250824153000 +0800" stop="20250824155500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250824160000 +0800" stop="20250824162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60441,6 +60444,9 @@
 	<programme channel="爱情喜剧" start="20250824151200 +0800" stop="20250824160100 +0800">
 		<title lang="zh">41_爱的阶梯</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250824160100 +0800" stop="20250824172800 +0800">
+		<title lang="zh">弥天之谎</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83196,6 +83202,9 @@
 	<programme channel="黑莓动画" start="20250824144100 +0800" stop="20250824154700 +0800">
 		<title lang="zh">狐妖小红娘b7月红2</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250824154700 +0800" stop="20250824173800 +0800">
+		<title lang="zh">名侦探柯南：纯黑的恶梦 中文版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84255,6 +84264,9 @@
 	<programme channel="newtv超级电视剧" start="20250824152200 +0800" stop="20250824160800 +0800">
 		<title lang="zh">30_我的后半生</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250824160800 +0800" stop="20250824165400 +0800">
+		<title lang="zh">31_我的后半生</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84465,6 +84477,9 @@
 	<programme channel="newtv军旅剧场" start="20250824144000 +0800" stop="20250824155500 +0800">
 		<title lang="zh">07_再造之恩</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250824155500 +0800" stop="20250824164300 +0800">
+		<title lang="zh">10_梅花红桃</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84512,6 +84527,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250824151800 +0800" stop="20250824155100 +0800">
 		<title lang="zh">03_完美伴侣</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250824155100 +0800" stop="20250824162100 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84570,6 +84588,9 @@
 	<programme channel="newtv热播精选" start="20250824151100 +0800" stop="20250824155600 +0800">
 		<title lang="zh">08_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250824155600 +0800" stop="20250824163500 +0800">
+		<title lang="zh">祛湿专题分享</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84614,6 +84635,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250824151200 +0800" stop="20250824160100 +0800">
 		<title lang="zh">41_爱的阶梯</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250824160100 +0800" stop="20250824172800 +0800">
+		<title lang="zh">弥天之谎</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
