@@ -47436,6 +47436,9 @@
 	<programme channel="newtv精品大剧" start="20250825051400 +0800" stop="20250825060000 +0800">
 		<title lang="zh">08_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250825060000 +0800" stop="20250825064500 +0800">
+		<title lang="zh">09_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47463,6 +47466,9 @@
 	<programme channel="newtv精品纪录" start="20250825052400 +0800" stop="20250825054900 +0800">
 		<title lang="zh">人工智能三剑客</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250825060000 +0800" stop="20250825063500 +0800">
+		<title lang="zh">01_绿能世纪</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47486,6 +47492,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250825051200 +0800" stop="20250825055900 +0800">
 		<title lang="zh">38_神隐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250825055900 +0800" stop="20250825064500 +0800">
+		<title lang="zh">39_神隐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47513,6 +47522,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250825051400 +0800" stop="20250825055800 +0800">
 		<title lang="zh">07_秋蝉</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250825055800 +0800" stop="20250825064600 +0800">
+		<title lang="zh">LECEA富硒水杯惠选款-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47561,6 +47573,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250825050000 +0800" stop="20250825054700 +0800">
 		<title lang="zh">14_三十而已</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250825054700 +0800" stop="20250825061200 +0800">
+		<title lang="zh">古代战场第2季</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47625,6 +47640,9 @@
 	<programme channel="newtv怡伴健康" start="20250825042200 +0800" stop="20250825055600 +0800">
 		<title lang="zh">浴血山河</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250825055600 +0800" stop="20250825064400 +0800">
+		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47676,6 +47694,9 @@
 	<programme channel="newtv军事评论" start="20250825052900 +0800" stop="20250825055500 +0800">
 		<title lang="zh">朝鲜半岛开年风波不断 台当局幻想“倚美谋独” 亚太在冲突与挑战中寻和平</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250825055500 +0800" stop="20250825062000 +0800">
+		<title lang="zh">美国报复 升级中东危机 北约备战 俄乌和谈无望？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47700,6 +47721,9 @@
 	<programme channel="newtv炫舞未来" start="20250825053600 +0800" stop="20250825055800 +0800">
 		<title lang="zh">傣族民间舞蹈（20250624）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250825055800 +0800" stop="20250825061900 +0800">
+		<title lang="zh">象脚鼓舞（20250701）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47717,6 +47741,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250825050600 +0800" stop="20250825055100 +0800">
 		<title lang="zh">29_女人的抗战</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250825055100 +0800" stop="20250825063600 +0800">
+		<title lang="zh">30_女人的抗战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
