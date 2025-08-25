@@ -67707,6 +67707,9 @@
 	<programme channel="超级电影" start="20250825091600 +0800" stop="20250825104700 +0800">
 		<title lang="zh">猎妖记</title>
 	</programme>
+	<programme channel="超级电影" start="20250825104700 +0800" stop="20250825123700 +0800">
+		<title lang="zh">下一站-幸福</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79074,6 +79077,9 @@
 	<programme channel="newtv超级电影" start="20250825091600 +0800" stop="20250825104700 +0800">
 		<title lang="zh">猎妖记</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250825104700 +0800" stop="20250825123700 +0800">
+		<title lang="zh">下一站-幸福</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79221,6 +79227,9 @@
 	<programme channel="newtv精品纪录" start="20250825103300 +0800" stop="20250825105700 +0800">
 		<title lang="zh">03_支撑</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250825105700 +0800" stop="20250825112200 +0800">
+		<title lang="zh">04_盛开</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79262,6 +79271,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250825095900 +0800" stop="20250825104600 +0800">
 		<title lang="zh">35_柳舟记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250825104600 +0800" stop="20250825113300 +0800">
+		<title lang="zh">36_柳舟记</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79355,6 +79367,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250825101200 +0800" stop="20250825105700 +0800">
 		<title lang="zh">27_追爱家族</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250825105700 +0800" stop="20250825113200 +0800">
+		<title lang="zh">07_完美伴侣</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -79557,6 +79572,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250825103400 +0800" stop="20250825105400 +0800">
 		<title lang="zh">16_国际版味道云南</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250825105400 +0800" stop="20250825114200 +0800">
+		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -79619,6 +79637,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250825103500 +0800" stop="20250825105700 +0800">
 		<title lang="zh">谁是军营厨王（2）8</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250825105700 +0800" stop="20250825111900 +0800">
+		<title lang="zh">谁是军营厨王（2）9</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -79751,6 +79772,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250825092200 +0800" stop="20250825105000 +0800">
 		<title lang="zh">心动的信号第7季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250825105000 +0800" stop="20250825113900 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
