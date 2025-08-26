@@ -42582,6 +42582,9 @@
 	<programme channel="明星大片" start="20250826095500 +0800" stop="20250826104000 +0800">
 		<title lang="zh">17_长歌行</title>
 	</programme>
+	<programme channel="明星大片" start="20250826104000 +0800" stop="20250826112900 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -82719,6 +82722,9 @@
 	<programme channel="newtv精品纪录" start="20250826095200 +0800" stop="20250826104200 +0800">
 		<title lang="zh">01_朝鲜停战谈判</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250826104200 +0800" stop="20250826113100 +0800">
+		<title lang="zh">自然之臻阿拉善冬季荒漠肉苁蓉100%纯原浆-渠道（右）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82850,6 +82856,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250826094900 +0800" stop="20250826103400 +0800">
 		<title lang="zh">30_追爱家族</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250826103400 +0800" stop="20250826111900 +0800">
+		<title lang="zh">31_追爱家族</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83016,6 +83025,9 @@
 	<programme channel="newtv怡伴健康" start="20250826102800 +0800" stop="20250826103400 +0800">
 		<title lang="zh">腰椎问题矫正03</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250826104500 +0800" stop="20250826104900 +0800">
+		<title lang="zh">脊柱呼吸01</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83057,6 +83069,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250826095800 +0800" stop="20250826104500 +0800">
 		<title lang="zh">20_乔家的儿女</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250826104500 +0800" stop="20250826110500 +0800">
+		<title lang="zh">17_国际版味道云南</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83213,6 +83228,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250826095500 +0800" stop="20250826104000 +0800">
 		<title lang="zh">17_长歌行</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250826104000 +0800" stop="20250826112900 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
