@@ -59,13 +59,13 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
-| 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | - |
+| 112114.xyz | [112114_xyz.xml](/epg/112114_xyz.xml) | ✅ |
 | fanmingming/live | [fmml.xml](/epg/fmml.xml) | - |
-| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | ✅ |
-| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | ✅ |
-| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | ✅ |
+| 51zmt.top | [51zmt.xml](/epg/51zmt.xml) | - |
+| 51zmt.top cc | [51zmt_cc.xml](/epg/51zmt_cc.xml) | - |
+| 51zmt.top difang | [51zmt_df.xml](/epg/51zmt_df.xml) | - |
 
-Updated at **Tue Aug 26 2025 01:15:06 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Aug 26 2025 01:51:00 GMT+0000 (Coordinated Universal Time)**
 
 See <https://m3u.ibert.me> to get more.
 
