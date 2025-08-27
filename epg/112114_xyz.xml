@@ -51558,6 +51558,9 @@
 	<programme channel="黑莓电影" start="20250828023300 +0800" stop="20250828035200 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250828035200 +0800" stop="20250828051900 +0800">
+		<title lang="zh">绝命狙击</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51792,6 +51795,9 @@
 	<programme channel="newtv超级电视剧" start="20250828030800 +0800" stop="20250828035300 +0800">
 		<title lang="zh">27_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250828035300 +0800" stop="20250828043700 +0800">
+		<title lang="zh">21_在希望的田野上</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51809,6 +51815,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250828031000 +0800" stop="20250828035600 +0800">
 		<title lang="zh">18_画眉</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250828035600 +0800" stop="20250828044100 +0800">
+		<title lang="zh">19_画眉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51852,6 +51861,9 @@
 	<programme channel="newtv古装剧场" start="20250828031500 +0800" stop="20250828040100 +0800">
 		<title lang="zh">09_清平乐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250828040100 +0800" stop="20250828044700 +0800">
+		<title lang="zh">10_清平乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51869,6 +51881,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250828031200 +0800" stop="20250828035600 +0800">
 		<title lang="zh">16_秋蝉</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250828035600 +0800" stop="20250828044000 +0800">
+		<title lang="zh">17_秋蝉</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51902,6 +51917,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250828030200 +0800" stop="20250828034800 +0800">
 		<title lang="zh">27_三十而已</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250828034800 +0800" stop="20250828043400 +0800">
+		<title lang="zh">28_三十而已</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52002,6 +52020,9 @@
 	<programme channel="newtv炫舞未来" start="20250828034200 +0800" stop="20250828035100 +0800">
 		<title lang="zh">我一见你就笑-乌兰图雅</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250828035100 +0800" stop="20250828041500 +0800">
+		<title lang="zh">03_“装”，我们是认真的</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52049,6 +52070,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250828021000 +0800" stop="20250828034900 +0800">
 		<title lang="zh">2024-25赛季英超联赛第36轮：曼联VS西汉姆联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250828034900 +0800" stop="20250828052000 +0800">
+		<title lang="zh">2024-25赛季德甲联赛第32轮：莱比锡VS拜仁慕尼黑</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
