@@ -40161,6 +40161,9 @@
 	<programme channel="惊悚悬疑" start="20250827202100 +0800" stop="20250827215100 +0800">
 		<title lang="zh">雷霆行动</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250827215100 +0800" stop="20250827223900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -71055,6 +71058,9 @@
 	<programme channel="超级电影" start="20250827195700 +0800" stop="20250827214800 +0800">
 		<title lang="zh">电影《金手杖战士》</title>
 	</programme>
+	<programme channel="超级电影" start="20250827214800 +0800" stop="20250827230700 +0800">
+		<title lang="zh">电影《巫师猎人》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -82707,6 +82713,9 @@
 	<programme channel="黑莓动画" start="20250827213900 +0800" stop="20250827215400 +0800">
 		<title lang="zh">21_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250827215400 +0800" stop="20250827220900 +0800">
+		<title lang="zh">22_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83562,6 +83571,9 @@
 	<programme channel="newtv超级综艺" start="20250827205100 +0800" stop="20250827214700 +0800">
 		<title lang="zh">烽火战歌</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250827214700 +0800" stop="20250827225300 +0800">
+		<title lang="zh">选对健康</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83673,6 +83685,9 @@
 	<programme channel="newtv超级电影" start="20250827195700 +0800" stop="20250827214800 +0800">
 		<title lang="zh">电影《金手杖战士》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250827214800 +0800" stop="20250827230700 +0800">
+		<title lang="zh">电影《巫师猎人》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83760,6 +83775,9 @@
 	<programme channel="newtv超级电视剧" start="20250827210600 +0800" stop="20250827215100 +0800">
 		<title lang="zh">06_欢迎光临</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250827215100 +0800" stop="20250827223700 +0800">
+		<title lang="zh">12_好事成双</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83846,6 +83864,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250827210700 +0800" stop="20250827215600 +0800">
 		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250827215600 +0800" stop="20250827224000 +0800">
+		<title lang="zh">05_千古玦尘</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84612,6 +84633,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250827210800 +0800" stop="20250827215600 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊贵组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250827215600 +0800" stop="20250827224200 +0800">
+		<title lang="zh">33_大奉打更人</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84759,6 +84783,9 @@
 	<programme channel="newtv军事评论" start="20250827213500 +0800" stop="20250827220000 +0800">
 		<title lang="zh">台军赔钱退伍暴增 赖清德大抓“共谍”（20250114）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250827220000 +0800" stop="20250827222500 +0800">
+		<title lang="zh">国台办发布会 国台办反问民进党当局何谓“民主”（20250115）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84863,6 +84890,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250827211500 +0800" stop="20250827220100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250827220100 +0800" stop="20250827225100 +0800">
+		<title lang="zh">探访中国钱币博物馆 触摸方寸之间的货币文化（20250429）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -85002,6 +85032,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250827202100 +0800" stop="20250827215100 +0800">
 		<title lang="zh">雷霆行动</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250827215100 +0800" stop="20250827223900 +0800">
+		<title lang="zh">AMOS钛多功能电饭煲惠选款（新）-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85055,6 +85088,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250827210200 +0800" stop="20250827215000 +0800">
 		<title lang="zh">HENGSH恒适艾灸按摩床垫-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250827215000 +0800" stop="20250827011600 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
