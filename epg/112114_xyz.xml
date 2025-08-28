@@ -51645,6 +51645,9 @@
 	<programme channel="newtv超级体育" start="20250829023600 +0800" stop="20250829040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250829040000 +0800" stop="20250829053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第2轮 马赛-巴黎</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51653,6 +51656,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250829022500 +0800" stop="20250829035300 +0800">
 		<title lang="zh">鸽子起舞</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250829035300 +0800" stop="20250829050800 +0800">
+		<title lang="zh">敲开天堂的门</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51690,6 +51696,9 @@
 	<programme channel="newtv精品大剧" start="20250829030100 +0800" stop="20250829034700 +0800">
 		<title lang="zh">22_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250829034700 +0800" stop="20250829043200 +0800">
+		<title lang="zh">23_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51708,6 +51717,9 @@
 	<programme channel="newtv精品纪录" start="20250829025500 +0800" stop="20250829035300 +0800">
 		<title lang="zh">计算机往事——开启人工智能</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250829035300 +0800" stop="20250829041700 +0800">
+		<title lang="zh">人工是怎么智能起来的</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -51723,6 +51735,9 @@
 	<programme channel="newtv古装剧场" start="20250829030300 +0800" stop="20250829035000 +0800">
 		<title lang="zh">18_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250829035000 +0800" stop="20250829043600 +0800">
+		<title lang="zh">13_清平乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -51737,6 +51752,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250829030200 +0800" stop="20250829034800 +0800">
 		<title lang="zh">03_怒放</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250829034800 +0800" stop="20250829043200 +0800">
+		<title lang="zh">20_秋蝉</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -51836,6 +51854,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250829031000 +0800" stop="20250829035600 +0800">
 		<title lang="zh">28_嫣语赋</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250829035600 +0800" stop="20250829044300 +0800">
+		<title lang="zh">29_嫣语赋</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
