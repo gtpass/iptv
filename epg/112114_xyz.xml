@@ -27816,6 +27816,9 @@
 	<programme channel="咪咕综合体育" start="20250829183000 +0800" stop="20250829201000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第13轮 浙江俱乐部绿城-河南俱乐部酒祖杜康</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250829201500 +0800" stop="20250829212500 +0800">
+		<title lang="zh">2025全国跳水冠军赛 男子三米跳板</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -66900,6 +66903,9 @@
 	<programme channel="纯享4K" start="20250829193400 +0800" stop="20250829201600 +0800">
 		<title lang="zh">远方的家4K 我家那片海 粤西明珠 湛江故事</title>
 	</programme>
+	<programme channel="纯享4K" start="20250829201600 +0800" stop="20250829205800 +0800">
+		<title lang="zh">远方的家4K 我家那片海 璀璨深圳 活力闪耀</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83772,6 +83778,9 @@
 	<programme channel="黑莓动画" start="20250829195900 +0800" stop="20250829200400 +0800">
 		<title lang="zh">08_来自西汉的爱心发射器</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250829201400 +0800" stop="20250829201900 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84909,6 +84918,9 @@
 	<programme channel="newtv超级电视剧" start="20250829193100 +0800" stop="20250829201600 +0800">
 		<title lang="zh">10_欢迎光临</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250829201600 +0800" stop="20250829210200 +0800">
+		<title lang="zh">11_欢迎光临</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85271,6 +85283,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250829193200 +0800" stop="20250829200700 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250829200700 +0800" stop="20250829204900 +0800">
+		<title lang="zh">10_北国英雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -85704,6 +85719,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250829192600 +0800" stop="20250829201400 +0800">
 		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250829201400 +0800" stop="20250829210000 +0800">
+		<title lang="zh">36_大奉打更人</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85832,6 +85850,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250829194200 +0800" stop="20250829200400 +0800">
 		<title lang="zh">特级英雄黄继光（三）（20250806）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250829200400 +0800" stop="20250829202600 +0800">
+		<title lang="zh">特级英雄黄继光（四）（20250807）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86252,6 +86273,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250829192200 +0800" stop="20250829200800 +0800">
 		<title lang="zh">10_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250829200800 +0800" stop="20250829205300 +0800">
+		<title lang="zh">11_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
