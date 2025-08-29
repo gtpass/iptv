@@ -20685,6 +20685,9 @@
 	<programme channel="动作电影" start="20250829111200 +0800" stop="20250829114700 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme>
+	<programme channel="动作电影" start="20250829114700 +0800" stop="20250829134100 +0800">
+		<title lang="zh">西风烈</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27767,6 +27770,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250829113500 +0800" stop="20250829115500 +0800">
 		<title lang="zh">薪火相传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250829115500 +0800" stop="20250829120500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -39959,6 +39965,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250829103500 +0800" stop="20250829120000 +0800">
 		<title lang="zh">涉嫌之人</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250829120000 +0800" stop="20250829124800 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -71724,6 +71733,9 @@
 	<programme channel="超级电影" start="20250829102200 +0800" stop="20250829115900 +0800">
 		<title lang="zh">终极匹配</title>
 	</programme>
+	<programme channel="超级电影" start="20250829115900 +0800" stop="20250829120700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -84414,6 +84426,9 @@
 	<programme channel="newtv超级体育" start="20250829090000 +0800" stop="20250829120000 +0800">
 		<title lang="zh">2025年美国网球公开赛-第2轮2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250829120000 +0800" stop="20250829130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84434,6 +84449,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250829102200 +0800" stop="20250829115900 +0800">
 		<title lang="zh">终极匹配</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250829115900 +0800" stop="20250829120700 +0800">
+		<title lang="zh">音乐电影欣赏</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -84482,6 +84500,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250829111000 +0800" stop="20250829115500 +0800">
 		<title lang="zh">38_谢谢你医生</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250829115500 +0800" stop="20250829124000 +0800">
+		<title lang="zh">39_谢谢你医生</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -84744,6 +84765,9 @@
 	<programme channel="newtv家庭剧场" start="20250829112300 +0800" stop="20250829120000 +0800">
 		<title lang="zh">23_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250829120000 +0800" stop="20250829123600 +0800">
+		<title lang="zh">24_完美伴侣</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84864,6 +84888,9 @@
 	<programme channel="newtv动作电影" start="20250829111200 +0800" stop="20250829114700 +0800">
 		<title lang="zh">美国云杉新一代强力PPC结节通-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250829114700 +0800" stop="20250829134100 +0800">
+		<title lang="zh">西风烈</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -84908,6 +84935,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250829110800 +0800" stop="20250829115600 +0800">
 		<title lang="zh">AMOS钛多功能电饭煲惠选款</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250829115600 +0800" stop="20250829140500 +0800">
+		<title lang="zh">京剧《状元媒》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -84956,6 +84986,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250829113300 +0800" stop="20250829115300 +0800">
 		<title lang="zh">20_国际版味道云南</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250829115300 +0800" stop="20250829123900 +0800">
+		<title lang="zh">31_伏击</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -85149,6 +85182,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250829103500 +0800" stop="20250829120000 +0800">
 		<title lang="zh">涉嫌之人</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250829120000 +0800" stop="20250829124800 +0800">
+		<title lang="zh">英国奥戈那负离子空气循环扇-渠道（右）</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -85184,6 +85220,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250829110500 +0800" stop="20250829120200 +0800">
 		<title lang="zh">环球综艺秀（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250829120200 +0800" stop="20250829131400 +0800">
+		<title lang="zh">艾嘉食堂</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
