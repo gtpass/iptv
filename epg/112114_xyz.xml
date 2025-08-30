@@ -47223,6 +47223,9 @@
 	<programme channel="newtv超级综艺" start="20250831030400 +0800" stop="20250831035400 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250831035400 +0800" stop="20250831052500 +0800">
+		<title lang="zh">诗画中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47231,6 +47234,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250831023600 +0800" stop="20250831040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 6</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250831040000 +0800" stop="20250831053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第2轮 布伦特福德-阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47280,6 +47286,9 @@
 	<programme channel="newtv精品大剧" start="20250831030100 +0800" stop="20250831034700 +0800">
 		<title lang="zh">06_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250831034700 +0800" stop="20250831043200 +0800">
+		<title lang="zh">07_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47303,6 +47312,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250831032000 +0800" stop="20250831035000 +0800">
 		<title lang="zh">第一集：气蕴华夏</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250831035000 +0800" stop="20250831042000 +0800">
+		<title lang="zh">第二集：追风逐日</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47427,6 +47439,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250831031400 +0800" stop="20250831035800 +0800">
 		<title lang="zh">06_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250831035800 +0800" stop="20250831044300 +0800">
+		<title lang="zh">07_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47489,6 +47504,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250831023200 +0800" stop="20250831040100 +0800">
 		<title lang="zh">终极审判</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250831040100 +0800" stop="20250831052300 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
