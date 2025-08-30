@@ -47088,6 +47088,9 @@
 	<programme channel="newtv超级综艺" start="20250831010500 +0800" stop="20250831015100 +0800">
 		<title lang="zh">02_绽放的许开心</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250831015100 +0800" stop="20250831030400 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47099,6 +47102,9 @@
 	</channel>
 	<programme channel="newtv超级电影" start="20250831000100 +0800" stop="20250831014900 +0800">
 		<title lang="zh">搜救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250831014900 +0800" stop="20250831031800 +0800">
+		<title lang="zh">天眼风云</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47133,6 +47139,9 @@
 	<programme channel="newtv精品纪录" start="20250831012000 +0800" stop="20250831015000 +0800">
 		<title lang="zh">《顶尖科学》 20250108 化学里的“灵丹妙药”</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250831015000 +0800" stop="20250831022000 +0800">
+		<title lang="zh">《顶尖科学》 20250109 绿色能源革命</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47142,6 +47151,9 @@
 	<programme channel="newtv古装剧场" start="20250831011100 +0800" stop="20250831015800 +0800">
 		<title lang="zh">24_大奉打更人</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250831015800 +0800" stop="20250831024400 +0800">
+		<title lang="zh">25_大奉打更人</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47150,6 +47162,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250831011200 +0800" stop="20250831015700 +0800">
 		<title lang="zh">09_怒放</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250831015700 +0800" stop="20250831024300 +0800">
+		<title lang="zh">10_怒放</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47165,6 +47180,9 @@
 	</channel>
 	<programme channel="newtv热播精选" start="20250831002100 +0800" stop="20250831015900 +0800">
 		<title lang="zh">八卦掌之潜龙勿用</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250831015900 +0800" stop="20250831024400 +0800">
+		<title lang="zh">41_三十而已</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -47190,6 +47208,9 @@
 	<programme channel="newtv怡伴健康" start="20250831013800 +0800" stop="20250831015200 +0800">
 		<title lang="zh">02_中国传统音乐录音档案</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250831015200 +0800" stop="20250831042200 +0800">
+		<title lang="zh">京剧《锁麟囊》 表演者：张火丁 徐畅</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47207,6 +47228,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250831010000 +0800" stop="20250831015400 +0800">
 		<title lang="zh">春节特别节目“老兵的和美乡村年”（二）“破圈”路上的“新农人（20250201）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250831015400 +0800" stop="20250831024700 +0800">
+		<title lang="zh">春节特别节目“老兵的和美乡村年”（三）多彩的新春家宴（20250208）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47291,6 +47315,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250831002600 +0800" stop="20250831015100 +0800">
 		<title lang="zh">挑灯斩蛇录</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250831015100 +0800" stop="20250831030600 +0800">
+		<title lang="zh">狄仁杰之伏妖篇</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
