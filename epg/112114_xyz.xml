@@ -83919,6 +83919,9 @@
 	<programme channel="newtv家庭剧场" start="20250830192100 +0800" stop="20250830200600 +0800">
 		<title lang="zh">23_向幸福出发</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250830200600 +0800" stop="20250830205200 +0800">
+		<title lang="zh">28_三十而已</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84194,6 +84197,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250830191500 +0800" stop="20250830200100 +0800">
 		<title lang="zh">22_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250830200100 +0800" stop="20250830203600 +0800">
+		<title lang="zh">美国云杉新一代强力PPC结节通</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
