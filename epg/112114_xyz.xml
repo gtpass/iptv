@@ -60060,6 +60060,9 @@
 	<programme channel="爱情喜剧" start="20250831191700 +0800" stop="20250831200300 +0800">
 		<title lang="zh">24_独爱一生</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250831200300 +0800" stop="20250831205000 +0800">
+		<title lang="zh">25_独爱一生</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82905,6 +82908,9 @@
 	<programme channel="黑莓动画" start="20250831195400 +0800" stop="20250831200900 +0800">
 		<title lang="zh">14_喜羊羊与灰太狼之嘻哈闯世界之三</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250831200900 +0800" stop="20250831202400 +0800">
+		<title lang="zh">15_喜羊羊与灰太狼之嘻哈闯世界之三</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -84258,6 +84264,9 @@
 	<programme channel="newtv精品纪录" start="20250831191900 +0800" stop="20250831200600 +0800">
 		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250831200600 +0800" stop="20250831205300 +0800">
+		<title lang="zh">百年巨匠 蒋兆和</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84338,6 +84347,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250831193100 +0800" stop="20250831201300 +0800">
 		<title lang="zh">17_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250831201300 +0800" stop="20250831205900 +0800">
+		<title lang="zh">17_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -84504,6 +84516,9 @@
 	<programme channel="newtv家庭剧场" start="20250831192900 +0800" stop="20250831201400 +0800">
 		<title lang="zh">27_向幸福出发</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250831201400 +0800" stop="20250831205800 +0800">
+		<title lang="zh">28_向幸福出发</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84644,6 +84659,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250831191700 +0800" stop="20250831200300 +0800">
 		<title lang="zh">24_独爱一生</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250831200300 +0800" stop="20250831205000 +0800">
+		<title lang="zh">25_独爱一生</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -85056,6 +85074,9 @@
 	<programme channel="newtv炫舞未来" start="20250831191600 +0800" stop="20250831201600 +0800">
 		<title lang="zh">我的养老金就是我的“底气”</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250831201600 +0800" stop="20250831210400 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85262,6 +85283,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250831194600 +0800" stop="20250831201600 +0800">
 		<title lang="zh">非日常恋爱</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250831201600 +0800" stop="20250831212600 +0800">
+		<title lang="zh">令人心动的offer第6季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
