@@ -25614,6 +25614,9 @@
 	<programme channel="咪咕综合体育" start="20250901160500 +0800" stop="20250901161000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250901161000 +0800" stop="20250901175000 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第8轮 北京国安-山东泰山</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37547,6 +37550,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250901144500 +0800" stop="20250901160300 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250901160300 +0800" stop="20250901165100 +0800">
+		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -57561,6 +57567,9 @@
 	<programme channel="爱情喜剧" start="20250901151400 +0800" stop="20250901160300 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250901160300 +0800" stop="20250901164900 +0800">
+		<title lang="zh">独爱一生第27集</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63510,6 +63519,9 @@
 	<programme channel="纯享4K" start="20250901154200 +0800" stop="20250901160700 +0800">
 		<title lang="zh">在乡村4K 第2集 磑子坝的春天（下）</title>
 	</programme>
+	<programme channel="纯享4K" start="20250901160700 +0800" stop="20250901163700 +0800">
+		<title lang="zh">记住乡愁4K第七季 第四十四集 开封——一城宋韵半城水（上）</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -68081,6 +68093,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250901141400 +0800" stop="20250901161200 +0800">
 		<title lang="zh">电影《他和她的故事》</title>
+	</programme>
+	<programme channel="超级电影" start="20250901161200 +0800" stop="20250901174300 +0800">
+		<title lang="zh">电影《路尽骄阳》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -79575,6 +79590,9 @@
 	<programme channel="newtv超级电影" start="20250901141400 +0800" stop="20250901161200 +0800">
 		<title lang="zh">电影《他和她的故事》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250901161200 +0800" stop="20250901174300 +0800">
+		<title lang="zh">电影《路尽骄阳》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79769,6 +79787,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250901154900 +0800" stop="20250901161400 +0800">
 		<title lang="zh">长江刀鲚 下（20250225）</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250901161400 +0800" stop="20250901163900 +0800">
+		<title lang="zh">江南有苕溪 第1集 天目（20250226）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -80073,6 +80094,9 @@
 	<programme channel="newtv爱情喜剧" start="20250901151400 +0800" stop="20250901160300 +0800">
 		<title lang="zh">Healthwow100%南极磷虾油高吸收尊享装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250901160300 +0800" stop="20250901164900 +0800">
+		<title lang="zh">独爱一生第27集</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -80159,6 +80183,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250901160000 +0800" stop="20250901160400 +0800">
 		<title lang="zh">热身准备跟练</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250901160400 +0800" stop="20250901162600 +0800">
+		<title lang="zh">进阶热身</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80334,6 +80361,9 @@
 	<programme channel="newtv军事评论" start="20250901154200 +0800" stop="20250901160400 +0800">
 		<title lang="zh">热点冲突冷思考b7无人机较量</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250901160400 +0800" stop="20250901162600 +0800">
+		<title lang="zh">深蓝脉动 解码战舰里的中国力量（2）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80507,6 +80537,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250901144500 +0800" stop="20250901160300 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250901160300 +0800" stop="20250901165100 +0800">
+		<title lang="zh">双峰驼王新疆有机纯驼乳粉（新）-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
