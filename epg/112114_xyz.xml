@@ -47049,6 +47049,9 @@
 	<programme channel="newtv超级体育" start="20250902023600 +0800" stop="20250902040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250902040000 +0800" stop="20250902053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 南特-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47100,6 +47103,9 @@
 	<programme channel="newtv精品大剧" start="20250902030300 +0800" stop="20250902034900 +0800">
 		<title lang="zh">34_画眉</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250902034900 +0800" stop="20250902043400 +0800">
+		<title lang="zh">35_画眉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47135,6 +47141,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250902031600 +0800" stop="20250902040100 +0800">
 		<title lang="zh">29_清平乐</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250902040100 +0800" stop="20250902044600 +0800">
+		<title lang="zh">30_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -47184,6 +47193,9 @@
 	<programme channel="newtv热播精选" start="20250902031100 +0800" stop="20250902035800 +0800">
 		<title lang="zh">09_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250902035800 +0800" stop="20250902044300 +0800">
+		<title lang="zh">10_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47198,6 +47210,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250902030700 +0800" stop="20250902035400 +0800">
 		<title lang="zh">15_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250902035400 +0800" stop="20250902044000 +0800">
+		<title lang="zh">16_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -47229,6 +47244,9 @@
 	<programme channel="newtv怡伴健康" start="20250902033500 +0800" stop="20250902040000 +0800">
 		<title lang="zh">02_南b7鱼龙舞南溟</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250902040000 +0800" stop="20250902042500 +0800">
+		<title lang="zh">03_西b7云霞绕西岭</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47244,6 +47262,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250902030600 +0800" stop="20250902035200 +0800">
 		<title lang="zh">18_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250902035200 +0800" stop="20250902043800 +0800">
+		<title lang="zh">19_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -47258,6 +47279,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250902025400 +0800" stop="20250902034600 +0800">
 		<title lang="zh">学雷锋精神 当服务标兵——走进雷锋生前部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250902034600 +0800" stop="20250902043900 +0800">
+		<title lang="zh">精武强能砺刀锋 走进武警第二机动总队某支队</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47324,6 +47348,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20250902021100 +0800" stop="20250902034700 +0800">
 		<title lang="zh">2024-25赛季西甲联赛第33轮：巴塞罗那VS马略卡</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20250902034700 +0800" stop="20250902052300 +0800">
+		<title lang="zh">2024-25赛季英超联赛第33轮：埃弗顿VS曼城</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
