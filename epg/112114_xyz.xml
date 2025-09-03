@@ -47031,6 +47031,9 @@
 	<programme channel="newtv超级电视剧" start="20250904011200 +0800" stop="20250904015700 +0800">
 		<title lang="zh">15_大潮如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250904015700 +0800" stop="20250904024200 +0800">
+		<title lang="zh">16_大潮如歌</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47072,6 +47075,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250904010300 +0800" stop="20250904014900 +0800">
 		<title lang="zh">25_怒放</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250904014900 +0800" stop="20250904023400 +0800">
+		<title lang="zh">26_怒放</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47133,6 +47139,9 @@
 	<programme channel="newtv军事评论" start="20250904010500 +0800" stop="20250904015900 +0800">
 		<title lang="zh">春节特别节目“老兵的和美乡村年”（二）“破圈”路上的“新农人</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250904015900 +0800" stop="20250904025200 +0800">
+		<title lang="zh">春节特别节目“老兵的和美乡村年”（三）多彩的新春家宴</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47159,6 +47168,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20250904003300 +0800" stop="20250904014900 +0800">
 		<title lang="zh">越战越勇（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250904014900 +0800" stop="20250904023900 +0800">
+		<title lang="zh">我的艺术清单</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -47210,6 +47222,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20250904003800 +0800" stop="20250904015900 +0800">
 		<title lang="zh">兰若行者</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250904015900 +0800" stop="20250904031000 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
