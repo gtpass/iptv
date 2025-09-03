@@ -47163,6 +47163,9 @@
 	<programme channel="newtv超级体育" start="20250904023600 +0800" stop="20250904040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250904040000 +0800" stop="20250904053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第2轮 布伦特福德-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47232,6 +47235,9 @@
 	<programme channel="newtv精品纪录" start="20250904025900 +0800" stop="20250904035700 +0800">
 		<title lang="zh">计算机往事——开启人工智能</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250904035700 +0800" stop="20250904042200 +0800">
+		<title lang="zh">人工是怎么智能起来的</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47298,6 +47304,9 @@
 	<programme channel="newtv热播精选" start="20250904030200 +0800" stop="20250904034800 +0800">
 		<title lang="zh">19_亲爱的，你在哪里</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250904034800 +0800" stop="20250904043400 +0800">
+		<title lang="zh">20_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47351,6 +47360,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250904031400 +0800" stop="20250904035900 +0800">
 		<title lang="zh">31_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250904035900 +0800" stop="20250904044600 +0800">
+		<title lang="zh">32_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
