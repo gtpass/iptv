@@ -51528,6 +51528,9 @@
 	<programme channel="黑莓电影" start="20250905021200 +0800" stop="20250905035400 +0800">
 		<title lang="zh">警察故事4：简单任务</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250905035400 +0800" stop="20250905051900 +0800">
+		<title lang="zh">黄飞鸿之武神林世荣</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51813,6 +51816,9 @@
 	<programme channel="newtv超级体育" start="20250905023600 +0800" stop="20250905040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250905040000 +0800" stop="20250905053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第2轮 马赛-巴黎</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51864,6 +51870,9 @@
 	<programme channel="newtv精品大剧" start="20250905030400 +0800" stop="20250905035000 +0800">
 		<title lang="zh">08_天狼星行动</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250905035000 +0800" stop="20250905043600 +0800">
+		<title lang="zh">09_天狼星行动</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51881,6 +51890,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250905033500 +0800" stop="20250905035900 +0800">
 		<title lang="zh">02_除障</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250905035900 +0800" stop="20250905042400 +0800">
+		<title lang="zh">03_迷雾</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
