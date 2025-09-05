@@ -47790,6 +47790,9 @@
 	<programme channel="newtv超级体育" start="20250906030000 +0800" stop="20250906060000 +0800">
 		<title lang="zh">2025年美国网球公开赛-男单半决赛1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250906060000 +0800" stop="20250906063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47871,6 +47874,9 @@
 	<programme channel="newtv精品纪录" start="20250906043000 +0800" stop="20250906055900 +0800">
 		<title lang="zh">02_医 健康</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250906055900 +0800" stop="20250906072300 +0800">
+		<title lang="zh">02_节水优先</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47903,6 +47909,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250906044900 +0800" stop="20250906053300 +0800">
 		<title lang="zh">03_英雄使命</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250906053300 +0800" stop="20250906060300 +0800">
+		<title lang="zh">黑藤黑根俪缇植物黑发霜</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47985,6 +47994,9 @@
 	<programme channel="newtv怡伴健康" start="20250906050400 +0800" stop="20250906055300 +0800">
 		<title lang="zh">30_骊歌行</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250906055300 +0800" stop="20250906063300 +0800">
+		<title lang="zh">太空骨王骨胶原蛋白肽</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -48002,6 +48014,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250906045900 +0800" stop="20250906054400 +0800">
 		<title lang="zh">42_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250906054400 +0800" stop="20250906061300 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48030,6 +48045,9 @@
 	<programme channel="newtv军事评论" start="20250906051400 +0800" stop="20250906053900 +0800">
 		<title lang="zh">朝鲜半岛开年风波不断 台当局幻想“倚美谋独” 亚太在冲突与挑战中寻和平（20240210）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250906053900 +0800" stop="20250906060400 +0800">
+		<title lang="zh">美国报复 升级中东危机 北约备战 俄乌和谈无望？（20240211）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48051,6 +48069,9 @@
 	<programme channel="newtv炫舞未来" start="20250906041700 +0800" stop="20250906053400 +0800">
 		<title lang="zh">零零后男孩捏出大英博物馆同款水月观音（20250423）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250906055600 +0800" stop="20250906061800 +0800">
+		<title lang="zh">象脚鼓舞（20250701）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48062,6 +48083,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250906043300 +0800" stop="20250906055600 +0800">
 		<title lang="zh">01_狐影</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250906055600 +0800" stop="20250906070900 +0800">
+		<title lang="zh">02_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
