@@ -27504,6 +27504,9 @@
 	<programme channel="咪咕综合体育" start="20250906153000 +0800" stop="20250906155500 +0800">
 		<title lang="zh">欧陆足球版图</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250906160000 +0800" stop="20250906162500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第七期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27551,6 +27554,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250906154500 +0800" stop="20250906155000 +0800">
 		<title lang="zh">睛彩AI速报</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250906155000 +0800" stop="20250906173000 +0800">
+		<title lang="zh">当燃CBA-24/25赛季季后赛12进8淘汰赛G2 上海久事-广东东阳光</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -83530,6 +83536,9 @@
 	<programme channel="newtv超级电视剧" start="20250906151400 +0800" stop="20250906155000 +0800">
 		<title lang="zh">17_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250906155000 +0800" stop="20250906163500 +0800">
+		<title lang="zh">41_三十而已</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -83584,6 +83593,9 @@
 	<programme channel="newtv精品大剧" start="20250906152700 +0800" stop="20250906155700 +0800">
 		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250906155700 +0800" stop="20250906172100 +0800">
+		<title lang="zh">20_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83637,6 +83649,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250906154500 +0800" stop="20250906155500 +0800">
 		<title lang="zh">第11集：云南昭通 铁板烧</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250906155500 +0800" stop="20250906160500 +0800">
+		<title lang="zh">第12集：安徽安庆 煎饺</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84016,6 +84031,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250906151100 +0800" stop="20250906155600 +0800">
 		<title lang="zh">37_女人的抗战</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250906155600 +0800" stop="20250906162600 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84118,6 +84136,9 @@
 	<programme channel="newtv军事评论" start="20250906152600 +0800" stop="20250906154800 +0800">
 		<title lang="zh">T-80坦克卷土重来（20240115）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250906154800 +0800" stop="20250906160900 +0800">
+		<title lang="zh">俄乌冲突中的防空伏击战（20240116）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84183,6 +84204,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250906154400 +0800" stop="20250906154900 +0800">
 		<title lang="zh">站着等你三千年-孙爱迪（舞蹈展示）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250906155800 +0800" stop="20250906160200 +0800">
+		<title lang="zh">送情郎</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -84417,6 +84441,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250906142700 +0800" stop="20250906155100 +0800">
 		<title lang="zh">10_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250906155100 +0800" stop="20250906171400 +0800">
+		<title lang="zh">11_千古玦尘</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
