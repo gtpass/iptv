@@ -15372,6 +15372,9 @@
 	<programme channel="咪咕综合体育" start="20250907033000 +0800" stop="20250907040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250907040000 +0800" stop="20250907061000 +0800">
+		<title lang="zh">网球世界-2025美国网球公开赛 女单决赛 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46965,6 +46968,9 @@
 	<programme channel="newtv超级体育" start="20250907023600 +0800" stop="20250907040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250907040000 +0800" stop="20250907063000 +0800">
+		<title lang="zh">2025年美国网球公开赛-女单决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46994,6 +47000,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250907031400 +0800" stop="20250907035900 +0800">
 		<title lang="zh">33_大潮如歌</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250907035900 +0800" stop="20250907044700 +0800">
+		<title lang="zh">37_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47106,6 +47115,9 @@
 	<programme channel="newtv怡伴健康" start="20250907031700 +0800" stop="20250907035000 +0800">
 		<title lang="zh">大猫王国1</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250907035000 +0800" stop="20250907043900 +0800">
+		<title lang="zh">31_骊歌行</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47153,6 +47165,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250907033600 +0800" stop="20250907035100 +0800">
 		<title lang="zh">大田后生仔-李莹</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250907035100 +0800" stop="20250907050800 +0800">
+		<title lang="zh">纤夫远去号子悠 非遗川江号子唱响舞台（20250510）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
