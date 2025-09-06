@@ -15363,6 +15363,9 @@
 	<programme channel="咪咕综合体育" start="20250907000000 +0800" stop="20250907020000 +0800">
 		<title lang="zh">网球世界-2025美国网球公开赛 男双决赛 格拉诺勒斯/泽巴罗斯-萨利斯布里/斯库普斯基 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250907020000 +0800" stop="20250907022000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -46797,6 +46800,9 @@
 	<programme channel="newtv超级综艺" start="20250907011100 +0800" stop="20250907015700 +0800">
 		<title lang="zh">28_绽放的许开心</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250907015700 +0800" stop="20250907032800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46841,6 +46847,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20250907002200 +0800" stop="20250907015200 +0800">
 		<title lang="zh">03_慧 城市</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250907015200 +0800" stop="20250907032100 +0800">
+		<title lang="zh">04_绿 生态</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -46902,6 +46911,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250907002800 +0800" stop="20250907015300 +0800">
 		<title lang="zh">43_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250907015300 +0800" stop="20250907024000 +0800">
+		<title lang="zh">44_三国机密之潜龙在渊</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -46916,6 +46928,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250907003100 +0800" stop="20250907014600 +0800">
 		<title lang="zh">有趣的夫妻经营有爱的家庭 可爱儿子萌翻全场（20250823）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250907014600 +0800" stop="20250907030300 +0800">
+		<title lang="zh">“慢吞吞”的珲春萌娃竟秒变“人体计算器”（20250322）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
