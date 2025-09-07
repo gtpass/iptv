@@ -47550,6 +47550,9 @@
 	<programme channel="newtv超级综艺" start="20250908015400 +0800" stop="20250908035800 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250908035800 +0800" stop="20250908044800 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47679,6 +47682,9 @@
 	<programme channel="newtv爱情喜剧" start="20250908015100 +0800" stop="20250908035100 +0800">
 		<title lang="zh">最好的青春</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250908035100 +0800" stop="20250908051500 +0800">
+		<title lang="zh">43_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47753,6 +47759,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250908034000 +0800" stop="20250908040100 +0800">
 		<title lang="zh">宝贝对不起-毕刚（完整版）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250908040100 +0800" stop="20250908041600 +0800">
+		<title lang="zh">酒梦-孙爱迪</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
