@@ -46878,6 +46878,9 @@
 	<programme channel="newtv超级综艺" start="20250909020900 +0800" stop="20250909035900 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250909035900 +0800" stop="20250909044900 +0800">
+		<title lang="zh">勇者之战</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -46889,6 +46892,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250909023600 +0800" stop="20250909040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250909040000 +0800" stop="20250909053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第15轮 埃弗顿-利物浦 (4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47078,6 +47084,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250909034300 +0800" stop="20250909034800 +0800">
 		<title lang="zh">吴文英带来民族风健身舞《金风吹来的时候》</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250909034800 +0800" stop="20250909050500 +0800">
+		<title lang="zh">一句承诺信守六十余年 用爱点亮一盏盏心灯（20250825）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
