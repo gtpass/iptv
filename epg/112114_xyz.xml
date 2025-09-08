@@ -79341,6 +79341,9 @@
 	<programme channel="newtv超级综艺" start="20250908205500 +0800" stop="20250908220500 +0800">
 		<title lang="zh">大地的号角</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250908220500 +0800" stop="20250908230500 +0800">
+		<title lang="zh">民歌b7中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79539,6 +79542,9 @@
 	<programme channel="newtv超级电视剧" start="20250908212100 +0800" stop="20250908220400 +0800">
 		<title lang="zh">05_最好的时代</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250908220400 +0800" stop="20250908225000 +0800">
+		<title lang="zh">12_功勋</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79616,6 +79622,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250908211800 +0800" stop="20250908214800 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250908214800 +0800" stop="20250908222800 +0800">
+		<title lang="zh">11_猎冰</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79953,6 +79962,9 @@
 	<programme channel="newtv家庭剧场" start="20250908211900 +0800" stop="20250908220000 +0800">
 		<title lang="zh">25_娘亲舅大</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250908220000 +0800" stop="20250908224100 +0800">
+		<title lang="zh">26_娘亲舅大</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80018,6 +80030,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250908212100 +0800" stop="20250908215100 +0800">
 		<title lang="zh">《八段锦》推荐第35期</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250908215100 +0800" stop="20250908223400 +0800">
+		<title lang="zh">13_最好的时代</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
