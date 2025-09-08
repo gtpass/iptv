@@ -46731,6 +46731,9 @@
 	<programme channel="黑莓电影" start="20250909040900 +0800" stop="20250909055700 +0800">
 		<title lang="zh">再见，在也不见</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250909055700 +0800" stop="20250909072700 +0800">
+		<title lang="zh">绣春刀：无间炼狱</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47040,6 +47043,9 @@
 	<programme channel="newtv超级体育" start="20250909053000 +0800" stop="20250909060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250909060000 +0800" stop="20250909063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47054,6 +47060,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250909043400 +0800" stop="20250909055400 +0800">
 		<title lang="zh">抗日冲锋队 密码使命</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250909055400 +0800" stop="20250909070000 +0800">
+		<title lang="zh">抗日冲锋队 胜利之战</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
