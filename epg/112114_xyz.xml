@@ -51228,6 +51228,9 @@
 	<programme channel="newtv超级综艺" start="20250911020900 +0800" stop="20250911034500 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250911034500 +0800" stop="20250911051800 +0800">
+		<title lang="zh">经典咏流传b7正青春</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51240,6 +51243,9 @@
 	<programme channel="newtv超级体育" start="20250911023600 +0800" stop="20250911040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250911040000 +0800" stop="20250911053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季西甲联赛第26轮 巴塞罗那-皇家社会(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51248,6 +51254,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250911022100 +0800" stop="20250911034800 +0800">
 		<title lang="zh">长生蛊</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250911034800 +0800" stop="20250911051800 +0800">
+		<title lang="zh">三峡人家</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51287,6 +51296,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250911031100 +0800" stop="20250911035600 +0800">
 		<title lang="zh">32_天狼星行动</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250911035600 +0800" stop="20250911044200 +0800">
+		<title lang="zh">33_天狼星行动</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51471,6 +51483,9 @@
 	<programme channel="newtv军事评论" start="20250911030000 +0800" stop="20250911035400 +0800">
 		<title lang="zh">谢建立：从特战精英到装备先锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250911035400 +0800" stop="20250911044700 +0800">
+		<title lang="zh">黄会林：我以芳华寄桃李</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51500,6 +51515,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250911022400 +0800" stop="20250911035200 +0800">
 		<title lang="zh">令人心动的offer第6季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250911035200 +0800" stop="20250911043600 +0800">
+		<title lang="zh">13_狐影</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
