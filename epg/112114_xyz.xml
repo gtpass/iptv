@@ -20403,6 +20403,9 @@
 	<programme channel="动作电影" start="20250910144000 +0800" stop="20250910155000 +0800">
 		<title lang="zh">特战行动队</title>
 	</programme>
+	<programme channel="动作电影" start="20250910155000 +0800" stop="20250910162000 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -27467,6 +27470,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250910153000 +0800" stop="20250910155500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第八期</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250910160000 +0800" stop="20250910174000 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第3轮 布莱顿-曼城</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -60117,6 +60123,9 @@
 	<programme channel="爱情喜剧" start="20250910152600 +0800" stop="20250910155600 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250910155600 +0800" stop="20250910164200 +0800">
+		<title lang="zh">16_舍不得星星</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82614,6 +82623,9 @@
 	<programme channel="黑莓电影" start="20250910141700 +0800" stop="20250910155000 +0800">
 		<title lang="zh">反贪风暴之加密危机</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250910155000 +0800" stop="20250910172300 +0800">
+		<title lang="zh">刑警兄弟</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83538,6 +83550,9 @@
 	<programme channel="newtv超级体育" start="20250910150000 +0800" stop="20250910160000 +0800">
 		<title lang="zh">实况录像-2025年皮划艇静水世锦赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250910160000 +0800" stop="20250910180000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -83639,6 +83654,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250910151500 +0800" stop="20250910155700 +0800">
 		<title lang="zh">32_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250910155700 +0800" stop="20250910164100 +0800">
+		<title lang="zh">33_岁岁青莲</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -83810,6 +83828,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250910151000 +0800" stop="20250910155900 +0800">
 		<title lang="zh">03_万里胸怀</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250910155900 +0800" stop="20250910161300 +0800">
+		<title lang="zh">第32集：美国洛杉矶 鸡架鸡汤面</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84159,6 +84180,9 @@
 	<programme channel="newtv爱情喜剧" start="20250910152600 +0800" stop="20250910155600 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250910155600 +0800" stop="20250910164200 +0800">
+		<title lang="zh">16_舍不得星星</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -84206,6 +84230,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250910144000 +0800" stop="20250910155000 +0800">
 		<title lang="zh">特战行动队</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250910155000 +0800" stop="20250910162000 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -84363,6 +84390,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250910151900 +0800" stop="20250910154900 +0800">
 		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250910154900 +0800" stop="20250910163500 +0800">
+		<title lang="zh">31_六姊妹</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -84455,6 +84485,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250910152600 +0800" stop="20250910154800 +0800">
 		<title lang="zh">欧洲护卫舰新动态</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250910154800 +0800" stop="20250910161000 +0800">
+		<title lang="zh">俄乌导弹战再升级</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
