@@ -60315,6 +60315,9 @@
 	<programme channel="爱情喜剧" start="20250910211600 +0800" stop="20250910214600 +0800">
 		<title lang="zh">《美丽密码》推荐第120期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250910214600 +0800" stop="20250910225500 +0800">
+		<title lang="zh">飞鸿笑传</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83943,6 +83946,9 @@
 	<programme channel="newtv超级电视剧" start="20250910211100 +0800" stop="20250910215500 +0800">
 		<title lang="zh">11_最好的时代</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250910215500 +0800" stop="20250910224100 +0800">
+		<title lang="zh">18_功勋</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -84279,6 +84285,9 @@
 	<programme channel="newtv古装剧场" start="20250910211100 +0800" stop="20250910215500 +0800">
 		<title lang="zh">23_天行健</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250910215500 +0800" stop="20250910223500 +0800">
+		<title lang="zh">24_天行健</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84576,6 +84585,9 @@
 	<programme channel="newtv热播精选" start="20250910211800 +0800" stop="20250910214800 +0800">
 		<title lang="zh">《美丽密码》推荐第120期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250910214800 +0800" stop="20250910223200 +0800">
+		<title lang="zh">20_最好的时代</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84665,6 +84677,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250910211600 +0800" stop="20250910214600 +0800">
 		<title lang="zh">《美丽密码》推荐第120期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250910214600 +0800" stop="20250910225500 +0800">
+		<title lang="zh">飞鸿笑传</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84845,6 +84860,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250910211700 +0800" stop="20250910214700 +0800">
 		<title lang="zh">《美丽密码》推荐第120期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250910214700 +0800" stop="20250910223000 +0800">
+		<title lang="zh">江西赣然无惧vs重庆一针见血-第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -85076,6 +85094,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250910212300 +0800" stop="20250910214800 +0800">
 		<title lang="zh">柯文哲又遭羁押 台湾民众党批民进党“政治黑手”操作不断</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250910214800 +0800" stop="20250910221400 +0800">
+		<title lang="zh">民进党三派围攻 赖清德岌岌可危</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
