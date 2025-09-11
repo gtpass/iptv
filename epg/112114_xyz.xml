@@ -51153,6 +51153,9 @@
 	<programme channel="newtv超级综艺" start="20250912011400 +0800" stop="20250912015800 +0800">
 		<title lang="zh">18_三十而已</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250912015800 +0800" stop="20250912034400 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51167,6 +51170,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250912001300 +0800" stop="20250912015300 +0800">
 		<title lang="zh">小李广花荣</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250912015300 +0800" stop="20250912034300 +0800">
+		<title lang="zh">佩剑将军</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
