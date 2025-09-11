@@ -51087,11 +51087,17 @@
 	<programme channel="黑莓动画" start="20250912021200 +0800" stop="20250912035300 +0800">
 		<title lang="zh">画江湖之天罡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250912035300 +0800" stop="20250912051700 +0800">
+		<title lang="zh">绝代双骄之天外有天</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
 	<programme channel="黑莓电影" start="20250912020100 +0800" stop="20250912035300 +0800">
 		<title lang="zh">无人区</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250912035300 +0800" stop="20250912054000 +0800">
+		<title lang="zh">兴安岭猎人传说2轮回森林</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -51315,6 +51321,9 @@
 	<programme channel="newtv超级体育" start="20250912023600 +0800" stop="20250912040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250912040000 +0800" stop="20250912053000 +0800">
+		<title lang="zh">国际足球赛场-24-25赛季英超联赛第29轮 阿森纳-切尔西(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51432,6 +51441,9 @@
 	<programme channel="newtv军旅剧场" start="20250912030100 +0800" stop="20250912034600 +0800">
 		<title lang="zh">21_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250912034600 +0800" stop="20250912043000 +0800">
+		<title lang="zh">23_英雄使命</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51531,6 +51543,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250912030900 +0800" stop="20250912034700 +0800">
 		<title lang="zh">秋天就要润着过（下）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250912034700 +0800" stop="20250912043300 +0800">
+		<title lang="zh">35_十送红军</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51546,6 +51561,9 @@
 	<programme channel="newtv军事评论" start="20250912025500 +0800" stop="20250912034800 +0800">
 		<title lang="zh">你们的样子 2025年清明节特别节目</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250912034800 +0800" stop="20250912044200 +0800">
+		<title lang="zh">兵心照吕梁：从合格兵到带头人</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51557,6 +51575,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250912023200 +0800" stop="20250912034900 +0800">
 		<title lang="zh">来自新疆的音乐老师 雄鹰一样的女人！（20250908）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250912034900 +0800" stop="20250912041000 +0800">
+		<title lang="zh">民族风健身舞《新疆我爱你》（20240702）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
