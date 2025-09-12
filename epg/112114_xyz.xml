@@ -84426,6 +84426,9 @@
 	<programme channel="newtv超级电视剧" start="20250912193300 +0800" stop="20250912201700 +0800">
 		<title lang="zh">15_最好的时代</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250912201700 +0800" stop="20250912210100 +0800">
+		<title lang="zh">16_最好的时代</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85718,6 +85721,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250912190600 +0800" stop="20250912202300 +0800">
 		<title lang="zh">半熟恋人第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250912202300 +0800" stop="20250912205300 +0800">
+		<title lang="zh">《超级美味》推荐第4期30分钟</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
