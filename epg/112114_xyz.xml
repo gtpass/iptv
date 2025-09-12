@@ -47157,6 +47157,9 @@
 	<programme channel="newtv精品大剧" start="20250913010800 +0800" stop="20250913014900 +0800">
 		<title lang="zh">03_前夜</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250913014900 +0800" stop="20250913023400 +0800">
+		<title lang="zh">04_前夜</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47223,6 +47226,9 @@
 	<programme channel="newtv爱情喜剧" start="20250913011400 +0800" stop="20250913015400 +0800">
 		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250913015400 +0800" stop="20250913032600 +0800">
+		<title lang="zh">艺术空间</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47267,6 +47273,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250913010200 +0800" stop="20250913015600 +0800">
 		<title lang="zh">琴音入兵心</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250913015600 +0800" stop="20250913025000 +0800">
+		<title lang="zh">你们的样子 2025年清明节特别节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
