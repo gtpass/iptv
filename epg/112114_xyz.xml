@@ -27657,6 +27657,9 @@
 	<programme channel="咪咕综合体育" start="20250912190000 +0800" stop="20250912220000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第24轮 上海申花-山东泰山 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250912220000 +0800" stop="20250912221500 +0800">
+		<title lang="zh">睛彩圈圈点第八期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60912,6 +60915,9 @@
 	<programme channel="爱情喜剧" start="20250912210400 +0800" stop="20250912215000 +0800">
 		<title lang="zh">28_舍不得星星</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250912215000 +0800" stop="20250912223600 +0800">
+		<title lang="zh">29_舍不得星星</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -66971,6 +66977,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250912210000 +0800" stop="20250912215000 +0800">
 		<title lang="zh">大太平洋4K 第三集 狂暴</title>
+	</programme>
+	<programme channel="纯享4K" start="20250912215000 +0800" stop="20250912222000 +0800">
+		<title lang="zh">寻古中国4K 稻谷记b7晨曦寻稻</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -84705,6 +84714,9 @@
 	<programme channel="newtv精品纪录" start="20250912212500 +0800" stop="20250912214900 +0800">
 		<title lang="zh">02_寻找新粒子</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250912214900 +0800" stop="20250912221400 +0800">
+		<title lang="zh">04_岁月怀想</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -85188,6 +85200,9 @@
 	<programme channel="newtv爱情喜剧" start="20250912210400 +0800" stop="20250912215000 +0800">
 		<title lang="zh">28_舍不得星星</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250912215000 +0800" stop="20250912223600 +0800">
+		<title lang="zh">29_舍不得星星</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85598,6 +85613,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250912213500 +0800" stop="20250912220100 +0800">
 		<title lang="zh">浙江宁波：两岸同胞共迎新春</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250912220100 +0800" stop="20250912222600 +0800">
+		<title lang="zh">重金砸给美智库 台当局竹篮打水</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
