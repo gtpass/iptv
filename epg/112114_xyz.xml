@@ -82800,6 +82800,9 @@
 	<programme channel="黑莓动画" start="20250913183500 +0800" stop="20250913201400 +0800">
 		<title lang="zh">01_去远方</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250913201400 +0800" stop="20250913215200 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -82838,6 +82841,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250913180800 +0800" stop="20250913200500 +0800">
 		<title lang="zh">暮光之城4：破晓（上）</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250913200500 +0800" stop="20250913215600 +0800">
+		<title lang="zh">百元之恋</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -84158,6 +84164,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250913193800 +0800" stop="20250913200800 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250913200800 +0800" stop="20250913203200 +0800">
+		<title lang="zh">03_以身许国</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
