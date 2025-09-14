@@ -36018,6 +36018,9 @@
 	<programme channel="黑莓动画" start="20250915043000 +0800" stop="20250915055400 +0800">
 		<title lang="zh">虹猫蓝兔火凤凰</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250915055400 +0800" stop="20250915072200 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -36315,6 +36318,9 @@
 	<programme channel="newtv精品大剧" start="20250915050600 +0800" stop="20250915055100 +0800">
 		<title lang="zh">11_上海滩生死较量</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250915055100 +0800" stop="20250915063000 +0800">
+		<title lang="zh">龙血树叶粉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -36368,6 +36374,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250915051300 +0800" stop="20250915060000 +0800">
 		<title lang="zh">05_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250915060000 +0800" stop="20250915064000 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -36593,6 +36602,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250915053500 +0800" stop="20250915055700 +0800">
 		<title lang="zh">傣族民间舞蹈（20250624）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250915055700 +0800" stop="20250915061800 +0800">
+		<title lang="zh">象脚鼓舞（20250701）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
