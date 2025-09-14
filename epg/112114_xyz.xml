@@ -27165,6 +27165,9 @@
 	<programme channel="咪咕足球" start="20250914113500 +0800" stop="20250914120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第九期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20250914120500 +0800" stop="20250914122000 +0800">
+		<title lang="zh">睛彩圈圈点第九期</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60774,6 +60777,9 @@
 	<programme channel="爱情喜剧" start="20250914110900 +0800" stop="20250914115400 +0800">
 		<title lang="zh">02_你比星光美丽</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250914115400 +0800" stop="20250914122400 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82920,6 +82926,9 @@
 	<programme channel="黑莓动画" start="20250914091900 +0800" stop="20250914114700 +0800">
 		<title lang="zh">01_千里之堤 溃于蚁穴</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250914114700 +0800" stop="20250914131500 +0800">
+		<title lang="zh">太空勇狗队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83748,6 +83757,9 @@
 	<programme channel="newtv超级综艺" start="20250914102700 +0800" stop="20250914120300 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250914120300 +0800" stop="20250914132000 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -83777,6 +83789,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250914113000 +0800" stop="20250914120000 +0800">
 		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250914120000 +0800" stop="20250914153000 +0800">
+		<title lang="zh">2025年WTT澳门冠军赛-半决赛</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -83904,6 +83919,9 @@
 	<programme channel="newtv精品大剧" start="20250914111100 +0800" stop="20250914115700 +0800">
 		<title lang="zh">18_珠江人家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250914115700 +0800" stop="20250914122700 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -83957,6 +83975,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250914110900 +0800" stop="20250914115100 +0800">
 		<title lang="zh">04_机上阴谋</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250914115100 +0800" stop="20250914122100 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84215,6 +84236,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250914110900 +0800" stop="20250914115400 +0800">
 		<title lang="zh">02_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250914115400 +0800" stop="20250914122400 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84609,6 +84633,9 @@
 	<programme channel="newtv金牌综艺" start="20250914113300 +0800" stop="20250914120300 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20250914120300 +0800" stop="20250914125400 +0800">
+		<title lang="zh">你正常吗 第3季</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -84719,6 +84746,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250914112900 +0800" stop="20250914115900 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250914115900 +0800" stop="20250914132800 +0800">
+		<title lang="zh">广东十虎苏灿之卧龙在田</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
