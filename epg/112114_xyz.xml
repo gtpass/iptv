@@ -29376,6 +29376,9 @@
 	<programme channel="纯享4K" start="20250915012900 +0800" stop="20250915015900 +0800">
 		<title lang="zh">味道4K 原味乡间b7门头沟篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20250915015900 +0800" stop="20250915023900 +0800">
+		<title lang="zh">探索b7发现4K 西汉“黄肠题凑”发现记</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -35958,6 +35961,9 @@
 	<programme channel="newtv超级电影" start="20250915002800 +0800" stop="20250915015600 +0800">
 		<title lang="zh">玉麒麟卢俊义</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250915015600 +0800" stop="20250915033600 +0800">
+		<title lang="zh">幸福的滋味</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -36012,6 +36018,9 @@
 	<programme channel="newtv军旅剧场" start="20250915010700 +0800" stop="20250915015300 +0800">
 		<title lang="zh">30_小站风云</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250915015300 +0800" stop="20250915023800 +0800">
+		<title lang="zh">31_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -36047,6 +36056,9 @@
 	</channel>
 	<programme channel="newtv动作电影" start="20250915002900 +0800" stop="20250915020000 +0800">
 		<title lang="zh">镇魔司：苍龙觉醒</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250915020000 +0800" stop="20250915031700 +0800">
+		<title lang="zh">降龙大师：猎龙队</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -36086,6 +36098,9 @@
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250915003900 +0800" stop="20250915020000 +0800">
 		<title lang="zh">国风超有戏b7寻风季（20250905）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250915020000 +0800" stop="20250915025600 +0800">
+		<title lang="zh">新生代音乐人黄唯铭感恩父母 献唱原创作品《我快乐所以你快乐》（20250316）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
