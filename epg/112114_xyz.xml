@@ -57567,6 +57567,9 @@
 	<programme channel="爱情喜剧" start="20250915111700 +0800" stop="20250915114700 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250915114700 +0800" stop="20250915123200 +0800">
+		<title lang="zh">08_你比星光美丽</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -78027,6 +78030,9 @@
 	<programme channel="黑莓电影" start="20250915101500 +0800" stop="20250915114700 +0800">
 		<title lang="zh">火影忍者疾风传：羁绊</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250915114700 +0800" stop="20250915132500 +0800">
+		<title lang="zh">梦想边缘</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -78978,6 +78984,9 @@
 	<programme channel="newtv精品大剧" start="20250915111200 +0800" stop="20250915115700 +0800">
 		<title lang="zh">22_珠江人家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250915115700 +0800" stop="20250915124300 +0800">
+		<title lang="zh">23_珠江人家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -79038,6 +79047,9 @@
 	<programme channel="newtv精品纪录" start="20250915112300 +0800" stop="20250915115800 +0800">
 		<title lang="zh">10_希望热土</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250915115800 +0800" stop="20250915122800 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79088,6 +79100,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250915110700 +0800" stop="20250915115200 +0800">
 		<title lang="zh">09_长歌行</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250915115200 +0800" stop="20250915122200 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79293,6 +79308,9 @@
 	<programme channel="newtv爱情喜剧" start="20250915111700 +0800" stop="20250915114700 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250915114700 +0800" stop="20250915123200 +0800">
+		<title lang="zh">08_你比星光美丽</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79445,6 +79463,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250915110100 +0800" stop="20250915114600 +0800">
 		<title lang="zh">30_蓝盔特战队</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250915114600 +0800" stop="20250915123200 +0800">
+		<title lang="zh">31_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -79790,6 +79811,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250915112500 +0800" stop="20250915115500 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250915115500 +0800" stop="20250915132500 +0800">
+		<title lang="zh">大唐英豪之大漠秋水</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
