@@ -19140,6 +19140,9 @@
 	<programme channel="动作电影" start="20250915202100 +0800" stop="20250915215900 +0800">
 		<title lang="zh">惊爆缉捕令</title>
 	</programme>
+	<programme channel="动作电影" start="20250915215900 +0800" stop="20250915222900 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -37859,6 +37862,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250915194700 +0800" stop="20250915214700 +0800">
 		<title lang="zh">拆弹专家（普通话版）</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250915214700 +0800" stop="20250915221700 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -79521,6 +79527,9 @@
 	<programme channel="newtv超级体育" start="20250915213000 +0800" stop="20250915220000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250915220000 +0800" stop="20250915230000 +0800">
+		<title lang="zh">天下足球</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -79658,6 +79667,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250915211400 +0800" stop="20250915215700 +0800">
 		<title lang="zh">26_最好的时代</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250915215700 +0800" stop="20250915224200 +0800">
+		<title lang="zh">33_功勋</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80190,6 +80202,9 @@
 	<programme channel="newtv家庭剧场" start="20250915210800 +0800" stop="20250915215500 +0800">
 		<title lang="zh">13_血脉</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250915215500 +0800" stop="20250915222500 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -80442,6 +80457,9 @@
 	<programme channel="newtv动作电影" start="20250915202100 +0800" stop="20250915215900 +0800">
 		<title lang="zh">惊爆缉捕令</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250915215900 +0800" stop="20250915222900 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -80556,6 +80574,9 @@
 	<programme channel="newtv怡伴健康" start="20250915212500 +0800" stop="20250915215500 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250915215500 +0800" stop="20250915223900 +0800">
+		<title lang="zh">山东好哥哥vs北京睿翼精英-第3局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80654,6 +80675,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250915211600 +0800" stop="20250915215700 +0800">
 		<title lang="zh">18_双刺</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250915215700 +0800" stop="20250915222700 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80798,6 +80822,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250915212500 +0800" stop="20250915215000 +0800">
 		<title lang="zh">赖清德自称“棋手” 再遭特朗普敲打</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250915215000 +0800" stop="20250915221600 +0800">
+		<title lang="zh">台军放出“海上狼群” 解放军一网打尽</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -81029,6 +81056,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250915194700 +0800" stop="20250915214700 +0800">
 		<title lang="zh">拆弹专家（普通话版）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250915214700 +0800" stop="20250915221700 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
