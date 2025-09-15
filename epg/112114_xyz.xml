@@ -78537,6 +78537,9 @@
 	<programme channel="黑莓动画" start="20250915192800 +0800" stop="20250915201300 +0800">
 		<title lang="zh">02_面对面的同事</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250915201300 +0800" stop="20250915205800 +0800">
+		<title lang="zh">01_宇宙信使</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79797,6 +79800,9 @@
 	<programme channel="newtv精品纪录" start="20250915193300 +0800" stop="20250915200300 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250915200300 +0800" stop="20250915201700 +0800">
+		<title lang="zh">08_古人类复活技</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79886,6 +79892,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250915193600 +0800" stop="20250915200600 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250915200600 +0800" stop="20250915205400 +0800">
+		<title lang="zh">04_庆余年第二季</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -80502,6 +80511,9 @@
 	<programme channel="newtv潮妈辣婆" start="20250915193600 +0800" stop="20250915200600 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250915200600 +0800" stop="20250915204600 +0800">
+		<title lang="zh">17_双刺</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -80633,6 +80645,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250915194700 +0800" stop="20250915200900 +0800">
 		<title lang="zh">缅甸地震救灾纪实</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250915200900 +0800" stop="20250915203400 +0800">
+		<title lang="zh">台最新战机坠毁 摔出多少内幕？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -80946,6 +80961,9 @@
 	<programme channel="newtv精品体育" start="20250915191300 +0800" stop="20250915200700 +0800">
 		<title lang="zh">2025WTT欧洲大满贯女双决赛：孙颖莎/王曼昱VS张本美和/大藤沙月</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20250915200700 +0800" stop="20250915214200 +0800">
+		<title lang="zh">NBA季后赛5月24日：步行者VS尼克斯</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -81068,6 +81086,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250915192600 +0800" stop="20250915201200 +0800">
 		<title lang="zh">28_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250915201200 +0800" stop="20250915205900 +0800">
+		<title lang="zh">29_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
