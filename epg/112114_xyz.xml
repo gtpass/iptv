@@ -18981,6 +18981,9 @@
 	<programme channel="动作电影" start="20250915101000 +0800" stop="20250915104000 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="动作电影" start="20250915104000 +0800" stop="20250915120800 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -40577,6 +40580,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250915095300 +0800" stop="20250915104000 +0800">
 		<title lang="zh">31_锦绣安宁</title>
+	</programme>
+	<programme channel="明星大片" start="20250915104000 +0800" stop="20250915111000 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -78870,6 +78876,9 @@
 	<programme channel="newtv超级电视剧" start="20250915100100 +0800" stop="20250915104900 +0800">
 		<title lang="zh">03_庆余年第二季</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250915104900 +0800" stop="20250915113400 +0800">
+		<title lang="zh">25_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -78917,6 +78926,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250915095700 +0800" stop="20250915104200 +0800">
 		<title lang="zh">19_烟火人家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250915104200 +0800" stop="20250915111200 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79016,6 +79028,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250915095600 +0800" stop="20250915103700 +0800">
 		<title lang="zh">06_大唐荣耀</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250915103700 +0800" stop="20250915110700 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79230,6 +79245,9 @@
 	<programme channel="newtv动作电影" start="20250915101000 +0800" stop="20250915104000 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20250915104000 +0800" stop="20250915120800 +0800">
+		<title lang="zh">火线追凶2之爱本无罪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -79286,6 +79304,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250915094700 +0800" stop="20250915103300 +0800">
 		<title lang="zh">03_承欢记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250915104100 +0800" stop="20250915105200 +0800">
+		<title lang="zh">相声《北京的旋律》 表演：李涵 迟永志</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -79485,6 +79506,9 @@
 	<programme channel="newtv精品综合" start="20250915095300 +0800" stop="20250915104000 +0800">
 		<title lang="zh">31_锦绣安宁</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250915104000 +0800" stop="20250915111000 +0800">
+		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -79646,6 +79670,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250915100900 +0800" stop="20250915103900 +0800">
 		<title lang="zh">【推荐】-舒安柔按摩椅</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250915103900 +0800" stop="20250915112500 +0800">
+		<title lang="zh">23_九流霸主</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
