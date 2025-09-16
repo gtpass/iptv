@@ -50898,6 +50898,9 @@
 	<programme channel="newtv超级体育" start="20250917023600 +0800" stop="20250917040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250917040000 +0800" stop="20250917053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 南特-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51015,6 +51018,9 @@
 	<programme channel="newtv军旅剧场" start="20250917030100 +0800" stop="20250917034600 +0800">
 		<title lang="zh">桃花绽放第6集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250917034600 +0800" stop="20250917043200 +0800">
+		<title lang="zh">01_大汉口</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -51032,6 +51038,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250917030900 +0800" stop="20250917035500 +0800">
 		<title lang="zh">33_好团圆</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250917035500 +0800" stop="20250917044100 +0800">
+		<title lang="zh">34_好团圆</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -51098,6 +51107,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250917030300 +0800" stop="20250917035000 +0800">
 		<title lang="zh">昆虫大观</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250917035000 +0800" stop="20250917043600 +0800">
+		<title lang="zh">51_骊歌行</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
