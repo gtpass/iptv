@@ -27102,6 +27102,9 @@
 	<programme channel="咪咕综合体育" start="20250916194500 +0800" stop="20250916201000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第九期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250916201500 +0800" stop="20250916233000 +0800">
+		<title lang="zh">网球世界-2025美国网球公开赛 男单决赛 辛纳-阿尔卡拉斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -65844,6 +65847,9 @@
 	<programme channel="纯享4K" start="20250916192900 +0800" stop="20250916201000 +0800">
 		<title lang="zh">远方的家4K 万里黄河万里长 黄河第二湾 奇妙高原行</title>
 	</programme>
+	<programme channel="纯享4K" start="20250916201000 +0800" stop="20250916205200 +0800">
+		<title lang="zh">远方的家4K 秘境之旅 鹿鸣大兴安岭</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83304,6 +83310,9 @@
 	<programme channel="newtv军旅剧场" start="20250916193900 +0800" stop="20250916200900 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250916200900 +0800" stop="20250916205400 +0800">
+		<title lang="zh">12_大漠苍狼</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -83393,6 +83402,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250916193100 +0800" stop="20250916200100 +0800">
 		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250916200100 +0800" stop="20250916204800 +0800">
+		<title lang="zh">16_血脉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83724,6 +83736,9 @@
 	<programme channel="newtv怡伴健康" start="20250916192400 +0800" stop="20250916200300 +0800">
 		<title lang="zh">重庆一针见血vs天津狼图腾-第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250916200300 +0800" stop="20250916203300 +0800">
+		<title lang="zh">《超级美味》推荐第6期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -83960,6 +83975,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250916195400 +0800" stop="20250916201500 +0800">
 		<title lang="zh">深蓝脉动 解码战舰里的中国力量（3）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250916201500 +0800" stop="20250916204100 +0800">
+		<title lang="zh">赖清德办烤肉宴 为何充满硝烟味？</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -84407,6 +84425,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250916191600 +0800" stop="20250916200200 +0800">
 		<title lang="zh">32_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250916200200 +0800" stop="20250916204800 +0800">
+		<title lang="zh">33_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
