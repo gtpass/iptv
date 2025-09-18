@@ -27519,6 +27519,9 @@
 	<programme channel="咪咕综合体育" start="20250918114500 +0800" stop="20250918120000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250918120500 +0800" stop="20250918123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第九期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -27563,6 +27566,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250918113500 +0800" stop="20250918120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第九期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250918120500 +0800" stop="20250918122000 +0800">
+		<title lang="zh">睛彩圈圈点第九期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -60612,6 +60618,9 @@
 	<programme channel="爱情喜剧" start="20250918111500 +0800" stop="20250918120100 +0800">
 		<title lang="zh">22_你比星光美丽</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250918120100 +0800" stop="20250918123100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -83217,6 +83226,9 @@
 	<programme channel="黑莓电影" start="20250918102200 +0800" stop="20250918115600 +0800">
 		<title lang="zh">九妹</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250918115600 +0800" stop="20250918132500 +0800">
+		<title lang="zh">扎职2：江湖陌路</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84168,6 +84180,9 @@
 	<programme channel="newtv超级体育" start="20250918100000 +0800" stop="20250918120000 +0800">
 		<title lang="zh">2025年世界男排锦标赛-小组赛(巴西队-塞尔维亚队)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250918120000 +0800" stop="20250918130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -84534,6 +84549,9 @@
 	<programme channel="newtv家庭剧场" start="20250918110800 +0800" stop="20250918115300 +0800">
 		<title lang="zh">29_岁岁年年柿柿红</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250918115300 +0800" stop="20250918122300 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -84585,6 +84603,9 @@
 	<programme channel="newtv热播精选" start="20250918112600 +0800" stop="20250918115600 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250918115600 +0800" stop="20250918131100 +0800">
+		<title lang="zh">铁血：生死隧战</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -84629,6 +84650,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250918111500 +0800" stop="20250918120100 +0800">
 		<title lang="zh">22_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250918120100 +0800" stop="20250918123100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84852,6 +84876,9 @@
 	<programme channel="newtv军事评论" start="20250918113400 +0800" stop="20250918115900 +0800">
 		<title lang="zh">直击西藏定日县6.8级地震救援 第二集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250918115900 +0800" stop="20250918122100 +0800">
+		<title lang="zh">军博里的秘密武器（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -85022,6 +85049,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250918102700 +0800" stop="20250918120100 +0800">
 		<title lang="zh">德云斗笑社 第2季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250918120100 +0800" stop="20250918123100 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
