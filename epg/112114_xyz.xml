@@ -51696,6 +51696,9 @@
 	<programme channel="黑莓电影" start="20250920023300 +0800" stop="20250920035700 +0800">
 		<title lang="zh">雨曾下过</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250920035700 +0800" stop="20250920061500 +0800">
+		<title lang="zh">小森林</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51984,6 +51987,9 @@
 	<programme channel="newtv超级综艺" start="20250920015100 +0800" stop="20250920035400 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250920035400 +0800" stop="20250920050700 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51992,6 +51998,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250920023100 +0800" stop="20250920040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250920040000 +0800" stop="20250920053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52083,6 +52092,9 @@
 	<programme channel="newtv古装剧场" start="20250920030100 +0800" stop="20250920034600 +0800">
 		<title lang="zh">14_新洛神</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250920034600 +0800" stop="20250920043200 +0800">
+		<title lang="zh">19_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52133,6 +52145,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20250920031500 +0800" stop="20250920040000 +0800">
 		<title lang="zh">12_父辈的荣耀</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20250920040000 +0800" stop="20250920044600 +0800">
+		<title lang="zh">13_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52199,6 +52214,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250920031100 +0800" stop="20250920034800 +0800">
 		<title lang="zh">趣说生肖药（3）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250920034800 +0800" stop="20250920043300 +0800">
+		<title lang="zh">23_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
