@@ -47091,6 +47091,9 @@
 	<programme channel="黑莓电影" start="20250921003200 +0800" stop="20250921015000 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250921015000 +0800" stop="20250921031300 +0800">
+		<title lang="zh">小小科迪</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -47424,6 +47427,9 @@
 	<programme channel="newtv精品纪录" start="20250921005800 +0800" stop="20250921014800 +0800">
 		<title lang="zh">05_深 赋能</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250921014800 +0800" stop="20250921023900 +0800">
+		<title lang="zh">06_创 未来</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47472,6 +47478,9 @@
 	<programme channel="newtv爱情喜剧" start="20250921002400 +0800" stop="20250921015800 +0800">
 		<title lang="zh">爱你的米拉</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250921015800 +0800" stop="20250921024400 +0800">
+		<title lang="zh">12_在暴雪时分</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47514,11 +47523,17 @@
 	<programme channel="newtv军事评论" start="20250921010200 +0800" stop="20250921015400 +0800">
 		<title lang="zh">筑梦航天 薪火相传 走进东风航天城</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250921015400 +0800" stop="20250921024600 +0800">
+		<title lang="zh">画说长征 纪念红军长征出发90周</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20250921002500 +0800" stop="20250921015600 +0800">
 		<title lang="zh">经典咏流传b7正青春（20230430）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250921015600 +0800" stop="20250921031000 +0800">
+		<title lang="zh">“不省心的妈妈”哪吒造型登场 爱上动漫角色不惧年龄约束（20250312）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
