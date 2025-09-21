@@ -46668,6 +46668,9 @@
 	<programme channel="黑莓动画" start="20250922022000 +0800" stop="20250922034900 +0800">
 		<title lang="zh">星际大逃亡</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250922034900 +0800" stop="20250922050600 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -46881,6 +46884,9 @@
 	<programme channel="newtv超级体育" start="20250922023600 +0800" stop="20250922040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250922040000 +0800" stop="20250922053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第1轮 摩纳哥-勒阿弗尔</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -46889,6 +46895,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250922022000 +0800" stop="20250922035100 +0800">
 		<title lang="zh">白头小书记</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250922035100 +0800" stop="20250922052700 +0800">
+		<title lang="zh">乾阳侠曲</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -46910,6 +46919,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250922030700 +0800" stop="20250922035200 +0800">
 		<title lang="zh">29_一代枭雄</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250922035200 +0800" stop="20250922043700 +0800">
+		<title lang="zh">30_一代枭雄</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47028,6 +47040,9 @@
 	<programme channel="newtv热播精选" start="20250922030100 +0800" stop="20250922034600 +0800">
 		<title lang="zh">20_父辈的荣耀</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250922034600 +0800" stop="20250922043200 +0800">
+		<title lang="zh">21_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47076,6 +47091,9 @@
 	<programme channel="newtv怡伴健康" start="20250922030200 +0800" stop="20250922035000 +0800">
 		<title lang="zh">墨西哥致命毒蛇排行榜</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250922035000 +0800" stop="20250922043600 +0800">
+		<title lang="zh">06_父辈的荣耀</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -47111,6 +47129,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20250922025600 +0800" stop="20250922034900 +0800">
 		<title lang="zh">讲好红色故事《谁是终极英雄》走进湖南省军区</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20250922034900 +0800" stop="20250922044100 +0800">
+		<title lang="zh">向国旗敬礼 庆祝中华人民共和国成立75周年特别节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47165,6 +47186,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250922020800 +0800" stop="20250922034800 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250922034800 +0800" stop="20250922051800 +0800">
+		<title lang="zh">乐在旅途 第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
