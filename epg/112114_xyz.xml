@@ -27204,6 +27204,9 @@
 	<programme channel="咪咕综合体育" start="20250921195500 +0800" stop="20250921202000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250921202000 +0800" stop="20250921202500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40127,6 +40130,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250921190100 +0800" stop="20250921200200 +0800">
 		<title lang="zh">德扑女王2：双面鬼王</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250921200200 +0800" stop="20250921203200 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -67296,6 +67302,9 @@
 	<programme channel="纯享4K" start="20250921192900 +0800" stop="20250921201100 +0800">
 		<title lang="zh">远方的家4K 长沙贡玛国家级自然保护区 长沙贡玛：探秘湿地公园 寻找高山雪豹</title>
 	</programme>
+	<programme channel="纯享4K" start="20250921201100 +0800" stop="20250921205300 +0800">
+		<title lang="zh">远方的家4K 楠溪江国家级风景名胜区 楠溪江：一江秀水出青山</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -83964,6 +83973,9 @@
 	<programme channel="黑莓动画" start="20250921183400 +0800" stop="20250921201200 +0800">
 		<title lang="zh">银魂最终篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250921201200 +0800" stop="20250921213700 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85134,6 +85146,9 @@
 	<programme channel="newtv超级电视剧" start="20250921193500 +0800" stop="20250921202000 +0800">
 		<title lang="zh">06_我和我爸的十七岁</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250921202000 +0800" stop="20250921210500 +0800">
+		<title lang="zh">07_我和我爸的十七岁</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86145,6 +86160,9 @@
 	<programme channel="newtv军事评论" start="20250921193900 +0800" stop="20250921200400 +0800">
 		<title lang="zh">柯建铭坚持“罢韩”不刹车 蓝营呼吁悬崖勒马</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250921200400 +0800" stop="20250921203000 +0800">
+		<title lang="zh">炒作“五分钟”迎战 台军以快打快？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86364,6 +86382,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250921190100 +0800" stop="20250921200200 +0800">
 		<title lang="zh">德扑女王2：双面鬼王</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250921200200 +0800" stop="20250921203200 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -86420,6 +86441,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250921184100 +0800" stop="20250921201300 +0800">
 		<title lang="zh">半熟恋人第4季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250921201300 +0800" stop="20250921204300 +0800">
+		<title lang="zh">《花样人生》推荐第60期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -86582,6 +86606,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250921193200 +0800" stop="20250921200200 +0800">
 		<title lang="zh">《花样人生》推荐第60期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250921200200 +0800" stop="20250921205000 +0800">
+		<title lang="zh">05_庆余年第二季</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
