@@ -51276,6 +51276,9 @@
 	<programme channel="黑莓动画" start="20250923042900 +0800" stop="20250923054700 +0800">
 		<title lang="zh">哪吒之灵珠重生</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250923054700 +0800" stop="20250923071600 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51600,6 +51603,9 @@
 	<programme channel="newtv超级体育" start="20250923053000 +0800" stop="20250923060000 +0800">
 		<title lang="zh">实况录像-2025年世界射箭锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250923060000 +0800" stop="20250923063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51777,6 +51783,9 @@
 	<programme channel="newtv家庭剧场" start="20250923051200 +0800" stop="20250923055700 +0800">
 		<title lang="zh">23_沃野飘香</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250923055700 +0800" stop="20250923061700 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -51825,6 +51834,9 @@
 	<programme channel="newtv爱情喜剧" start="20250923050600 +0800" stop="20250923055200 +0800">
 		<title lang="zh">26_在暴雪时分</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250923055200 +0800" stop="20250923061200 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -51872,6 +51884,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250923053900 +0800" stop="20250923055000 +0800">
 		<title lang="zh">相声《姥说》高晓攀、尤宪超</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250923055000 +0800" stop="20250923061000 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52001,6 +52016,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250923051200 +0800" stop="20250923055200 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250923055200 +0800" stop="20250923080100 +0800">
+		<title lang="zh">斗笑社第3季衍生</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>

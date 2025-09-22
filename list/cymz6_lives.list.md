@@ -101,4 +101,4 @@
 | 95 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.140:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 96 | 金鹰卡通 | IPv4 直链 | <http://221.13.235.179:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Sep 22 2025 22:14:05 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Sep 22 2025 22:19:42 GMT+0000 (Coordinated Universal Time)**
