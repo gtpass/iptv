@@ -38112,6 +38112,9 @@
 	<programme channel="惊悚悬疑" start="20250922181700 +0800" stop="20250922201200 +0800">
 		<title lang="zh">死亡护理师</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250922201200 +0800" stop="20250922204200 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -41405,6 +41408,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250922193500 +0800" stop="20250922200500 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
+	<programme channel="明星大片" start="20250922200500 +0800" stop="20250922204800 +0800">
+		<title lang="zh">40_欢乐颂2</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -58401,6 +58407,9 @@
 	<programme channel="爱情喜剧" start="20250922191600 +0800" stop="20250922200300 +0800">
 		<title lang="zh">07_失笑</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250922200300 +0800" stop="20250922203300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -64205,6 +64214,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250922193000 +0800" stop="20250922201200 +0800">
 		<title lang="zh">远方的家4K 金佛山国家级自然保护区 珍稀动植物的家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20250922201200 +0800" stop="20250922205400 +0800">
+		<title lang="zh">远方的家4K 厦门珍稀海洋物种国家级自然保护区：鹭岛生灵</title>
 	</programme>
 	<channel id="绍兴文化影视">
 		<display-name lang="zh">绍兴文化影视</display-name>
@@ -80325,6 +80337,9 @@
 	<programme channel="newtv军旅剧场" start="20250922193600 +0800" stop="20250922200600 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250922200600 +0800" stop="20250922205200 +0800">
+		<title lang="zh">09_伏击</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80579,6 +80594,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250922191600 +0800" stop="20250922200300 +0800">
 		<title lang="zh">07_失笑</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250922200300 +0800" stop="20250922203300 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80958,6 +80976,9 @@
 	<programme channel="newtv军事评论" start="20250922194200 +0800" stop="20250922200400 +0800">
 		<title lang="zh">军工征途 铁翼驭长空</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250922200400 +0800" stop="20250922202400 +0800">
+		<title lang="zh">军工征途 深蓝智造</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81120,6 +81141,9 @@
 	<programme channel="newtv精品综合" start="20250922193500 +0800" stop="20250922200500 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250922200500 +0800" stop="20250922204800 +0800">
+		<title lang="zh">40_欢乐颂2</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81176,6 +81200,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250922181700 +0800" stop="20250922201200 +0800">
 		<title lang="zh">死亡护理师</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250922201200 +0800" stop="20250922204200 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
