@@ -62229,6 +62229,9 @@
 	<programme channel="爱情喜剧" start="20250923213000 +0800" stop="20250923220000 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250923220000 +0800" stop="20250923225000 +0800">
+		<title lang="zh">15_失笑</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -85656,6 +85659,9 @@
 	<programme channel="newtv超级体育" start="20250923200000 +0800" stop="20250923220000 +0800">
 		<title lang="zh">2025年世界男排锦标赛-1/8决赛4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250923220000 +0800" stop="20250923230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85796,6 +85802,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20250923210500 +0800" stop="20250923215100 +0800">
 		<title lang="zh">14_我和我爸的十七岁</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20250923215100 +0800" stop="20250923223600 +0800">
+		<title lang="zh">10_乔家的儿女</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86208,6 +86217,9 @@
 	<programme channel="newtv军旅剧场" start="20250923211900 +0800" stop="20250923214900 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250923214900 +0800" stop="20250923223500 +0800">
+		<title lang="zh">17_女特警</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86400,6 +86412,9 @@
 	<programme channel="newtv热播精选" start="20250923211800 +0800" stop="20250923214800 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250923214800 +0800" stop="20250923223300 +0800">
+		<title lang="zh">35_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86490,6 +86505,9 @@
 	<programme channel="newtv爱情喜剧" start="20250923213000 +0800" stop="20250923220000 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250923220000 +0800" stop="20250923225000 +0800">
+		<title lang="zh">15_失笑</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -86555,6 +86573,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250923201400 +0800" stop="20250923214700 +0800">
 		<title lang="zh">卧虎悍将</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250923214700 +0800" stop="20250923221700 +0800">
+		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86904,6 +86925,9 @@
 	<programme channel="newtv军事评论" start="20250923212700 +0800" stop="20250923215200 +0800">
 		<title lang="zh">柯文哲又遭羁押 台湾民众党批民进党“政治黑手”操作不断</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250923215200 +0800" stop="20250923221800 +0800">
+		<title lang="zh">民进党三派围攻 赖清德岌岌可危</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87200,6 +87224,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250923212100 +0800" stop="20250923215100 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250923215100 +0800" stop="20250923232500 +0800">
+		<title lang="zh">非遗里的中国第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
