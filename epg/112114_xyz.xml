@@ -28341,6 +28341,9 @@
 	<programme channel="咪咕综合体育" start="20250925114500 +0800" stop="20250925120000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250925120000 +0800" stop="20250925120500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28391,6 +28394,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20250925113500 +0800" stop="20250925120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20250925120000 +0800" stop="20250925120500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -86829,6 +86835,9 @@
 	<programme channel="newtv超级体育" start="20250925103200 +0800" stop="20250925120000 +0800">
 		<title lang="zh">实况录像-2025年国际滑联花样滑冰奥运资格赛 冰舞自由舞</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250925120000 +0800" stop="20250925130000 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87021,6 +87030,9 @@
 	<programme channel="newtv精品纪录" start="20250925112900 +0800" stop="20250925115900 +0800">
 		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250925115900 +0800" stop="20250925123400 +0800">
+		<title lang="zh">03_重装之力</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87074,6 +87086,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250925111000 +0800" stop="20250925115700 +0800">
 		<title lang="zh">01_柳舟记</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250925115700 +0800" stop="20250925122700 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87416,6 +87431,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250925110100 +0800" stop="20250925114800 +0800">
 		<title lang="zh">33_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250925114800 +0800" stop="20250925121800 +0800">
+		<title lang="zh">《花样人生》推荐第62期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
