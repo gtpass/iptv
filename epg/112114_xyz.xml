@@ -74580,6 +74580,9 @@
 	<programme channel="超级电影" start="20250925184800 +0800" stop="20250925202300 +0800">
 		<title lang="zh">电影《军火厂》</title>
 	</programme>
+	<programme channel="超级电影" start="20250925202300 +0800" stop="20250925214900 +0800">
+		<title lang="zh">电影《速度与激战》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -87224,6 +87227,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20250925184800 +0800" stop="20250925202300 +0800">
 		<title lang="zh">电影《军火厂》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250925202300 +0800" stop="20250925214900 +0800">
+		<title lang="zh">电影《速度与激战》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
