@@ -47637,6 +47637,9 @@
 	<programme channel="newtv超级体育" start="20250927023600 +0800" stop="20250927040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250927040000 +0800" stop="20250927053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47739,6 +47742,9 @@
 	<programme channel="newtv古装剧场" start="20250927030500 +0800" stop="20250927035000 +0800">
 		<title lang="zh">42_新洛神</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20250927035000 +0800" stop="20250927043500 +0800">
+		<title lang="zh">40_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47762,6 +47768,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250927031300 +0800" stop="20250927035400 +0800">
 		<title lang="zh">15_烽烟尽处</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250927035400 +0800" stop="20250927043600 +0800">
+		<title lang="zh">07_热血青春</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -47796,6 +47805,9 @@
 	<programme channel="newtv热播精选" start="20250927031200 +0800" stop="20250927035800 +0800">
 		<title lang="zh">10_好团圆</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250927035800 +0800" stop="20250927044400 +0800">
+		<title lang="zh">11_好团圆</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47814,6 +47826,9 @@
 	<programme channel="newtv爱情喜剧" start="20250927031300 +0800" stop="20250927040000 +0800">
 		<title lang="zh">12_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250927040000 +0800" stop="20250927044600 +0800">
+		<title lang="zh">13_那年花开月正圆</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -47825,6 +47840,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250927022200 +0800" stop="20250927035500 +0800">
 		<title lang="zh">镖行天下前传之至尊国宝</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250927035500 +0800" stop="20250927054200 +0800">
+		<title lang="zh">上海王</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47843,6 +47861,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250927030700 +0800" stop="20250927035400 +0800">
 		<title lang="zh">神秘猎手</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250927035400 +0800" stop="20250927044000 +0800">
+		<title lang="zh">15_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47895,6 +47916,9 @@
 	<programme channel="newtv炫舞未来" start="20250927034100 +0800" stop="20250927034800 +0800">
 		<title lang="zh">饶子龙带来健身舞《梦醉荷塘》</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250927034800 +0800" stop="20250927045600 +0800">
+		<title lang="zh">01_圆</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -47915,6 +47939,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250927021000 +0800" stop="20250927035200 +0800">
 		<title lang="zh">养蜂人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250927035200 +0800" stop="20250927050700 +0800">
+		<title lang="zh">山海巨兽</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
