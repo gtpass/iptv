@@ -14238,6 +14238,9 @@
 	<programme channel="咪咕综合体育" start="20250929045500 +0800" stop="20250929060500 +0800">
 		<title lang="zh">2025国际马联场地障碍欧锦赛个人决赛 2</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250929060500 +0800" stop="20250929083500 +0800">
+		<title lang="zh">2025揭阳马拉松</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47385,6 +47388,9 @@
 	<programme channel="newtv超级体育" start="20250929053000 +0800" stop="20250929060000 +0800">
 		<title lang="zh">实况录像-2025年世界射箭锦标赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250929060000 +0800" stop="20250929063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47424,6 +47430,9 @@
 	<programme channel="newtv超级电视剧" start="20250929052600 +0800" stop="20250929061000 +0800">
 		<title lang="zh">17_巾帼枭雄之悬崖</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250929061000 +0800" stop="20250929065300 +0800">
+		<title lang="zh">18_巾帼枭雄之悬崖</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -47454,6 +47463,9 @@
 	<programme channel="newtv精品大剧" start="20250929051400 +0800" stop="20250929060000 +0800">
 		<title lang="zh">04_承欢记</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250929060000 +0800" stop="20250929061000 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -47480,6 +47492,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250929050100 +0800" stop="20250929055400 +0800">
 		<title lang="zh">第3集：筑生态</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250929055400 +0800" stop="20250929061400 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -47535,6 +47550,9 @@
 	<programme channel="newtv军旅剧场" start="20250929051300 +0800" stop="20250929055500 +0800">
 		<title lang="zh">17_热血青春</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20250929055500 +0800" stop="20250929063600 +0800">
+		<title lang="zh">18_热血青春</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47561,6 +47579,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20250929053300 +0800" stop="20250929055300 +0800">
 		<title lang="zh">睡眠专题分享</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20250929055300 +0800" stop="20250929063600 +0800">
+		<title lang="zh">22_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47654,6 +47675,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250929053900 +0800" stop="20250929055500 +0800">
 		<title lang="zh">小品《喜上加喜》贾玲、张小斐、许君聪、泰维、刘宏禄</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250929055500 +0800" stop="20250929061500 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47778,6 +47802,9 @@
 	<programme channel="newtv惊悚悬疑" start="20250929044000 +0800" stop="20250929055600 +0800">
 		<title lang="zh">毒战生死线2</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250929055600 +0800" stop="20250929061600 +0800">
+		<title lang="zh">睡眠专题分享</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -47795,6 +47822,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250929041400 +0800" stop="20250929055400 +0800">
 		<title lang="zh">勇者之战</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250929055400 +0800" stop="20250929061500 +0800">
+		<title lang="zh">睡眠专题分享</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
