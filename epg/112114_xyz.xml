@@ -47133,11 +47133,17 @@
 	<programme channel="newtv超级体育" start="20250929023800 +0800" stop="20250929040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250929040000 +0800" stop="20250929053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20250929022400 +0800" stop="20250929035600 +0800">
 		<title lang="zh">并购风云</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20250929035600 +0800" stop="20250929052300 +0800">
+		<title lang="zh">龙虾刑警</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
