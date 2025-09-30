@@ -27858,6 +27858,9 @@
 	<programme channel="咪咕综合体育" start="20250930170000 +0800" stop="20250930220000 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 单打1/16决赛、混双1/8决赛 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250930220000 +0800" stop="20250930222500 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -40520,6 +40523,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20250930211800 +0800" stop="20250930214800 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20250930214800 +0800" stop="20250930231100 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -86553,6 +86559,9 @@
 	<programme channel="newtv精品纪录" start="20250930213700 +0800" stop="20250930215000 +0800">
 		<title lang="zh">第3集：贵州阳地村 臭酸和老照片</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250930215000 +0800" stop="20250930220500 +0800">
+		<title lang="zh">第4集：云南松鹤村 酸梅和甜之味</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87537,6 +87546,9 @@
 	<programme channel="newtv炫舞未来" start="20250930211100 +0800" stop="20250930215900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250930215900 +0800" stop="20250930222000 +0800">
+		<title lang="zh">民族健身舞《我是你的格桑花》（20231225）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87686,6 +87698,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250930211800 +0800" stop="20250930214800 +0800">
 		<title lang="zh">《花样人生》推荐第64期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250930214800 +0800" stop="20250930231100 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -87917,6 +87932,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250930212200 +0800" stop="20250930215200 +0800">
 		<title lang="zh">《花样人生》推荐第63期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250930215200 +0800" stop="20250930223800 +0800">
+		<title lang="zh">02_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
