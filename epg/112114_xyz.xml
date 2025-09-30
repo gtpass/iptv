@@ -52284,6 +52284,9 @@
 	<programme channel="newtv超级体育" start="20251001023600 +0800" stop="20251001040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251001040000 +0800" stop="20251001053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52314,6 +52317,9 @@
 	<programme channel="newtv超级电视剧" start="20251001031100 +0800" stop="20251001035600 +0800">
 		<title lang="zh">40_大潮如歌</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251001035600 +0800" stop="20251001043900 +0800">
+		<title lang="zh">23_巾帼枭雄之悬崖</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52331,6 +52337,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251001031200 +0800" stop="20251001035700 +0800">
 		<title lang="zh">10_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251001035700 +0800" stop="20251001044200 +0800">
+		<title lang="zh">11_承欢记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52356,6 +52365,9 @@
 	<programme channel="newtv精品纪录" start="20251001031700 +0800" stop="20251001034700 +0800">
 		<title lang="zh">第十二集：一江碧水</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251001034700 +0800" stop="20251001041700 +0800">
+		<title lang="zh">第十三集：化生万物</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52373,6 +52385,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251001030400 +0800" stop="20251001035000 +0800">
 		<title lang="zh">58_新洛神</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251001035000 +0800" stop="20251001043600 +0800">
+		<title lang="zh">52_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52428,6 +52443,9 @@
 	<programme channel="newtv热播精选" start="20251001030800 +0800" stop="20251001035400 +0800">
 		<title lang="zh">26_好团圆</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251001035400 +0800" stop="20251001043900 +0800">
+		<title lang="zh">27_好团圆</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52475,6 +52493,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251001030600 +0800" stop="20251001035300 +0800">
 		<title lang="zh">寻找失去的野性（1）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251001035300 +0800" stop="20251001043900 +0800">
+		<title lang="zh">23_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
