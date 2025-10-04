@@ -47967,6 +47967,9 @@
 	<programme channel="newtv超级体育" start="20251005053000 +0800" stop="20251005060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 土耳其站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251005060000 +0800" stop="20251005063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 7</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48377,6 +48380,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251005052900 +0800" stop="20251005060000 +0800">
 		<title lang="zh">云杉心脑通</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251005060000 +0800" stop="20251005065000 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
