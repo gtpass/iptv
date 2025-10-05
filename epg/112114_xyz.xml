@@ -46992,6 +46992,9 @@
 	<programme channel="newtv精品纪录" start="20251006011000 +0800" stop="20251006020000 +0800">
 		<title lang="zh">02_医 健康</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251006020000 +0800" stop="20251006025000 +0800">
+		<title lang="zh">03_慧 城市</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47013,6 +47016,9 @@
 	<programme channel="newtv军旅剧场" start="20251006010300 +0800" stop="20251006014700 +0800">
 		<title lang="zh">10_牧马人</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251006014700 +0800" stop="20251006023100 +0800">
+		<title lang="zh">11_牧马人</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47021,6 +47027,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251006011300 +0800" stop="20251006020000 +0800">
 		<title lang="zh">23_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251006020000 +0800" stop="20251006024600 +0800">
+		<title lang="zh">24_非常有喜</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
