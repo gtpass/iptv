@@ -46683,6 +46683,9 @@
 	<programme channel="纯享4K" start="20251005192900 +0800" stop="20251005201000 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（8） 运河驿站 通达京津</title>
 	</programme>
+	<programme channel="纯享4K" start="20251005201000 +0800" stop="20251005205100 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（9） 家在运河北首通州城</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -56919,6 +56922,9 @@
 	<programme channel="黑莓动画" start="20251005184800 +0800" stop="20251005200600 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251005200600 +0800" stop="20251005213000 +0800">
+		<title lang="zh">虹猫蓝兔火凤凰</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -58017,6 +58023,9 @@
 	<programme channel="newtv热播精选" start="20251005193700 +0800" stop="20251005200800 +0800">
 		<title lang="zh">20_西出玉门</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251005200800 +0800" stop="20251005204200 +0800">
+		<title lang="zh">21_西出玉门</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -58098,6 +58107,9 @@
 	<programme channel="newtv爱情喜剧" start="20251005195200 +0800" stop="20251005200200 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251005200200 +0800" stop="20251005204800 +0800">
+		<title lang="zh">15_我的后半生</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -58157,6 +58169,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251005194000 +0800" stop="20251005201000 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251005201000 +0800" stop="20251005221400 +0800">
+		<title lang="zh">迫降航班</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -58256,6 +58271,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251005192200 +0800" stop="20251005200200 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251005200200 +0800" stop="20251005204200 +0800">
+		<title lang="zh">天津格调研学vs上海拉家军-第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -58475,6 +58493,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251005194200 +0800" stop="20251005200700 +0800">
 		<title lang="zh">美菲联军扑向南海 解放军当头棒喝</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251005200700 +0800" stop="20251005203300 +0800">
+		<title lang="zh">《哪吒2》登顶全球影史单一市场票房榜 岛内民众：身为中国人感到自豪</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
