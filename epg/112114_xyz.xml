@@ -51609,6 +51609,9 @@
 	<programme channel="黑莓动画" start="20251007005300 +0800" stop="20251007015700 +0800">
 		<title lang="zh">11_画江湖之不良人第七季：九幽玄天</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251007015700 +0800" stop="20251007055700 +0800">
+		<title lang="zh">01_樱桃小丸子 第二季普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -51897,6 +51900,9 @@
 	<programme channel="newtv超级综艺" start="20251007010000 +0800" stop="20251007014700 +0800">
 		<title lang="zh">19_陷入我们的热恋</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251007014700 +0800" stop="20251007023500 +0800">
+		<title lang="zh">20_陷入我们的热恋</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51924,6 +51930,9 @@
 	<programme channel="newtv超级电视剧" start="20251007010400 +0800" stop="20251007015000 +0800">
 		<title lang="zh">26_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251007015000 +0800" stop="20251007023500 +0800">
+		<title lang="zh">27_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51932,6 +51941,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251007010000 +0800" stop="20251007014600 +0800">
 		<title lang="zh">23_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251007014600 +0800" stop="20251007023000 +0800">
+		<title lang="zh">24_雪鹰领主</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51975,6 +51987,9 @@
 	<programme channel="newtv家庭剧场" start="20251007010600 +0800" stop="20251007015300 +0800">
 		<title lang="zh">31_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251007015300 +0800" stop="20251007023900 +0800">
+		<title lang="zh">32_非常有喜</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52001,6 +52016,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251007004500 +0800" stop="20251007015200 +0800">
 		<title lang="zh">封神之九曲黄河阵</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251007015200 +0800" stop="20251007031300 +0800">
+		<title lang="zh">铁血武魂</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52035,11 +52053,17 @@
 	<programme channel="newtv军事评论" start="20251007010600 +0800" stop="20251007015800 +0800">
 		<title lang="zh">“生命禁区”的天路 永不褪色的铁道英雄传（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251007015800 +0800" stop="20251007025000 +0800">
+		<title lang="zh">山河在我心中：老兵与抗战（1） 胜利的记忆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
 	<programme channel="newtv炫舞未来" start="20251007002300 +0800" stop="20251007015900 +0800">
 		<title lang="zh">《孙子兵法》</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251007015900 +0800" stop="20251007023700 +0800">
+		<title lang="zh">脑袋为何嗡嗡响（20240708）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52061,6 +52085,9 @@
 	</channel>
 	<programme channel="newtv金牌综艺" start="20251007012400 +0800" stop="20251007020400 +0800">
 		<title lang="zh">龙血树叶粉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251007020400 +0800" stop="20251007043800 +0800">
+		<title lang="zh">开门大吉（2025）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
