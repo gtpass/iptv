@@ -15966,6 +15966,9 @@
 	<programme channel="咪咕综合体育" start="20251006185000 +0800" stop="20251006203000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第6轮 曼城-伯恩利</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251006203000 +0800" stop="20251006205500 +0800">
+		<title lang="zh">中超精华 第26轮</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -55035,6 +55038,9 @@
 	<programme channel="newtv精品纪录" start="20251006195000 +0800" stop="20251006202000 +0800">
 		<title lang="zh">舆载千年</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251006202000 +0800" stop="20251006205000 +0800">
+		<title lang="zh">百戏水禽</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -55121,6 +55127,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251006195100 +0800" stop="20251006202100 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251006202100 +0800" stop="20251006205600 +0800">
+		<title lang="zh">22_锦月如歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -55211,6 +55220,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251006193800 +0800" stop="20251006202400 +0800">
 		<title lang="zh">02_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251006202400 +0800" stop="20251006205400 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -55622,6 +55634,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251006193700 +0800" stop="20251006201700 +0800">
 		<title lang="zh">上海天行奔源vs福建梦幻-第3局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251006201700 +0800" stop="20251006205400 +0800">
+		<title lang="zh">上海天行奔源vs福建梦幻-第4局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -56037,6 +56052,9 @@
 	<programme channel="newtv精品综合" start="20251006194900 +0800" stop="20251006202800 +0800">
 		<title lang="zh">龙血树叶粉</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251006202800 +0800" stop="20251006211500 +0800">
+		<title lang="zh">18_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -56309,6 +56327,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251006194000 +0800" stop="20251006202500 +0800">
 		<title lang="zh">22_倚天屠龙记</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251006202500 +0800" stop="20251006211200 +0800">
+		<title lang="zh">23_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
