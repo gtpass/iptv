@@ -52170,6 +52170,9 @@
 	<programme channel="newtv超级体育" start="20251008023600 +0800" stop="20251008040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251008040000 +0800" stop="20251008053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第2轮 斯特拉斯堡-南特</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52266,6 +52269,9 @@
 	<programme channel="newtv古装剧场" start="20251008030900 +0800" stop="20251008035400 +0800">
 		<title lang="zh">16_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251008035400 +0800" stop="20251008043800 +0800">
+		<title lang="zh">18_国子监来了个女弟子</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52319,6 +52325,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251008030200 +0800" stop="20251008034900 +0800">
 		<title lang="zh">19_繁花（沪语版）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251008034900 +0800" stop="20251008043500 +0800">
+		<title lang="zh">20_繁花（沪语版）</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52392,6 +52401,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251008031300 +0800" stop="20251008035100 +0800">
 		<title lang="zh">非遗里的中医药（2）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251008035100 +0800" stop="20251008042500 +0800">
+		<title lang="zh">12_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52424,6 +52436,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251008032700 +0800" stop="20251008034900 +0800">
 		<title lang="zh">民族风健身舞《见到你很高兴》（20231003）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251008034900 +0800" stop="20251008041000 +0800">
+		<title lang="zh">民族风健身舞《洗衣歌》（20230919）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52466,6 +52481,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251008021300 +0800" stop="20251008035300 +0800">
 		<title lang="zh">2025-26赛季法甲联赛第4轮：巴黎圣日耳曼VS朗斯</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251008035300 +0800" stop="20251008052700 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第4轮：巴塞罗那VS巴伦西亚</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
