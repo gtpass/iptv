@@ -52311,6 +52311,9 @@
 	<programme channel="newtv超级体育" start="20251008053000 +0800" stop="20251008060000 +0800">
 		<title lang="zh">实况录像-2025年世界射箭锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251008060000 +0800" stop="20251008063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52352,6 +52355,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251008051800 +0800" stop="20251008060400 +0800">
 		<title lang="zh">28_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251008060400 +0800" stop="20251008065000 +0800">
+		<title lang="zh">29_欢乐颂4</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52724,6 +52730,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251008053600 +0800" stop="20251008060500 +0800">
 		<title lang="zh">书法视频</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251008060500 +0800" stop="20251008074500 +0800">
+		<title lang="zh">勇者之战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
