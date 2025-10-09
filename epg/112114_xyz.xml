@@ -69531,6 +69531,9 @@
 	<programme channel="纯享4K" start="20251009210200 +0800" stop="20251009215100 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
 	</programme>
+	<programme channel="纯享4K" start="20251009215100 +0800" stop="20251009224100 +0800">
+		<title lang="zh">世界遗产漫步 大运河4K 第2集</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -87489,6 +87492,9 @@
 	<programme channel="newtv古装剧场" start="20251009211600 +0800" stop="20251009215700 +0800">
 		<title lang="zh">36_锦月如歌</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251009215700 +0800" stop="20251009224300 +0800">
+		<title lang="zh">01_似锦</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87591,6 +87597,9 @@
 	<programme channel="newtv军旅剧场" start="20251009210800 +0800" stop="20251009214900 +0800">
 		<title lang="zh">32_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251009214900 +0800" stop="20251009221900 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -87689,6 +87698,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251009211500 +0800" stop="20251009220100 +0800">
 		<title lang="zh">21_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251009220100 +0800" stop="20251009223100 +0800">
+		<title lang="zh">美好人生推荐第二期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -88374,6 +88386,9 @@
 	<programme channel="newtv炫舞未来" start="20251009211100 +0800" stop="20251009220000 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251009220000 +0800" stop="20251009222100 +0800">
+		<title lang="zh">民族健身舞《我是你的格桑花》（20231225）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -88577,6 +88592,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251009210900 +0800" stop="20251009215900 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251009215900 +0800" stop="20251009223900 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
