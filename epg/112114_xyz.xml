@@ -69492,6 +69492,9 @@
 	<programme channel="纯享4K" start="20251009192900 +0800" stop="20251009201000 +0800">
 		<title lang="zh">远方的家4K 大运河 从枫桥到阊门</title>
 	</programme>
+	<programme channel="纯享4K" start="20251009201000 +0800" stop="20251009205200 +0800">
+		<title lang="zh">远方的家4K 大运河 江南水乡 姑苏风情</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -87300,6 +87303,9 @@
 	<programme channel="newtv精品纪录" start="20251009193700 +0800" stop="20251009200200 +0800">
 		<title lang="zh">07_笔墨丹青与瓷韵之约</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251009200200 +0800" stop="20251009202600 +0800">
+		<title lang="zh">08_华夏乐舞盛会</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87389,6 +87395,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251009193500 +0800" stop="20251009200500 +0800">
 		<title lang="zh">美好人生推荐第二期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251009200500 +0800" stop="20251009204600 +0800">
+		<title lang="zh">35_锦月如歌</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -88121,6 +88130,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251009194100 +0800" stop="20251009200300 +0800">
 		<title lang="zh">凌云壮志（6）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251009200300 +0800" stop="20251009202900 +0800">
+		<title lang="zh">美台军舰又“偶遇” 联合作战很危险</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
