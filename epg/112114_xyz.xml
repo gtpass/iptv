@@ -27981,6 +27981,9 @@
 	<programme channel="咪咕综合体育" start="20251010114500 +0800" stop="20251010120500 +0800">
 		<title lang="zh">中超精华 第26轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251010120500 +0800" stop="20251010123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28028,6 +28031,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251010113500 +0800" stop="20251010120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第八期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251010120500 +0800" stop="20251010122000 +0800">
+		<title lang="zh">睛彩圈圈点第十一期</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -44489,6 +44495,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251010110200 +0800" stop="20251010114600 +0800">
 		<title lang="zh">28_雁回时</title>
+	</programme>
+	<programme channel="明星大片" start="20251010114600 +0800" stop="20251010121600 +0800">
+		<title lang="zh">健康有道睡眠</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -85650,6 +85659,9 @@
 	<programme channel="newtv超级体育" start="20251010103200 +0800" stop="20251010120000 +0800">
 		<title lang="zh">实况录像-2025年世界田径锦标赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251010120000 +0800" stop="20251010130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85950,6 +85962,9 @@
 	<programme channel="newtv军旅剧场" start="20251010111300 +0800" stop="20251010115700 +0800">
 		<title lang="zh">10_黑白密码</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251010115700 +0800" stop="20251010122700 +0800">
+		<title lang="zh">健康有道睡眠</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86205,6 +86220,9 @@
 	<programme channel="newtv怡伴健康" start="20251010114200 +0800" stop="20251010115400 +0800">
 		<title lang="zh">相声《我爱诗词》冯巩、贾旭明、曹随风、侯林林</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251010115400 +0800" stop="20251010122400 +0800">
+		<title lang="zh">健康有道睡眠</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86261,6 +86279,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251010112300 +0800" stop="20251010115300 +0800">
 		<title lang="zh">健康有道睡眠</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251010115300 +0800" stop="20251010123900 +0800">
+		<title lang="zh">20_小日子</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -86327,6 +86348,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251010112100 +0800" stop="20251010114600 +0800">
 		<title lang="zh">海天战鹰守护者</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251010114600 +0800" stop="20251010121200 +0800">
+		<title lang="zh">雪域高原的家国印记</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86423,6 +86447,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251010110200 +0800" stop="20251010114600 +0800">
 		<title lang="zh">28_雁回时</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251010114600 +0800" stop="20251010121600 +0800">
+		<title lang="zh">健康有道睡眠</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
