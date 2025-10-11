@@ -41529,6 +41529,9 @@
 	<programme channel="纯享4K" start="20251012012800 +0800" stop="20251012015800 +0800">
 		<title lang="zh">味道4K 穿街走巷b7抚州篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251012015800 +0800" stop="20251012023800 +0800">
+		<title lang="zh">探索b7发现4K 神秘的汉墓群</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52122,6 +52125,9 @@
 	<programme channel="newtv古装剧场" start="20251012010500 +0800" stop="20251012015000 +0800">
 		<title lang="zh">29_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251012015000 +0800" stop="20251012023500 +0800">
+		<title lang="zh">30_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52142,6 +52148,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251012010600 +0800" stop="20251012015100 +0800">
 		<title lang="zh">10_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251012015100 +0800" stop="20251012023700 +0800">
+		<title lang="zh">11_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52170,6 +52179,9 @@
 	<programme channel="newtv动作电影" start="20251012002900 +0800" stop="20251012015500 +0800">
 		<title lang="zh">镇魔司：四象伏魔</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251012015500 +0800" stop="20251012032100 +0800">
+		<title lang="zh">异形：汇合</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52193,6 +52205,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251012010800 +0800" stop="20251012015200 +0800">
 		<title lang="zh">43_利刃出击</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251012015200 +0800" stop="20251012023900 +0800">
+		<title lang="zh">44_利刃出击</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
