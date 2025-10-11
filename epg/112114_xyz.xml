@@ -41673,6 +41673,9 @@
 	<programme channel="纯享4K" start="20251012051100 +0800" stop="20251012060000 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme>
+	<programme channel="纯享4K" start="20251012060000 +0800" stop="20251012061500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 漫画b7齐心协力</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52041,6 +52044,9 @@
 	<programme channel="黑莓动画" start="20251012053600 +0800" stop="20251012055300 +0800">
 		<title lang="zh">01_妈妈爱着你</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251012055300 +0800" stop="20251012082400 +0800">
+		<title lang="zh">01_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52347,6 +52353,9 @@
 	<programme channel="newtv超级综艺" start="20251012050700 +0800" stop="20251012060400 +0800">
 		<title lang="zh">原声天籁——中国民歌盛典（山水篇）</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251012060400 +0800" stop="20251012072300 +0800">
+		<title lang="zh">你好时光</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52364,6 +52373,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251012053000 +0800" stop="20251012060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251012060000 +0800" stop="20251012063000 +0800">
+		<title lang="zh">实况录像-2025年世界泳联花样游泳世界杯 总决赛2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52433,6 +52445,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251012050300 +0800" stop="20251012054800 +0800">
 		<title lang="zh">11_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251012054800 +0800" stop="20251012062800 +0800">
+		<title lang="zh">龙血树叶粉</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52647,6 +52662,9 @@
 	<programme channel="newtv怡伴健康" start="20251012054300 +0800" stop="20251012054900 +0800">
 		<title lang="zh">相声《豫知音》 表演：李寅飞 刘汴京</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251012054900 +0800" stop="20251012064300 +0800">
+		<title lang="zh">相声《杂学没唱》 表演：董建春 迟永志</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52677,6 +52695,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251012051600 +0800" stop="20251012055500 +0800">
 		<title lang="zh">30_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251012055500 +0800" stop="20251012063500 +0800">
+		<title lang="zh">太空骨王骨胶原新版</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52703,6 +52724,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251012053900 +0800" stop="20251012060100 +0800">
 		<title lang="zh">智擎未来（6）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251012060100 +0800" stop="20251012062300 +0800">
+		<title lang="zh">智学未来（7）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52749,6 +52773,9 @@
 	<programme channel="newtv精品综合" start="20251012050600 +0800" stop="20251012055200 +0800">
 		<title lang="zh">24_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251012055200 +0800" stop="20251012063200 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52763,6 +52790,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251012042600 +0800" stop="20251012054900 +0800">
 		<title lang="zh">狙击手：逆战</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251012054900 +0800" stop="20251012062900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
