@@ -27747,6 +27747,9 @@
 	<programme channel="咪咕足球" start="20251012122500 +0800" stop="20251012140500 +0800">
 		<title lang="zh">我爱女篮-24/25WCBA季后赛1/4决赛第4轮 上海浦发银行-山西竹叶青酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251012140500 +0800" stop="20251012141000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -68697,6 +68700,9 @@
 	<programme channel="纯享4K" start="20251012131100 +0800" stop="20251012140000 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme>
+	<programme channel="纯享4K" start="20251012140000 +0800" stop="20251012141500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 漫画b7齐心协力</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86637,6 +86643,9 @@
 	<programme channel="newtv古装剧场" start="20251012131300 +0800" stop="20251012135300 +0800">
 		<title lang="zh">黑芝麻丸</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251012135300 +0800" stop="20251012143800 +0800">
+		<title lang="zh">30_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87128,6 +87137,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251012133300 +0800" stop="20251012135500 +0800">
 		<title lang="zh">俄乌导弹战再升级</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251012135500 +0800" stop="20251012141700 +0800">
+		<title lang="zh">美售台M1A2T坦克实力起底</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
