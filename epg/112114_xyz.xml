@@ -38583,6 +38583,9 @@
 	<programme channel="纯享4K" start="20251013012800 +0800" stop="20251013015700 +0800">
 		<title lang="zh">味道4K原味乡间b7安顺篇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251013015700 +0800" stop="20251013023700 +0800">
+		<title lang="zh">探索b7发现4K 寻找最早的燕国</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47313,6 +47316,9 @@
 	<programme channel="newtv超级综艺" start="20251013012400 +0800" stop="20251013020900 +0800">
 		<title lang="zh">20_锦心似玉</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251013020900 +0800" stop="20251013040800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47327,6 +47333,9 @@
 	</channel>
 	<programme channel="newtv超级电影" start="20251013001500 +0800" stop="20251013020200 +0800">
 		<title lang="zh">甩尾王</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251013020200 +0800" stop="20251013033300 +0800">
+		<title lang="zh">甩尾王2</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47370,6 +47379,9 @@
 	<programme channel="newtv古装剧场" start="20251013005600 +0800" stop="20251013014100 +0800">
 		<title lang="zh">33_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251013014100 +0800" stop="20251013022600 +0800">
+		<title lang="zh">34_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47379,6 +47391,9 @@
 	<programme channel="newtv军旅剧场" start="20251013010000 +0800" stop="20251013014500 +0800">
 		<title lang="zh">03_瞄准</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251013014500 +0800" stop="20251013023100 +0800">
+		<title lang="zh">04_瞄准</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47387,6 +47402,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251013004700 +0800" stop="20251013013200 +0800">
 		<title lang="zh">14_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251013013200 +0800" stop="20251013021800 +0800">
+		<title lang="zh">15_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47447,6 +47465,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251013010700 +0800" stop="20251013020000 +0800">
 		<title lang="zh">军民共建谱华章 国防知识挑战赛走进双拥模范城</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251013020000 +0800" stop="20251013025200 +0800">
+		<title lang="zh">铁甲劲旅 王杰传人 陆军第71集团军某合成旅</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -47531,6 +47552,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251013004000 +0800" stop="20251013015300 +0800">
 		<title lang="zh">楚留香之盗帅觉醒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251013015300 +0800" stop="20251013032200 +0800">
+		<title lang="zh">武动乾坤：九重符塔</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
