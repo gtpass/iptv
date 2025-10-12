@@ -40776,6 +40776,9 @@
 	<programme channel="惊悚悬疑" start="20251012194000 +0800" stop="20251012201000 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251012201000 +0800" stop="20251012214600 +0800">
+		<title lang="zh">火影雄兵</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -44303,6 +44306,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251012194600 +0800" stop="20251012201600 +0800">
 		<title lang="zh">《花样人生》推荐第67期</title>
+	</programme>
+	<programme channel="明星大片" start="20251012201600 +0800" stop="20251012210300 +0800">
+		<title lang="zh">30_玫瑰的故事</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -86766,6 +86772,9 @@
 	<programme channel="newtv精品大剧" start="20251012193400 +0800" stop="20251012200400 +0800">
 		<title lang="zh">《花样人生》推荐第67期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251012200400 +0800" stop="20251012204300 +0800">
+		<title lang="zh">11_证词</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86877,6 +86886,9 @@
 	<programme channel="newtv精品纪录" start="20251012193200 +0800" stop="20251012200200 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251012200200 +0800" stop="20251012201600 +0800">
+		<title lang="zh">01_清代科举大金榜</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86963,6 +86975,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251012194400 +0800" stop="20251012201300 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251012201300 +0800" stop="20251012210000 +0800">
+		<title lang="zh">40_锦绣安宁</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87360,6 +87375,9 @@
 	<programme channel="newtv动作电影" start="20251012184300 +0800" stop="20251012201100 +0800">
 		<title lang="zh">赴汤蹈火</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251012201100 +0800" stop="20251012204100 +0800">
+		<title lang="zh">《花样人生》推荐第67期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -87443,6 +87461,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251012193500 +0800" stop="20251012200500 +0800">
 		<title lang="zh">《花样人生》推荐第67期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251012200500 +0800" stop="20251012204300 +0800">
+		<title lang="zh">山西清徐学栋vs湖南星火燎原-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87675,6 +87696,9 @@
 	<programme channel="newtv军事评论" start="20251012194600 +0800" stop="20251012200800 +0800">
 		<title lang="zh">香江看舰（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251012200800 +0800" stop="20251012202900 +0800">
+		<title lang="zh">香江看舰（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87837,6 +87861,9 @@
 	<programme channel="newtv精品综合" start="20251012194600 +0800" stop="20251012201600 +0800">
 		<title lang="zh">《花样人生》推荐第67期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251012201600 +0800" stop="20251012210300 +0800">
+		<title lang="zh">30_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -87900,6 +87927,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251012194000 +0800" stop="20251012201000 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251012201000 +0800" stop="20251012214600 +0800">
+		<title lang="zh">火影雄兵</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -87959,6 +87989,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251012194700 +0800" stop="20251012201700 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251012201700 +0800" stop="20251012214200 +0800">
+		<title lang="zh">半熟恋人第2季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
