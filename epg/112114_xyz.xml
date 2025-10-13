@@ -41589,6 +41589,9 @@
 	<programme channel="纯享4K" start="20251014031800 +0800" stop="20251014034800 +0800">
 		<title lang="zh">美丽中国说4K 火山奇遇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251014034800 +0800" stop="20251014043000 +0800">
+		<title lang="zh">远方的家4K 大运河 运河两岸 水润丹阳</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51774,6 +51777,9 @@
 	<programme channel="黑莓电影" start="20251014021800 +0800" stop="20251014035800 +0800">
 		<title lang="zh">警察故事</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251014035800 +0800" stop="20251014053000 +0800">
+		<title lang="zh">冬之物语</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52059,6 +52065,9 @@
 	<programme channel="newtv超级综艺" start="20251014014600 +0800" stop="20251014035200 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251014035200 +0800" stop="20251014050500 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52070,6 +52079,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251014023600 +0800" stop="20251014040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251014040000 +0800" stop="20251014053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52098,6 +52110,9 @@
 	<programme channel="newtv超级电视剧" start="20251014030300 +0800" stop="20251014035100 +0800">
 		<title lang="zh">24_黑白森林</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251014035100 +0800" stop="20251014043800 +0800">
+		<title lang="zh">25_黑白森林</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52116,6 +52131,9 @@
 	<programme channel="newtv精品大剧" start="20251014031100 +0800" stop="20251014035700 +0800">
 		<title lang="zh">17_承欢记</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251014035700 +0800" stop="20251014044200 +0800">
+		<title lang="zh">18_承欢记</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -52133,6 +52151,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251014030600 +0800" stop="20251014035400 +0800">
 		<title lang="zh">第四集 重装夺巧工</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251014035400 +0800" stop="20251014044200 +0800">
+		<title lang="zh">第五集 聚力天地间</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52304,6 +52325,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251014033800 +0800" stop="20251014040000 +0800">
 		<title lang="zh">谁是军营厨王（2）1</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251014040000 +0800" stop="20251014042200 +0800">
+		<title lang="zh">谁是军营厨王（2）2</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
