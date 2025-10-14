@@ -16767,6 +16767,9 @@
 	<programme channel="咪咕综合体育" start="20251015021000 +0800" stop="20251015035500 +0800">
 		<title lang="zh">UFCFightNight260期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251015040500 +0800" stop="20251015070000 +0800">
+		<title lang="zh">2025国际马联场地障碍赛世界杯中国联赛武汉站 第1日</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -52194,6 +52197,9 @@
 	<programme channel="黑莓电影" start="20251015021100 +0800" stop="20251015035300 +0800">
 		<title lang="zh">警察故事4：简单任务</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251015035300 +0800" stop="20251015053600 +0800">
+		<title lang="zh">流浪地球2：再次冒险</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52497,6 +52503,9 @@
 	<programme channel="newtv超级体育" start="20251015023600 +0800" stop="20251015040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251015040000 +0800" stop="20251015053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第4轮 巴黎圣日耳曼-朗斯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52527,6 +52536,9 @@
 	<programme channel="newtv超级电视剧" start="20251015030400 +0800" stop="20251015034900 +0800">
 		<title lang="zh">02_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251015035400 +0800" stop="20251015044100 +0800">
+		<title lang="zh">19_燕云台</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52544,6 +52556,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251015031100 +0800" stop="20251015035600 +0800">
 		<title lang="zh">21_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251015035600 +0800" stop="20251015044100 +0800">
+		<title lang="zh">22_承欢记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52565,6 +52580,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251015032800 +0800" stop="20251015035200 +0800">
 		<title lang="zh">01_创新</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251015035200 +0800" stop="20251015041700 +0800">
+		<title lang="zh">02_基石</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52638,6 +52656,9 @@
 	<programme channel="newtv热播精选" start="20251015031400 +0800" stop="20251015040000 +0800">
 		<title lang="zh">17_暖暖的幸福</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251015040000 +0800" stop="20251015044500 +0800">
+		<title lang="zh">18_暖暖的幸福</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52685,6 +52706,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251015025900 +0800" stop="20251015034700 +0800">
 		<title lang="zh">特殊关系</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251015034700 +0800" stop="20251015043200 +0800">
+		<title lang="zh">21_烟火人家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52739,6 +52763,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251015032500 +0800" stop="20251015034600 +0800">
 		<title lang="zh">民族风健身舞《见到你很高兴》（20231003）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251015034600 +0800" stop="20251015050600 +0800">
+		<title lang="zh">梦回襄阳（20250817）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
