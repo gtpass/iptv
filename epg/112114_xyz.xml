@@ -86631,6 +86631,9 @@
 	<programme channel="newtv精品纪录" start="20251014193500 +0800" stop="20251014200500 +0800">
 		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251014200500 +0800" stop="20251014205400 +0800">
+		<title lang="zh">01_安得广厦千万间</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87737,6 +87740,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251014192200 +0800" stop="20251014201200 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251014201200 +0800" stop="20251014204200 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
