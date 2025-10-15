@@ -16815,6 +16815,9 @@
 	<programme channel="咪咕综合体育" start="20251016000000 +0800" stop="20251016040000 +0800">
 		<title lang="zh">一杆定音-2025斯诺克上海大师赛第2轮 丁俊晖-张安达</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251016040000 +0800" stop="20251016041000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -42006,6 +42009,9 @@
 	<programme channel="纯享4K" start="20251016031700 +0800" stop="20251016034700 +0800">
 		<title lang="zh">美丽中国说4K 中国香港</title>
 	</programme>
+	<programme channel="纯享4K" start="20251016034700 +0800" stop="20251016042900 +0800">
+		<title lang="zh">远方的家4K 大运河 通江达淮 畅行水脉</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52686,6 +52692,9 @@
 	<programme channel="newtv超级体育" start="20251016023600 +0800" stop="20251016040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251016040000 +0800" stop="20251016053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第4轮 埃弗顿-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52794,6 +52803,9 @@
 	<programme channel="newtv军旅剧场" start="20251016031100 +0800" stop="20251016035600 +0800">
 		<title lang="zh">18_瞄准</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251016035600 +0800" stop="20251016044100 +0800">
+		<title lang="zh">42_一代枭雄</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -52872,6 +52884,9 @@
 	<programme channel="newtv怡伴健康" start="20251016030400 +0800" stop="20251016035100 +0800">
 		<title lang="zh">欢乐时光（上）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251016035100 +0800" stop="20251016043700 +0800">
+		<title lang="zh">23_烟火人家</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -52893,6 +52908,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251016032000 +0800" stop="20251016035800 +0800">
 		<title lang="zh">做个健康职场人</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251016035800 +0800" stop="20251016044300 +0800">
+		<title lang="zh">12_特别行动</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52907,6 +52925,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251016025700 +0800" stop="20251016034900 +0800">
 		<title lang="zh">学雷锋精神 当服务标兵——走进雷锋生前部队</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251016034900 +0800" stop="20251016044200 +0800">
+		<title lang="zh">精武强能砺刀锋 走进武警第二机动总队某支队</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -52944,6 +52965,9 @@
 	<programme channel="newtv精品综合" start="20251016030500 +0800" stop="20251016035200 +0800">
 		<title lang="zh">36_蓝盔特战队</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251016035200 +0800" stop="20251016044000 +0800">
+		<title lang="zh">37_蓝盔特战队</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52952,6 +52976,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251016021200 +0800" stop="20251016034700 +0800">
 		<title lang="zh">不速之客</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251016034700 +0800" stop="20251016050900 +0800">
+		<title lang="zh">九辫灵狐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
