@@ -16776,6 +16776,9 @@
 	<programme channel="咪咕综合体育" start="20251017011000 +0800" stop="20251017040000 +0800">
 		<title lang="zh">UFConABC8期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251017040000 +0800" stop="20251017041000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41589,6 +41592,9 @@
 	<programme channel="纯享4K" start="20251017031700 +0800" stop="20251017034700 +0800">
 		<title lang="zh">美丽中国说4K 生态海岸</title>
 	</programme>
+	<programme channel="纯享4K" start="20251017034700 +0800" stop="20251017042800 +0800">
+		<title lang="zh">远方的家4K 大运河 秦邮故地 运河人家</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52155,6 +52161,9 @@
 	<programme channel="newtv超级综艺" start="20251017015000 +0800" stop="20251017035100 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251017035100 +0800" stop="20251017054700 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52163,6 +52172,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251017023600 +0800" stop="20251017040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251017040000 +0800" stop="20251017053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第5轮 布赖顿-托特纳姆</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52194,6 +52206,9 @@
 	<programme channel="newtv超级电视剧" start="20251017030500 +0800" stop="20251017035000 +0800">
 		<title lang="zh">12_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251017035000 +0800" stop="20251017043800 +0800">
+		<title lang="zh">27_燕云台</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -52211,6 +52226,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251017030500 +0800" stop="20251017035000 +0800">
 		<title lang="zh">29_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251017035000 +0800" stop="20251017043600 +0800">
+		<title lang="zh">30_承欢记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52241,6 +52259,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251017033300 +0800" stop="20251017035800 +0800">
 		<title lang="zh">01_驭电过江</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251017035800 +0800" stop="20251017042200 +0800">
+		<title lang="zh">02_驭电过江</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52313,6 +52334,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251017031000 +0800" stop="20251017035600 +0800">
 		<title lang="zh">25_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251017035600 +0800" stop="20251017044100 +0800">
+		<title lang="zh">26_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -52401,6 +52425,9 @@
 	<programme channel="newtv军事评论" start="20251017025800 +0800" stop="20251017035200 +0800">
 		<title lang="zh">才艺老兵：不做“网红”做自己</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251017035200 +0800" stop="20251017044600 +0800">
+		<title lang="zh">鹤舞兵心岁月长</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52415,6 +52442,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251017032800 +0800" stop="20251017034900 +0800">
 		<title lang="zh">民族风健身舞《见到你很高兴》（20231003）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251017034900 +0800" stop="20251017050900 +0800">
+		<title lang="zh">梦回襄阳（20250817）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52508,6 +52538,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251017021600 +0800" stop="20251017034800 +0800">
 		<title lang="zh">绝世低手之夺命玉玺</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251017034800 +0800" stop="20251017045600 +0800">
+		<title lang="zh">男子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
