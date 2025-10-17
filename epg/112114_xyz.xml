@@ -38445,6 +38445,9 @@
 	<programme channel="纯享4K" start="20251018031900 +0800" stop="20251018034900 +0800">
 		<title lang="zh">村庄故事4K 田舍延祥（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20251018034900 +0800" stop="20251018043100 +0800">
+		<title lang="zh">远方的家4K 大运河 悠悠邗水 古韵荷香</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -47958,6 +47961,9 @@
 	<programme channel="newtv超级体育" start="20251018023600 +0800" stop="20251018040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251018040000 +0800" stop="20251018053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第5轮 马赛-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47991,6 +47997,9 @@
 	<programme channel="newtv超级电视剧" start="20251018031300 +0800" stop="20251018035800 +0800">
 		<title lang="zh">17_一代枭雄</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251018040300 +0800" stop="20251018045000 +0800">
+		<title lang="zh">31_燕云台</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48008,6 +48017,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251018030600 +0800" stop="20251018035200 +0800">
 		<title lang="zh">33_承欢记</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251018035200 +0800" stop="20251018043700 +0800">
+		<title lang="zh">34_承欢记</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48066,6 +48078,9 @@
 	<programme channel="newtv军旅剧场" start="20251018030900 +0800" stop="20251018035400 +0800">
 		<title lang="zh">06_南侨机工英雄传</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251018035400 +0800" stop="20251018044000 +0800">
+		<title lang="zh">07_南侨机工英雄传</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -48084,6 +48099,9 @@
 	<programme channel="newtv家庭剧场" start="20251018031500 +0800" stop="20251018035800 +0800">
 		<title lang="zh">33_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251018035800 +0800" stop="20251018044000 +0800">
+		<title lang="zh">34_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48098,6 +48116,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251018030300 +0800" stop="20251018034800 +0800">
 		<title lang="zh">29_暖暖的幸福</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251018034800 +0800" stop="20251018043300 +0800">
+		<title lang="zh">30_暖暖的幸福</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -48143,6 +48164,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251018022100 +0800" stop="20251018030900 +0800">
 		<title lang="zh">奥卡万戈河传奇</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251018035600 +0800" stop="20251018044200 +0800">
+		<title lang="zh">27_烟火人家</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
