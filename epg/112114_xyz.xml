@@ -28071,6 +28071,9 @@
 	<programme channel="咪咕足球" start="20251018113500 +0800" stop="20251018120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十一期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251018120000 +0800" stop="20251018120500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -40847,6 +40850,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251018102700 +0800" stop="20251018115700 +0800">
 		<title lang="zh">黑楼惊魂</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251018115700 +0800" stop="20251018124200 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -72873,6 +72879,9 @@
 	<programme channel="超级电影" start="20251018102100 +0800" stop="20251018120200 +0800">
 		<title lang="zh">疯狂密码</title>
 	</programme>
+	<programme channel="超级电影" start="20251018120200 +0800" stop="20251018132200 +0800">
+		<title lang="zh">电影《老潘的归途》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -85614,6 +85623,9 @@
 	<programme channel="newtv超级体育" start="20251018103000 +0800" stop="20251018120000 +0800">
 		<title lang="zh">实况录像-2025年世界田径锦标赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251018120000 +0800" stop="20251018130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -85643,6 +85655,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251018102100 +0800" stop="20251018120200 +0800">
 		<title lang="zh">疯狂密码</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251018120200 +0800" stop="20251018132200 +0800">
+		<title lang="zh">电影《老潘的归途》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -85802,6 +85817,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251018113700 +0800" stop="20251018115600 +0800">
 		<title lang="zh">第1集：人生就像照镜子</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251018115600 +0800" stop="20251018122600 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86103,6 +86121,9 @@
 	<programme channel="newtv动作电影" start="20251018112200 +0800" stop="20251018115100 +0800">
 		<title lang="zh">武夷山康养</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251018115100 +0800" stop="20251018133300 +0800">
+		<title lang="zh">缉枪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86298,6 +86319,9 @@
 	<programme channel="newtv军事评论" start="20251018113700 +0800" stop="20251018115900 +0800">
 		<title lang="zh">舰载雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251018115900 +0800" stop="20251018122100 +0800">
+		<title lang="zh">空天猎手</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -86423,6 +86447,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251018102700 +0800" stop="20251018115700 +0800">
 		<title lang="zh">黑楼惊魂</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251018115700 +0800" stop="20251018124200 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
