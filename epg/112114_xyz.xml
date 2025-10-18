@@ -41235,6 +41235,9 @@
 	<programme channel="惊悚悬疑" start="20251018193900 +0800" stop="20251018200900 +0800">
 		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251018200900 +0800" stop="20251018214900 +0800">
+		<title lang="zh">恶意</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -62465,6 +62468,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251018191700 +0800" stop="20251018200100 +0800">
 		<title lang="zh">04_陷入我们的热恋</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251018200100 +0800" stop="20251018203100 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -86376,6 +86382,9 @@
 	<programme channel="newtv超级电视剧" start="20251018192800 +0800" stop="20251018200400 +0800">
 		<title lang="zh">09_你是我的荣耀</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251018200400 +0800" stop="20251018204000 +0800">
+		<title lang="zh">10_你是我的荣耀</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -86742,6 +86751,9 @@
 	<programme channel="newtv军旅剧场" start="20251018192400 +0800" stop="20251018200900 +0800">
 		<title lang="zh">刀光枪影第12集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251018200900 +0800" stop="20251018203900 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -86997,6 +87009,9 @@
 	<programme channel="newtv爱情喜剧" start="20251018191700 +0800" stop="20251018200100 +0800">
 		<title lang="zh">04_陷入我们的热恋</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251018200100 +0800" stop="20251018203100 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87053,6 +87068,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251018184200 +0800" stop="20251018201200 +0800">
 		<title lang="zh">意外营救</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251018201200 +0800" stop="20251018204200 +0800">
+		<title lang="zh">《八段锦》推荐第40期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -87125,6 +87143,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251018192900 +0800" stop="20251018200700 +0800">
 		<title lang="zh">安徽星尘vs广东瑜满珠江-第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251018200700 +0800" stop="20251018203700 +0800">
+		<title lang="zh">《超级美味》推荐第11期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87209,6 +87230,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251018191800 +0800" stop="20251018200500 +0800">
 		<title lang="zh">03_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251018200500 +0800" stop="20251018203500 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87450,6 +87474,9 @@
 	<programme channel="newtv炫舞未来" start="20251018185500 +0800" stop="20251018201100 +0800">
 		<title lang="zh">粗缯大布裹生涯 腹有诗书气自华（20251013）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251018201100 +0800" stop="20251018210000 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87587,6 +87614,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251018193900 +0800" stop="20251018200900 +0800">
 		<title lang="zh">《八段锦》推荐第40期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251018200900 +0800" stop="20251018214900 +0800">
+		<title lang="zh">恶意</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
