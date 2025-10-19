@@ -44400,6 +44400,9 @@
 	<programme channel="明星大片" start="20251019182800 +0800" stop="20251019200100 +0800">
 		<title lang="zh">典籍里的中国</title>
 	</programme>
+	<programme channel="明星大片" start="20251019200100 +0800" stop="20251019204700 +0800">
+		<title lang="zh">12_绽放的许开心</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -84759,6 +84762,9 @@
 	<programme channel="黑莓动画" start="20251019184600 +0800" stop="20251019200400 +0800">
 		<title lang="zh">01_海中花</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251019200400 +0800" stop="20251019214500 +0800">
+		<title lang="zh">画江湖之天罡</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -85983,6 +85989,9 @@
 	<programme channel="newtv精品大剧" start="20251019193600 +0800" stop="20251019200600 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251019200600 +0800" stop="20251019205100 +0800">
+		<title lang="zh">16_星汉灿烂</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86084,6 +86093,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251019193700 +0800" stop="20251019200900 +0800">
 		<title lang="zh">第3集：贵阳，余韵悠长</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251019200900 +0800" stop="20251019203700 +0800">
+		<title lang="zh">第4集：岳阳，江湖之远</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86433,6 +86445,9 @@
 	<programme channel="newtv热播精选" start="20251019192900 +0800" stop="20251019201200 +0800">
 		<title lang="zh">29_藏海花</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251019201200 +0800" stop="20251019210100 +0800">
+		<title lang="zh">30_藏海花</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86660,6 +86675,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251019193200 +0800" stop="20251019200200 +0800">
 		<title lang="zh">《八段锦》推荐第40期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251019200200 +0800" stop="20251019204100 +0800">
+		<title lang="zh">浙江杭州汉资vs江西滕王阁-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -86955,6 +86973,9 @@
 	<programme channel="newtv炫舞未来" start="20251019185700 +0800" stop="20251019201400 +0800">
 		<title lang="zh">以情歌为线 营造浪漫心动的氛围 将爱情进行到底（20250721）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251019201400 +0800" stop="20251019210300 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -87032,6 +87053,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251019182800 +0800" stop="20251019200100 +0800">
 		<title lang="zh">典籍里的中国</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251019200100 +0800" stop="20251019204700 +0800">
+		<title lang="zh">12_绽放的许开心</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -87311,6 +87335,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251019192300 +0800" stop="20251019200900 +0800">
 		<title lang="zh">11_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251019200900 +0800" stop="20251019205400 +0800">
+		<title lang="zh">12_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
