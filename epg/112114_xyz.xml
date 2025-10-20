@@ -39352,6 +39352,9 @@
 	<programme channel="惊悚悬疑" start="20251020202400 +0800" stop="20251020220100 +0800">
 		<title lang="zh">倩女幽魂：人间情</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251020220100 +0800" stop="20251020223100 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -82012,6 +82015,9 @@
 	<programme channel="newtv超级综艺" start="20251020205700 +0800" stop="20251020215200 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251020215200 +0800" stop="20251020224600 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -82429,6 +82435,9 @@
 	<programme channel="newtv精品纪录" start="20251020211400 +0800" stop="20251020214700 +0800">
 		<title lang="zh">第7集：拉萨，最后的远方</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251020214700 +0800" stop="20251020222300 +0800">
+		<title lang="zh">第8集：昆明野生君</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -82618,6 +82627,9 @@
 	<programme channel="newtv军旅剧场" start="20251020211000 +0800" stop="20251020215500 +0800">
 		<title lang="zh">22_危机迷雾</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251020215500 +0800" stop="20251020222500 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82713,6 +82725,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251020210900 +0800" stop="20251020215500 +0800">
 		<title lang="zh">10_生活就是家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251020215500 +0800" stop="20251020222500 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -83046,6 +83061,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251020212800 +0800" stop="20251020215800 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251020215800 +0800" stop="20251020223900 +0800">
+		<title lang="zh">天津狼图腾vs广东瑜满珠江-第3局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83547,6 +83565,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251020202400 +0800" stop="20251020220100 +0800">
 		<title lang="zh">倩女幽魂：人间情</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251020220100 +0800" stop="20251020223100 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
