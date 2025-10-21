@@ -40918,6 +40918,9 @@
 	<programme channel="惊悚悬疑" start="20251021201200 +0800" stop="20251021215700 +0800">
 		<title lang="zh">追凶十九年</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251021215700 +0800" stop="20251021222700 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -68527,6 +68530,9 @@
 	<programme channel="纯享4K" start="20251021210700 +0800" stop="20251021215600 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第2集 斜阳寒草带重门</title>
 	</programme>
+	<programme channel="纯享4K" start="20251021215600 +0800" stop="20251021224600 +0800">
+		<title lang="zh">大地之上4K 第6集 城市与今天</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85861,6 +85867,9 @@
 	<programme channel="newtv超级综艺" start="20251021205700 +0800" stop="20251021220600 +0800">
 		<title lang="zh">沧海运河谣</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251021220600 +0800" stop="20251021225900 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85917,6 +85926,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251021193500 +0800" stop="20251021214500 +0800">
 		<title lang="zh">第十五届全国运动会男子足球-18岁以下1/4决赛</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251021214500 +0800" stop="20251021225000 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -86055,6 +86067,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251021210400 +0800" stop="20251021214100 +0800">
 		<title lang="zh">23_你是我的荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251021214100 +0800" stop="20251021222000 +0800">
+		<title lang="zh">24_你是我的荣耀</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -86998,6 +87013,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251021212300 +0800" stop="20251021215300 +0800">
 		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251021215300 +0800" stop="20251021232400 +0800">
+		<title lang="zh">绣春刀：无间炼狱</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87411,6 +87429,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251021201200 +0800" stop="20251021215700 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251021215700 +0800" stop="20251021222700 +0800">
+		<title lang="zh">《超级美味》推荐第12期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
