@@ -51657,6 +51657,9 @@
 	<programme channel="newtv超级综艺" start="20251025021400 +0800" stop="20251025035800 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251025035800 +0800" stop="20251025052700 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51668,6 +51671,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251025023600 +0800" stop="20251025040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 6</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251025040000 +0800" stop="20251025053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第6轮 水晶宫-利物浦</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51698,6 +51704,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251025030800 +0800" stop="20251025035300 +0800">
 		<title lang="zh">08_中国骑兵</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251025035800 +0800" stop="20251025044400 +0800">
+		<title lang="zh">11_亮剑</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51752,6 +51761,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251025030400 +0800" stop="20251025035300 +0800">
 		<title lang="zh">44_有翡</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251025035300 +0800" stop="20251025043800 +0800">
+		<title lang="zh">04_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51879,6 +51891,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251025031100 +0800" stop="20251025034900 +0800">
 		<title lang="zh">营养知识大盘点（1）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251025034900 +0800" stop="20251025043400 +0800">
+		<title lang="zh">16_亲爱的你</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -51905,6 +51920,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251025032900 +0800" stop="20251025035400 +0800">
 		<title lang="zh">【海峡两岸】赖清德“双十”讲话 叫嚣全面对抗大陆</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251025035400 +0800" stop="20251025042000 +0800">
+		<title lang="zh">【海峡两岸】公安机关重拳打“独” 锁定台军“心战大队”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -51953,6 +51971,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251025023000 +0800" stop="20251025035400 +0800">
 		<title lang="zh">昆仑劫之鲛人泪</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251025035400 +0800" stop="20251025053400 +0800">
+		<title lang="zh">古镇谜案之诛心劫</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
