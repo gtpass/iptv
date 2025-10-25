@@ -27954,6 +27954,9 @@
 	<programme channel="咪咕综合体育" start="20251025112500 +0800" stop="20251025115000 +0800">
 		<title lang="zh">中超精华 第27轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251025120000 +0800" stop="20251025120500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28010,6 +28013,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251025113500 +0800" stop="20251025120000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第四期</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251025120000 +0800" stop="20251025120500 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -85314,6 +85320,9 @@
 	<programme channel="黑莓动画" start="20251025092900 +0800" stop="20251025115900 +0800">
 		<title lang="zh">21_喜羊羊与灰太狼之羊羊小侦探</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251025115900 +0800" stop="20251025132900 +0800">
+		<title lang="zh">21_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86622,6 +86631,9 @@
 	<programme channel="newtv家庭剧场" start="20251025110600 +0800" stop="20251025115200 +0800">
 		<title lang="zh">20_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251025115200 +0800" stop="20251025123700 +0800">
+		<title lang="zh">康企红蓝光治疗仪劲爆组-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -86960,6 +86972,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251025112400 +0800" stop="20251025114600 +0800">
 		<title lang="zh">重器锻造</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251025114600 +0800" stop="20251025120800 +0800">
+		<title lang="zh">舰载雄鹰</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
