@@ -27972,6 +27972,9 @@
 	<programme channel="咪咕综合体育" start="20251025130500 +0800" stop="20251025140000 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单决赛 孙颖莎-王曼昱</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251025140000 +0800" stop="20251025144500 +0800">
+		<title lang="zh">国球荣耀-2025WTT中国大满贯 混双决赛 黄友政/陈熠-王楚钦/孙颖莎</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62499,6 +62502,9 @@
 	<programme channel="爱情喜剧" start="20251025125900 +0800" stop="20251025134900 +0800">
 		<title lang="zh">21_锦心似玉</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251025134900 +0800" stop="20251025142900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68720,6 +68726,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251025130400 +0800" stop="20251025135400 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
+	</programme>
+	<programme channel="纯享4K" start="20251025135400 +0800" stop="20251025140900 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7玩纸牌的人</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86352,6 +86361,9 @@
 	<programme channel="newtv超级体育" start="20251025133500 +0800" stop="20251025135500 +0800">
 		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251025135500 +0800" stop="20251025145500 +0800">
+		<title lang="zh">实况录像-2025年世界泳联游泳世界杯 加拿大站 (录播)2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86510,6 +86522,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251025130700 +0800" stop="20251025134900 +0800">
 		<title lang="zh">08_热血青春</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251025134900 +0800" stop="20251025142900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -86814,6 +86829,9 @@
 	<programme channel="newtv热播精选" start="20251025131000 +0800" stop="20251025135000 +0800">
 		<title lang="zh">营养健康20新</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251025135000 +0800" stop="20251025142900 +0800">
+		<title lang="zh">14_证词</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -86867,6 +86885,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251025125900 +0800" stop="20251025134900 +0800">
 		<title lang="zh">21_锦心似玉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251025134900 +0800" stop="20251025142900 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87144,6 +87165,9 @@
 	<programme channel="newtv军事评论" start="20251025133600 +0800" stop="20251025135800 +0800">
 		<title lang="zh">战胜纳粹倒计时（3）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251025135800 +0800" stop="20251025142000 +0800">
+		<title lang="zh">战胜纳粹倒计时（4）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87209,6 +87233,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251025132700 +0800" stop="20251025134900 +0800">
 		<title lang="zh">傣族民间舞蹈（20250624）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251025134900 +0800" stop="20251025141000 +0800">
+		<title lang="zh">追光者——周玲（20250630）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87458,6 +87485,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251025121500 +0800" stop="20251025135400 +0800">
 		<title lang="zh">六扇门之玄武初现</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251025135400 +0800" stop="20251025142300 +0800">
+		<title lang="zh">武夷山康养</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
