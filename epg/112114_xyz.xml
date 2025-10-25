@@ -68826,6 +68826,9 @@
 	<programme channel="纯享4K" start="20251025211000 +0800" stop="20251025215900 +0800">
 		<title lang="zh">曹雪芹与红楼梦4K 第6集 清砧怨笛送黄昏</title>
 	</programme>
+	<programme channel="纯享4K" start="20251025215900 +0800" stop="20251025224900 +0800">
+		<title lang="zh">国家公园——万物共生之境4K 第4集 回归之路</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85473,6 +85476,9 @@
 	<programme channel="黑莓动画" start="20251025190100 +0800" stop="20251025215200 +0800">
 		<title lang="zh">11_小可爱娜斯佳第11季</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251025215200 +0800" stop="20251025230900 +0800">
+		<title lang="zh">西行纪之穷奇地洞</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86730,6 +86736,9 @@
 	<programme channel="newtv精品大剧" start="20251025212800 +0800" stop="20251025215800 +0800">
 		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251025215800 +0800" stop="20251025224400 +0800">
+		<title lang="zh">13_独孤天下</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86829,6 +86838,9 @@
 	<programme channel="newtv精品纪录" start="20251025214300 +0800" stop="20251025215800 +0800">
 		<title lang="zh">03_金郁矿 青年指挥</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251025215800 +0800" stop="20251025221200 +0800">
+		<title lang="zh">04_丁王英 某士官学校学员</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -86924,6 +86936,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251025211900 +0800" stop="20251025214900 +0800">
 		<title lang="zh">《A咖秀》推荐第10期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251025214900 +0800" stop="20251025223500 +0800">
+		<title lang="zh">21_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -87023,6 +87038,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251025211500 +0800" stop="20251025220000 +0800">
 		<title lang="zh">刀光枪影第30集</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251025220000 +0800" stop="20251025224600 +0800">
+		<title lang="zh">刀光枪影第31集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
