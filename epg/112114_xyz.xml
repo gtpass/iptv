@@ -14730,6 +14730,9 @@
 	<programme channel="咪咕综合体育" start="20251027053500 +0800" stop="20251027055000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251027055000 +0800" stop="20251027065000 +0800">
+		<title lang="zh">2025国际射联世界杯10米气手枪决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39741,6 +39744,9 @@
 	<programme channel="纯享4K" start="20251027045700 +0800" stop="20251027054700 +0800">
 		<title lang="zh">往事如歌4K 第2集</title>
 	</programme>
+	<programme channel="纯享4K" start="20251027054700 +0800" stop="20251027060200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 春坞纸鸢图</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48594,6 +48600,9 @@
 	<programme channel="newtv超级体育" start="20251027053000 +0800" stop="20251027060000 +0800">
 		<title lang="zh">实况录像-2025年世界射箭锦标赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251027060000 +0800" stop="20251027063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48636,6 +48645,9 @@
 	<programme channel="newtv超级电视剧" start="20251027051800 +0800" stop="20251027060300 +0800">
 		<title lang="zh">21_亮剑</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251027060300 +0800" stop="20251027064900 +0800">
+		<title lang="zh">22_亮剑</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48662,6 +48674,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251027050300 +0800" stop="20251027054900 +0800">
 		<title lang="zh">03_雁回时</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251027054900 +0800" stop="20251027062900 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48771,6 +48786,9 @@
 	<programme channel="newtv家庭剧场" start="20251027051000 +0800" stop="20251027054700 +0800">
 		<title lang="zh">05_锦月如歌</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251027054700 +0800" stop="20251027061700 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -48798,6 +48816,9 @@
 	<programme channel="newtv热播精选" start="20251027052500 +0800" stop="20251027055000 +0800">
 		<title lang="zh">古代战场第3季</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251027055000 +0800" stop="20251027062000 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -48822,6 +48843,9 @@
 	<programme channel="newtv爱情喜剧" start="20251027052000 +0800" stop="20251027055400 +0800">
 		<title lang="zh">22_锦月如歌</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251027055400 +0800" stop="20251027063400 +0800">
+		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48836,6 +48860,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251027035900 +0800" stop="20251027054700 +0800">
 		<title lang="zh">开罗宣言</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251027054700 +0800" stop="20251027061700 +0800">
+		<title lang="zh">虾青素推广片4001087099</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -48872,6 +48899,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251027053700 +0800" stop="20251027054600 +0800">
 		<title lang="zh">小品《喜乐街》小尼 贾玲 沙溢 瞿颖 李菁</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251027054600 +0800" stop="20251027063900 +0800">
+		<title lang="zh">小品《实习保姆》 表演：周炜 贾玲</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -49016,6 +49046,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251027044000 +0800" stop="20251027055200 +0800">
 		<title lang="zh">蛇岛求生</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251027055200 +0800" stop="20251027062200 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
