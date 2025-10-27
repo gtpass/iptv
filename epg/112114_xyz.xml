@@ -39152,6 +39152,9 @@
 	<programme channel="惊悚悬疑" start="20251027195900 +0800" stop="20251027202900 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251027202900 +0800" stop="20251027215800 +0800">
+		<title lang="zh">地底怪物</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -42436,6 +42439,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251027195500 +0800" stop="20251027202500 +0800">
 		<title lang="zh">《超级美味》推荐第13期</title>
+	</programme>
+	<programme channel="明星大片" start="20251027202500 +0800" stop="20251027211300 +0800">
+		<title lang="zh">02_陷入我们的热恋</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60004,6 +60010,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251027195000 +0800" stop="20251027202000 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251027202000 +0800" stop="20251027210600 +0800">
+		<title lang="zh">25_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -82475,6 +82484,9 @@
 	<programme channel="newtv军旅剧场" start="20251027194600 +0800" stop="20251027203000 +0800">
 		<title lang="zh">14_利刃出击</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251027203000 +0800" stop="20251027211600 +0800">
+		<title lang="zh">刀光枪影第36集</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82739,6 +82751,9 @@
 	<programme channel="newtv爱情喜剧" start="20251027195000 +0800" stop="20251027202000 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251027202000 +0800" stop="20251027210600 +0800">
+		<title lang="zh">25_亲爱的，你在哪里</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82795,6 +82810,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251027192400 +0800" stop="20251027202700 +0800">
 		<title lang="zh">狄仁杰之九层妖楼</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251027202700 +0800" stop="20251027205700 +0800">
+		<title lang="zh">《超级美味》推荐第13期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -82966,6 +82984,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251027195200 +0800" stop="20251027202200 +0800">
 		<title lang="zh">《超级美味》推荐第13期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251027202200 +0800" stop="20251027210900 +0800">
+		<title lang="zh">38_锦心似玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -83282,6 +83303,9 @@
 	<programme channel="newtv精品综合" start="20251027195500 +0800" stop="20251027202500 +0800">
 		<title lang="zh">《超级美味》推荐第13期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251027202500 +0800" stop="20251027211300 +0800">
+		<title lang="zh">02_陷入我们的热恋</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83341,6 +83365,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251027195900 +0800" stop="20251027202900 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251027202900 +0800" stop="20251027215800 +0800">
+		<title lang="zh">地底怪物</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -83560,6 +83587,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251027193600 +0800" stop="20251027202100 +0800">
 		<title lang="zh">35_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251027202100 +0800" stop="20251027210700 +0800">
+		<title lang="zh">36_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
