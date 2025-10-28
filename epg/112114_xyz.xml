@@ -48831,6 +48831,9 @@
 	<programme channel="纯享4K" start="20251028210700 +0800" stop="20251028215700 +0800">
 		<title lang="zh">往事如歌4K 第3集</title>
 	</programme>
+	<programme channel="纯享4K" start="20251028215700 +0800" stop="20251028221200 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 蛋彩画b7篮球</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60213,6 +60216,9 @@
 	<programme channel="黑莓动画" start="20251028201900 +0800" stop="20251028214700 +0800">
 		<title lang="zh">太空勇狗队</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251028214700 +0800" stop="20251028231600 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -60669,6 +60675,9 @@
 	<programme channel="newtv超级体育" start="20251028200000 +0800" stop="20251028220000 +0800">
 		<title lang="zh">2025年世乒联冠军赛(蒙彼利埃站)-第1轮1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251028220000 +0800" stop="20251028230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60710,6 +60719,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251028195100 +0800" stop="20251028215800 +0800">
 		<title lang="zh">电影《变形金刚：超能勇士崛起》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251028215800 +0800" stop="20251028000200 +0800">
+		<title lang="zh">电影《暮光之城3：月食》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -61092,6 +61104,9 @@
 	<programme channel="newtv古装剧场" start="20251028211000 +0800" stop="20251028215600 +0800">
 		<title lang="zh">33_九重紫</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251028215600 +0800" stop="20251028224200 +0800">
+		<title lang="zh">34_九重紫</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61292,6 +61307,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251028211800 +0800" stop="20251028215900 +0800">
 		<title lang="zh">14_索玛花开</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251028215900 +0800" stop="20251028222900 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61650,6 +61668,9 @@
 	<programme channel="newtv怡伴健康" start="20251028211700 +0800" stop="20251028215800 +0800">
 		<title lang="zh">浙江杭州汉资vs天津狼图腾-第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251028215800 +0800" stop="20251028223700 +0800">
+		<title lang="zh">浙江杭州汉资vs天津狼图腾-第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -61901,6 +61922,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251028212200 +0800" stop="20251028214900 +0800">
 		<title lang="zh">有趣有料军博行</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251028214900 +0800" stop="20251028221500 +0800">
+		<title lang="zh">守护生命</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -62159,6 +62183,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251028201600 +0800" stop="20251028214700 +0800">
 		<title lang="zh">生死下一秒</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251028214700 +0800" stop="20251028221700 +0800">
+		<title lang="zh">《A咖秀》推荐第10期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
