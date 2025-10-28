@@ -60639,6 +60639,9 @@
 	<programme channel="newtv精品纪录" start="20251028094200 +0800" stop="20251028103200 +0800">
 		<title lang="zh">焕发</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251028103200 +0800" stop="20251028111200 +0800">
+		<title lang="zh">营养健康20新</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60786,6 +60789,9 @@
 	<programme channel="newtv家庭剧场" start="20251028094600 +0800" stop="20251028103200 +0800">
 		<title lang="zh">32_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251028103200 +0800" stop="20251028110100 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60875,6 +60881,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251028094700 +0800" stop="20251028103200 +0800">
 		<title lang="zh">35_锦心似玉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251028103200 +0800" stop="20251028110200 +0800">
+		<title lang="zh">宝岛台湾高粱酒</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61157,6 +61166,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251028093600 +0800" stop="20251028103600 +0800">
 		<title lang="zh">你的心里只能有我</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251028103600 +0800" stop="20251028112300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
