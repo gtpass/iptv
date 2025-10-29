@@ -48750,6 +48750,9 @@
 	<programme channel="纯享4K" start="20251029211000 +0800" stop="20251029215900 +0800">
 		<title lang="zh">大数据时代4K 第1集 数据时代</title>
 	</programme>
+	<programme channel="纯享4K" start="20251029215900 +0800" stop="20251029224700 +0800">
+		<title lang="zh">传承 第二季4K 第六集 流变</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60393,6 +60396,9 @@
 	<programme channel="newtv超级综艺" start="20251029212000 +0800" stop="20251029215700 +0800">
 		<title lang="zh">我们的村节</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251029215700 +0800" stop="20251029231200 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60452,6 +60458,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251029200000 +0800" stop="20251029220000 +0800">
 		<title lang="zh">2025年世乒联冠军赛(蒙彼利埃站)-第1轮2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251029220000 +0800" stop="20251029230500 +0800">
+		<title lang="zh">体育世界</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -60686,6 +60695,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251029211800 +0800" stop="20251029214800 +0800">
 		<title lang="zh">《A咖秀》推荐第11期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251029214800 +0800" stop="20251029223300 +0800">
+		<title lang="zh">24_独孤天下</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -61106,6 +61118,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251029210900 +0800" stop="20251029215500 +0800">
 		<title lang="zh">46_生活就是家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251029215500 +0800" stop="20251029222500 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61722,6 +61737,9 @@
 	<programme channel="newtv军事评论" start="20251029213400 +0800" stop="20251029220000 +0800">
 		<title lang="zh">台军放出“海上狼群” 解放军一网打尽</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251029220000 +0800" stop="20251029222600 +0800">
+		<title lang="zh">特朗普对华新政策 三根支柱浮出水面</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61955,6 +61973,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251029200100 +0800" stop="20251029215200 +0800">
 		<title lang="zh">三线轮洄（4K）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251029215200 +0800" stop="20251029222200 +0800">
+		<title lang="zh">《A咖秀》推荐第11期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
