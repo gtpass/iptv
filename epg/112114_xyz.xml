@@ -61029,6 +61029,9 @@
 	<programme channel="newtv超级体育" start="20251030200000 +0800" stop="20251030220000 +0800">
 		<title lang="zh">2025年世乒联冠军赛(蒙彼利埃站)-第1轮3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251030220000 +0800" stop="20251030230500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -61169,6 +61172,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251030210800 +0800" stop="20251030215400 +0800">
 		<title lang="zh">21_棋士</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251030215400 +0800" stop="20251030224000 +0800">
+		<title lang="zh">30_折腰</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -62585,6 +62591,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251030214200 +0800" stop="20251030220400 +0800">
 		<title lang="zh">一饭封神</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251030220400 +0800" stop="20251030223400 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
