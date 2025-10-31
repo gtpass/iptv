@@ -28462,6 +28462,9 @@
 	<programme channel="咪咕综合体育" start="20251031173000 +0800" stop="20251031201000 +0800">
 		<title lang="zh">中超来噜-2025赛季中超 第29轮 上海海港-浙江俱乐部绿城 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251031201000 +0800" stop="20251031202000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -69211,6 +69214,9 @@
 	<programme channel="纯享4K" start="20251031192800 +0800" stop="20251031201000 +0800">
 		<title lang="zh">远方的家4K 大运河 北京跨越600年</title>
 	</programme>
+	<programme channel="纯享4K" start="20251031201000 +0800" stop="20251031205100 +0800">
+		<title lang="zh">远方的家4K 大运河 北京中心这片海</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85720,6 +85726,9 @@
 	<programme channel="黑莓动画" start="20251031173200 +0800" stop="20251031200900 +0800">
 		<title lang="zh">11_鱼群大暴走</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251031200900 +0800" stop="20251031214300 +0800">
+		<title lang="zh">哆啦A梦：伴我同行</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86857,6 +86866,9 @@
 	<programme channel="newtv超级电视剧" start="20251031192800 +0800" stop="20251031201300 +0800">
 		<title lang="zh">01_穆桂英挂帅</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251031201300 +0800" stop="20251031205800 +0800">
+		<title lang="zh">02_穆桂英挂帅</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87844,6 +87856,9 @@
 	<programme channel="newtv军事评论" start="20251031194400 +0800" stop="20251031200900 +0800">
 		<title lang="zh">守护国门的故事</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251031200900 +0800" stop="20251031203400 +0800">
+		<title lang="zh">汽车女兵的“飞驰人生”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88125,6 +88140,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251031194300 +0800" stop="20251031201300 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251031201300 +0800" stop="20251031211100 +0800">
+		<title lang="zh">一饭封神</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
