@@ -48006,6 +48006,9 @@
 	<programme channel="newtv超级综艺" start="20251102042300 +0800" stop="20251102055700 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251102055700 +0800" stop="20251102071000 +0800">
+		<title lang="zh">综艺喜乐汇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48020,6 +48023,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251102053000 +0800" stop="20251102060000 +0800">
 		<title lang="zh">实况录像-2025年世界射箭锦标赛 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251102060000 +0800" stop="20251102063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -48255,6 +48261,9 @@
 	<programme channel="newtv爱情喜剧" start="20251102051200 +0800" stop="20251102055700 +0800">
 		<title lang="zh">15_穆桂英挂帅</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251102055700 +0800" stop="20251102062600 +0800">
+		<title lang="zh">武夷山康养</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -48332,6 +48341,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251102050300 +0800" stop="20251102054800 +0800">
 		<title lang="zh">19_再造之恩</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251102054800 +0800" stop="20251102062800 +0800">
+		<title lang="zh">营养健康20新</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -48473,6 +48485,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251102041000 +0800" stop="20251102055400 +0800">
 		<title lang="zh">2024-25赛季英超联赛第8轮：曼联VS布伦特福德</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251102055400 +0800" stop="20251102073500 +0800">
+		<title lang="zh">2024-25赛季英超联赛第25轮：利物浦VS伍尔弗汉普顿</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
