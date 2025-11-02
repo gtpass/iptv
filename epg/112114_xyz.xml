@@ -14823,6 +14823,9 @@
 	<programme channel="咪咕综合体育" start="20251103031500 +0800" stop="20251103055500 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第10轮 AC米兰-罗马 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251103055500 +0800" stop="20251103060500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47247,6 +47250,9 @@
 	<programme channel="黑莓动画" start="20251103015200 +0800" stop="20251103055400 +0800">
 		<title lang="zh">01_间谍过家家全集中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251103055400 +0800" stop="20251103063600 +0800">
+		<title lang="zh">01_优宝儿歌第1季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -47472,6 +47478,9 @@
 	<programme channel="newtv超级体育" start="20251103053000 +0800" stop="20251103060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251103060000 +0800" stop="20251103063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47685,6 +47694,9 @@
 	<programme channel="newtv热播精选" start="20251103050900 +0800" stop="20251103054700 +0800">
 		<title lang="zh">10_南海归墟</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251103054700 +0800" stop="20251103061000 +0800">
+		<title lang="zh">古代战场第3季</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47759,6 +47771,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251103054500 +0800" stop="20251103055200 +0800">
 		<title lang="zh">小品《新白娘子传奇》贾玲、刘涛等</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251103055200 +0800" stop="20251103063900 +0800">
+		<title lang="zh">小品《宅男剩女》贾玲、白凯南等</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -47835,6 +47850,9 @@
 	<programme channel="newtv军事评论" start="20251103052300 +0800" stop="20251103054800 +0800">
 		<title lang="zh">探秘“流动的仪仗队”（上集）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251103054800 +0800" stop="20251103061400 +0800">
+		<title lang="zh">探秘“流动的仪仗队”（下集）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47855,6 +47873,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251103053900 +0800" stop="20251103060100 +0800">
 		<title lang="zh">傣族民间舞蹈（20250624）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251103060100 +0800" stop="20251103062200 +0800">
+		<title lang="zh">健身舞《我家住在桃花山》（20231010）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
