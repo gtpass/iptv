@@ -27299,6 +27299,9 @@
 	<programme channel="咪咕足球" start="20251102113400 +0800" stop="20251102115900 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第七期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251102120500 +0800" stop="20251102122000 +0800">
+		<title lang="zh">睛彩圈圈点第十四期</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -67025,6 +67028,9 @@
 	<programme channel="纯享4K" start="20251102112200 +0800" stop="20251102114800 +0800">
 		<title lang="zh">好吃客4K 京城洋厨房</title>
 	</programme>
+	<programme channel="纯享4K" start="20251102114800 +0800" stop="20251102123000 +0800">
+		<title lang="zh">远方的家4K 大运河 正阳门下是北京</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -83291,6 +83297,9 @@
 	<programme channel="黑莓电影" start="20251102101000 +0800" stop="20251102115100 +0800">
 		<title lang="zh">蜡笔小新剧场版2015</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251102115100 +0800" stop="20251102134300 +0800">
+		<title lang="zh">告密者</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -84449,6 +84458,9 @@
 	<programme channel="newtv古装剧场" start="20251102110700 +0800" stop="20251102115400 +0800">
 		<title lang="zh">20_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251102115400 +0800" stop="20251102122400 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -84503,6 +84515,9 @@
 	<programme channel="newtv军旅剧场" start="20251102110700 +0800" stop="20251102115300 +0800">
 		<title lang="zh">02_特战行动</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251102115300 +0800" stop="20251102122300 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84556,6 +84571,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251102111000 +0800" stop="20251102115800 +0800">
 		<title lang="zh">14_国子监来了个女弟子</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251102115800 +0800" stop="20251102122800 +0800">
+		<title lang="zh">美丽人生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -84752,6 +84770,9 @@
 	<programme channel="newtv怡伴健康" start="20251102111400 +0800" stop="20251102115600 +0800">
 		<title lang="zh">生活圈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251102115600 +0800" stop="20251102122600 +0800">
+		<title lang="zh">美丽人生</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -84883,6 +84904,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251102112900 +0800" stop="20251102115600 +0800">
 		<title lang="zh">壮志搏苍穹</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251102115600 +0800" stop="20251102122200 +0800">
+		<title lang="zh">奋飞向未来</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
