@@ -43496,6 +43496,9 @@
 	<programme channel="明星大片" start="20251102133200 +0800" stop="20251102134700 +0800">
 		<title lang="zh">53_喜羊羊与灰太狼之深海历险记</title>
 	</programme>
+	<programme channel="明星大片" start="20251102134700 +0800" stop="20251102143200 +0800">
+		<title lang="zh">10_我的妈妈是天使</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -61402,6 +61405,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20251102133000 +0800" stop="20251102140000 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20251102140000 +0800" stop="20251102144000 +0800">
+		<title lang="zh">16_御赐小仵作</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -84614,6 +84620,9 @@
 	<programme channel="newtv精品大剧" start="20251102131800 +0800" stop="20251102134800 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251102134800 +0800" stop="20251102143500 +0800">
+		<title lang="zh">12_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84670,6 +84679,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251102130000 +0800" stop="20251102135700 +0800">
 		<title lang="zh">第6集：葱蒜之交</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251102135700 +0800" stop="20251102142700 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -84796,6 +84808,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251102130700 +0800" stop="20251102135200 +0800">
 		<title lang="zh">32_功勋</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251102135200 +0800" stop="20251102142200 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -84980,6 +84995,9 @@
 	<programme channel="newtv爱情喜剧" start="20251102133000 +0800" stop="20251102140000 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251102140000 +0800" stop="20251102144000 +0800">
+		<title lang="zh">16_御赐小仵作</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -85154,6 +85172,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251102132400 +0800" stop="20251102135400 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251102135400 +0800" stop="20251102144000 +0800">
+		<title lang="zh">21_女特警</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85313,6 +85334,9 @@
 	<programme channel="newtv炫舞未来" start="20251102125900 +0800" stop="20251102134800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251102134800 +0800" stop="20251102140900 +0800">
+		<title lang="zh">健身舞—天边（20210523）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -85366,6 +85390,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251102133200 +0800" stop="20251102134700 +0800">
 		<title lang="zh">53_喜羊羊与灰太狼之深海历险记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251102134700 +0800" stop="20251102143200 +0800">
+		<title lang="zh">10_我的妈妈是天使</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
