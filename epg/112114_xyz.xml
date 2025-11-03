@@ -16431,6 +16431,9 @@
 	<programme channel="咪咕综合体育" start="20251104024000 +0800" stop="20251104035000 +0800">
 		<title lang="zh">2025国际马联场地障碍欧锦赛个人决赛 2</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251104040000 +0800" stop="20251104064000 +0800">
+		<title lang="zh">UFC格斗之夜262期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16448,6 +16451,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251104021000 +0800" stop="20251104035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第16轮 湖北文旅-广西威壮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251104040000 +0800" stop="20251104050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41040,6 +41046,9 @@
 	<programme channel="纯享4K" start="20251104033000 +0800" stop="20251104035900 +0800">
 		<title lang="zh">好吃客4K 乌镇</title>
 	</programme>
+	<programme channel="纯享4K" start="20251104035900 +0800" stop="20251104044000 +0800">
+		<title lang="zh">远方的家4K 大运河 永定门前 古都新颜</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51735,6 +51744,9 @@
 	<programme channel="newtv超级体育" start="20251104023100 +0800" stop="20251104040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251104040000 +0800" stop="20251104053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第4轮 埃弗顿-阿斯顿维拉</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51746,6 +51758,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251104022500 +0800" stop="20251104035800 +0800">
 		<title lang="zh">八角笼</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251104035800 +0800" stop="20251104053800 +0800">
+		<title lang="zh">信义兄弟</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51765,6 +51780,9 @@
 	<programme channel="newtv超级电视剧" start="20251104030500 +0800" stop="20251104035000 +0800">
 		<title lang="zh">28_地雷战</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251104035000 +0800" stop="20251104043600 +0800">
+		<title lang="zh">21_淬火年代</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51782,6 +51800,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251104031500 +0800" stop="20251104040000 +0800">
 		<title lang="zh">19_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251104040000 +0800" stop="20251104044500 +0800">
+		<title lang="zh">20_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51827,6 +51848,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251104031400 +0800" stop="20251104035900 +0800">
 		<title lang="zh">32_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251104035900 +0800" stop="20251104044500 +0800">
+		<title lang="zh">33_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51950,6 +51974,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251104030300 +0800" stop="20251104035200 +0800">
 		<title lang="zh">海洋掠食者</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251104035200 +0800" stop="20251104043900 +0800">
+		<title lang="zh">猎豹五兄弟</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
