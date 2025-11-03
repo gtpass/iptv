@@ -80966,6 +80966,9 @@
 	<programme channel="newtv超级综艺" start="20251103205700 +0800" stop="20251103215000 +0800">
 		<title lang="zh">中国乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251103215000 +0800" stop="20251103230000 +0800">
+		<title lang="zh">沧海运河谣</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81022,6 +81025,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251103213000 +0800" stop="20251103220000 +0800">
 		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251103220000 +0800" stop="20251103230000 +0800">
+		<title lang="zh">天下足球</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -81157,6 +81163,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251103210000 +0800" stop="20251103214500 +0800">
 		<title lang="zh">12_穆桂英挂帅</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251103214500 +0800" stop="20251103223100 +0800">
+		<title lang="zh">07_大秦帝国之裂变</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
