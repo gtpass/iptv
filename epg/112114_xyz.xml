@@ -26063,6 +26063,9 @@
 	<programme channel="咪咕足球" start="20251103124500 +0800" stop="20251103142000 +0800">
 		<title lang="zh">第十五届全运会 男篮资格赛 B组第1轮 天津-江苏</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251103142000 +0800" stop="20251103143000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -38863,6 +38866,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251103134000 +0800" stop="20251103141000 +0800">
 		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251103141000 +0800" stop="20251103154700 +0800">
+		<title lang="zh">八卦掌之潜龙勿用</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -65015,6 +65021,9 @@
 	<programme channel="纯享4K" start="20251103131600 +0800" stop="20251103140600 +0800">
 		<title lang="zh">大太平洋4K 第一集 激情</title>
 	</programme>
+	<programme channel="纯享4K" start="20251103140600 +0800" stop="20251103143600 +0800">
+		<title lang="zh">传承 第三季4K 第九集 维系</title>
+	</programme>
 	<channel id="绍兴新闻综合">
 		<display-name lang="zh">绍兴新闻综合</display-name>
 	</channel>
@@ -80810,6 +80819,9 @@
 	<programme channel="newtv超级电视剧" start="20251103132300 +0800" stop="20251103140900 +0800">
 		<title lang="zh">29_庆余年</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251103140900 +0800" stop="20251103145500 +0800">
+		<title lang="zh">30_庆余年</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81551,6 +81563,9 @@
 	<programme channel="newtv军事评论" start="20251103134200 +0800" stop="20251103140800 +0800">
 		<title lang="zh">无人尖兵</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251103140800 +0800" stop="20251103143400 +0800">
+		<title lang="zh">完美打击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81604,6 +81619,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251103135100 +0800" stop="20251103140900 +0800">
 		<title lang="zh">小品《“儿子”来了》 表演者：葛优 蔡明 潘长江</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251103140900 +0800" stop="20251103142300 +0800">
+		<title lang="zh">小品《老伴》 蔡明 潘长江 潘斌龙</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -81706,6 +81724,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251103134000 +0800" stop="20251103141000 +0800">
 		<title lang="zh">美丽人生</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251103141000 +0800" stop="20251103154700 +0800">
+		<title lang="zh">八卦掌之潜龙勿用</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81862,6 +81883,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251103134100 +0800" stop="20251103141100 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251103141100 +0800" stop="20251103145600 +0800">
+		<title lang="zh">16_大武当</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
