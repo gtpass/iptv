@@ -48180,6 +48180,9 @@
 	<programme channel="纯享4K" start="20251106193700 +0800" stop="20251106201900 +0800">
 		<title lang="zh">远方的家4K 大运河特辑（3） 运河边 扬州城</title>
 	</programme>
+	<programme channel="纯享4K" start="20251106201900 +0800" stop="20251106210000 +0800">
+		<title lang="zh">远方的家4K 大运河特辑（4） 运河两岸 绿色沃野</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60180,6 +60183,9 @@
 	<programme channel="newtv超级电视剧" start="20251106193000 +0800" stop="20251106201400 +0800">
 		<title lang="zh">20_穆桂英挂帅</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251106201400 +0800" stop="20251106205900 +0800">
+		<title lang="zh">21_穆桂英挂帅</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60276,6 +60282,9 @@
 	<programme channel="newtv精品大剧" start="20251106193700 +0800" stop="20251106201700 +0800">
 		<title lang="zh">19_闪耀的她</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251106201700 +0800" stop="20251106205800 +0800">
+		<title lang="zh">20_闪耀的她</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60365,6 +60374,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251106193600 +0800" stop="20251106202300 +0800">
 		<title lang="zh">第三集 西伯利亚</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251106202300 +0800" stop="20251106211100 +0800">
+		<title lang="zh">第四集 秘鲁</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60458,6 +60470,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251106194500 +0800" stop="20251106202600 +0800">
 		<title lang="zh">19_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251106202600 +0800" stop="20251106210800 +0800">
+		<title lang="zh">11_国子监来了个女弟子</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -60888,6 +60903,9 @@
 	<programme channel="newtv动作电影" start="20251106183800 +0800" stop="20251106200700 +0800">
 		<title lang="zh">终极硬汉</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251106200700 +0800" stop="20251106203700 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61077,6 +61095,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251106195100 +0800" stop="20251106202100 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251106202100 +0800" stop="20251106210900 +0800">
+		<title lang="zh">32_有翡</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -61214,6 +61235,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251106195500 +0800" stop="20251106202000 +0800">
 		<title lang="zh">我与边关共山河 第五集 长白林海戍边情</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251106202000 +0800" stop="20251106204500 +0800">
+		<title lang="zh">我与边关共山河 第六集 “隐形守护”在大漠戈壁</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -61380,6 +61404,9 @@
 	<programme channel="newtv精品综合" start="20251106193500 +0800" stop="20251106200500 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251106200500 +0800" stop="20251106205100 +0800">
+		<title lang="zh">04_欢乐颂4</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61445,6 +61472,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251106194800 +0800" stop="20251106201800 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251106201800 +0800" stop="20251106214800 +0800">
+		<title lang="zh">绑架游戏</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -61679,6 +61709,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251106194000 +0800" stop="20251106202700 +0800">
 		<title lang="zh">16_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251106202700 +0800" stop="20251106211300 +0800">
+		<title lang="zh">17_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
