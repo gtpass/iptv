@@ -16365,6 +16365,9 @@
 	<programme channel="咪咕综合体育" start="20251108011500 +0800" stop="20251108040500 +0800">
 		<title lang="zh">UFConABC8期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251108040500 +0800" stop="20251108041500 +0800">
+		<title lang="zh">全运时刻-香港全运星看团第一期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16382,6 +16385,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251108021000 +0800" stop="20251108035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第20轮 湖北文旅-广西威壮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251108040000 +0800" stop="20251108050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -51525,6 +51531,9 @@
 	<programme channel="newtv超级综艺" start="20251108014500 +0800" stop="20251108034900 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251108034900 +0800" stop="20251108045100 +0800">
+		<title lang="zh">中国乡村音乐大会</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51533,6 +51542,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251108023100 +0800" stop="20251108040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251108040000 +0800" stop="20251108053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第11轮 里尔-昂热</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51567,6 +51579,9 @@
 	<programme channel="newtv超级电视剧" start="20251108031400 +0800" stop="20251108040000 +0800">
 		<title lang="zh">02_好事成双</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251108040000 +0800" stop="20251108044600 +0800">
+		<title lang="zh">03_潜行者</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -51584,6 +51599,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251108030700 +0800" stop="20251108035300 +0800">
 		<title lang="zh">36_父亲的草原母亲的河</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251108035300 +0800" stop="20251108043800 +0800">
+		<title lang="zh">19_父辈的荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -51606,6 +51624,9 @@
 	<programme channel="newtv精品纪录" start="20251108031500 +0800" stop="20251108035900 +0800">
 		<title lang="zh">第3集：掠食者之战-尼罗鳄</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251108035900 +0800" stop="20251108044400 +0800">
+		<title lang="zh">第4集：掠食者之战 北极熊</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -51623,6 +51644,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251108030600 +0800" stop="20251108035200 +0800">
 		<title lang="zh">48_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251108035200 +0800" stop="20251108043700 +0800">
+		<title lang="zh">49_大秦帝国之纵横</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51774,6 +51798,9 @@
 	<programme channel="newtv军事评论" start="20251108032600 +0800" stop="20251108035100 +0800">
 		<title lang="zh">【海峡两岸】赖清德“双十”讲话 叫嚣全面对抗大陆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251108035100 +0800" stop="20251108041600 +0800">
+		<title lang="zh">【海峡两岸】公安机关重拳打“独” 锁定台军“心战大队”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -51821,6 +51848,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251108022500 +0800" stop="20251108034900 +0800">
 		<title lang="zh">昆仑劫之鲛人泪</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251108034900 +0800" stop="20251108052900 +0800">
+		<title lang="zh">古镇谜案之诛心劫</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
