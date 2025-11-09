@@ -60291,6 +60291,9 @@
 	<programme channel="newtv精品纪录" start="20251109185600 +0800" stop="20251109200400 +0800">
 		<title lang="zh">01_圆</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251109200400 +0800" stop="20251109203400 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60561,6 +60564,9 @@
 	<programme channel="newtv家庭剧场" start="20251109193300 +0800" stop="20251109200300 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251109200300 +0800" stop="20251109204800 +0800">
+		<title lang="zh">06_林深见鹿</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -60725,6 +60731,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251109192100 +0800" stop="20251109200700 +0800">
 		<title lang="zh">47_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251109200700 +0800" stop="20251109203700 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61089,6 +61098,9 @@
 	<programme channel="newtv军事评论" start="20251109194000 +0800" stop="20251109200600 +0800">
 		<title lang="zh">【海峡两岸】压制岛内主流民意 赖清德有何误判？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251109200600 +0800" stop="20251109203100 +0800">
+		<title lang="zh">【海峡两岸】迎合美军“地狱计划” 台军端出三大武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61172,6 +61184,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251109191500 +0800" stop="20251109201500 +0800">
 		<title lang="zh">我不要无爱的婚姻</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251109201500 +0800" stop="20251109210300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61257,6 +61272,9 @@
 	<programme channel="newtv精品综合" start="20251109193900 +0800" stop="20251109200900 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251109200900 +0800" stop="20251109205500 +0800">
+		<title lang="zh">12_欢乐颂4</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61316,6 +61334,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251109194100 +0800" stop="20251109201100 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251109201100 +0800" stop="20251109213100 +0800">
+		<title lang="zh">蛇王2021</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -61385,6 +61406,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251109192200 +0800" stop="20251109201200 +0800">
 		<title lang="zh">一笑一周</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251109201200 +0800" stop="20251109204200 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
