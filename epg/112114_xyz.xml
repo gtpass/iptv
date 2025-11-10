@@ -44379,6 +44379,9 @@
 	<programme channel="纯享4K" start="20251110104400 +0800" stop="20251110104900 +0800">
 		<title lang="zh">中国微名片 世界遗产 第二季4K 第16集 黄山</title>
 	</programme>
+	<programme channel="纯享4K" start="20251110105900 +0800" stop="20251110112600 +0800">
+		<title lang="zh">好吃客4K 长沙</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -53802,6 +53805,9 @@
 	<programme channel="黑莓动画" start="20251110102900 +0800" stop="20251110104600 +0800">
 		<title lang="zh">34_王者大宿舍</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251110104600 +0800" stop="20251110131600 +0800">
+		<title lang="zh">41_喜羊羊与灰太狼之羊羊小侦探</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -54063,6 +54069,9 @@
 	<programme channel="newtv超级综艺" start="20251110100000 +0800" stop="20251110105300 +0800">
 		<title lang="zh">中国乡村音乐大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251110105300 +0800" stop="20251110121000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -54158,6 +54167,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251110101000 +0800" stop="20251110105700 +0800">
 		<title lang="zh">37_锦心似玉</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251110105700 +0800" stop="20251110114400 +0800">
+		<title lang="zh">38_锦心似玉</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -54498,6 +54510,9 @@
 	<programme channel="newtv爱情喜剧" start="20251110100300 +0800" stop="20251110104900 +0800">
 		<title lang="zh">17_值得爱</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251110104900 +0800" stop="20251110112900 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -54726,6 +54741,9 @@
 	<programme channel="newtv军事评论" start="20251110102800 +0800" stop="20251110105400 +0800">
 		<title lang="zh">营山的红色记忆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251110105400 +0800" stop="20251110112100 +0800">
+		<title lang="zh">军迷登舰 传奇“依阿华”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -54878,6 +54896,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251110091100 +0800" stop="20251110110100 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251110110100 +0800" stop="20251110113100 +0800">
+		<title lang="zh">热道水龙头</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
