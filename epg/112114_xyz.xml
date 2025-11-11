@@ -41631,6 +41631,9 @@
 	<programme channel="纯享4K" start="20251112045700 +0800" stop="20251112054700 +0800">
 		<title lang="zh">中国智慧 老子篇4K</title>
 	</programme>
+	<programme channel="纯享4K" start="20251112054700 +0800" stop="20251112063900 +0800">
+		<title lang="zh">遇鉴文明4K 生命律动 中国舞蹈与西方芭蕾</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52359,6 +52362,9 @@
 	<programme channel="newtv超级体育" start="20251112053000 +0800" stop="20251112060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251112060000 +0800" stop="20251112063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 7</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52433,6 +52439,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251112050300 +0800" stop="20251112054800 +0800">
 		<title lang="zh">06_苍穹之昴</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251112054800 +0800" stop="20251112062800 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52539,6 +52548,9 @@
 	<programme channel="newtv家庭剧场" start="20251112051100 +0800" stop="20251112055700 +0800">
 		<title lang="zh">05_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251112055700 +0800" stop="20251112063700 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52581,6 +52593,9 @@
 	<programme channel="newtv爱情喜剧" start="20251112050000 +0800" stop="20251112054600 +0800">
 		<title lang="zh">04_烟火人家</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251112054600 +0800" stop="20251112062600 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52598,6 +52613,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251112040200 +0800" stop="20251112060000 +0800">
 		<title lang="zh">佣兵传奇</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251112060000 +0800" stop="20251112064000 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -52677,6 +52695,9 @@
 	<programme channel="newtv军事评论" start="20251112052000 +0800" stop="20251112054700 +0800">
 		<title lang="zh">香江遇“舰”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251112054700 +0800" stop="20251112061400 +0800">
+		<title lang="zh">装备界的“寿星”与“流星”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52713,6 +52734,9 @@
 	<programme channel="newtv炫舞未来" start="20251112054000 +0800" stop="20251112054800 +0800">
 		<title lang="zh">饶子龙带来健身舞《亚丽古娜》</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251112054800 +0800" stop="20251112063800 +0800">
+		<title lang="zh">第二集 海南</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52727,6 +52751,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251112051000 +0800" stop="20251112055500 +0800">
 		<title lang="zh">25_特战行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251112055500 +0800" stop="20251112063500 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52832,6 +52859,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251112053000 +0800" stop="20251112055900 +0800">
 		<title lang="zh">世界拳王争霸赛：加西亚VS席尔瓦</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251112055900 +0800" stop="20251112063900 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
