@@ -59706,6 +59706,9 @@
 	<programme channel="newtv古装剧场" start="20251111194900 +0800" stop="20251111201900 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251111201900 +0800" stop="20251111210500 +0800">
+		<title lang="zh">01_柳舟记</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -59970,6 +59973,9 @@
 	<programme channel="newtv热播精选" start="20251111193500 +0800" stop="20251111202000 +0800">
 		<title lang="zh">14_女特警</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251111202000 +0800" stop="20251111210600 +0800">
+		<title lang="zh">15_女特警</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60044,6 +60050,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251111194400 +0800" stop="20251111203000 +0800">
 		<title lang="zh">55_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251111203000 +0800" stop="20251111210000 +0800">
+		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -60450,6 +60459,9 @@
 	<programme channel="newtv军事评论" start="20251111195800 +0800" stop="20251111202500 +0800">
 		<title lang="zh">武器装备的“怪咖”设计</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251111202500 +0800" stop="20251111205200 +0800">
+		<title lang="zh">红场上的钢甲洪流</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60768,6 +60780,9 @@
 	<programme channel="newtv金牌综艺" start="20251111195500 +0800" stop="20251111202500 +0800">
 		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251111202500 +0800" stop="20251111213100 +0800">
+		<title lang="zh">进步班</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -60923,6 +60938,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251111193500 +0800" stop="20251111202100 +0800">
 		<title lang="zh">31_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251111202100 +0800" stop="20251111210800 +0800">
+		<title lang="zh">32_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
