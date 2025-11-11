@@ -47835,6 +47835,9 @@
 	<programme channel="纯享4K" start="20251111210100 +0800" stop="20251111220100 +0800">
 		<title lang="zh">神奇的中国4K</title>
 	</programme>
+	<programme channel="纯享4K" start="20251111220100 +0800" stop="20251111225400 +0800">
+		<title lang="zh">遇鉴文明4K 瑰宝荟萃 故宫与卢浮宫</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59865,6 +59868,9 @@
 	<programme channel="newtv军旅剧场" start="20251111211800 +0800" stop="20251111214800 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251111214800 +0800" stop="20251111224500 +0800">
+		<title lang="zh">42_台湾往事</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59960,6 +59966,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251111210900 +0800" stop="20251111215400 +0800">
 		<title lang="zh">11_林深见鹿</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251111215400 +0800" stop="20251111222400 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60317,6 +60326,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251111211600 +0800" stop="20251111215600 +0800">
 		<title lang="zh">北京睿翼精英vs湖南名将-第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251111215600 +0800" stop="20251111223600 +0800">
+		<title lang="zh">北京睿翼精英vs湖南名将-第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -60681,6 +60693,9 @@
 	<programme channel="newtv炫舞未来" start="20251111210300 +0800" stop="20251111214900 +0800">
 		<title lang="zh">21_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251111215900 +0800" stop="20251111220400 +0800">
+		<title lang="zh">北同凝百年辅酶5min</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60773,6 +60788,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251111211200 +0800" stop="20251111215700 +0800">
 		<title lang="zh">20_欢乐颂4</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251111215700 +0800" stop="20251111222700 +0800">
+		<title lang="zh">《超级美味》推荐第16期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -60908,6 +60926,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251111213100 +0800" stop="20251111220100 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251111220100 +0800" stop="20251111225700 +0800">
+		<title lang="zh">半熟恋人第4季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
