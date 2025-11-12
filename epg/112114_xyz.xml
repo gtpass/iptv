@@ -47697,6 +47697,9 @@
 	<programme channel="纯享4K" start="20251112155400 +0800" stop="20251112160900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 山水画b7漓江新月</title>
 	</programme>
+	<programme channel="纯享4K" start="20251112160900 +0800" stop="20251112163700 +0800">
+		<title lang="zh">记住乡愁4K第九季 岚山头——黄海之畔 向海而兴</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59265,6 +59268,9 @@
 	<programme channel="newtv超级综艺" start="20251112145900 +0800" stop="20251112161800 +0800">
 		<title lang="zh">国家宝藏 展演季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251112161800 +0800" stop="20251112175200 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59555,6 +59561,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251112160000 +0800" stop="20251112161100 +0800">
 		<title lang="zh">05_历史群英传2</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251112161100 +0800" stop="20251112162200 +0800">
+		<title lang="zh">06_历史群英传2</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60078,6 +60087,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251112151900 +0800" stop="20251112160500 +0800">
 		<title lang="zh">38_加油！妈妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251112160500 +0800" stop="20251112163500 +0800">
+		<title lang="zh">健康推荐</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -60422,6 +60434,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251112145300 +0800" stop="20251112161000 +0800">
 		<title lang="zh">开门大吉（2025）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251112161000 +0800" stop="20251112170000 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
