@@ -41751,6 +41751,9 @@
 	<programme channel="纯享4K" start="20251114050500 +0800" stop="20251114055400 +0800">
 		<title lang="zh">大敦煌4K 第2集 敦煌密码</title>
 	</programme>
+	<programme channel="纯享4K" start="20251114055400 +0800" stop="20251114064300 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第1集 杜甫 江湖</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52431,6 +52434,9 @@
 	<programme channel="newtv超级综艺" start="20251114050400 +0800" stop="20251114055700 +0800">
 		<title lang="zh">TOP音乐咖</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251114055700 +0800" stop="20251114062700 +0800">
+		<title lang="zh">慕名而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52449,6 +52455,9 @@
 	<programme channel="newtv超级体育" start="20251114053000 +0800" stop="20251114060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251114060000 +0800" stop="20251114063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52466,6 +52475,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251114045600 +0800" stop="20251114055700 +0800">
 		<title lang="zh">税金马车</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251114055700 +0800" stop="20251114080400 +0800">
+		<title lang="zh">93国际列车大劫案：莫斯科行动</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -52493,6 +52505,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251114051900 +0800" stop="20251114060400 +0800">
 		<title lang="zh">29_潜行者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251114060400 +0800" stop="20251114065000 +0800">
+		<title lang="zh">30_潜行者</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52544,6 +52559,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251114051000 +0800" stop="20251114055500 +0800">
 		<title lang="zh">老广的味道 第二季 第1集：一心</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251114055500 +0800" stop="20251114063500 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52821,6 +52839,9 @@
 	<programme channel="newtv炫舞未来" start="20251114052800 +0800" stop="20251114054900 +0800">
 		<title lang="zh">民族健身舞《纳林湖等你》（20230403）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251114054900 +0800" stop="20251114061100 +0800">
+		<title lang="zh">爵士风健身舞《Wrecking Ball》（20230404）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52854,6 +52875,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251114040000 +0800" stop="20251114054700 +0800">
 		<title lang="zh">兴安岭猎人传说2轮回森林</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251114054700 +0800" stop="20251114062700 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -52883,6 +52907,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251114040300 +0800" stop="20251114055800 +0800">
 		<title lang="zh">2025-26赛季西甲联赛第10轮：皇家马德里VS巴塞罗那</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251114055800 +0800" stop="20251114073700 +0800">
+		<title lang="zh">2025-26赛季法甲联赛第8轮：斯特拉斯堡VS巴黎圣日耳曼</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -52946,6 +52973,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251114051400 +0800" stop="20251114054900 +0800">
 		<title lang="zh">拳王争霸赛：库里VS莫尔德</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251114054900 +0800" stop="20251114062900 +0800">
+		<title lang="zh">营养健康40</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
