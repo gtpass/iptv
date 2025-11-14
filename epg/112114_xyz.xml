@@ -41277,6 +41277,9 @@
 	<programme channel="纯享4K" start="20251115051100 +0800" stop="20251115060000 +0800">
 		<title lang="zh">大敦煌4K 第3集 文明舞台</title>
 	</programme>
+	<programme channel="纯享4K" start="20251115060000 +0800" stop="20251115064900 +0800">
+		<title lang="zh">跟着唐诗去旅行4K 第2集 孟浩然 故人</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51699,6 +51702,9 @@
 	<programme channel="newtv超级综艺" start="20251115044000 +0800" stop="20251115055300 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251115055300 +0800" stop="20251115061900 +0800">
+		<title lang="zh">TOP音乐咖</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51717,6 +51723,9 @@
 	<programme channel="newtv超级体育" start="20251115053000 +0800" stop="20251115060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251115060000 +0800" stop="20251115070000 +0800">
+		<title lang="zh">全运晨报</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51734,6 +51743,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251115052700 +0800" stop="20251115060500 +0800">
 		<title lang="zh">我和我的父辈：少年行</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251115060500 +0800" stop="20251115074800 +0800">
+		<title lang="zh">急先锋</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -51786,6 +51798,9 @@
 	<programme channel="newtv精品大剧" start="20251115050700 +0800" stop="20251115055200 +0800">
 		<title lang="zh">18_苍穹之昴</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251115055200 +0800" stop="20251115064200 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -51833,6 +51848,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251115050400 +0800" stop="20251115054700 +0800">
 		<title lang="zh">01_岁岁青莲</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251115054700 +0800" stop="20251115063700 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51887,6 +51905,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251115051200 +0800" stop="20251115055900 +0800">
 		<title lang="zh">18_安家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251115055900 +0800" stop="20251115064900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -52095,6 +52116,9 @@
 	<programme channel="newtv炫舞未来" start="20251115051100 +0800" stop="20251115060100 +0800">
 		<title lang="zh">第二集 海南</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251115060100 +0800" stop="20251115065000 +0800">
+		<title lang="zh">第三集 黑龙江</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52118,6 +52142,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251115050900 +0800" stop="20251115055500 +0800">
 		<title lang="zh">33_特战行动</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251115055500 +0800" stop="20251115064500 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52226,6 +52253,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251115043400 +0800" stop="20251115055300 +0800">
 		<title lang="zh">女子太极剑决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251115055300 +0800" stop="20251115064400 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
