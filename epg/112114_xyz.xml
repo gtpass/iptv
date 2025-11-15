@@ -86184,6 +86184,9 @@
 	<programme channel="newtv金牌综艺" start="20251115193700 +0800" stop="20251115200700 +0800">
 		<title lang="zh">《八段锦》推荐第41期</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251115200700 +0800" stop="20251115210800 +0800">
+		<title lang="zh">进步班</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
