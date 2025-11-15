@@ -47775,6 +47775,9 @@
 	<programme channel="纯享4K" start="20251115100200 +0800" stop="20251115104200 +0800">
 		<title lang="zh">探索b7发现4K 博物馆里的东汉大墓</title>
 	</programme>
+	<programme channel="纯享4K" start="20251115104200 +0800" stop="20251115104700 +0800">
+		<title lang="zh">如果国宝会说话4K 敦煌经变画 出尘入画</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -59640,6 +59643,9 @@
 	<programme channel="newtv军旅剧场" start="20251115100700 +0800" stop="20251115103700 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251115103700 +0800" stop="20251115112100 +0800">
+		<title lang="zh">17_黎明决战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59729,6 +59735,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251115094700 +0800" stop="20251115103300 +0800">
 		<title lang="zh">61_扶摇</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251115103300 +0800" stop="20251115110300 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -59859,6 +59868,9 @@
 	<programme channel="newtv怡伴健康" start="20251115101100 +0800" stop="20251115104100 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251115104100 +0800" stop="20251115112800 +0800">
+		<title lang="zh">02_平凡之路</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -59903,6 +59915,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251115100200 +0800" stop="20251115103200 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251115103200 +0800" stop="20251115111100 +0800">
+		<title lang="zh">第7集：她们的选择</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60089,6 +60104,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251115100700 +0800" stop="20251115103700 +0800">
 		<title lang="zh">健康推荐</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251115103700 +0800" stop="20251115115900 +0800">
+		<title lang="zh">开原小财神</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
