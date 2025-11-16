@@ -38868,6 +38868,9 @@
 	<programme channel="纯享4K" start="20251117050800 +0800" stop="20251117055700 +0800">
 		<title lang="zh">跟着唐诗去旅行4K 第4集 岑参 边塞</title>
 	</programme>
+	<programme channel="纯享4K" start="20251117055700 +0800" stop="20251117062100 +0800">
+		<title lang="zh">了不起的冬天4K 第7集 跨界</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47685,6 +47688,9 @@
 	<programme channel="newtv超级体育" start="20251117053000 +0800" stop="20251117060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251117060000 +0800" stop="20251117063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 6</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47832,6 +47838,9 @@
 	<programme channel="newtv军旅剧场" start="20251117050700 +0800" stop="20251117055000 +0800">
 		<title lang="zh">12_和平之舟</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251117055000 +0800" stop="20251117064000 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47903,6 +47912,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251117050300 +0800" stop="20251117054800 +0800">
 		<title lang="zh">30_烟火人家</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251117054800 +0800" stop="20251117063900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48027,6 +48039,9 @@
 	<programme channel="newtv军事评论" start="20251117053500 +0800" stop="20251117060000 +0800">
 		<title lang="zh">探秘“流动的仪仗队”（下集）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251117060000 +0800" stop="20251117062600 +0800">
+		<title lang="zh">青春在这里淬火 第一集 我的女儿是海军女兵</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48080,6 +48095,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251117051000 +0800" stop="20251117055400 +0800">
 		<title lang="zh">02_和平之舟</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251117055400 +0800" stop="20251117064400 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
