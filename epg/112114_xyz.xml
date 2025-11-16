@@ -67570,6 +67570,9 @@
 	<programme channel="纯享4K" start="20251116104300 +0800" stop="20251116104800 +0800">
 		<title lang="zh">如果国宝会说话 第一季4K 虎符：执于掌心间的千军万马</title>
 	</programme>
+	<programme channel="纯享4K" start="20251116104800 +0800" stop="20251116111700 +0800">
+		<title lang="zh">好吃客4K 锡林郭勒</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -84727,6 +84730,9 @@
 	<programme channel="newtv精品大剧" start="20251116102900 +0800" stop="20251116105900 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251116105900 +0800" stop="20251116114500 +0800">
+		<title lang="zh">28_三十而已</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -84772,6 +84778,9 @@
 	<programme channel="newtv精品纪录" start="20251116102300 +0800" stop="20251116105300 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251116105300 +0800" stop="20251116112500 +0800">
+		<title lang="zh">第3集：岁月长情，长沙不老</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -84816,6 +84825,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251116095900 +0800" stop="20251116104600 +0800">
 		<title lang="zh">61_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251116104600 +0800" stop="20251116110600 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -85132,6 +85144,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251116101900 +0800" stop="20251116104900 +0800">
 		<title lang="zh">健康推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251116104900 +0800" stop="20251116113400 +0800">
+		<title lang="zh">11_人生若如初相见</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -85372,6 +85387,9 @@
 	<programme channel="newtv金牌综艺" start="20251116085700 +0800" stop="20251116105800 +0800">
 		<title lang="zh">第4期上：张雨绮遇喜剧男神求爱，教主爆改毒蛇帮</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251116105800 +0800" stop="20251116113800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -85473,6 +85491,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251116101600 +0800" stop="20251116105900 +0800">
 		<title lang="zh">32_千古玦尘</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251116105900 +0800" stop="20251116112900 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
