@@ -25502,6 +25502,9 @@
 	<programme channel="咪咕综合体育" start="20251117140000 +0800" stop="20251117140500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251117140500 +0800" stop="20251117161500 +0800">
+		<title lang="zh">全运时刻-第十五届全运会 跳水 男子团体10米跳台 决赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -25570,6 +25573,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251117134500 +0800" stop="20251117141000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十二期-全运特辑</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251117141500 +0800" stop="20251117145500 +0800">
+		<title lang="zh">西班牙篮球黄金一代02 篮球万岁</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -68819,6 +68825,9 @@
 	<programme channel="超级电影" start="20251117124200 +0800" stop="20251117141000 +0800">
 		<title lang="zh">电影《桃花小霸王》</title>
 	</programme>
+	<programme channel="超级电影" start="20251117141000 +0800" stop="20251117153200 +0800">
+		<title lang="zh">电影《武神苏乞儿之黄金海盗》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79778,6 +79787,9 @@
 	<programme channel="newtv超级电影" start="20251117124200 +0800" stop="20251117141000 +0800">
 		<title lang="zh">电影《桃花小霸王》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251117141000 +0800" stop="20251117153200 +0800">
+		<title lang="zh">电影《武神苏乞儿之黄金海盗》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79897,6 +79909,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251117132500 +0800" stop="20251117140900 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251117140900 +0800" stop="20251117145400 +0800">
+		<title lang="zh">07_嫣语赋</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80146,6 +80161,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251117131700 +0800" stop="20251117140200 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251117140200 +0800" stop="20251117144600 +0800">
+		<title lang="zh">01_娘亲舅大</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80609,6 +80627,9 @@
 	<programme channel="newtv炫舞未来" start="20251117140100 +0800" stop="20251117140400 +0800">
 		<title lang="zh">国药药材氨糖软骨素片3min</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251117140400 +0800" stop="20251117142600 +0800">
+		<title lang="zh">健身舞—梦醉荷塘（20210907）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80869,6 +80890,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251117131900 +0800" stop="20251117140300 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251117140300 +0800" stop="20251117145100 +0800">
+		<title lang="zh">42_燕云台</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
