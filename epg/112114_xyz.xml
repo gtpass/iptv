@@ -38279,6 +38279,9 @@
 	<programme channel="惊悚悬疑" start="20251117195600 +0800" stop="20251117202600 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251117202600 +0800" stop="20251117215500 +0800">
+		<title lang="zh">地底怪物</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -68963,6 +68966,9 @@
 	<programme channel="超级电影" start="20251117190400 +0800" stop="20251117202800 +0800">
 		<title lang="zh">电影《疾速反击》</title>
 	</programme>
+	<programme channel="超级电影" start="20251117202800 +0800" stop="20251117222900 +0800">
+		<title lang="zh">电影《7天》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79979,6 +79985,9 @@
 	<programme channel="newtv超级电影" start="20251117190400 +0800" stop="20251117202800 +0800">
 		<title lang="zh">电影《疾速反击》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251117202800 +0800" stop="20251117222900 +0800">
+		<title lang="zh">电影《7天》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -80062,6 +80071,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251117193900 +0800" stop="20251117202400 +0800">
 		<title lang="zh">16_警犬来啦</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251117202400 +0800" stop="20251117210800 +0800">
+		<title lang="zh">17_警犬来啦</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -80918,6 +80930,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251117195300 +0800" stop="20251117202300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251117202300 +0800" stop="20251117210600 +0800">
+		<title lang="zh">24_灼灼风流</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -81310,6 +81325,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251117195600 +0800" stop="20251117202600 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251117202600 +0800" stop="20251117215500 +0800">
+		<title lang="zh">地底怪物</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
