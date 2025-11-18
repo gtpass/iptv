@@ -52494,6 +52494,9 @@
 	<programme channel="newtv超级综艺" start="20251119045400 +0800" stop="20251119055400 +0800">
 		<title lang="zh">选对健康</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251119055400 +0800" stop="20251119071200 +0800">
+		<title lang="zh">唱享中国——智造美好品质 通达幸福生活</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52511,6 +52514,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251119053000 +0800" stop="20251119060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251119060000 +0800" stop="20251119063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52940,6 +52946,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251119050700 +0800" stop="20251119055700 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251119055700 +0800" stop="20251119071400 +0800">
+		<title lang="zh">从田间戏台到春晚舞台 戏腔里藏着两代人的舞台梦（20250409）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
