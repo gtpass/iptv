@@ -68721,6 +68721,9 @@
 	<programme channel="纯享4K" start="20251119210500 +0800" stop="20251119215400 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第1集 石鼓歌</title>
 	</programme>
+	<programme channel="纯享4K" start="20251119215400 +0800" stop="20251119221900 +0800">
+		<title lang="zh">丹青绘千年4K 第1集 生意盎然</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85551,6 +85554,9 @@
 	<programme channel="newtv超级综艺" start="20251119205600 +0800" stop="20251119215400 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251119215400 +0800" stop="20251119230800 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -85737,6 +85743,9 @@
 	<programme channel="newtv超级电视剧" start="20251119211400 +0800" stop="20251119215900 +0800">
 		<title lang="zh">10_刑警的日子</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251119215900 +0800" stop="20251119224400 +0800">
+		<title lang="zh">11_刑警的日子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85826,6 +85835,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251119211700 +0800" stop="20251119214700 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251119214700 +0800" stop="20251119223400 +0800">
+		<title lang="zh">25_安家</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85943,6 +85955,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251119212100 +0800" stop="20251119214600 +0800">
 		<title lang="zh">第5集 李清照：知否知否</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251119214600 +0800" stop="20251119221400 +0800">
+		<title lang="zh">第6集 李清照：青梅之涩</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -86559,6 +86574,9 @@
 	<programme channel="newtv怡伴健康" start="20251119211900 +0800" stop="20251119214900 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251119214900 +0800" stop="20251119222800 +0800">
+		<title lang="zh">四川天门淘一街vs山西清徐学栋-第5局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -86792,6 +86810,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251119212600 +0800" stop="20251119215100 +0800">
 		<title lang="zh">赖清德自称“棋手” 再遭特朗普敲打</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251119215100 +0800" stop="20251119221700 +0800">
+		<title lang="zh">台军放出“海上狼群” 解放军一网打尽</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
