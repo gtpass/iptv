@@ -16848,6 +16848,9 @@
 	<programme channel="咪咕综合体育" start="20251120033500 +0800" stop="20251120040000 +0800">
 		<title lang="zh">中超精华 第29轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251120040000 +0800" stop="20251120041000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16862,6 +16865,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251120021000 +0800" stop="20251120035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第12轮 香港金牛-合肥狂风峻茂</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251120040000 +0800" stop="20251120050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -41856,6 +41862,9 @@
 	<programme channel="纯享4K" start="20251120032100 +0800" stop="20251120035100 +0800">
 		<title lang="zh">传承 第三季4K 第七集 迭新</title>
 	</programme>
+	<programme channel="纯享4K" start="20251120035100 +0800" stop="20251120043200 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（13） 南海明珠 琼海潭门</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -52476,6 +52485,9 @@
 	<programme channel="newtv超级体育" start="20251120023900 +0800" stop="20251120040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251120040000 +0800" stop="20251120053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季法甲联赛第9轮 布雷斯特-巴黎圣日耳曼</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52505,6 +52517,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251120031900 +0800" stop="20251120040500 +0800">
 		<title lang="zh">05_绽放的许开心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251120040500 +0800" stop="20251120040900 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52577,6 +52592,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251120030700 +0800" stop="20251120035200 +0800">
 		<title lang="zh">20_雪狼谷</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251120035200 +0800" stop="20251120043700 +0800">
+		<title lang="zh">21_雪狼谷</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52710,6 +52728,9 @@
 	<programme channel="newtv军事评论" start="20251120032000 +0800" stop="20251120034700 +0800">
 		<title lang="zh">海空拼刺刀</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251120034700 +0800" stop="20251120041400 +0800">
+		<title lang="zh">火力飓风</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52730,6 +52751,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251120032600 +0800" stop="20251120034800 +0800">
 		<title lang="zh">健身舞—书房门前一枝梅（20211108）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251120034800 +0800" stop="20251120042000 +0800">
+		<title lang="zh">第11集：养老</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
