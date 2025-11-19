@@ -52626,6 +52626,9 @@
 	<programme channel="newtv超级体育" start="20251120053000 +0800" stop="20251120060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251120060000 +0800" stop="20251120063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52800,6 +52803,9 @@
 	<programme channel="newtv家庭剧场" start="20251120051000 +0800" stop="20251120055600 +0800">
 		<title lang="zh">37_安家</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251120055600 +0800" stop="20251120064000 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52968,6 +52974,9 @@
 	<programme channel="newtv军事评论" start="20251120053400 +0800" stop="20251120060100 +0800">
 		<title lang="zh">俄乌冲突启示录（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251120060100 +0800" stop="20251120062700 +0800">
+		<title lang="zh">俄乌冲突启示录（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53039,6 +53048,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251120041200 +0800" stop="20251120054700 +0800">
 		<title lang="zh">陆小凤传奇之幽灵山庄</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251120054700 +0800" stop="20251120063700 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -53135,6 +53147,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251120053500 +0800" stop="20251120054800 +0800">
 		<title lang="zh">轻重量级排位赛：杰罗姆-庞贝罗内VS罗热里奥-梅迪纳</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251120054800 +0800" stop="20251120063200 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
