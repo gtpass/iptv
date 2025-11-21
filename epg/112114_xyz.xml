@@ -28230,6 +28230,9 @@
 	<programme channel="咪咕综合体育" start="20251121201000 +0800" stop="20251121215000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第11轮 托特纳姆热刺-曼联</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251121215500 +0800" stop="20251121234500 +0800">
+		<title lang="zh">网球世界-2025WTA年终总决赛女双决赛 巴博斯史蒂芬妮-库德梅托娃梅尔滕斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -62595,6 +62598,9 @@
 	<programme channel="爱情喜剧" start="20251121211700 +0800" stop="20251121214700 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251121214700 +0800" stop="20251121223000 +0800">
+		<title lang="zh">17_与凤行</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68817,6 +68823,9 @@
 	<programme channel="纯享4K" start="20251121211100 +0800" stop="20251121220000 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第3集 出塞曲</title>
 	</programme>
+	<programme channel="纯享4K" start="20251121220000 +0800" stop="20251121222500 +0800">
+		<title lang="zh">丹青绘千年4K 第5集 家有喜事</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -73886,6 +73895,9 @@
 	</programme>
 	<programme channel="超级电影" start="20251121195800 +0800" stop="20251121215800 +0800">
 		<title lang="zh">电影《拆弹专家》</title>
+	</programme>
+	<programme channel="超级电影" start="20251121215800 +0800" stop="20251121230200 +0800">
+		<title lang="zh">电影《特种兵归来2：黑色罂粟》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -86409,6 +86421,9 @@
 	<programme channel="newtv超级电影" start="20251121195800 +0800" stop="20251121215800 +0800">
 		<title lang="zh">电影《拆弹专家》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251121215800 +0800" stop="20251121230200 +0800">
+		<title lang="zh">电影《特种兵归来2：黑色罂粟》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -86592,6 +86607,9 @@
 	<programme channel="newtv精品大剧" start="20251121211800 +0800" stop="20251121214800 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251121214800 +0800" stop="20251121223500 +0800">
+		<title lang="zh">30_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -86708,6 +86726,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251121212300 +0800" stop="20251121220100 +0800">
 		<title lang="zh">第6集：谎言还能说多久</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251121220100 +0800" stop="20251121224000 +0800">
+		<title lang="zh">第7集：她们的选择</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -87171,6 +87192,9 @@
 	<programme channel="newtv爱情喜剧" start="20251121211700 +0800" stop="20251121214700 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251121214700 +0800" stop="20251121223000 +0800">
+		<title lang="zh">17_与凤行</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87320,6 +87344,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251121211700 +0800" stop="20251121214700 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251121214700 +0800" stop="20251121222700 +0800">
+		<title lang="zh">北京睿翼精英vs湖南名将-第5局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -87539,6 +87566,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251121212700 +0800" stop="20251121214900 +0800">
 		<title lang="zh">天山赞歌</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251121214900 +0800" stop="20251121221100 +0800">
+		<title lang="zh">弹射向深蓝</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
