@@ -14847,6 +14847,9 @@
 	<programme channel="咪咕足球" start="20251124021000 +0800" stop="20251124035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第16轮 盐南苏科雄狮-广西威壮</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251124040000 +0800" stop="20251124050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -47211,6 +47214,9 @@
 	<programme channel="newtv超级体育" start="20251124023900 +0800" stop="20251124040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 5</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251124040000 +0800" stop="20251124053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第1轮 托特纳姆—伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47240,6 +47246,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251124031100 +0800" stop="20251124035700 +0800">
 		<title lang="zh">25_绽放的许开心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251124035700 +0800" stop="20251124040100 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -47274,6 +47283,9 @@
 	<programme channel="newtv精品纪录" start="20251124025500 +0800" stop="20251124034800 +0800">
 		<title lang="zh">第3集：岛屿</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251124034800 +0800" stop="20251124043900 +0800">
+		<title lang="zh">第4集：极地</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47292,6 +47304,9 @@
 	<programme channel="newtv古装剧场" start="20251124031500 +0800" stop="20251124035700 +0800">
 		<title lang="zh">13_新白蛇传</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251124035700 +0800" stop="20251124044000 +0800">
+		<title lang="zh">14_新白蛇传</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -47307,6 +47322,9 @@
 	<programme channel="newtv军旅剧场" start="20251124030200 +0800" stop="20251124034800 +0800">
 		<title lang="zh">08_武工队传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251124034800 +0800" stop="20251124043300 +0800">
+		<title lang="zh">09_武工队传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -47321,6 +47339,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251124030500 +0800" stop="20251124035100 +0800">
 		<title lang="zh">10_合适婚姻</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251124035100 +0800" stop="20251124043800 +0800">
+		<title lang="zh">11_合适婚姻</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -47439,6 +47460,9 @@
 	<programme channel="newtv军事评论" start="20251124032700 +0800" stop="20251124034900 +0800">
 		<title lang="zh">决胜利器b7蓝天雄鹰</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251124034900 +0800" stop="20251124041100 +0800">
+		<title lang="zh">军博里的秘密武器（上）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -47498,6 +47522,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251124030000 +0800" stop="20251124035100 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251124035100 +0800" stop="20251124050700 +0800">
+		<title lang="zh">人气王郑晶晶登场表演京剧 朱迅唱《红灯记》被赞太专业（20250621）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
