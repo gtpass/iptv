@@ -38604,6 +38604,9 @@
 	<programme channel="纯享4K" start="20251124050500 +0800" stop="20251124055500 +0800">
 		<title lang="zh">跟着唐诗去旅行 第二季4K 第6集 相见难</title>
 	</programme>
+	<programme channel="纯享4K" start="20251124055500 +0800" stop="20251124061900 +0800">
+		<title lang="zh">青蘋之末4K 第5集 蛋白探秘</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47439,6 +47442,9 @@
 	<programme channel="newtv超级综艺" start="20251124050300 +0800" stop="20251124055500 +0800">
 		<title lang="zh">绽放吧！妈妈</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251124055500 +0800" stop="20251124073200 +0800">
+		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -47453,6 +47459,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251124053000 +0800" stop="20251124060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251124060000 +0800" stop="20251124063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -47522,6 +47531,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251124050800 +0800" stop="20251124055300 +0800">
 		<title lang="zh">10_女人的抗战</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251124055300 +0800" stop="20251124063700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -47646,6 +47658,9 @@
 	<programme channel="newtv热播精选" start="20251124051000 +0800" stop="20251124055600 +0800">
 		<title lang="zh">33_好事成双</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251124055600 +0800" stop="20251124064000 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -47687,6 +47702,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251124045700 +0800" stop="20251124060000 +0800">
 		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251124060000 +0800" stop="20251124064400 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -47789,6 +47807,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251124052300 +0800" stop="20251124054900 +0800">
 		<title lang="zh">探秘“流动的仪仗队”（上集）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251124054900 +0800" stop="20251124061400 +0800">
+		<title lang="zh">探秘“流动的仪仗队”（下集）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
