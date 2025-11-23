@@ -41574,6 +41574,9 @@
 	<programme channel="惊悚悬疑" start="20251123194300 +0800" stop="20251123201300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251123201300 +0800" stop="20251123214300 +0800">
+		<title lang="zh">黑楼惊魂</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -63432,6 +63435,9 @@
 	<programme channel="爱情喜剧" start="20251123192300 +0800" stop="20251123200800 +0800">
 		<title lang="zh">24_与凤行</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251123200800 +0800" stop="20251123203800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -69677,6 +69683,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251123193200 +0800" stop="20251123201300 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（19） 美丽海角 百年变迁</title>
+	</programme>
+	<programme channel="纯享4K" start="20251123201300 +0800" stop="20251123205400 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（20） 富硒之乡 福寿澄迈</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -87918,6 +87927,9 @@
 	<programme channel="newtv精品大剧" start="20251123193700 +0800" stop="20251123200700 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251123200700 +0800" stop="20251123211100 +0800">
+		<title lang="zh">09_漫长的季节</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87995,6 +88007,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251123193700 +0800" stop="20251123200700 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251123200700 +0800" stop="20251123211100 +0800">
+		<title lang="zh">08_立</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -88079,6 +88094,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251123193800 +0800" stop="20251123200800 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251123200800 +0800" stop="20251123205400 +0800">
+		<title lang="zh">27_似锦</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -88332,6 +88350,9 @@
 	<programme channel="newtv热播精选" start="20251123191900 +0800" stop="20251123200200 +0800">
 		<title lang="zh">28_和平之舟</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251123200200 +0800" stop="20251123204500 +0800">
+		<title lang="zh">29_和平之舟</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -88407,6 +88428,9 @@
 	<programme channel="newtv爱情喜剧" start="20251123192300 +0800" stop="20251123200800 +0800">
 		<title lang="zh">24_与凤行</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251123200800 +0800" stop="20251123203800 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -88460,6 +88484,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251123181100 +0800" stop="20251123201400 +0800">
 		<title lang="zh">冒牌大哥</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251123201400 +0800" stop="20251123204400 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -88755,6 +88782,9 @@
 	<programme channel="newtv军事评论" start="20251123194800 +0800" stop="20251123201400 +0800">
 		<title lang="zh">【海峡两岸】压制岛内主流民意 赖清德有何误判？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251123201400 +0800" stop="20251123203900 +0800">
+		<title lang="zh">【海峡两岸】迎合美军“地狱计划” 台军端出三大武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -89004,6 +89034,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251123194300 +0800" stop="20251123201300 +0800">
 		<title lang="zh">《健康生活》推荐第一期</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251123201300 +0800" stop="20251123214300 +0800">
+		<title lang="zh">黑楼惊魂</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -89225,6 +89258,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251123193800 +0800" stop="20251123200800 +0800">
 		<title lang="zh">《八段锦》推荐第42期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251123200800 +0800" stop="20251123205500 +0800">
+		<title lang="zh">27_庆余年第二季</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
