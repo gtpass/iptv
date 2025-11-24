@@ -39264,6 +39264,9 @@
 	<programme channel="惊悚悬疑" start="20251124114300 +0800" stop="20251124121300 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251124121300 +0800" stop="20251124133600 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -65133,6 +65136,9 @@
 	<programme channel="纯享4K" start="20251124113300 +0800" stop="20251124121400 +0800">
 		<title lang="zh">远方的家4K 大熊猫国家公园佛坪管理分局 秦岭深处的大熊猫家园</title>
 	</programme>
+	<programme channel="纯享4K" start="20251124121400 +0800" stop="20251124125500 +0800">
+		<title lang="zh">远方的家4K 若尔盖湿地国家级自然保护区 高原上的舞者 黑颈鹤</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81630,6 +81636,9 @@
 	<programme channel="newtv军旅剧场" start="20251124112200 +0800" stop="20251124120600 +0800">
 		<title lang="zh">02_谍战深海之惊蛰[DVD版]</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251124120600 +0800" stop="20251124125600 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -81728,6 +81737,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251124113400 +0800" stop="20251124120400 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251124120400 +0800" stop="20251124133300 +0800">
+		<title lang="zh">江湖英雄联盟之奇门惊情</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -82152,6 +82164,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251124114300 +0800" stop="20251124121300 +0800">
 		<title lang="zh">健康推荐新码</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251124121300 +0800" stop="20251124133600 +0800">
+		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -82193,6 +82208,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251124104200 +0800" stop="20251124121300 +0800">
 		<title lang="zh">第8期上：张若昀田雨助阵半决赛！刘旸再出神作</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251124121300 +0800" stop="20251124124300 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
