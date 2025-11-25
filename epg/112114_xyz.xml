@@ -88569,6 +88569,9 @@
 	<programme channel="newtv金牌综艺" start="20251125202700 +0800" stop="20251125215600 +0800">
 		<title lang="zh">第3期下：盲选约会，有人甜蜜有人酸</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251125215600 +0800" stop="20251125222600 +0800">
+		<title lang="zh">《健康生活》推荐第一期</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
