@@ -16893,6 +16893,9 @@
 	<programme channel="咪咕综合体育" start="20251126033500 +0800" stop="20251126040000 +0800">
 		<title lang="zh">欧陆足球版图-英超特辑</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251126040000 +0800" stop="20251126064500 +0800">
+		<title lang="zh">UFC第322期 主赛</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16910,6 +16913,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251126021000 +0800" stop="20251126035000 +0800">
 		<title lang="zh">2025NBL联赛 常规赛第18轮 合肥狂风峻茂-江西鲸裕清酒</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251126040000 +0800" stop="20251126050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -52209,6 +52215,9 @@
 	<programme channel="newtv超级体育" start="20251126023600 +0800" stop="20251126040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251126040000 +0800" stop="20251126053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52241,6 +52250,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251126031500 +0800" stop="20251126040000 +0800">
 		<title lang="zh">05_新边城浪子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251126040000 +0800" stop="20251126044600 +0800">
+		<title lang="zh">38_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
