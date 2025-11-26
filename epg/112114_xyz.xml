@@ -62859,6 +62859,9 @@
 	<programme channel="爱情喜剧" start="20251126193700 +0800" stop="20251126202000 +0800">
 		<title lang="zh">33_与凤行</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251126202000 +0800" stop="20251126205000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -86922,6 +86925,9 @@
 	<programme channel="newtv超级电视剧" start="20251126194000 +0800" stop="20251126202500 +0800">
 		<title lang="zh">43_警犬来啦</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251126202500 +0800" stop="20251126210900 +0800">
+		<title lang="zh">44_警犬来啦</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87102,6 +87108,9 @@
 	<programme channel="newtv精品纪录" start="20251126194700 +0800" stop="20251126202900 +0800">
 		<title lang="zh">04_特赦1959_</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251126202900 +0800" stop="20251126211000 +0800">
+		<title lang="zh">05_特赦1959_</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -87275,6 +87284,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251126194000 +0800" stop="20251126202500 +0800">
 		<title lang="zh">16_参工传奇</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251126202500 +0800" stop="20251126210700 +0800">
+		<title lang="zh">29_特赦1959_</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -87453,6 +87465,9 @@
 	<programme channel="newtv热播精选" start="20251126193600 +0800" stop="20251126202200 +0800">
 		<title lang="zh">08_问心</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251126202200 +0800" stop="20251126210700 +0800">
+		<title lang="zh">09_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -87536,6 +87551,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251126193700 +0800" stop="20251126202000 +0800">
 		<title lang="zh">33_与凤行</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251126202000 +0800" stop="20251126205000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -87768,6 +87786,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251126193400 +0800" stop="20251126202000 +0800">
 		<title lang="zh">14_独孤天下</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251126202000 +0800" stop="20251126204900 +0800">
+		<title lang="zh">《八段锦》推荐第43期</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -87897,6 +87918,9 @@
 	<programme channel="newtv军事评论" start="20251126195700 +0800" stop="20251126202300 +0800">
 		<title lang="zh">台最新战机坠毁 摔出多少内幕？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251126202300 +0800" stop="20251126204800 +0800">
+		<title lang="zh">美俄谈乌克兰问题 岛内为何震动？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87992,6 +88016,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251126193300 +0800" stop="20251126202300 +0800">
 		<title lang="zh">一笑一周（20250424）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251126202300 +0800" stop="20251126203300 +0800">
+		<title lang="zh">国药药材氨糖软骨素片</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
