@@ -16380,6 +16380,9 @@
 	<programme channel="咪咕综合体育" start="20251127022000 +0800" stop="20251127040500 +0800">
 		<title lang="zh">UFCFightNight260期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251127040500 +0800" stop="20251127041500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16397,6 +16400,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251127035000 +0800" stop="20251127040000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251127040000 +0800" stop="20251127050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -51636,6 +51642,9 @@
 	<programme channel="newtv超级综艺" start="20251127024200 +0800" stop="20251127035900 +0800">
 		<title lang="zh">综艺喜乐汇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251127035900 +0800" stop="20251127052800 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51644,6 +51653,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251127023600 +0800" stop="20251127040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 总决赛 2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251127040000 +0800" stop="20251127053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第4轮 埃弗顿-阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -51909,6 +51921,9 @@
 	<programme channel="newtv炫舞未来" start="20251127033000 +0800" stop="20251127035100 +0800">
 		<title lang="zh">民族健身舞《我是你的格桑花》（20230605）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251127035100 +0800" stop="20251127044100 +0800">
+		<title lang="zh">03_再大的风 我都去接你</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51953,6 +51968,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251127030800 +0800" stop="20251127035500 +0800">
 		<title lang="zh">09_梅花红桃</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251127035500 +0800" stop="20251127044300 +0800">
+		<title lang="zh">10_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
