@@ -41508,6 +41508,9 @@
 	<programme channel="纯享4K" start="20251128053300 +0800" stop="20251128055800 +0800">
 		<title lang="zh">大国医b7千金方4K 第3集 钱乙b7六味地黄丸</title>
 	</programme>
+	<programme channel="纯享4K" start="20251128055800 +0800" stop="20251128065100 +0800">
+		<title lang="zh">乘火车看中国4K 第一集 开放之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -51768,6 +51771,9 @@
 	<programme channel="黑莓电影" start="20251128042300 +0800" stop="20251128054600 +0800">
 		<title lang="zh">大偃术师</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251128054600 +0800" stop="20251128074400 +0800">
+		<title lang="zh">侠探杰克：永不回头</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -52065,6 +52071,9 @@
 	<programme channel="newtv超级体育" start="20251128053000 +0800" stop="20251128060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251128060000 +0800" stop="20251128063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52160,6 +52169,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251128051500 +0800" stop="20251128060000 +0800">
 		<title lang="zh">11_林海雪原</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251128060000 +0800" stop="20251128063000 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52479,6 +52491,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251128041500 +0800" stop="20251128054800 +0800">
 		<title lang="zh">昆仑神宫</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251128054800 +0800" stop="20251128061800 +0800">
+		<title lang="zh">健康推荐新码</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -52505,6 +52520,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251128052000 +0800" stop="20251128060500 +0800">
 		<title lang="zh">11_画眉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251128060500 +0800" stop="20251128063500 +0800">
+		<title lang="zh">健康推荐新码</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52574,6 +52592,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251128045300 +0800" stop="20251128055300 +0800">
 		<title lang="zh">男子长拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251128055300 +0800" stop="20251128063700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
