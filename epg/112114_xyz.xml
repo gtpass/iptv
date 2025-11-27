@@ -28284,6 +28284,9 @@
 	<programme channel="咪咕综合体育" start="20251127113500 +0800" stop="20251127115500 +0800">
 		<title lang="zh">中超精华 第30轮</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251127120500 +0800" stop="20251127123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十二期-全运特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -28340,6 +28343,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251127113500 +0800" stop="20251127115000 +0800">
 		<title lang="zh">睛彩圈圈点第十八期-全运特辑</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251127120500 +0800" stop="20251127133500 +0800">
+		<title lang="zh">全运时刻-第十五届全运会 男篮成年组小组赛 天津-北京</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -87015,6 +87021,9 @@
 	<programme channel="newtv超级体育" start="20251127110000 +0800" stop="20251127120000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-第十五届全国运动会 羽毛球女单决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251127120000 +0800" stop="20251127130500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87348,6 +87357,9 @@
 	<programme channel="newtv家庭剧场" start="20251127111300 +0800" stop="20251127115800 +0800">
 		<title lang="zh">48_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251127115800 +0800" stop="20251127124800 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87398,6 +87410,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251127113100 +0800" stop="20251127120100 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251127120100 +0800" stop="20251127132200 +0800">
+		<title lang="zh">疯狂追击者</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -87678,6 +87693,9 @@
 	<programme channel="newtv军事评论" start="20251127110600 +0800" stop="20251127115600 +0800">
 		<title lang="zh">壮志向空天 第5集 弯弓织网御天疆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251127115600 +0800" stop="20251127121800 +0800">
+		<title lang="zh">俄乌冲突中的新型无人装备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -87737,6 +87755,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251127112200 +0800" stop="20251127113200 +0800">
 		<title lang="zh">国药药材氨糖软骨素片</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251127115200 +0800" stop="20251127125200 +0800">
+		<title lang="zh">我的工资卡给不了你子女</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -87878,6 +87899,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251127112800 +0800" stop="20251127115800 +0800">
 		<title lang="zh">健康推荐新码</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251127115800 +0800" stop="20251127124300 +0800">
+		<title lang="zh">08_欢颜</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
