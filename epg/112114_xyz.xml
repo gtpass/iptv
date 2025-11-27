@@ -45084,6 +45084,9 @@
 	<programme channel="明星大片" start="20251127194300 +0800" stop="20251127203000 +0800">
 		<title lang="zh">01_值得爱</title>
 	</programme>
+	<programme channel="明星大片" start="20251127203000 +0800" stop="20251127210000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -86493,6 +86496,9 @@
 	<programme channel="黑莓电影" start="20251127184300 +0800" stop="20251127202200 +0800">
 		<title lang="zh">卡丁赛车王</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251127202200 +0800" stop="20251127215600 +0800">
+		<title lang="zh">笑傲神探</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -87489,6 +87495,9 @@
 	<programme channel="newtv超级体育" start="20251127193000 +0800" stop="20251127203000 +0800">
 		<title lang="zh">足球之夜</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251127203000 +0800" stop="20251127213000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-全运全记录 6(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -87885,6 +87894,9 @@
 	<programme channel="newtv古装剧场" start="20251127194700 +0800" stop="20251127201700 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251127201700 +0800" stop="20251127210400 +0800">
+		<title lang="zh">02_梦华录</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -87971,6 +87983,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251127194700 +0800" stop="20251127201700 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251127201700 +0800" stop="20251127205800 +0800">
+		<title lang="zh">32_特赦1959_</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -88623,6 +88638,9 @@
 	<programme channel="newtv军事评论" start="20251127200400 +0800" stop="20251127203000 +0800">
 		<title lang="zh">钢铁长城的荣耀征程</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251127203000 +0800" stop="20251127205700 +0800">
+		<title lang="zh">见证 从历届阅兵看武器装备的跃迁</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88725,6 +88743,9 @@
 	<programme channel="newtv炫舞未来" start="20251127195200 +0800" stop="20251127200200 +0800">
 		<title lang="zh">国药药材氨糖软骨素片</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251127202200 +0800" stop="20251127210800 +0800">
+		<title lang="zh">09_金婚</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -88817,6 +88838,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251127194300 +0800" stop="20251127203000 +0800">
 		<title lang="zh">01_值得爱</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251127203000 +0800" stop="20251127210000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
