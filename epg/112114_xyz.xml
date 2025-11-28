@@ -16482,6 +16482,9 @@
 	<programme channel="咪咕足球" start="20251129014000 +0800" stop="20251129020000 +0800">
 		<title lang="zh">荣耀之路</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251129020000 +0800" stop="20251129021000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -51792,6 +51795,9 @@
 	<programme channel="newtv超级电影" start="20251129001700 +0800" stop="20251129015000 +0800">
 		<title lang="zh">U57次谜案</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251129015000 +0800" stop="20251129032100 +0800">
+		<title lang="zh">相见在鸾峰桥</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51800,6 +51806,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251129010700 +0800" stop="20251129015200 +0800">
 		<title lang="zh">17_新边城浪子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251129015200 +0800" stop="20251129023700 +0800">
+		<title lang="zh">18_新边城浪子</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51833,6 +51842,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251129010700 +0800" stop="20251129014900 +0800">
 		<title lang="zh">32_新白蛇传</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251129014900 +0800" stop="20251129023900 +0800">
+		<title lang="zh">水溶植物欧米伽3微囊粉</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51924,6 +51936,9 @@
 	<programme channel="newtv炫舞未来" start="20251129003500 +0800" stop="20251129015200 +0800">
 		<title lang="zh">聚焦爱乐之人背后的温暖故事（20251110）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251129015200 +0800" stop="20251129021400 +0800">
+		<title lang="zh">广场舞《腾飞中国梦》（20220329）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -51953,6 +51968,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251129011000 +0800" stop="20251129015400 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251129015400 +0800" stop="20251129024000 +0800">
+		<title lang="zh">17_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
