@@ -87357,6 +87357,9 @@
 	<programme channel="newtv超级体育" start="20251128193000 +0800" stop="20251128203000 +0800">
 		<title lang="zh">实况录像(奥林匹克)-全运全记录 7(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251128203000 +0800" stop="20251128213000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-第十五届全国运动会 跳水男子10米台决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -88023,6 +88026,9 @@
 	<programme channel="newtv热播精选" start="20251128193600 +0800" stop="20251128202200 +0800">
 		<title lang="zh">15_问心</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251128202200 +0800" stop="20251128210800 +0800">
+		<title lang="zh">16_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -88479,6 +88485,9 @@
 	<programme channel="newtv军事评论" start="20251128200300 +0800" stop="20251128202500 +0800">
 		<title lang="zh">大国重器 决胜空天</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251128202500 +0800" stop="20251128204700 +0800">
+		<title lang="zh">智能战械</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88583,6 +88592,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251128200100 +0800" stop="20251128201100 +0800">
 		<title lang="zh">国药药材氨糖软骨素片</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251128203100 +0800" stop="20251128211700 +0800">
+		<title lang="zh">10_金婚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -88821,6 +88833,9 @@
 	<programme channel="newtv金牌综艺" start="20251128195500 +0800" stop="20251128202500 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251128202500 +0800" stop="20251128210700 +0800">
+		<title lang="zh">10_红蔷薇</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -88979,6 +88994,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251128192800 +0800" stop="20251128201600 +0800">
 		<title lang="zh">06_雪中悍刀行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251128201600 +0800" stop="20251128210400 +0800">
+		<title lang="zh">07_雪中悍刀行</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
