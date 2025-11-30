@@ -14901,6 +14901,9 @@
 	<programme channel="咪咕综合体育" start="20251201034500 +0800" stop="20251201060500 +0800">
 		<title lang="zh">足球世界-25/26赛季西甲 第14轮 吉罗纳-皇家马德里 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251201060500 +0800" stop="20251201061000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -39171,6 +39174,9 @@
 	<programme channel="纯享4K" start="20251201053400 +0800" stop="20251201055900 +0800">
 		<title lang="zh">大国医b7千金方4K 第9集 王清任b7血府逐瘀汤</title>
 	</programme>
+	<programme channel="纯享4K" start="20251201055900 +0800" stop="20251201065100 +0800">
+		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47853,6 +47859,9 @@
 	<programme channel="黑莓动画" start="20251201031000 +0800" stop="20251201055700 +0800">
 		<title lang="zh">01_我在天庭收废品</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251201055700 +0800" stop="20251201081500 +0800">
+		<title lang="zh">01_假面骑士ZZZ普通话版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48366,6 +48375,9 @@
 	<programme channel="newtv超级综艺" start="20251201053600 +0800" stop="20251201060400 +0800">
 		<title lang="zh">TOP音乐咖</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251201060400 +0800" stop="20251201063400 +0800">
+		<title lang="zh">慕名而来</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48380,6 +48392,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251201053000 +0800" stop="20251201060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251201060000 +0800" stop="20251201063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -48422,6 +48437,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251201052400 +0800" stop="20251201060800 +0800">
 		<title lang="zh">22_铁血淞沪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251201060800 +0800" stop="20251201065300 +0800">
+		<title lang="zh">23_铁血淞沪</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48813,6 +48831,9 @@
 	<programme channel="newtv惊悚悬疑" start="20251201045200 +0800" stop="20251201055500 +0800">
 		<title lang="zh">林中女妖</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251201055500 +0800" stop="20251201063900 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -48911,6 +48932,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251201050100 +0800" stop="20251201054800 +0800">
 		<title lang="zh">拳王争霸赛：普朗特VS雷森迪兹</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251201054800 +0800" stop="20251201063300 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
