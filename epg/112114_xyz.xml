@@ -16590,6 +16590,9 @@
 	<programme channel="咪咕足球" start="20251202021000 +0800" stop="20251202035000 +0800">
 		<title lang="zh">2025NBL联赛 半决赛G2 香港金牛-石家庄翔蓝</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251202040000 +0800" stop="20251202050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -51789,6 +51792,9 @@
 	<programme channel="newtv超级体育" start="20251202023600 +0800" stop="20251202040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251202040000 +0800" stop="20251202053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第3轮 曼联-伯恩利</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51821,6 +51827,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251202031200 +0800" stop="20251202035700 +0800">
 		<title lang="zh">35_新边城浪子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251202035700 +0800" stop="20251202044100 +0800">
+		<title lang="zh">24_铁血淞沪</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -51878,6 +51887,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251202030400 +0800" stop="20251202035200 +0800">
 		<title lang="zh">13_三生三世枕上书</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251202035200 +0800" stop="20251202044000 +0800">
+		<title lang="zh">14_三生三世枕上书</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -51938,6 +51950,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251202025700 +0800" stop="20251202034700 +0800">
 		<title lang="zh">水溶植物欧米伽3微囊粉</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251202034700 +0800" stop="20251202042800 +0800">
+		<title lang="zh">26_灼灼风流</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -52017,6 +52032,9 @@
 	<programme channel="newtv军事评论" start="20251202033500 +0800" stop="20251202035600 +0800">
 		<title lang="zh">美“超级大黄蜂”战机再坠落</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251202035600 +0800" stop="20251202041800 +0800">
+		<title lang="zh">巨型航弹的战场进化</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52055,6 +52073,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251202025000 +0800" stop="20251202034800 +0800">
 		<title lang="zh">哈哈哈哈哈第4季</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251202034800 +0800" stop="20251202043200 +0800">
+		<title lang="zh">12_黎明决战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -52151,6 +52172,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251202024300 +0800" stop="20251202035500 +0800">
 		<title lang="zh">古剑奇谭之悲歌咒</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251202035500 +0800" stop="20251202045500 +0800">
+		<title lang="zh">男子长拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
