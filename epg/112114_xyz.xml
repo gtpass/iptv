@@ -26106,6 +26106,9 @@
 	<programme channel="咪咕综合体育" start="20251201120500 +0800" stop="20251201123000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251201123000 +0800" stop="20251201124500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -80439,6 +80442,9 @@
 	<programme channel="黑莓动画" start="20251201115700 +0800" stop="20251201121600 +0800">
 		<title lang="zh">01_贝乐虎3D儿歌之保护身体</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251201121600 +0800" stop="20251201124400 +0800">
+		<title lang="zh">01_世界陪我一起长大</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81240,6 +81246,9 @@
 	<programme channel="newtv超级电视剧" start="20251201113600 +0800" stop="20251201122200 +0800">
 		<title lang="zh">09_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251201122200 +0800" stop="20251201130700 +0800">
+		<title lang="zh">10_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81458,6 +81467,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251201114200 +0800" stop="20251201122300 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251201122300 +0800" stop="20251201130800 +0800">
+		<title lang="zh">31_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -81758,6 +81770,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251201113900 +0800" stop="20251201122000 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251201122000 +0800" stop="20251201130500 +0800">
+		<title lang="zh">22_谢谢你医生</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
