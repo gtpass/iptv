@@ -69705,6 +69705,9 @@
 	<programme channel="超级电影" start="20251201145100 +0800" stop="20251201161000 +0800">
 		<title lang="zh">电影《蜀山2剑魔篇》</title>
 	</programme>
+	<programme channel="超级电影" start="20251201161000 +0800" stop="20251201175200 +0800">
+		<title lang="zh">电影《终极胜利》</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -81413,6 +81416,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251201145100 +0800" stop="20251201161000 +0800">
 		<title lang="zh">电影《蜀山2剑魔篇》</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251201161000 +0800" stop="20251201175200 +0800">
+		<title lang="zh">电影《终极胜利》</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
