@@ -42015,6 +42015,9 @@
 	<programme channel="明星大片" start="20251201212600 +0800" stop="20251201215600 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
+	<programme channel="明星大片" start="20251201215600 +0800" stop="20251201224200 +0800">
+		<title lang="zh">16_值得爱</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -59412,6 +59415,9 @@
 	<programme channel="爱情喜剧" start="20251201212700 +0800" stop="20251201220000 +0800">
 		<title lang="zh">13_西出玉门</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251201220000 +0800" stop="20251201223000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -65438,6 +65444,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251201212600 +0800" stop="20251201215100 +0800">
 		<title lang="zh">大国医b7千金方4K 第9集 王清任b7血府逐瘀汤</title>
+	</programme>
+	<programme channel="纯享4K" start="20251201215100 +0800" stop="20251201224300 +0800">
+		<title lang="zh">乘火车看中国4K 第四集 成吉思汗之路</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81663,6 +81672,9 @@
 	<programme channel="newtv超级体育" start="20251201213000 +0800" stop="20251201220000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251201220000 +0800" stop="20251201000500 +0800">
+		<title lang="zh">2025/2026赛季斯诺克英国锦标赛-第1轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81807,6 +81819,9 @@
 	<programme channel="newtv超级电视剧" start="20251201211400 +0800" stop="20251201215800 +0800">
 		<title lang="zh">32_谍战深海</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251201215800 +0800" stop="20251201224300 +0800">
+		<title lang="zh">33_谍战深海</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81899,6 +81914,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251201211600 +0800" stop="20251201215800 +0800">
 		<title lang="zh">13_大唐荣耀</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251201215800 +0800" stop="20251201224500 +0800">
+		<title lang="zh">52_安家</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82458,6 +82476,9 @@
 	<programme channel="newtv爱情喜剧" start="20251201212700 +0800" stop="20251201220000 +0800">
 		<title lang="zh">13_西出玉门</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251201220000 +0800" stop="20251201223000 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -82700,6 +82721,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251201211800 +0800" stop="20251201214800 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251201214800 +0800" stop="20251201223400 +0800">
+		<title lang="zh">35_独孤天下</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -82968,6 +82992,9 @@
 	<programme channel="newtv炫舞未来" start="20251201212400 +0800" stop="20251201213400 +0800">
 		<title lang="zh">国药药材氨糖软骨素片</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251201215400 +0800" stop="20251201221600 +0800">
+		<title lang="zh">健身舞《鸿雁》（20221024）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -83063,6 +83090,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251201212600 +0800" stop="20251201215600 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251201215600 +0800" stop="20251201224200 +0800">
+		<title lang="zh">16_值得爱</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
