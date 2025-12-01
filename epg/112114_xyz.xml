@@ -26322,6 +26322,9 @@
 	<programme channel="咪咕足球" start="20251201201000 +0800" stop="20251201203000 +0800">
 		<title lang="zh">全运金牌时刻第二期</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251201203000 +0800" stop="20251201203500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -59379,6 +59382,9 @@
 	<programme channel="爱情喜剧" start="20251201194200 +0800" stop="20251201202200 +0800">
 		<title lang="zh">营养健康人生</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251201202200 +0800" stop="20251201205700 +0800">
+		<title lang="zh">12_西出玉门</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -81603,6 +81609,9 @@
 	<programme channel="newtv超级体育" start="20251201190000 +0800" stop="20251201203000 +0800">
 		<title lang="zh">2025年国际乒联混合团体世界杯-第一阶段 第2轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251201203000 +0800" stop="20251201213000 +0800">
+		<title lang="zh">天下足球</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -81737,6 +81746,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251201194300 +0800" stop="20251201202800 +0800">
 		<title lang="zh">11_山花烂漫时</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251201202800 +0800" stop="20251201211400 +0800">
+		<title lang="zh">12_山花烂漫时</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -82095,6 +82107,9 @@
 	<programme channel="newtv军旅剧场" start="20251201193800 +0800" stop="20251201202400 +0800">
 		<title lang="zh">25_参工传奇</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251201202400 +0800" stop="20251201210900 +0800">
+		<title lang="zh">26_参工传奇</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -82263,6 +82278,9 @@
 	<programme channel="newtv热播精选" start="20251201194300 +0800" stop="20251201202800 +0800">
 		<title lang="zh">24_问心</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251201202800 +0800" stop="20251201211400 +0800">
+		<title lang="zh">25_问心</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -82337,6 +82355,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251201194200 +0800" stop="20251201202200 +0800">
 		<title lang="zh">营养健康人生</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251201202200 +0800" stop="20251201205700 +0800">
+		<title lang="zh">12_西出玉门</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -82478,6 +82499,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251201192700 +0800" stop="20251201202600 +0800">
 		<title lang="zh">北京睿翼精英vs山西清徐学栋-第4局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251201202600 +0800" stop="20251201205600 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
