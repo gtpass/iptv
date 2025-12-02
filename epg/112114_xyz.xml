@@ -27792,6 +27792,9 @@
 	<programme channel="咪咕综合体育" start="20251202213000 +0800" stop="20251202215500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251202220000 +0800" stop="20251202000000 +0800">
+		<title lang="zh">网球世界-2025美国网球公开赛 男单决赛 辛纳-阿尔卡拉斯</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -85983,6 +85986,9 @@
 	<programme channel="newtv超级体育" start="20251202213000 +0800" stop="20251202220000 +0800">
 		<title lang="zh">体育世界</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251202220000 +0800" stop="20251202000500 +0800">
+		<title lang="zh">2025/2026赛季斯诺克英国锦标赛-第1轮2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -86120,6 +86126,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251202210500 +0800" stop="20251202214900 +0800">
 		<title lang="zh">02_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251202214900 +0800" stop="20251202223300 +0800">
+		<title lang="zh">03_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -87575,6 +87584,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251202205800 +0800" stop="20251202214200 +0800">
 		<title lang="zh">34_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251202214200 +0800" stop="20251202222600 +0800">
+		<title lang="zh">35_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
