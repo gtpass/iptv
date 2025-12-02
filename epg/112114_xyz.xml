@@ -52773,6 +52773,9 @@
 	<programme channel="newtv超级体育" start="20251203053000 +0800" stop="20251203060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251203060000 +0800" stop="20251203063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
