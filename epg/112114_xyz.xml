@@ -52680,6 +52680,9 @@
 	<programme channel="newtv超级体育" start="20251204053000 +0800" stop="20251204060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251204060000 +0800" stop="20251204063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52721,6 +52724,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251204051500 +0800" stop="20251204060000 +0800">
 		<title lang="zh">34_铁血淞沪</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251204060000 +0800" stop="20251204064400 +0800">
+		<title lang="zh">35_铁血淞沪</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52854,6 +52860,9 @@
 	<programme channel="newtv家庭剧场" start="20251204050100 +0800" stop="20251204054800 +0800">
 		<title lang="zh">22_婚姻那些事儿</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251204054800 +0800" stop="20251204062800 +0800">
+		<title lang="zh">营养健康人生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -52874,6 +52883,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251204051200 +0800" stop="20251204055800 +0800">
 		<title lang="zh">34_最好的时代</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251204055800 +0800" stop="20251204064200 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -53195,6 +53207,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251204051500 +0800" stop="20251204054600 +0800">
 		<title lang="zh">超次中量级12回合赛：康韦尔VS佩雷斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251204054600 +0800" stop="20251204062600 +0800">
+		<title lang="zh">营养健康人生</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
