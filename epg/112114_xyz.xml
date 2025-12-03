@@ -16695,6 +16695,9 @@
 	<programme channel="咪咕足球" start="20251204035000 +0800" stop="20251204040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251204040000 +0800" stop="20251204050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -52518,6 +52521,9 @@
 	<programme channel="newtv超级综艺" start="20251204020900 +0800" stop="20251204035500 +0800">
 		<title lang="zh">影视留声机</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251204035500 +0800" stop="20251204041400 +0800">
+		<title lang="zh">文化十分</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -52529,6 +52535,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20251204023600 +0800" stop="20251204040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 3</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20251204040000 +0800" stop="20251204053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第5轮 桑德兰-阿斯顿维拉</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -52598,6 +52607,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251204030400 +0800" stop="20251204034900 +0800">
 		<title lang="zh">03_铁血武工队传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251204034900 +0800" stop="20251204043400 +0800">
+		<title lang="zh">04_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52683,6 +52695,9 @@
 	<programme channel="newtv爱情喜剧" start="20251204032100 +0800" stop="20251204040000 +0800">
 		<title lang="zh">36_灼灼风流</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251204040000 +0800" stop="20251204044600 +0800">
+		<title lang="zh">37_灼灼风流</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -52718,6 +52733,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251204030200 +0800" stop="20251204034800 +0800">
 		<title lang="zh">12_天下正道</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251204034900 +0800" stop="20251204043700 +0800">
+		<title lang="zh">我的动物朋友希尔加（2）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52770,6 +52788,9 @@
 	<programme channel="newtv军事评论" start="20251204032500 +0800" stop="20251204035200 +0800">
 		<title lang="zh">火力飓风</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251204035200 +0800" stop="20251204041900 +0800">
+		<title lang="zh">背水一战 绝地反击</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52806,6 +52827,9 @@
 	<programme channel="newtv精品综合" start="20251204020500 +0800" stop="20251204035600 +0800">
 		<title lang="zh">逆流而上</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251204035600 +0800" stop="20251204045600 +0800">
+		<title lang="zh">哈哈哈哈哈第4季</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52835,6 +52859,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251204032000 +0800" stop="20251204040300 +0800">
 		<title lang="zh">11_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251204040300 +0800" stop="20251204044700 +0800">
+		<title lang="zh">12_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
