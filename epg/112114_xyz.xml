@@ -28734,6 +28734,9 @@
 	<programme channel="咪咕综合体育" start="20251204184500 +0800" stop="20251204202500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第13轮 切尔西-阿森纳</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251204203500 +0800" stop="20251204221500 +0800">
+		<title lang="zh">中超来噜-2025赛季中超 第30轮 天津津门虎-上海申花</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41598,6 +41601,9 @@
 	<programme channel="惊悚悬疑" start="20251204200100 +0800" stop="20251204203100 +0800">
 		<title lang="zh">《A咖秀》推荐第14期</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251204203100 +0800" stop="20251204203200 +0800">
+		<title lang="zh">渠道-小麻花</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -45095,6 +45101,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251204195700 +0800" stop="20251204202700 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="明星大片" start="20251204202700 +0800" stop="20251204211500 +0800">
+		<title lang="zh">23_值得爱</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -87498,6 +87507,9 @@
 	<programme channel="newtv精品大剧" start="20251204194100 +0800" stop="20251204202300 +0800">
 		<title lang="zh">18_大唐荣耀</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251204202300 +0800" stop="20251204210500 +0800">
+		<title lang="zh">19_大唐荣耀</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -87843,6 +87855,9 @@
 	<programme channel="newtv家庭剧场" start="20251204194100 +0800" stop="20251204202700 +0800">
 		<title lang="zh">16_非常有喜</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251204202700 +0800" stop="20251204211200 +0800">
+		<title lang="zh">35_儿女情更长</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -87917,6 +87932,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20251204194300 +0800" stop="20251204202900 +0800">
 		<title lang="zh">35_问心</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20251204202900 +0800" stop="20251204211400 +0800">
+		<title lang="zh">36_问心</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -88374,6 +88392,9 @@
 	<programme channel="newtv军事评论" start="20251204195500 +0800" stop="20251204202100 +0800">
 		<title lang="zh">钢铁长城的荣耀征程</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251204202100 +0800" stop="20251204204800 +0800">
+		<title lang="zh">见证 从历届阅兵看武器装备的跃迁</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -88557,6 +88578,9 @@
 	<programme channel="newtv精品综合" start="20251204195700 +0800" stop="20251204202700 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251204202700 +0800" stop="20251204211500 +0800">
+		<title lang="zh">23_值得爱</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -88616,6 +88640,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251204200100 +0800" stop="20251204203100 +0800">
 		<title lang="zh">《A咖秀》推荐第14期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251204203100 +0800" stop="20251204203200 +0800">
+		<title lang="zh">渠道-小麻花</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -88718,6 +88745,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251204200100 +0800" stop="20251204203100 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251204203100 +0800" stop="20251204211600 +0800">
+		<title lang="zh">43_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
