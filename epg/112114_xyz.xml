@@ -28590,6 +28590,9 @@
 	<programme channel="咪咕综合体育" start="20251205185500 +0800" stop="20251205203500 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第14轮 摩纳哥-巴黎圣日尔曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251205203500 +0800" stop="20251205204000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -41564,6 +41567,9 @@
 	</programme>
 	<programme channel="惊悚悬疑" start="20251205200000 +0800" stop="20251205203000 +0800">
 		<title lang="zh">《A咖秀》推荐第14期</title>
+	</programme>
+	<programme channel="惊悚悬疑" start="20251205203100 +0800" stop="20251205214300 +0800">
+		<title lang="zh">蛇岛求生</title>
 	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
@@ -62784,6 +62790,9 @@
 	<programme channel="爱情喜剧" start="20251205194700 +0800" stop="20251205201900 +0800">
 		<title lang="zh">25_西出玉门</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251205201900 +0800" stop="20251205204900 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -68999,6 +69008,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251205193800 +0800" stop="20251205201900 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（43） 仙境蓬莱 幸福家园</title>
+	</programme>
+	<programme channel="纯享4K" start="20251205201900 +0800" stop="20251205210000 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（44） 蓝色港城 时尚烟台</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -86964,6 +86976,9 @@
 	<programme channel="newtv超级电视剧" start="20251205194200 +0800" stop="20251205202700 +0800">
 		<title lang="zh">01_面具背后</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251205202700 +0800" stop="20251205211300 +0800">
+		<title lang="zh">02_面具背后</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -87047,6 +87062,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251205194800 +0800" stop="20251205201900 +0800">
 		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251205201900 +0800" stop="20251205210200 +0800">
+		<title lang="zh">21_大唐荣耀</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -87552,6 +87570,9 @@
 	<programme channel="newtv爱情喜剧" start="20251205194700 +0800" stop="20251205201900 +0800">
 		<title lang="zh">25_西出玉门</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251205201900 +0800" stop="20251205204900 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -87699,6 +87720,9 @@
 	<programme channel="newtv怡伴健康" start="20251205194900 +0800" stop="20251205203100 +0800">
 		<title lang="zh">北京龙腾四海vs贵州混斗联盟 第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251205203100 +0800" stop="20251205210100 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -87782,6 +87806,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251205194100 +0800" stop="20251205202400 +0800">
 		<title lang="zh">49_独孤天下</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251205202400 +0800" stop="20251205205500 +0800">
+		<title lang="zh">《健康生活》推荐第二期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -88157,6 +88184,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251205200000 +0800" stop="20251205203000 +0800">
 		<title lang="zh">《A咖秀》推荐第14期</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251205203100 +0800" stop="20251205214300 +0800">
+		<title lang="zh">蛇岛求生</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
