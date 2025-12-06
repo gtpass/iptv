@@ -16707,6 +16707,9 @@
 	<programme channel="咪咕足球" start="20251207035000 +0800" stop="20251207040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251207040000 +0800" stop="20251207050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -52662,6 +52665,9 @@
 	<programme channel="newtv超级体育" start="20251207023800 +0800" stop="20251207040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251207040000 +0800" stop="20251207053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第7轮 纽卡斯尔联-诺丁汉森林</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52670,6 +52676,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251207023000 +0800" stop="20251207035900 +0800">
 		<title lang="zh">旭日驱魔</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251207035900 +0800" stop="20251207043300 +0800">
+		<title lang="zh">神奇动物学校(上)</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -52709,6 +52718,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251207031300 +0800" stop="20251207035800 +0800">
 		<title lang="zh">27_冤家亲家</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251207035800 +0800" stop="20251207044300 +0800">
+		<title lang="zh">21_钢的琴</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -52769,6 +52781,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251207030900 +0800" stop="20251207035500 +0800">
 		<title lang="zh">21_菜刀班尖刀连</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251207035500 +0800" stop="20251207043700 +0800">
+		<title lang="zh">33_红蔷薇</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -52908,6 +52923,9 @@
 	<programme channel="newtv军事评论" start="20251207032600 +0800" stop="20251207035100 +0800">
 		<title lang="zh">我的战友是“老兵”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251207035100 +0800" stop="20251207041600 +0800">
+		<title lang="zh">2025长春航空展特别节目 翼展空天 上集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52925,6 +52943,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251207030900 +0800" stop="20251207034700 +0800">
 		<title lang="zh">巧用酸味来养生（二）（20230101）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251207034700 +0800" stop="20251207040800 +0800">
+		<title lang="zh">广场舞—喜气洋洋（20210316）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
