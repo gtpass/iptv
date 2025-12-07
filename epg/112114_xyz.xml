@@ -14646,6 +14646,9 @@
 	<programme channel="咪咕综合体育" start="20251208031500 +0800" stop="20251208055500 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第14轮 那不勒斯-尤文图斯 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251208055500 +0800" stop="20251208060500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38805,6 +38808,9 @@
 	<programme channel="纯享4K" start="20251208050200 +0800" stop="20251208055100 +0800">
 		<title lang="zh">黄河之歌4K 第4集 大浪淘沙</title>
 	</programme>
+	<programme channel="纯享4K" start="20251208055100 +0800" stop="20251208064000 +0800">
+		<title lang="zh">大数据时代4K 第2集 转型之路</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48117,6 +48123,9 @@
 	<programme channel="newtv超级体育" start="20251208053000 +0800" stop="20251208060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251208060000 +0800" stop="20251208063000 +0800">
+		<title lang="zh">实况录像(奥林匹克)-第十五届全国运动会 射击比赛1(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48432,6 +48441,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251208051600 +0800" stop="20251208060000 +0800">
 		<title lang="zh">35_亲爱的爸妈</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251208060000 +0800" stop="20251208063000 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -48479,6 +48491,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251208052800 +0800" stop="20251208055400 +0800">
 		<title lang="zh">探秘“流动的仪仗队”（上集）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251208055400 +0800" stop="20251208061900 +0800">
+		<title lang="zh">探秘“流动的仪仗队”（下集）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -48591,6 +48606,9 @@
 	<programme channel="newtv金牌综艺" start="20251208051500 +0800" stop="20251208060000 +0800">
 		<title lang="zh">24_风声</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251208060000 +0800" stop="20251208063000 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -48665,6 +48683,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251208052100 +0800" stop="20251208055300 +0800">
 		<title lang="zh">次最轻量级10回合赛：维拉兹奎兹VS卡斯蒂略</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251208055300 +0800" stop="20251208062300 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
