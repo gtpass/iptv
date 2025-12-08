@@ -80393,6 +80393,9 @@
 	<programme channel="黑莓电影" start="20251208092900 +0800" stop="20251208105900 +0800">
 		<title lang="zh">战狼</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251208105900 +0800" stop="20251208123600 +0800">
+		<title lang="zh">弓马啸西风</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -81248,6 +81251,9 @@
 	<programme channel="newtv超级电视剧" start="20251208095500 +0800" stop="20251208104000 +0800">
 		<title lang="zh">35_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251208104000 +0800" stop="20251208114100 +0800">
+		<title lang="zh">01_奔腾年代</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -81502,6 +81508,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251208102700 +0800" stop="20251208105700 +0800">
 		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251208105700 +0800" stop="20251208114300 +0800">
+		<title lang="zh">19_兰桐花开</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -82018,6 +82027,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251208103000 +0800" stop="20251208110000 +0800">
 		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251208110000 +0800" stop="20251208114600 +0800">
+		<title lang="zh">04_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
