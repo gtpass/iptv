@@ -41834,6 +41834,9 @@
 	<programme channel="明星大片" start="20251208102400 +0800" stop="20251208120300 +0800">
 		<title lang="zh">青涩之恋</title>
 	</programme>
+	<programme channel="明星大片" start="20251208120300 +0800" stop="20251208123300 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -65096,6 +65099,9 @@
 	<programme channel="纯享4K" start="20251208113500 +0800" stop="20251208121600 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（49） 青岛——山海之间</title>
 	</programme>
+	<programme channel="纯享4K" start="20251208121600 +0800" stop="20251208125700 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（50） 金色沙滩 铸就梦想</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -81722,6 +81728,9 @@
 	<programme channel="newtv动作电影" start="20251208113100 +0800" stop="20251208120100 +0800">
 		<title lang="zh">健康推荐渠道</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251208120100 +0800" stop="20251208130400 +0800">
+		<title lang="zh">铁甲狂猴之亡命雷霆</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -81778,6 +81787,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251208112400 +0800" stop="20251208120800 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251208120800 +0800" stop="20251208125300 +0800">
+		<title lang="zh">08_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81992,6 +82004,9 @@
 	<programme channel="newtv炫舞未来" start="20251208113500 +0800" stop="20251208120500 +0800">
 		<title lang="zh">益生菌</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251208120500 +0800" stop="20251208130500 +0800">
+		<title lang="zh">我愿为你发光</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -82039,6 +82054,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251208102400 +0800" stop="20251208120300 +0800">
 		<title lang="zh">青涩之恋</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251208120300 +0800" stop="20251208123300 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -82141,6 +82159,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251208114600 +0800" stop="20251208121600 +0800">
 		<title lang="zh">健康推荐渠道</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251208121600 +0800" stop="20251208130100 +0800">
+		<title lang="zh">05_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
