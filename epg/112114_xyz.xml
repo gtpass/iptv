@@ -60756,6 +60756,9 @@
 	<programme channel="newtv金牌综艺" start="20251209102200 +0800" stop="20251209105200 +0800">
 		<title lang="zh">健康推荐渠道</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251209105200 +0800" stop="20251209113800 +0800">
+		<title lang="zh">09_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
