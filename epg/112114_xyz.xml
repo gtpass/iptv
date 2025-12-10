@@ -40724,6 +40724,9 @@
 	<programme channel="惊悚悬疑" start="20251210143900 +0800" stop="20251210160400 +0800">
 		<title lang="zh">猫妖奇谭</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251210160400 +0800" stop="20251210164300 +0800">
+		<title lang="zh">男士营养健康推荐</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -85481,6 +85484,9 @@
 	<programme channel="newtv超级电视剧" start="20251210152100 +0800" stop="20251210160600 +0800">
 		<title lang="zh">28_我们队伍向太阳</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251210160600 +0800" stop="20251210165100 +0800">
+		<title lang="zh">29_我们队伍向太阳</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -85552,6 +85558,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20251210152900 +0800" stop="20251210161400 +0800">
 		<title lang="zh">08_大江大河</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20251210161400 +0800" stop="20251210164400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -85700,6 +85709,9 @@
 	<programme channel="newtv古装剧场" start="20251210152000 +0800" stop="20251210160600 +0800">
 		<title lang="zh">14_折腰</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251210160600 +0800" stop="20251210163600 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -85771,6 +85783,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251210152200 +0800" stop="20251210160600 +0800">
 		<title lang="zh">42_秋蝉</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251210160600 +0800" stop="20251210163600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -86174,6 +86189,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251210152500 +0800" stop="20251210160400 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251210160400 +0800" stop="20251210165100 +0800">
+		<title lang="zh">14_玫瑰的故事</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86275,6 +86293,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251210154100 +0800" stop="20251210160300 +0800">
 		<title lang="zh">中国战机b7歼-10</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251210160300 +0800" stop="20251210162400 +0800">
+		<title lang="zh">从F-47看美六代机计划</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -86476,6 +86497,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251210143900 +0800" stop="20251210160400 +0800">
 		<title lang="zh">猫妖奇谭</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251210160400 +0800" stop="20251210164300 +0800">
+		<title lang="zh">男士营养健康推荐</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
