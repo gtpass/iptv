@@ -51234,6 +51234,9 @@
 	<programme channel="黑莓电影" start="20251211041700 +0800" stop="20251211060100 +0800">
 		<title lang="zh">A计划</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251211060100 +0800" stop="20251211080000 +0800">
+		<title lang="zh">云端之上</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -51837,6 +51840,9 @@
 	<programme channel="newtv超级体育" start="20251211053000 +0800" stop="20251211060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251211060000 +0800" stop="20251211063000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 意大利科尔蒂纳站-男子钢架雪车</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51935,6 +51941,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251211050600 +0800" stop="20251211055000 +0800">
 		<title lang="zh">15_北国英雄</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251211055000 +0800" stop="20251211062000 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -52089,6 +52098,9 @@
 	<programme channel="newtv动作电影" start="20251211040800 +0800" stop="20251211055300 +0800">
 		<title lang="zh">叱咤风云</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251211055300 +0800" stop="20251211062300 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -52115,6 +52127,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251211050200 +0800" stop="20251211055000 +0800">
 		<title lang="zh">河马部落生存记</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251211055000 +0800" stop="20251211062000 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52191,6 +52206,9 @@
 	<programme channel="newtv军事评论" start="20251211052700 +0800" stop="20251211055300 +0800">
 		<title lang="zh">俄乌冲突启示录（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251211055300 +0800" stop="20251211062000 +0800">
+		<title lang="zh">俄乌冲突启示录（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -52251,6 +52269,9 @@
 	<programme channel="newtv精品综合" start="20251211052700 +0800" stop="20251211055700 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251211055700 +0800" stop="20251211064300 +0800">
+		<title lang="zh">11_大决战</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -52292,6 +52313,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251211051800 +0800" stop="20251211060300 +0800">
 		<title lang="zh">01_雾都魅影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251211060300 +0800" stop="20251211063300 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
@@ -52367,6 +52391,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251211050500 +0800" stop="20251211054800 +0800">
 		<title lang="zh">拳王争霸赛 戴维斯VS罗奇</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251211054800 +0800" stop="20251211061800 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
