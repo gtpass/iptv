@@ -18417,6 +18417,9 @@
 	<programme channel="咪咕综合体育" start="20251210093000 +0800" stop="20251210111000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第15轮 阿斯顿维拉-阿森纳</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251210112000 +0800" stop="20251210114500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -47787,6 +47790,9 @@
 	<programme channel="纯享4K" start="20251210103900 +0800" stop="20251210111600 +0800">
 		<title lang="zh">探索b7发现4K 探秘三星堆 第4集</title>
 	</programme>
+	<programme channel="纯享4K" start="20251210111600 +0800" stop="20251210112100 +0800">
+		<title lang="zh">5亿年，岩石里的生命奇迹 第一季4K 第2集 浙江曙鱼</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60105,6 +60111,9 @@
 	<programme channel="newtv古装剧场" start="20251210103300 +0800" stop="20251210111200 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251210111200 +0800" stop="20251210115600 +0800">
+		<title lang="zh">03_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60393,6 +60402,9 @@
 	<programme channel="newtv怡伴健康" start="20251210103600 +0800" stop="20251210111500 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251210111500 +0800" stop="20251210115700 +0800">
+		<title lang="zh">生活圈</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -60446,6 +60458,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251210102900 +0800" stop="20251210110800 +0800">
 		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251210110800 +0800" stop="20251210114900 +0800">
+		<title lang="zh">19_激情的岁月</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -60509,6 +60524,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251210104500 +0800" stop="20251210111000 +0800">
 		<title lang="zh">最美的样子 张瑛 高原“兵妈妈”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251210111000 +0800" stop="20251210113600 +0800">
+		<title lang="zh">海天战鹰守护者</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -60818,6 +60836,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251210102700 +0800" stop="20251210111300 +0800">
 		<title lang="zh">13_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251210111300 +0800" stop="20251210115700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
