@@ -18291,6 +18291,9 @@
 	<programme channel="咪咕综合体育" start="20251211094000 +0800" stop="20251211112000 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第14轮 卡利亚里-罗马</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251211112000 +0800" stop="20251211113000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59583,6 +59586,9 @@
 	<programme channel="黑莓动画" start="20251211075400 +0800" stop="20251211110600 +0800">
 		<title lang="zh">01_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251211110600 +0800" stop="20251211113600 +0800">
+		<title lang="zh">01_初初宝贝儿歌第一季</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59603,6 +59609,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251211094000 +0800" stop="20251211110500 +0800">
 		<title lang="zh">一个人的突围</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251211110500 +0800" stop="20251211123000 +0800">
+		<title lang="zh">了不起的狐狸爸爸</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -60276,6 +60285,9 @@
 	<programme channel="newtv超级电影" start="20251211094200 +0800" stop="20251211112000 +0800">
 		<title lang="zh">锦衣卫之日炎刀</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251211112000 +0800" stop="20251211112600 +0800">
+		<title lang="zh">音乐电影欣赏</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60483,6 +60495,9 @@
 	<programme channel="newtv古装剧场" start="20251211102400 +0800" stop="20251211110300 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251211110300 +0800" stop="20251211114800 +0800">
+		<title lang="zh">07_长歌行</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -60533,6 +60548,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251211102300 +0800" stop="20251211110200 +0800">
 		<title lang="zh">男士营养健康推荐</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251211110200 +0800" stop="20251211114700 +0800">
+		<title lang="zh">26_林海雪原</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -60909,6 +60927,9 @@
 	<programme channel="newtv军事评论" start="20251211102300 +0800" stop="20251211111100 +0800">
 		<title lang="zh">壮志向空天 第4集 霹雳雄风铸利剑</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251211111100 +0800" stop="20251211120200 +0800">
+		<title lang="zh">壮志向空天 第5集 弯弓织网御天疆</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60965,6 +60986,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251211095600 +0800" stop="20251211111300 +0800">
 		<title lang="zh">宏超直接把童车带进了演播室 小尼瞬间变身“摩托车手”（20250310）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251211111300 +0800" stop="20251211114300 +0800">
+		<title lang="zh">鱼油-健康生活</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -61101,6 +61125,9 @@
 	<programme channel="newtv金牌综艺" start="20251211103600 +0800" stop="20251211111500 +0800">
 		<title lang="zh">男士营养健康推荐</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251211111500 +0800" stop="20251211120200 +0800">
+		<title lang="zh">19_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -61208,6 +61235,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251211102500 +0800" stop="20251211111000 +0800">
 		<title lang="zh">17_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251211111000 +0800" stop="20251211115400 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
