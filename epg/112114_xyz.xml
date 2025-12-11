@@ -60939,6 +60939,9 @@
 	<programme channel="newtv热播精选" start="20251211151900 +0800" stop="20251211160500 +0800">
 		<title lang="zh">暗黑者3_21</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251211160500 +0800" stop="20251211163500 +0800">
+		<title lang="zh">健康推荐渠道</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61052,6 +61055,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251211145200 +0800" stop="20251211161000 +0800">
 		<title lang="zh">扫黑神探</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251211161000 +0800" stop="20251211164000 +0800">
+		<title lang="zh">健康推荐渠道</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
