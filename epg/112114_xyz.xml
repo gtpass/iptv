@@ -60015,6 +60015,9 @@
 	<programme channel="黑莓电影" start="20251212195800 +0800" stop="20251212220100 +0800">
 		<title lang="zh">刺猬索尼克2</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251212220100 +0800" stop="20251212233700 +0800">
+		<title lang="zh">伏虎武松</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61224,6 +61227,9 @@
 	<programme channel="newtv古装剧场" start="20251212210800 +0800" stop="20251212215400 +0800">
 		<title lang="zh">01_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251212215400 +0800" stop="20251212224400 +0800">
+		<title lang="zh">02_星汉灿烂</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -62019,6 +62025,9 @@
 	<programme channel="newtv军事评论" start="20251212212900 +0800" stop="20251212215500 +0800">
 		<title lang="zh">高市不知悔改或“拜鬼” 日本欲加速高超声速导弹和电磁炮部署</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251212215500 +0800" stop="20251212222000 +0800">
+		<title lang="zh">俄称发现乌军化学战剂藏匿点 俄反无人机精锐部队遭曝光 俄乌深陷拉锯战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -62399,6 +62408,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251212213500 +0800" stop="20251212220500 +0800">
 		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251212220500 +0800" stop="20251212225200 +0800">
+		<title lang="zh">44_红蔷薇</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
