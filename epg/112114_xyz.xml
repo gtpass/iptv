@@ -18414,6 +18414,9 @@
 	<programme channel="咪咕综合体育" start="20251212184500 +0800" stop="20251212202500 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第15轮 阿斯顿维拉-阿森纳</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251212203000 +0800" stop="20251212221000 +0800">
+		<title lang="zh">足球世界-25/26赛季意甲 第14轮 卡利亚里-罗马</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -61272,6 +61275,9 @@
 	<programme channel="newtv军旅剧场" start="20251212193100 +0800" stop="20251212201700 +0800">
 		<title lang="zh">07_孤战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20251212201700 +0800" stop="20251212210300 +0800">
+		<title lang="zh">33_小站风云</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -61361,6 +61367,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251212193900 +0800" stop="20251212202500 +0800">
 		<title lang="zh">18_我的后半生</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251212202500 +0800" stop="20251212211000 +0800">
+		<title lang="zh">19_我的后半生</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -61596,6 +61605,9 @@
 	<programme channel="newtv动作电影" start="20251212191400 +0800" stop="20251212202700 +0800">
 		<title lang="zh">特警使命：狙击风暴</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251212202700 +0800" stop="20251212205700 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61784,6 +61796,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251212193900 +0800" stop="20251212202600 +0800">
 		<title lang="zh">25_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251212202600 +0800" stop="20251212205600 +0800">
+		<title lang="zh">《健康生活》推荐第三期</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -62021,6 +62036,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251212190600 +0800" stop="20251212202300 +0800">
 		<title lang="zh">西红柿鸡蛋馅、榴莲馅 这样的饺子你吃过吗？（20251201）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251212202300 +0800" stop="20251212205300 +0800">
+		<title lang="zh">鱼油-健康生活</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -62441,6 +62459,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251212194000 +0800" stop="20251212202500 +0800">
 		<title lang="zh">17_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251212202500 +0800" stop="20251212211100 +0800">
+		<title lang="zh">18_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
