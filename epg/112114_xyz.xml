@@ -18336,6 +18336,9 @@
 	<programme channel="咪咕综合体育" start="20251212115000 +0800" stop="20251212120500 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251212120500 +0800" stop="20251212123000 +0800">
+		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18395,6 +18398,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251212115000 +0800" stop="20251212120500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251212120500 +0800" stop="20251212134500 +0800">
+		<title lang="zh">我爱女篮-24/25WCBA常规赛第31轮 内蒙古农信-东莞新彤盛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -59808,6 +59814,9 @@
 	<programme channel="黑莓电影" start="20251212103300 +0800" stop="20251212120600 +0800">
 		<title lang="zh">向光花盛开</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251212120600 +0800" stop="20251212140400 +0800">
+		<title lang="zh">侠探杰克：永不回头</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -60609,6 +60618,9 @@
 	<programme channel="newtv超级电影" start="20251212104000 +0800" stop="20251212121000 +0800">
 		<title lang="zh">雪耻杀</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251212121000 +0800" stop="20251212134300 +0800">
+		<title lang="zh">电影《垫底联盟》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -60723,6 +60735,9 @@
 	<programme channel="newtv精品大剧" start="20251212112300 +0800" stop="20251212120600 +0800">
 		<title lang="zh">02_乔家的儿女</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20251212120600 +0800" stop="20251212125000 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -60779,6 +60794,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20251212113000 +0800" stop="20251212121500 +0800">
 		<title lang="zh">12_大决战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20251212121500 +0800" stop="20251212124500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -60890,6 +60908,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251212113100 +0800" stop="20251212121600 +0800">
 		<title lang="zh">31_林海雪原</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251212121600 +0800" stop="20251212130000 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61145,6 +61166,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251212112800 +0800" stop="20251212121200 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251212121200 +0800" stop="20251212125800 +0800">
+		<title lang="zh">12_父亲的草原母亲的河</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -61497,6 +61521,9 @@
 	<programme channel="newtv金牌综艺" start="20251212112800 +0800" stop="20251212121300 +0800">
 		<title lang="zh">24_梅花红桃</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251212121300 +0800" stop="20251212124300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -61610,6 +61637,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251212111900 +0800" stop="20251212120300 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251212120300 +0800" stop="20251212132900 +0800">
+		<title lang="zh">包公传奇之天长案</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
