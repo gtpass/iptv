@@ -16590,6 +16590,9 @@
 	<programme channel="咪咕综合体育" start="20251214034500 +0800" stop="20251214040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251214040000 +0800" stop="20251214061500 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第16轮 阿森纳-狼队 直播</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16613,6 +16616,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20251214035000 +0800" stop="20251214040000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20251214040000 +0800" stop="20251214050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -52182,6 +52188,9 @@
 	<programme channel="黑莓动画" start="20251214020200 +0800" stop="20251214035400 +0800">
 		<title lang="zh">01_我在天庭收废品</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251214035400 +0800" stop="20251214074400 +0800">
+		<title lang="zh">01_假面骑士艾克赛德 （普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -52878,6 +52887,9 @@
 	<programme channel="newtv超级体育" start="20251214023800 +0800" stop="20251214040000 +0800">
 		<title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251214040000 +0800" stop="20251214053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第12轮 利物浦-诺丁汉森林</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52910,6 +52922,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251214034900 +0800" stop="20251214035400 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251214035400 +0800" stop="20251214044000 +0800">
+		<title lang="zh">32_生活就是家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52971,6 +52986,9 @@
 	<programme channel="newtv古装剧场" start="20251214030700 +0800" stop="20251214035400 +0800">
 		<title lang="zh">06_国子监来了个女弟子</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251214035400 +0800" stop="20251214043900 +0800">
+		<title lang="zh">27_扶摇</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -52988,6 +53006,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251214030500 +0800" stop="20251214035100 +0800">
 		<title lang="zh">19_东江英雄刘黑仔</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251214035100 +0800" stop="20251214043900 +0800">
+		<title lang="zh">13_蓝盔特战队</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -53045,6 +53066,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251214031500 +0800" stop="20251214035900 +0800">
 		<title lang="zh">07_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251214035900 +0800" stop="20251214044700 +0800">
+		<title lang="zh">08_星汉灿烂</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -53121,6 +53145,9 @@
 	<programme channel="newtv军事评论" start="20251214032200 +0800" stop="20251214034800 +0800">
 		<title lang="zh">丛林侦察砺锋芒</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251214034800 +0800" stop="20251214041200 +0800">
+		<title lang="zh">我的战友是“老兵”</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -53160,6 +53187,9 @@
 	<programme channel="newtv精品综合" start="20251214022900 +0800" stop="20251214035200 +0800">
 		<title lang="zh">哈哈哈哈哈第4季</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251214035200 +0800" stop="20251214043700 +0800">
+		<title lang="zh">18_大决战</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -53193,6 +53223,9 @@
 	<programme channel="newtv金牌综艺" start="20251214031400 +0800" stop="20251214035900 +0800">
 		<title lang="zh">12_面具背后</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20251214035900 +0800" stop="20251214044500 +0800">
+		<title lang="zh">13_面具背后</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -53201,6 +53234,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251214021900 +0800" stop="20251214035600 +0800">
 		<title lang="zh">2025-26赛季法甲联赛第13轮：巴黎圣日耳曼VS勒阿弗尔</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251214035600 +0800" stop="20251214053400 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第13轮：皇家贝蒂斯VS赫罗纳</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
