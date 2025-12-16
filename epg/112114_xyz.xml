@@ -41250,6 +41250,9 @@
 	<programme channel="newtv超级体育" start="20251217053000 +0800" stop="20251217060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251217060000 +0800" stop="20251217063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 3</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -41490,6 +41493,9 @@
 	<programme channel="newtv爱情喜剧" start="20251217051500 +0800" stop="20251217055900 +0800">
 		<title lang="zh">24_星汉灿烂</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251217055900 +0800" stop="20251217062900 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -41537,6 +41543,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251217050000 +0800" stop="20251217054700 +0800">
 		<title lang="zh">猎豹传奇</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251217055400 +0800" stop="20251217062400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -41591,6 +41600,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251217052900 +0800" stop="20251217055600 +0800">
 		<title lang="zh">装备界的“寿星”与“流星”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251217055600 +0800" stop="20251217062300 +0800">
+		<title lang="zh">单兵百宝囊</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -41768,6 +41780,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251217052000 +0800" stop="20251217055600 +0800">
 		<title lang="zh">拳王争霸赛：卡卡斯VS伍德</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251217055600 +0800" stop="20251217062600 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
