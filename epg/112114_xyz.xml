@@ -25178,6 +25178,9 @@
 	<programme channel="咪咕综合体育" start="20251217141000 +0800" stop="20251217161500 +0800">
 		<title lang="zh">全运时刻-第十五届全运会 游泳 各项半决赛 决赛1</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251217161500 +0800" stop="20251217162000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -37211,6 +37214,9 @@
 	<programme channel="惊悚悬疑" start="20251217144300 +0800" stop="20251217160900 +0800">
 		<title lang="zh">寂静之地</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251217160900 +0800" stop="20251217164900 +0800">
+		<title lang="zh">液体海参</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -40090,6 +40096,9 @@
 	</programme>
 	<programme channel="明星大片" start="20251217152200 +0800" stop="20251217160300 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="明星大片" start="20251217160300 +0800" stop="20251217164900 +0800">
+		<title lang="zh">17_非常有喜</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -63437,6 +63446,9 @@
 	<programme channel="纯享4K" start="20251217153700 +0800" stop="20251217160600 +0800">
 		<title lang="zh">好吃客4K 潮州</title>
 	</programme>
+	<programme channel="纯享4K" start="20251217160600 +0800" stop="20251217163400 +0800">
+		<title lang="zh">记住乡愁4K第十季 晨洲——汕尾古村 “蚝”有滋味</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -80081,6 +80093,9 @@
 	<programme channel="newtv精品纪录" start="20251217152300 +0800" stop="20251217160800 +0800">
 		<title lang="zh">39_大决战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251217160800 +0800" stop="20251217163800 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80372,6 +80387,9 @@
 	<programme channel="newtv热播精选" start="20251217152400 +0800" stop="20251217160900 +0800">
 		<title lang="zh">20_画眉</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251217160900 +0800" stop="20251217163900 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80563,6 +80581,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251217152900 +0800" stop="20251217160900 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251217160900 +0800" stop="20251217162100 +0800">
+		<title lang="zh">相声《如此家长》金霏、陈曦</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -80819,6 +80840,9 @@
 	<programme channel="newtv炫舞未来" start="20251217143400 +0800" stop="20251217161300 +0800">
 		<title lang="zh">笑有新生（20251213）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251217161300 +0800" stop="20251217164300 +0800">
+		<title lang="zh">氨糖软骨素-健康生活</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80885,6 +80909,9 @@
 	<programme channel="newtv精品综合" start="20251217152200 +0800" stop="20251217160300 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251217160300 +0800" stop="20251217164900 +0800">
+		<title lang="zh">17_非常有喜</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -80932,6 +80959,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251217144300 +0800" stop="20251217160900 +0800">
 		<title lang="zh">寂静之地</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251217160900 +0800" stop="20251217164900 +0800">
+		<title lang="zh">液体海参</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
