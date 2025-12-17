@@ -37175,6 +37175,9 @@
 	<programme channel="惊悚悬疑" start="20251217103600 +0800" stop="20251217120500 +0800">
 		<title lang="zh">民间摆渡人</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20251217120500 +0800" stop="20251217123500 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -78794,6 +78797,9 @@
 	<programme channel="黑莓动画" start="20251217100300 +0800" stop="20251217120800 +0800">
 		<title lang="zh">01_猪猪侠之超星五灵侠6</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251217120800 +0800" stop="20251217151000 +0800">
+		<title lang="zh">01_奶龙之奇妙冒险</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -79883,6 +79889,9 @@
 	<programme channel="newtv精品纪录" start="20251217111800 +0800" stop="20251217120400 +0800">
 		<title lang="zh">36_大决战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251217120400 +0800" stop="20251217123400 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -80258,6 +80267,9 @@
 	<programme channel="newtv怡伴健康" start="20251217112300 +0800" stop="20251217120300 +0800">
 		<title lang="zh">液体海参</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20251217120300 +0800" stop="20251217124900 +0800">
+		<title lang="zh">17_父亲的草原母亲的河</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80530,6 +80542,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251217103600 +0800" stop="20251217120500 +0800">
 		<title lang="zh">民间摆渡人</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251217120500 +0800" stop="20251217123500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
