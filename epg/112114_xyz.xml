@@ -57566,6 +57566,9 @@
 	<programme channel="爱情喜剧" start="20251217193300 +0800" stop="20251217201800 +0800">
 		<title lang="zh">25_扶摇</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20251217201800 +0800" stop="20251217204800 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63523,6 +63526,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20251217193700 +0800" stop="20251217201800 +0800">
 		<title lang="zh">远方的家4K 行走海岸线（67） 大辽河畔 文化盘锦</title>
+	</programme>
+	<programme channel="纯享4K" start="20251217201800 +0800" stop="20251217205900 +0800">
+		<title lang="zh">远方的家4K 行走海岸线（68） 千年城府 锦绣之州</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -80351,6 +80357,9 @@
 	<programme channel="newtv古装剧场" start="20251217195100 +0800" stop="20251217202100 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251217202100 +0800" stop="20251217210700 +0800">
+		<title lang="zh">23_星汉灿烂</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -80443,6 +80452,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251217193700 +0800" stop="20251217202300 +0800">
 		<title lang="zh">22_孤战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251217202300 +0800" stop="20251217210900 +0800">
+		<title lang="zh">17_瞄准</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80701,6 +80713,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251217193300 +0800" stop="20251217201800 +0800">
 		<title lang="zh">25_扶摇</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251217201800 +0800" stop="20251217204800 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81089,6 +81104,9 @@
 	<programme channel="newtv军事评论" start="20251217195800 +0800" stop="20251217202400 +0800">
 		<title lang="zh">美俄谈乌克兰问题 岛内为何震动？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251217202400 +0800" stop="20251217204900 +0800">
+		<title lang="zh">菲律宾再闹南海 解放军严阵以待</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81187,6 +81205,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251217200100 +0800" stop="20251217203100 +0800">
 		<title lang="zh">氨糖软骨素-健康生活</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251217203100 +0800" stop="20251217211800 +0800">
+		<title lang="zh">29_金婚</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
