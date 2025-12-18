@@ -51966,6 +51966,9 @@
 	<programme channel="newtv超级综艺" start="20251219042600 +0800" stop="20251219055700 +0800">
 		<title lang="zh">中央广播电视总台主持人大赛 新闻主播季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20251219055700 +0800" stop="20251219073700 +0800">
+		<title lang="zh">跟着春晚游中国</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -51984,6 +51987,9 @@
 	<programme channel="newtv超级体育" start="20251219053000 +0800" stop="20251219060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251219060000 +0800" stop="20251219063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 5</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -51995,6 +52001,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251219043400 +0800" stop="20251219054800 +0800">
 		<title lang="zh">圣诞树6</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251219054800 +0800" stop="20251219075600 +0800">
+		<title lang="zh">扫毒-人在天涯</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -52022,6 +52031,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251219050800 +0800" stop="20251219054800 +0800">
 		<title lang="zh">06_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251219054800 +0800" stop="20251219062200 +0800">
+		<title lang="zh">07_证词</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52185,6 +52197,9 @@
 	<programme channel="newtv热播精选" start="20251219051200 +0800" stop="20251219055900 +0800">
 		<title lang="zh">03_三十而已</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251219055900 +0800" stop="20251219063400 +0800">
+		<title lang="zh">17_岁岁青莲</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -52259,6 +52274,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251219050600 +0800" stop="20251219055400 +0800">
 		<title lang="zh">生存强者b7艰难的旅程</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251219055400 +0800" stop="20251219062400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -52359,6 +52377,9 @@
 	<programme channel="newtv炫舞未来" start="20251219052900 +0800" stop="20251219055100 +0800">
 		<title lang="zh">健身舞《响亮的问候》（20220516）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251219055100 +0800" stop="20251219061300 +0800">
+		<title lang="zh">健身舞《天南地北唱中华》（20220401）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -52433,6 +52454,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251219053300 +0800" stop="20251219060300 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251219060300 +0800" stop="20251219064700 +0800">
+		<title lang="zh">07_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
