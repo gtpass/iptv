@@ -61197,6 +61197,9 @@
 	<programme channel="newtv热播精选" start="20251220212400 +0800" stop="20251220215400 +0800">
 		<title lang="zh">《八段锦》推荐第45期</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251220215400 +0800" stop="20251220224000 +0800">
+		<title lang="zh">16_欢乐颂4</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61290,6 +61293,9 @@
 	<programme channel="newtv爱情喜剧" start="20251220210900 +0800" stop="20251220215400 +0800">
 		<title lang="zh">35_扶摇</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251220215400 +0800" stop="20251220222400 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -61358,6 +61364,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20251220203600 +0800" stop="20251220220000 +0800">
 		<title lang="zh">疾速反击</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20251220220000 +0800" stop="20251220223000 +0800">
+		<title lang="zh">《A咖秀》推荐第13期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -61701,6 +61710,9 @@
 	<programme channel="newtv军事评论" start="20251220212800 +0800" stop="20251220215400 +0800">
 		<title lang="zh">【防务新观察】美将为乌远程袭击俄能源设施提供情报</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251220215400 +0800" stop="20251220221900 +0800">
+		<title lang="zh">【防务新观察】日舰赴美安装“战斧”导弹</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61818,6 +61830,9 @@
 	<programme channel="newtv炫舞未来" start="20251220212700 +0800" stop="20251220214800 +0800">
 		<title lang="zh">健身舞《酒醉的蝴蝶》（20220613）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251220214800 +0800" stop="20251220220900 +0800">
+		<title lang="zh">健身舞—我和我的祖国（20220105）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61919,6 +61934,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251220212500 +0800" stop="20251220215500 +0800">
 		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251220215500 +0800" stop="20251220224800 +0800">
+		<title lang="zh">12_滤镜</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
