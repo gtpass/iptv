@@ -47934,6 +47934,9 @@
 	<programme channel="newtv超级体育" start="20251222053000 +0800" stop="20251222060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯总决赛 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251222060000 +0800" stop="20251222063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 2</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47975,6 +47978,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251222052100 +0800" stop="20251222055800 +0800">
 		<title lang="zh">18_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251222055800 +0800" stop="20251222063700 +0800">
+		<title lang="zh">19_证词</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -48122,6 +48128,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20251222051000 +0800" stop="20251222055700 +0800">
 		<title lang="zh">31_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20251222055700 +0800" stop="20251222062700 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -48318,6 +48327,9 @@
 	<programme channel="newtv炫舞未来" start="20251222052900 +0800" stop="20251222055000 +0800">
 		<title lang="zh">健身舞—蝴蝶飞飞（20210601）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251222055000 +0800" stop="20251222063900 +0800">
+		<title lang="zh">第八集：湖南</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48362,6 +48374,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251222044800 +0800" stop="20251222055100 +0800">
 		<title lang="zh">林中女妖</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251222055100 +0800" stop="20251222062100 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -48410,6 +48425,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251222040900 +0800" stop="20251222054900 +0800">
 		<title lang="zh">2025-26赛季法甲联赛第9轮：布雷斯特VS巴黎圣日耳曼</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251222054900 +0800" stop="20251222065700 +0800">
+		<title lang="zh">2025-26赛季英超联赛第9轮：切尔西VS桑德兰</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -48470,6 +48488,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251222050800 +0800" stop="20251222055700 +0800">
 		<title lang="zh">女子次中量级统一战：娜塔莎b7乔娜斯VS劳伦b7普莱斯</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251222055700 +0800" stop="20251222062700 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
