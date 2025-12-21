@@ -60600,6 +60600,9 @@
 	<programme channel="newtv超级电视剧" start="20251221211800 +0800" stop="20251221220300 +0800">
 		<title lang="zh">23_天底良知</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20251221220300 +0800" stop="20251221224800 +0800">
+		<title lang="zh">04_画眉</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60807,6 +60810,9 @@
 	<programme channel="newtv精品纪录" start="20251221211500 +0800" stop="20251221220000 +0800">
 		<title lang="zh">13_参工传奇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251221220000 +0800" stop="20251221223000 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -60908,6 +60914,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251221212300 +0800" stop="20251221215300 +0800">
 		<title lang="zh">《A咖秀》推荐第13期</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251221215300 +0800" stop="20251221224500 +0800">
+		<title lang="zh">42_星汉灿烂b7月升沧海</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61113,6 +61122,9 @@
 	<programme channel="newtv家庭剧场" start="20251221211200 +0800" stop="20251221215800 +0800">
 		<title lang="zh">20_六姊妹</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20251221215800 +0800" stop="20251221222800 +0800">
+		<title lang="zh">《八段锦》推荐第45期</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -61292,6 +61304,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251221211200 +0800" stop="20251221215700 +0800">
 		<title lang="zh">37_扶摇</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251221215700 +0800" stop="20251221222700 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61692,6 +61707,9 @@
 	<programme channel="newtv军事评论" start="20251221213000 +0800" stop="20251221215500 +0800">
 		<title lang="zh">【防务新观察】美“金穹”计划瞄准太空</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251221215500 +0800" stop="20251221222200 +0800">
+		<title lang="zh">陆战之王黑科技</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61796,6 +61814,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251221212300 +0800" stop="20251221215300 +0800">
 		<title lang="zh">氨糖软骨素-健康生活</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251221215300 +0800" stop="20251221221400 +0800">
+		<title lang="zh">健身舞—我和我的祖国（20211007）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
