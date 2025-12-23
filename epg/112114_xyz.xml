@@ -18012,6 +18012,9 @@
 	<programme channel="咪咕综合体育" start="20251223213000 +0800" stop="20251223215500 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251223220000 +0800" stop="20251223234000 +0800">
+		<title lang="zh">网球世界-2025WTA华盛顿站决赛 费尔南德斯-卡琳斯卡娅</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -60831,6 +60834,9 @@
 	<programme channel="newtv古装剧场" start="20251223211100 +0800" stop="20251223220000 +0800">
 		<title lang="zh">51_星汉灿烂b7月升沧海</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251223220000 +0800" stop="20251223225300 +0800">
+		<title lang="zh">52_星汉灿烂b7月升沧海</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61614,6 +61620,9 @@
 	<programme channel="newtv军事评论" start="20251223212300 +0800" stop="20251223214800 +0800">
 		<title lang="zh">【防务新观察】特朗普呼吁俄乌立即停火 欧盟做与俄开战准备？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251223214800 +0800" stop="20251223221500 +0800">
+		<title lang="zh">揭秘“金穹”计划/六代机 未来“空战风暴”？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61824,6 +61833,9 @@
 	<programme channel="newtv精品综合" start="20251223210700 +0800" stop="20251223215600 +0800">
 		<title lang="zh">22_滤镜</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20251223215600 +0800" stop="20251223222600 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61889,6 +61901,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20251223202300 +0800" stop="20251223215100 +0800">
 		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20251223215100 +0800" stop="20251223222100 +0800">
+		<title lang="zh">《美丽俏佳人》推荐第二期</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
