@@ -52158,6 +52158,9 @@
 	<programme channel="newtv超级体育" start="20251224053000 +0800" stop="20251224060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 2</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251224060000 +0800" stop="20251224063000 +0800">
+		<title lang="zh">实况录像-2025年三人篮球世界杯 4</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -52260,6 +52263,9 @@
 	<programme channel="newtv精品纪录" start="20251224052900 +0800" stop="20251224055900 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251224055900 +0800" stop="20251224064200 +0800">
+		<title lang="zh">34_东方战场（TV版）</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -52289,6 +52295,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20251224051600 +0800" stop="20251224055900 +0800">
 		<title lang="zh">03_御赐小仵作</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20251224055900 +0800" stop="20251224062900 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -52479,6 +52488,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251224050600 +0800" stop="20251224054900 +0800">
 		<title lang="zh">23_岁岁青莲</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251224054900 +0800" stop="20251224061900 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -52538,6 +52550,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20251224053800 +0800" stop="20251224060000 +0800">
 		<title lang="zh">健身舞—天边（20210523）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20251224060000 +0800" stop="20251224062100 +0800">
+		<title lang="zh">健身舞—蝴蝶飞飞（20210601）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -52626,6 +52641,9 @@
 	<programme channel="newtv精品体育" start="20251224041300 +0800" stop="20251224055900 +0800">
 		<title lang="zh">2025-26赛季西甲联赛第7轮：马竞VS皇马</title>
 	</programme>
+	<programme channel="newtv精品体育" start="20251224055900 +0800" stop="20251224075200 +0800">
+		<title lang="zh">2025-26赛季英超联赛第6轮：水晶宫VS利物浦</title>
+	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
 	</channel>
@@ -52685,6 +52703,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251224045700 +0800" stop="20251224060000 +0800">
 		<title lang="zh">拳王争霸赛：卡特拉尔VS巴尔博萨</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251224060000 +0800" stop="20251224063000 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
