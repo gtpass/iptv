@@ -60327,6 +60327,9 @@
 	<programme channel="newtv爱情喜剧" start="20251223151600 +0800" stop="20251223160300 +0800">
 		<title lang="zh">09_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20251223160300 +0800" stop="20251223163300 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -60521,6 +60524,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251223154600 +0800" stop="20251223161600 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251223161600 +0800" stop="20251223170100 +0800">
+		<title lang="zh">28_蔷薇风暴</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
