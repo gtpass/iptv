@@ -68214,6 +68214,9 @@
 	<programme channel="纯享4K" start="20251224154300 +0800" stop="20251224161300 +0800">
 		<title lang="zh">好吃客4K 一桌好菜</title>
 	</programme>
+	<programme channel="纯享4K" start="20251224161300 +0800" stop="20251224164000 +0800">
+		<title lang="zh">记住乡愁4K第十季 椅圈——黑土地上的“当家果”</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -86523,6 +86526,9 @@
 	<programme channel="newtv潮妈辣婆" start="20251224141400 +0800" stop="20251224160200 +0800">
 		<title lang="zh">第2期下：超燃分组辩论赛 学霸高手过招</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251224160200 +0800" stop="20251224163200 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -86609,6 +86615,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251224154900 +0800" stop="20251224161600 +0800">
 		<title lang="zh">暗夜奇袭</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251224161600 +0800" stop="20251224164200 +0800">
+		<title lang="zh">为胜利铺路</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
