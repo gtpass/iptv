@@ -16743,6 +16743,9 @@
 	<programme channel="咪咕足球" start="20251225020000 +0800" stop="20251225021000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20251225021000 +0800" stop="20251225035000 +0800">
+		<title lang="zh">2025NBL联赛 常规赛第18轮 合肥狂风峻茂-江西鲸裕清酒</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -41658,6 +41661,108 @@
 	<programme channel="翡翠台" start="20251225050500 +0800" stop="20251225060000 +0800">
 		<title lang="zh">娛樂大家[粵]</title>
 	</programme>
+	<programme channel="翡翠台" start="20251225060000 +0800" stop="20251225074000 +0800">
+		<title lang="zh">香港早晨[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225074000 +0800" stop="20251225074500 +0800">
+		<title lang="zh">中信銀行(國際) 外匯交易平台呈獻：環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225074500 +0800" stop="20251225090000 +0800">
+		<title lang="zh">香港早晨[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225090000 +0800" stop="20251225095000 +0800">
+		<title lang="zh">屁屁偵探電影：梳乎厘島的秘密[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225095000 +0800" stop="20251225111000 +0800">
+		<title lang="zh">劇場版 角落小夥伴 藍色月夜的魔法之子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225111000 +0800" stop="20251225111500 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225111500 +0800" stop="20251225121500 +0800">
+		<title lang="zh">錦心似玉#13[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225121500 +0800" stop="20251225125000 +0800">
+		<title lang="zh">芬蘭潮什麼[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225125000 +0800" stop="20251225130000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225130000 +0800" stop="20251225132000 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225132000 +0800" stop="20251225141000 +0800">
+		<title lang="zh">流行都市[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225141000 +0800" stop="20251225144000 +0800">
+		<title lang="zh">長命不老[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225144000 +0800" stop="20251225145000 +0800">
+		<title lang="zh">宣傳易[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225145000 +0800" stop="20251225155000 +0800">
+		<title lang="zh">乘勝狙擊#23[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225155000 +0800" stop="20251225162000 +0800">
+		<title lang="zh">櫻桃小丸子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225162000 +0800" stop="20251225165000 +0800">
+		<title lang="zh">櫻桃小丸子[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225165000 +0800" stop="20251225172000 +0800">
+		<title lang="zh">Hands Up[粵] 及 成語動畫廊[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225172000 +0800" stop="20251225175000 +0800">
+		<title lang="zh">秘密的偶像公主[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225175000 +0800" stop="20251225180000 +0800">
+		<title lang="zh">Kiki &amp; Nuna 知識寶庫[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225180000 +0800" stop="20251225182500 +0800">
+		<title lang="zh">新聞掏寶[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225182500 +0800" stop="20251225183000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225183000 +0800" stop="20251225191500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225191500 +0800" stop="20251225192500 +0800">
+		<title lang="zh">世界觀[粵] 及 招商局集團特約：天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225192500 +0800" stop="20251225193000 +0800">
+		<title lang="zh">有理說得清[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225193000 +0800" stop="20251225200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225200000 +0800" stop="20251225203000 +0800">
+		<title lang="zh">黃道益活絡油呈獻：愛． 回家之開心速遞#2710[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225203000 +0800" stop="20251225213000 +0800">
+		<title lang="zh">Return 關節筋肌配方呈獻 :守誠者#8[粵][PG]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225213000 +0800" stop="20251225223000 +0800">
+		<title lang="zh">宿敵契約#4[粵/普]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225223000 +0800" stop="20251225230000 +0800">
+		<title lang="zh">MSIG iTravel Go 旅遊保險呈獻：塔斯曼尼亞潮什麼[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225230000 +0800" stop="20251225231500 +0800">
+		<title lang="zh">娛樂頭條[粵] 及 中信銀行(國際) 外匯交易平台呈獻：環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225231500 +0800" stop="20251225234500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225234500 +0800" stop="20251225235000 +0800">
+		<title lang="zh">新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225235000 +0800" stop="20251225235500 +0800">
+		<title lang="zh">招商局集團特約：天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20251225235500 +0800" stop="20251225235900 +0800">
+		<title lang="zh">名媛望族#9[粵]</title>
+	</programme>
 	<channel id="老故事">
 		<display-name lang="zh">老故事</display-name>
 	</channel>
@@ -52356,6 +52461,9 @@
 	<programme channel="newtv超级电影" start="20251225003200 +0800" stop="20251225021300 +0800">
 		<title lang="zh">煎饼侠</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20251225021300 +0800" stop="20251225034200 +0800">
+		<title lang="zh">我心雀跃</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -52367,6 +52475,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20251225013200 +0800" stop="20251225021800 +0800">
 		<title lang="zh">58_那年花开月正圆</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20251225021800 +0800" stop="20251225030300 +0800">
+		<title lang="zh">59_那年花开月正圆</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -52562,6 +52673,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20251225014400 +0800" stop="20251225021400 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20251225021400 +0800" stop="20251225025700 +0800">
+		<title lang="zh">30_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
