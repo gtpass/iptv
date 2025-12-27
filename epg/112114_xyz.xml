@@ -48879,6 +48879,9 @@
 	<programme channel="纯享4K" start="20251227210600 +0800" stop="20251227215600 +0800">
 		<title lang="zh">舌尖上的中国 第四季4K 第3集 焕发</title>
 	</programme>
+	<programme channel="纯享4K" start="20251227215600 +0800" stop="20251227224500 +0800">
+		<title lang="zh">大运河之歌4K 第2集 盛世气象</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -60420,6 +60423,9 @@
 	<programme channel="黑莓电影" start="20251227194200 +0800" stop="20251227215100 +0800">
 		<title lang="zh">蜘蛛侠：英雄远征</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251227215100 +0800" stop="20251227000400 +0800">
+		<title lang="zh">假面饭店</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -61569,6 +61575,9 @@
 	<programme channel="newtv精品纪录" start="20251227212800 +0800" stop="20251227215800 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251227215800 +0800" stop="20251227224400 +0800">
+		<title lang="zh">28_参工传奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61674,6 +61683,9 @@
 	<programme channel="newtv古装剧场" start="20251227211700 +0800" stop="20251227214700 +0800">
 		<title lang="zh">《A咖秀》推荐第16期</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251227214700 +0800" stop="20251227223200 +0800">
+		<title lang="zh">15_清平乐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -61778,6 +61790,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251227211400 +0800" stop="20251227220000 +0800">
 		<title lang="zh">02_皮b7影</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251227220000 +0800" stop="20251227224500 +0800">
+		<title lang="zh">03_皮b7影</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61989,6 +62004,9 @@
 	<programme channel="newtv热播精选" start="20251227211200 +0800" stop="20251227215700 +0800">
 		<title lang="zh">16_女特警</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251227215700 +0800" stop="20251227224300 +0800">
+		<title lang="zh">35_欢乐颂4</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -62081,6 +62099,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251227212500 +0800" stop="20251227215500 +0800">
 		<title lang="zh">《八段锦》推荐第46期</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251227215500 +0800" stop="20251227002300 +0800">
+		<title lang="zh">封神第一部：朝歌风云</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -62252,6 +62273,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20251227211700 +0800" stop="20251227215500 +0800">
 		<title lang="zh">四川蓉城vs江苏百事精英-第2局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20251227215500 +0800" stop="20251227222500 +0800">
+		<title lang="zh">《八段锦》推荐第46期</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -62489,6 +62513,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20251227213300 +0800" stop="20251227215900 +0800">
 		<title lang="zh">【防务新观察】连发三问！外交部驳斥高市早苗涉台错误言论</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20251227215900 +0800" stop="20251227222500 +0800">
+		<title lang="zh">扶摇“直”上</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -63032,6 +63059,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251227212100 +0800" stop="20251227215100 +0800">
 		<title lang="zh">《A咖秀》推荐第16期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251227215100 +0800" stop="20251227223600 +0800">
+		<title lang="zh">29_倚天屠龙记</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
