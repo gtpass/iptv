@@ -61248,6 +61248,9 @@
 	<programme channel="newtv精品纪录" start="20251227134100 +0800" stop="20251227141100 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251227141100 +0800" stop="20251227145600 +0800">
+		<title lang="zh">10_归队</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61524,6 +61527,9 @@
 	<programme channel="newtv热播精选" start="20251227134200 +0800" stop="20251227141200 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20251227141200 +0800" stop="20251227145600 +0800">
+		<title lang="zh">22_旗袍美探</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -61583,6 +61589,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251227133800 +0800" stop="20251227140800 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251227140800 +0800" stop="20251227145500 +0800">
+		<title lang="zh">29_玫瑰的故事</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -61920,6 +61929,9 @@
 	<programme channel="newtv炫舞未来" start="20251227135000 +0800" stop="20251227141200 +0800">
 		<title lang="zh">健身舞—天南地北唱中华（20210212）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251227141200 +0800" stop="20251227143300 +0800">
+		<title lang="zh">健身舞—心上的罗加（20210131）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -61979,6 +61991,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251227133700 +0800" stop="20251227140700 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251227140700 +0800" stop="20251227142200 +0800">
+		<title lang="zh">58_喜羊羊与灰太狼之发明大作战</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -62117,6 +62132,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20251227130600 +0800" stop="20251227140900 +0800">
 		<title lang="zh">2025WTT中国大满贯女单1/4决赛：孙颖莎VS王艺迪</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20251227140900 +0800" stop="20251227161900 +0800">
+		<title lang="zh">CBA季后赛4月13日：辽宁VS新疆</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
