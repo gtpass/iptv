@@ -14421,6 +14421,9 @@
 	<programme channel="咪咕综合体育" start="20251229031500 +0800" stop="20251229060000 +0800">
 		<title lang="zh">足球世界-25/26赛季意甲 第17轮 亚特兰大-国际米兰 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20251229060000 +0800" stop="20251229061000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -38667,6 +38670,9 @@
 	<programme channel="纯享4K" start="20251229050800 +0800" stop="20251229055700 +0800">
 		<title lang="zh">舌尖上的中国 第四季4K 第5集 风物</title>
 	</programme>
+	<programme channel="纯享4K" start="20251229055700 +0800" stop="20251229064600 +0800">
+		<title lang="zh">大运河之歌4K 第4集 奔流南北</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -47832,6 +47838,9 @@
 	<programme channel="newtv超级体育" start="20251229053000 +0800" stop="20251229060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 1</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20251229060000 +0800" stop="20251229063000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季雪车世界杯 挪威利勒哈默尔站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -47846,6 +47855,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20251229051900 +0800" stop="20251229055700 +0800">
 		<title lang="zh">我和我的父辈-少年行</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20251229055700 +0800" stop="20251229071500 +0800">
+		<title lang="zh">开国大典(上)</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -47931,6 +47943,9 @@
 	<programme channel="newtv精品纪录" start="20251229051200 +0800" stop="20251229055700 +0800">
 		<title lang="zh">06_功勋</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20251229055700 +0800" stop="20251229062700 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -47987,6 +48002,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20251229051500 +0800" stop="20251229055700 +0800">
 		<title lang="zh">36_北国英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20251229055700 +0800" stop="20251229062700 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -48065,6 +48083,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20251229051400 +0800" stop="20251229060100 +0800">
 		<title lang="zh">27_三十而已</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20251229060100 +0800" stop="20251229063100 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -48183,6 +48204,9 @@
 	<programme channel="newtv军事评论" start="20251229050300 +0800" stop="20251229055000 +0800">
 		<title lang="zh">烽火传奇 第2集 烈火永生</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20251229055000 +0800" stop="20251229064200 +0800">
+		<title lang="zh">王建华：从炊事员到金牌大厨</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -48210,6 +48234,9 @@
 	<programme channel="newtv炫舞未来" start="20251229052800 +0800" stop="20251229055000 +0800">
 		<title lang="zh">健身舞—天边（20210523）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251229055000 +0800" stop="20251229061100 +0800">
+		<title lang="zh">健身舞—蝴蝶飞飞（20210601）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -48236,6 +48263,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251229053700 +0800" stop="20251229055000 +0800">
 		<title lang="zh">105_赛尔号合集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251229055000 +0800" stop="20251229060300 +0800">
+		<title lang="zh">106_赛尔号合集</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
