@@ -58062,6 +58062,9 @@
 	<programme channel="黑莓动画" start="20251230092400 +0800" stop="20251230110700 +0800">
 		<title lang="zh">爱探险的朵拉：消失的黄金城</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251230110700 +0800" stop="20251230122900 +0800">
+		<title lang="zh">邋遢大王奇遇记电影版</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -59082,6 +59085,9 @@
 	<programme channel="newtv古装剧场" start="20251230104000 +0800" stop="20251230111000 +0800">
 		<title lang="zh">健康推荐3</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20251230111000 +0800" stop="20251230115400 +0800">
+		<title lang="zh">40_榜上佳婿</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -59571,6 +59577,9 @@
 	<programme channel="newtv炫舞未来" start="20251230095500 +0800" stop="20251230111200 +0800">
 		<title lang="zh">杨雪把“花儿”挂在嘴边 从“土地里长出来的声音”成为她一生的事业（20251222）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20251230111200 +0800" stop="20251230114200 +0800">
+		<title lang="zh">健康生活-鱼油</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -59828,6 +59837,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251230102800 +0800" stop="20251230111400 +0800">
 		<title lang="zh">42_大秦帝国之裂变</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251230111400 +0800" stop="20251230114400 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
