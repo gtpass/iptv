@@ -44046,6 +44046,9 @@
 	<programme channel="明星大片" start="20251231152000 +0800" stop="20251231160500 +0800">
 		<title lang="zh">20_四喜</title>
 	</programme>
+	<programme channel="明星大片" start="20251231160500 +0800" stop="20251231163500 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -68496,6 +68499,9 @@
 	<programme channel="纯享4K" start="20251231155700 +0800" stop="20251231160700 +0800">
 		<title lang="zh">秘境之眼4K 阿里秘境</title>
 	</programme>
+	<programme channel="纯享4K" start="20251231160700 +0800" stop="20251231163500 +0800">
+		<title lang="zh">记住乡愁——门楣之上4K 容城杨氏——丹心照万古</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85053,6 +85059,9 @@
 	<programme channel="黑莓动画" start="20251231143200 +0800" stop="20251231161400 +0800">
 		<title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251231161400 +0800" stop="20251231174900 +0800">
+		<title lang="zh">火影忍者疾风传剧场版：火之意志的继承者</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -86667,6 +86676,9 @@
 	<programme channel="newtv动作电影" start="20251231144700 +0800" stop="20251231161400 +0800">
 		<title lang="zh">红番区</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20251231161400 +0800" stop="20251231164400 +0800">
+		<title lang="zh">健康推荐3</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -86816,6 +86828,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20251231144900 +0800" stop="20251231161500 +0800">
 		<title lang="zh">第5期中：逆袭？0分兄弟绝地反击</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20251231161500 +0800" stop="20251231164500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -87086,6 +87101,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20251231152000 +0800" stop="20251231160500 +0800">
 		<title lang="zh">20_四喜</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20251231160500 +0800" stop="20251231163500 +0800">
+		<title lang="zh">健康推荐3</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -87359,6 +87377,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20251231154600 +0800" stop="20251231161600 +0800">
 		<title lang="zh">健康推荐3</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20251231161600 +0800" stop="20251231170000 +0800">
+		<title lang="zh">06_三国机密之潜龙在渊</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
