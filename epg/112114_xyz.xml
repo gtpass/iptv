@@ -16989,6 +16989,9 @@
 	<programme channel="咪咕综合体育" start="20260101130500 +0800" stop="20260101140500 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单半决赛 孙颖莎-陈幸同</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260101141000 +0800" stop="20260101150500 +0800">
+		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单决赛 孙颖莎-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17030,6 +17033,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260101135000 +0800" stop="20260101141000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260101141000 +0800" stop="20260101142000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -45405,6 +45411,9 @@
 	<programme channel="纯享4K" start="20260101133700 +0800" stop="20260101140600 +0800">
 		<title lang="zh">好吃客4K 锡林郭勒</title>
 	</programme>
+	<programme channel="纯享4K" start="20260101140600 +0800" stop="20260101145600 +0800">
+		<title lang="zh">世界遗产漫步4K 第3集 杭州</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -55983,6 +55992,9 @@
 	<programme channel="newtv古装剧场" start="20260101133000 +0800" stop="20260101140500 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260101140500 +0800" stop="20260101145100 +0800">
+		<title lang="zh">13_折腰</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -56412,6 +56424,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260101132400 +0800" stop="20260101141400 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260101141400 +0800" stop="20260101150100 +0800">
+		<title lang="zh">17_三生三世枕上书</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -56576,6 +56591,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260101134900 +0800" stop="20260101140300 +0800">
 		<title lang="zh">广场舞《我的蒙古马》-乌兰图雅、王广成</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260101141500 +0800" stop="20260101142100 +0800">
+		<title lang="zh">广场舞《我的心里只有你没有他》-乌兰图雅、王广成</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
