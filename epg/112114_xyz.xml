@@ -27325,6 +27325,9 @@
 	<programme channel="咪咕足球" start="20260102152000 +0800" stop="20260102162000 +0800">
 		<title lang="zh">全运时刻-第十五届全运会 三人篮球小组赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260102162000 +0800" stop="20260102162500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60466,6 +60469,9 @@
 	<programme channel="爱情喜剧" start="20260102152000 +0800" stop="20260102160600 +0800">
 		<title lang="zh">18_幸福来敲门</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20260102160600 +0800" stop="20260102164100 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -82408,6 +82414,9 @@
 	<programme channel="黑莓电影" start="20260102140100 +0800" stop="20260102160200 +0800">
 		<title lang="zh">逆行人生</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260102160200 +0800" stop="20260102172900 +0800">
+		<title lang="zh">陈真之拳镇山河</title>
+	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
 	</channel>
@@ -83557,6 +83566,9 @@
 	<programme channel="newtv精品纪录" start="20260102153000 +0800" stop="20260102161400 +0800">
 		<title lang="zh">05_铁血淞沪</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260102161400 +0800" stop="20260102170400 +0800">
+		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -83625,6 +83637,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260102151600 +0800" stop="20260102160200 +0800">
 		<title lang="zh">10_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260102160200 +0800" stop="20260102164700 +0800">
+		<title lang="zh">11_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -83901,6 +83916,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260102152000 +0800" stop="20260102160600 +0800">
 		<title lang="zh">18_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260102160600 +0800" stop="20260102164100 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84180,6 +84198,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260102154100 +0800" stop="20260102160700 +0800">
 		<title lang="zh">角度与力量</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260102160700 +0800" stop="20260102163400 +0800">
+		<title lang="zh">无人装备总动员</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
