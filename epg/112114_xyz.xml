@@ -43153,6 +43153,9 @@
 	<programme channel="明星大片" start="20260102194100 +0800" stop="20260102202500 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="明星大片" start="20260102202500 +0800" stop="20260102210400 +0800">
+		<title lang="zh">19_春色寄情人</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -60757,6 +60760,9 @@
 	<programme channel="爱情喜剧" start="20260102193000 +0800" stop="20260102202100 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20260102202100 +0800" stop="20260102210600 +0800">
+		<title lang="zh">13_空姐日记</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -71574,6 +71580,9 @@
 	</programme>
 	<programme channel="超级电影" start="20260102192500 +0800" stop="20260102203200 +0800">
 		<title lang="zh">电影《特种兵归来3：绝密战场》</title>
+	</programme>
+	<programme channel="超级电影" start="20260102203200 +0800" stop="20260102222400 +0800">
+		<title lang="zh">电影《长安伏妖》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -83581,6 +83590,9 @@
 	<programme channel="newtv超级电影" start="20260102192500 +0800" stop="20260102203200 +0800">
 		<title lang="zh">电影《特种兵归来3：绝密战场》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260102203200 +0800" stop="20260102222400 +0800">
+		<title lang="zh">电影《长安伏妖》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -83757,6 +83769,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260102193100 +0800" stop="20260102202100 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260102202100 +0800" stop="20260102210700 +0800">
+		<title lang="zh">14_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -84025,6 +84040,9 @@
 	<programme channel="newtv军旅剧场" start="20260102194400 +0800" stop="20260102202900 +0800">
 		<title lang="zh">24_尖锋之烈焰青春</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260102202900 +0800" stop="20260102211500 +0800">
+		<title lang="zh">25_尖锋之烈焰青春</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -84279,6 +84297,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260102193000 +0800" stop="20260102202100 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260102202100 +0800" stop="20260102210600 +0800">
+		<title lang="zh">13_空姐日记</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -84640,6 +84661,9 @@
 	<programme channel="newtv军事评论" start="20260102195700 +0800" stop="20260102202000 +0800">
 		<title lang="zh">“蓝色突击-2025”深化互信 务实合作</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260102202000 +0800" stop="20260102204300 +0800">
+		<title lang="zh">进逼慑封毁瘫锁控 详解“锁岛”联演装备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -84849,6 +84873,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260102194100 +0800" stop="20260102202500 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260102202500 +0800" stop="20260102210400 +0800">
+		<title lang="zh">19_春色寄情人</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
