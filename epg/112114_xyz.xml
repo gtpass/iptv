@@ -60759,6 +60759,9 @@
 	<programme channel="newtv超级电视剧" start="20260104193700 +0800" stop="20260104202200 +0800">
 		<title lang="zh">06_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260104202200 +0800" stop="20260104210800 +0800">
+		<title lang="zh">07_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -60936,6 +60939,9 @@
 	<programme channel="newtv精品纪录" start="20260104193700 +0800" stop="20260104202100 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260104202100 +0800" stop="20260104210700 +0800">
+		<title lang="zh">28_东江英雄刘黑仔</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -61022,6 +61028,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260104194500 +0800" stop="20260104202500 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260104202500 +0800" stop="20260104211100 +0800">
+		<title lang="zh">45_清平乐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -61112,6 +61121,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260104194200 +0800" stop="20260104202200 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260104202200 +0800" stop="20260104210700 +0800">
+		<title lang="zh">31_尖锋之烈焰青春</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -61431,6 +61443,9 @@
 	<programme channel="newtv动作电影" start="20260104185000 +0800" stop="20260104202300 +0800">
 		<title lang="zh">卧虎悍将</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260104202300 +0800" stop="20260104210700 +0800">
+		<title lang="zh">伏湿丸</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -61523,6 +61538,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260104195700 +0800" stop="20260104201700 +0800">
 		<title lang="zh">安徽星尘vs广东瑜满珠江-第7局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260104201700 +0800" stop="20260104210300 +0800">
+		<title lang="zh">浙江杭州汉资vs江西滕王阁-第1局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -61731,6 +61749,9 @@
 	<programme channel="newtv军事评论" start="20260104195600 +0800" stop="20260104201800 +0800">
 		<title lang="zh">以伊冲突升级 中东“火药桶”会否炸响</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260104201800 +0800" stop="20260104204100 +0800">
+		<title lang="zh">回望十年阅兵足迹 强军征程再续华章</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -61853,6 +61874,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260104190300 +0800" stop="20260104202000 +0800">
 		<title lang="zh">张晓宇、常磊磊晋级星光大道年度十强，平凡岗位也能走出星光万丈（20251122）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260104202000 +0800" stop="20260104205000 +0800">
+		<title lang="zh">健康生活-氨糖</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -62090,6 +62114,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260104193900 +0800" stop="20260104202900 +0800">
 		<title lang="zh">人民国肽健行固力维骨肌修复肽</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260104202900 +0800" stop="20260104211500 +0800">
+		<title lang="zh">04_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
