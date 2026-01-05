@@ -79246,6 +79246,9 @@
 	<programme channel="newtv超级电视剧" start="20260105194800 +0800" stop="20260105203400 +0800">
 		<title lang="zh">10_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260105203400 +0800" stop="20260105211900 +0800">
+		<title lang="zh">11_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79332,6 +79335,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260105194600 +0800" stop="20260105202600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260105202600 +0800" stop="20260105211200 +0800">
+		<title lang="zh">22_清平乐[DVD版]</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79683,6 +79689,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260105193700 +0800" stop="20260105202300 +0800">
 		<title lang="zh">33_四喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260105202300 +0800" stop="20260105210700 +0800">
+		<title lang="zh">伏湿丸</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80221,6 +80230,9 @@
 	<programme channel="newtv军事评论" start="20260105200800 +0800" stop="20260105203000 +0800">
 		<title lang="zh">拿破仑战争的终结b7滑铁卢之战（上）</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260105203000 +0800" stop="20260105205200 +0800">
+		<title lang="zh">拿破仑战争的终结b7滑铁卢之战（下）</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80316,6 +80328,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260105200000 +0800" stop="20260105203000 +0800">
 		<title lang="zh">健康生活——氨糖</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260105203000 +0800" stop="20260105214700 +0800">
+		<title lang="zh">新晋红娘周小鹏来啦！移民管理警察希望找到理解自己工作特殊性的对象（20250114）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
