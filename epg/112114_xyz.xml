@@ -79165,6 +79165,9 @@
 	<programme channel="newtv超级电视剧" start="20260105152300 +0800" stop="20260105160900 +0800">
 		<title lang="zh">06_承欢记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260105160900 +0800" stop="20260105165300 +0800">
+		<title lang="zh">03_亲爱的爸妈</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79233,6 +79236,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260105152100 +0800" stop="20260105160600 +0800">
 		<title lang="zh">06_长歌行</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260105160600 +0800" stop="20260105164100 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -79444,6 +79450,9 @@
 	<programme channel="newtv军旅剧场" start="20260105151700 +0800" stop="20260105160200 +0800">
 		<title lang="zh">03_梅花红桃</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260105160200 +0800" stop="20260105164300 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -79512,6 +79521,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260105151700 +0800" stop="20260105160300 +0800">
 		<title lang="zh">09_非常有喜</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260105160300 +0800" stop="20260105163800 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80211,6 +80223,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260105151700 +0800" stop="20260105160700 +0800">
 		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260105160700 +0800" stop="20260105165300 +0800">
+		<title lang="zh">21_勇敢的心2</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
