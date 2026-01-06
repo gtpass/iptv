@@ -17931,6 +17931,9 @@
 	<programme channel="咪咕足球" start="20260106152000 +0800" stop="20260106162000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260106162000 +0800" stop="20260106162500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -60312,6 +60315,9 @@
 	<programme channel="newtv军旅剧场" start="20260106151800 +0800" stop="20260106160400 +0800">
 		<title lang="zh">06_梅花红桃</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260106160400 +0800" stop="20260106164400 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -60566,6 +60572,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260106144500 +0800" stop="20260106161600 +0800">
 		<title lang="zh">公证人之深度危机</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260106161600 +0800" stop="20260106170600 +0800">
+		<title lang="zh">博可麦记麦绿素片特供组新-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -60909,6 +60918,9 @@
 	<programme channel="newtv炫舞未来" start="20260106154700 +0800" stop="20260106160200 +0800">
 		<title lang="zh">广场舞《蒙古之花》-乌兰图雅、王广成</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260106160200 +0800" stop="20260106162900 +0800">
+		<title lang="zh">“全国消防日”三集系列策划 田间险情（20241107）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60981,6 +60993,9 @@
 	<programme channel="newtv精品综合" start="20260106152900 +0800" stop="20260106161300 +0800">
 		<title lang="zh">29_四喜</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260106161300 +0800" stop="20260106164800 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -61028,6 +61043,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260106152700 +0800" stop="20260106161500 +0800">
 		<title lang="zh">美国DoctorAchraf鲨鱼油神经酸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260106161500 +0800" stop="20260106173500 +0800">
+		<title lang="zh">女特警之暗战</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -61235,6 +61253,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260106152900 +0800" stop="20260106161500 +0800">
 		<title lang="zh">25_三国机密之潜龙在渊</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260106161500 +0800" stop="20260106165000 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
