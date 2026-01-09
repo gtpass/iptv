@@ -39226,6 +39226,9 @@
 	<programme channel="明星大片" start="20260109193300 +0800" stop="20260109201700 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="明星大片" start="20260109201700 +0800" stop="20260109210500 +0800">
+		<title lang="zh">15_余生有涯</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -62389,6 +62392,9 @@
 	<programme channel="纯享4K" start="20260109193900 +0800" stop="20260109202100 +0800">
 		<title lang="zh">远方的家4K 我家那片海 阳光海南 椰风海韵</title>
 	</programme>
+	<programme channel="纯享4K" start="20260109202100 +0800" stop="20260109210200 +0800">
+		<title lang="zh">远方的家4K 我家那片海 寻味山海间</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -79189,6 +79195,9 @@
 	<programme channel="newtv超级电视剧" start="20260109194000 +0800" stop="20260109202500 +0800">
 		<title lang="zh">24_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260109202500 +0800" stop="20260109211100 +0800">
+		<title lang="zh">25_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79366,6 +79375,9 @@
 	<programme channel="newtv精品纪录" start="20260109194000 +0800" stop="20260109202400 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260109202400 +0800" stop="20260109210900 +0800">
+		<title lang="zh">04_断箭</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -79539,6 +79551,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260109194200 +0800" stop="20260109202700 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260109202700 +0800" stop="20260109211200 +0800">
+		<title lang="zh">34_皮b7影</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -80263,6 +80278,9 @@
 	<programme channel="newtv炫舞未来" start="20260109200100 +0800" stop="20260109203100 +0800">
 		<title lang="zh">健康生活-鱼油</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260109203100 +0800" stop="20260109214800 +0800">
+		<title lang="zh">北方男孩林子钦希望找到一个兴趣相投的女孩 两位女嘉宾‌各有千秋（20250218）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80349,6 +80367,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260109193300 +0800" stop="20260109201700 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260109201700 +0800" stop="20260109210500 +0800">
+		<title lang="zh">15_余生有涯</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -80496,6 +80517,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260109193900 +0800" stop="20260109202300 +0800">
 		<title lang="zh">伏湿丸</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260109202300 +0800" stop="20260109210800 +0800">
+		<title lang="zh">28_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
