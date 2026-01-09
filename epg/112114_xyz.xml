@@ -39657,6 +39657,9 @@
 	<programme channel="黑莓动画" start="20260110043300 +0800" stop="20260110055500 +0800">
 		<title lang="zh">黑猫警长之翡翠之星</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260110055500 +0800" stop="20260110073400 +0800">
+		<title lang="zh">蜡笔小新：新婚旅行飓风之遗失的野原广志</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -40419,6 +40422,9 @@
 	<programme channel="newtv超级电视剧" start="20260110051200 +0800" stop="20260110055800 +0800">
 		<title lang="zh">40_那座城这家人（DVD版）</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260110055800 +0800" stop="20260110064300 +0800">
+		<title lang="zh">41_那座城这家人（DVD版）</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -40497,6 +40503,9 @@
 	<programme channel="newtv古装剧场" start="20260110045900 +0800" stop="20260110054700 +0800">
 		<title lang="zh">41_有翡</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260110054700 +0800" stop="20260110062200 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -40551,6 +40560,9 @@
 	<programme channel="newtv家庭剧场" start="20260110051400 +0800" stop="20260110054900 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260110054900 +0800" stop="20260110063500 +0800">
+		<title lang="zh">04_承欢记</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -40601,6 +40613,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260110050200 +0800" stop="20260110054700 +0800">
 		<title lang="zh">35_你比星光美丽</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260110054700 +0800" stop="20260110062200 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -40674,6 +40689,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260110050900 +0800" stop="20260110055500 +0800">
 		<title lang="zh">56_大秦赋</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260110055500 +0800" stop="20260110063000 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -40737,6 +40755,9 @@
 	<programme channel="newtv炫舞未来" start="20260110054500 +0800" stop="20260110054900 +0800">
 		<title lang="zh">广场舞金曲《火辣辣的情歌》 演唱：乌兰图雅</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260110060000 +0800" stop="20260110061900 +0800">
+		<title lang="zh">第6集：噩梦惊醒15年</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -40757,6 +40778,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260110051200 +0800" stop="20260110055600 +0800">
 		<title lang="zh">地道英雄 第4集</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260110055600 +0800" stop="20260110063100 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
