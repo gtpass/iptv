@@ -24658,6 +24658,9 @@
 	<programme channel="咪咕综合体育" start="20260109130500 +0800" stop="20260109140500 +0800">
 		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单半决赛 孙颖莎-陈幸同</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260109141000 +0800" stop="20260109150500 +0800">
+		<title lang="zh">国球荣耀-2025WTT中国大满贯 女单决赛 孙颖莎-王曼昱</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -24720,6 +24723,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260109135000 +0800" stop="20260109141000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260109141500 +0800" stop="20260109142500 +0800">
+		<title lang="zh">绝对独家对话赵嘉义</title>
 	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
@@ -78763,6 +78769,9 @@
 	<programme channel="newtv精品大剧" start="20260109132900 +0800" stop="20260109141400 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260109141400 +0800" stop="20260109150000 +0800">
+		<title lang="zh">18_长歌行</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78885,6 +78894,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260109133100 +0800" stop="20260109140600 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260109140600 +0800" stop="20260109145500 +0800">
+		<title lang="zh">08_流水迢迢</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -79068,6 +79080,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260109132400 +0800" stop="20260109140400 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260109140400 +0800" stop="20260109144700 +0800">
+		<title lang="zh">03_空姐日记</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -79293,6 +79308,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260109133200 +0800" stop="20260109140700 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260109140700 +0800" stop="20260109145900 +0800">
+		<title lang="zh">第8期中：绑架案来袭！实习生开启搜证模式</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -79725,6 +79743,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260109123000 +0800" stop="20260109140600 +0800">
 		<title lang="zh">六扇门之铁牢</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260109140600 +0800" stop="20260109144600 +0800">
+		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
