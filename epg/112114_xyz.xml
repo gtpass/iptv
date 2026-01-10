@@ -38778,6 +38778,9 @@
 	<programme channel="纯享4K" start="20260110193800 +0800" stop="20260110202000 +0800">
 		<title lang="zh">远方的家4K 我家那片海 大海上的科技之光</title>
 	</programme>
+	<programme channel="纯享4K" start="20260110202000 +0800" stop="20260110210200 +0800">
+		<title lang="zh">远方的家4K 我家那片海 辽阔海洋 物产丰饶</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48810,6 +48813,9 @@
 	<programme channel="newtv超级电视剧" start="20260110193900 +0800" stop="20260110202400 +0800">
 		<title lang="zh">27_珠江人家</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260110202400 +0800" stop="20260110211000 +0800">
+		<title lang="zh">28_珠江人家</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -48896,6 +48902,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260110194000 +0800" stop="20260110202500 +0800">
 		<title lang="zh">33_清平乐[DVD版]</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260110202500 +0800" stop="20260110210800 +0800">
+		<title lang="zh">05_无尽的尽头</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -48986,6 +48995,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260110193800 +0800" stop="20260110202300 +0800">
 		<title lang="zh">07_断箭</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260110202300 +0800" stop="20260110210900 +0800">
+		<title lang="zh">08_断箭</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -49776,6 +49788,9 @@
 	<programme channel="newtv军事评论" start="20260110200200 +0800" stop="20260110202800 +0800">
 		<title lang="zh">【防务新观察】以媒公布停火协议文本 美国将派遣士兵至以色列</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260110202800 +0800" stop="20260110205300 +0800">
+		<title lang="zh">【防务新观察】日本在先岛群岛进行布雷和扫雷演习</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49884,6 +49899,9 @@
 	<programme channel="newtv炫舞未来" start="20260110200000 +0800" stop="20260110203000 +0800">
 		<title lang="zh">健康生活-鱼油</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260110203000 +0800" stop="20260110214700 +0800">
+		<title lang="zh">权威AI大数据与资深红娘智慧交融 两组“红娘”各展所长 双重推荐（20250304）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -49970,6 +49988,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260110194800 +0800" stop="20260110202800 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260110202800 +0800" stop="20260110211300 +0800">
+		<title lang="zh">18_余生有涯</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -50129,6 +50150,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260110194100 +0800" stop="20260110202200 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260110202200 +0800" stop="20260110210700 +0800">
+		<title lang="zh">32_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
