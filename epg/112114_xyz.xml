@@ -49167,6 +49167,9 @@
 	<programme channel="newtv精品纪录" start="20260111193800 +0800" stop="20260111202200 +0800">
 		<title lang="zh">伏湿丸</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260111202200 +0800" stop="20260111210700 +0800">
+		<title lang="zh">13_断箭</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49749,6 +49752,9 @@
 	<programme channel="newtv怡伴健康" start="20260111194000 +0800" stop="20260111202000 +0800">
 		<title lang="zh">广东瑜满珠江vs浙江杭州汉资-第5局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260111202000 +0800" stop="20260111210000 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -49946,6 +49952,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260111195900 +0800" stop="20260111202500 +0800">
 		<title lang="zh">【防务新观察】以色列无人机袭击加沙城东部</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260111202500 +0800" stop="20260111205000 +0800">
+		<title lang="zh">【防务新观察】美乌领导人会晤欲挥动“战斧”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50145,6 +50154,9 @@
 	<programme channel="newtv精品综合" start="20260111194500 +0800" stop="20260111202600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260111202600 +0800" stop="20260111210500 +0800">
+		<title lang="zh">02_只是结婚的关系</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -50204,6 +50216,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260111194600 +0800" stop="20260111202600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260111202600 +0800" stop="20260111214000 +0800">
+		<title lang="zh">异形寄生：起源</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -50300,6 +50315,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260111194600 +0800" stop="20260111203200 +0800">
 		<title lang="zh">36_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260111203200 +0800" stop="20260111211700 +0800">
+		<title lang="zh">37_无间</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
