@@ -67372,6 +67372,9 @@
 	<programme channel="超级电影" start="20260114192100 +0800" stop="20260114203200 +0800">
 		<title lang="zh">极速风云</title>
 	</programme>
+	<programme channel="超级电影" start="20260114203200 +0800" stop="20260114214400 +0800">
+		<title lang="zh">特警使命：狙击风暴</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79261,6 +79264,9 @@
 	<programme channel="newtv超级电影" start="20260114192100 +0800" stop="20260114203200 +0800">
 		<title lang="zh">极速风云</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260114203200 +0800" stop="20260114214400 +0800">
+		<title lang="zh">特警使命：狙击风暴</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -79344,6 +79350,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260114194700 +0800" stop="20260114202400 +0800">
 		<title lang="zh">06_台湾往事</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260114202400 +0800" stop="20260114210100 +0800">
+		<title lang="zh">07_台湾往事</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
