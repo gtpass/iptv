@@ -13026,6 +13026,9 @@
 	<programme channel="咪咕足球" start="20260115035000 +0800" stop="20260115040000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260115040000 +0800" stop="20260115050000 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -32022,6 +32025,9 @@
 	<programme channel="纯享4K" start="20260115033400 +0800" stop="20260115034900 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 版画b7七个奔跑的人</title>
 	</programme>
+	<programme channel="纯享4K" start="20260115035400 +0800" stop="20260115043500 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 运河诗情 筑梦常州</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -40821,6 +40827,9 @@
 	<programme channel="newtv超级体育" start="20260115023600 +0800" stop="20260115040000 +0800">
 		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 第8轮</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260115040000 +0800" stop="20260115053000 +0800">
+		<title lang="zh">国际足球赛场-25-26赛季英超联赛第17轮 曼城-西汉姆联(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -40853,6 +40862,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260115034800 +0800" stop="20260115035200 +0800">
 		<title lang="zh">星推荐</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260115035200 +0800" stop="20260115043400 +0800">
+		<title lang="zh">14_热血青春</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -41142,6 +41154,9 @@
 	<programme channel="newtv金牌综艺" start="20260115031100 +0800" stop="20260115035700 +0800">
 		<title lang="zh">29_画眉</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260115035700 +0800" stop="20260115044200 +0800">
+		<title lang="zh">30_画眉</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -41150,6 +41165,9 @@
 	</programme>
 	<programme channel="newtv精品体育" start="20260115021800 +0800" stop="20260115035200 +0800">
 		<title lang="zh">2025-26赛季英超联赛第5轮：布赖顿VS热刺</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260115035200 +0800" stop="20260115053200 +0800">
+		<title lang="zh">2025-26赛季西甲联赛第5轮：皇家马德里VS西班牙人</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
