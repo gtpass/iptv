@@ -50061,6 +50061,9 @@
 	<programme channel="newtv古装剧场" start="20260115193800 +0800" stop="20260115202200 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260115202200 +0800" stop="20260115210800 +0800">
+		<title lang="zh">13_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -50564,6 +50567,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260115194500 +0800" stop="20260115202700 +0800">
 		<title lang="zh">浙江杭州汉资vs天津狼图腾-第5局</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260115202700 +0800" stop="20260115210500 +0800">
+		<title lang="zh">浙江杭州汉资vs天津狼图腾-第6局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -51275,6 +51281,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260115194600 +0800" stop="20260115203100 +0800">
 		<title lang="zh">01_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260115203100 +0800" stop="20260115211100 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
