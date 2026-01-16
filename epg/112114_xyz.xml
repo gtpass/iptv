@@ -14646,6 +14646,9 @@
 	<programme channel="咪咕综合体育" start="20260116140500 +0800" stop="20260116141000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260116141000 +0800" stop="20260116144500 +0800">
+		<title lang="zh">中国力量2-汪顺特辑（上）-与萌趣童心的真挚对话</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14705,6 +14708,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260116135000 +0800" stop="20260116141000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260116141500 +0800" stop="20260116142500 +0800">
+		<title lang="zh">我在现场中国赛特辑不甘平凡</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -49890,6 +49896,9 @@
 	<programme channel="newtv超级电影" start="20260116130100 +0800" stop="20260116141400 +0800">
 		<title lang="zh">日落七次</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260116141400 +0800" stop="20260116161200 +0800">
+		<title lang="zh">破冰船</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50379,6 +50388,9 @@
 	<programme channel="newtv爱情喜剧" start="20260116132500 +0800" stop="20260116141100 +0800">
 		<title lang="zh">35_我爱男保姆</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260116141100 +0800" stop="20260116144600 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -50423,6 +50435,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260116132800 +0800" stop="20260116140800 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260116140800 +0800" stop="20260116151800 +0800">
+		<title lang="zh">重装战警</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50781,6 +50796,9 @@
 	<programme channel="newtv精品综合" start="20260116134000 +0800" stop="20260116140400 +0800">
 		<title lang="zh">38_樱桃小丸子 第二季普通话版</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260116140400 +0800" stop="20260116145000 +0800">
+		<title lang="zh">12_外乡人</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -51014,6 +51032,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260116132500 +0800" stop="20260116141000 +0800">
 		<title lang="zh">01_大武当</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260116141000 +0800" stop="20260116144500 +0800">
+		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
