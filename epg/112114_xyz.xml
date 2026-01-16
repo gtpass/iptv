@@ -49932,6 +49932,9 @@
 	<programme channel="newtv超级电影" start="20260116141400 +0800" stop="20260116161200 +0800">
 		<title lang="zh">破冰船</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260116161200 +0800" stop="20260116174900 +0800">
+		<title lang="zh">荒野逃生</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -51062,6 +51065,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260116152900 +0800" stop="20260116161500 +0800">
 		<title lang="zh">10_潜行者</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260116161500 +0800" stop="20260116164900 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
