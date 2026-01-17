@@ -39444,6 +39444,9 @@
 	<programme channel="纯享4K" start="20260117101600 +0800" stop="20260117105600 +0800">
 		<title lang="zh">探索b7发现4K 发现明中都（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20260117105600 +0800" stop="20260117113600 +0800">
+		<title lang="zh">探索b7发现4K 发现明中都（下）</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49551,6 +49554,9 @@
 	<programme channel="newtv超级电影" start="20260117094700 +0800" stop="20260117111600 +0800">
 		<title lang="zh">珍宝大战</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260117111600 +0800" stop="20260117123400 +0800">
+		<title lang="zh">幽灵毒枭</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -49598,6 +49604,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260117103100 +0800" stop="20260117111600 +0800">
 		<title lang="zh">46_天龙八部</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260117111600 +0800" stop="20260117120200 +0800">
+		<title lang="zh">47_天龙八部</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49647,6 +49656,9 @@
 	<programme channel="newtv精品大剧" start="20260117102400 +0800" stop="20260117110400 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260117110400 +0800" stop="20260117114900 +0800">
+		<title lang="zh">28_绽放的许开心</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49695,6 +49707,9 @@
 	<programme channel="newtv精品纪录" start="20260117102400 +0800" stop="20260117110700 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260117110700 +0800" stop="20260117115300 +0800">
+		<title lang="zh">15_武工队传奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49742,6 +49757,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260117103700 +0800" stop="20260117111200 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260117111200 +0800" stop="20260117120400 +0800">
+		<title lang="zh">38_流水迢迢</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49884,6 +49902,9 @@
 	<programme channel="newtv热播精选" start="20260117100500 +0800" stop="20260117105000 +0800">
 		<title lang="zh">04_拯救大明星（普通话版）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260117105000 +0800" stop="20260117113300 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49925,6 +49946,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260117102300 +0800" stop="20260117110900 +0800">
 		<title lang="zh">02_幸福来敲门</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260117110900 +0800" stop="20260117114400 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -50018,6 +50042,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260117102600 +0800" stop="20260117111100 +0800">
 		<title lang="zh">32_紫檀王</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260117111100 +0800" stop="20260117114000 +0800">
+		<title lang="zh">土家1号骨康膜</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50130,6 +50157,9 @@
 	<programme channel="newtv军事评论" start="20260117103600 +0800" stop="20260117110200 +0800">
 		<title lang="zh">春天里 当兵去 第3集</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260117110200 +0800" stop="20260117112700 +0800">
+		<title lang="zh">春天里 当兵去 第4集</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50193,6 +50223,9 @@
 	<programme channel="newtv炫舞未来" start="20260117103100 +0800" stop="20260117105700 +0800">
 		<title lang="zh">寻踪夜行人（20240226）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260117105700 +0800" stop="20260117112400 +0800">
+		<title lang="zh">力破连环盗（20240227）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50234,6 +50267,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260117101800 +0800" stop="20260117105300 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260117105300 +0800" stop="20260117123000 +0800">
+		<title lang="zh">灵犬雪莉：冒险再出发</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -50336,6 +50372,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260117102900 +0800" stop="20260117110900 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260117110900 +0800" stop="20260117115400 +0800">
+		<title lang="zh">11_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
