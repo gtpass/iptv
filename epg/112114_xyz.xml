@@ -49788,6 +49788,9 @@
 	<programme channel="newtv古装剧场" start="20260117111200 +0800" stop="20260117120400 +0800">
 		<title lang="zh">38_流水迢迢</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260117120400 +0800" stop="20260117123900 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -49839,6 +49842,9 @@
 	<programme channel="newtv军旅剧场" start="20260117112200 +0800" stop="20260117120400 +0800">
 		<title lang="zh">02_跨过鸭绿江</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260117120400 +0800" stop="20260117124700 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49889,6 +49895,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260117112200 +0800" stop="20260117120700 +0800">
 		<title lang="zh">27_承欢记</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260117120700 +0800" stop="20260117125100 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50024,6 +50033,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260117103900 +0800" stop="20260117121200 +0800">
 		<title lang="zh">扑朔迷离</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260117121200 +0800" stop="20260117124700 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50366,6 +50378,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260117112300 +0800" stop="20260117120300 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260117120300 +0800" stop="20260117132300 +0800">
+		<title lang="zh">蛇王2021</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
