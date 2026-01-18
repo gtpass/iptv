@@ -49986,6 +49986,9 @@
 	<programme channel="newtv精品纪录" start="20260118211300 +0800" stop="20260118215600 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260118215600 +0800" stop="20260118223800 +0800">
+		<title lang="zh">16_跨过鸭绿江</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -50181,6 +50184,9 @@
 	<programme channel="newtv军旅剧场" start="20260118211400 +0800" stop="20260118215400 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260118215400 +0800" stop="20260118223900 +0800">
+		<title lang="zh">17_决胜</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50276,6 +50282,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260118210900 +0800" stop="20260118215100 +0800">
 		<title lang="zh">01_亲爱的爸妈</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260118215100 +0800" stop="20260118223600 +0800">
+		<title lang="zh">02_亲爱的爸妈</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -50714,6 +50723,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260118210800 +0800" stop="20260118214800 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260118214800 +0800" stop="20260118223800 +0800">
+		<title lang="zh">57_爱的阶梯</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
