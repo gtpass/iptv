@@ -14250,6 +14250,9 @@
 	<programme channel="咪咕综合体育" start="20260118090500 +0800" stop="20260118094000 +0800">
 		<title lang="zh">中国力量2-汪顺特辑（上）-与萌趣童心的真挚对话</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260118094000 +0800" stop="20260118100000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -14294,6 +14297,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260118091000 +0800" stop="20260118093000 +0800">
 		<title lang="zh">数聚赛场</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260118093000 +0800" stop="20260118094500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260118094500 +0800" stop="20260118112500 +0800">
+		<title lang="zh">2025NBL联赛 常规赛第3轮 江西鲸裕清酒-长沙电信勇胜</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -39474,6 +39483,9 @@
 	<programme channel="纯享4K" start="20260118085600 +0800" stop="20260118092400 +0800">
 		<title lang="zh">记住乡愁——门楣之上4K 兰溪诸葛氏——淡泊以明志 宁静以致远</title>
 	</programme>
+	<programme channel="纯享4K" start="20260118092400 +0800" stop="20260118095400 +0800">
+		<title lang="zh">味道4K 原味乡间b7盐边篇 上</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -49524,6 +49536,9 @@
 	<programme channel="newtv精品大剧" start="20260118083400 +0800" stop="20260118091900 +0800">
 		<title lang="zh">01_淬火丹心</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260118091900 +0800" stop="20260118095400 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49565,6 +49580,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260118083800 +0800" stop="20260118091800 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260118091800 +0800" stop="20260118100500 +0800">
+		<title lang="zh">19_武工队传奇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -49608,6 +49626,9 @@
 	<programme channel="newtv古装剧场" start="20260118084100 +0800" stop="20260118092100 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260118092100 +0800" stop="20260118100100 +0800">
+		<title lang="zh">01_芬芳喜事</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -49649,6 +49670,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260118085100 +0800" stop="20260118092600 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260118092600 +0800" stop="20260118100800 +0800">
+		<title lang="zh">05_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49734,6 +49758,9 @@
 	<programme channel="newtv热播精选" start="20260118084200 +0800" stop="20260118092300 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260118092300 +0800" stop="20260118100800 +0800">
+		<title lang="zh">08_拯救大明星（普通话版）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -49800,6 +49827,9 @@
 	<programme channel="newtv动作电影" start="20260118085100 +0800" stop="20260118093100 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260118093100 +0800" stop="20260118105900 +0800">
+		<title lang="zh">死亡斗士</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -49848,6 +49878,9 @@
 	<programme channel="newtv怡伴健康" start="20260118085000 +0800" stop="20260118093500 +0800">
 		<title lang="zh">33_紫檀王</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260118093500 +0800" stop="20260118100400 +0800">
+		<title lang="zh">土家1号祛痛贴</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -49889,6 +49922,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260118084700 +0800" stop="20260118093200 +0800">
 		<title lang="zh">11_亲爱的，你在哪里</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260118093200 +0800" stop="20260118101600 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -49941,6 +49977,9 @@
 	<programme channel="newtv军事评论" start="20260118091500 +0800" stop="20260118093900 +0800">
 		<title lang="zh">加速向深蓝  舰魂铸就</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260118093900 +0800" stop="20260118100400 +0800">
+		<title lang="zh">加速向深蓝  逐梦海关</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49986,6 +50025,9 @@
 	<programme channel="newtv炫舞未来" start="20260118091100 +0800" stop="20260118093300 +0800">
 		<title lang="zh">髋关节灵活性训练（20250923）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260118093300 +0800" stop="20260118095400 +0800">
+		<title lang="zh">臀+腿下肢训练（20250930）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -50028,6 +50070,9 @@
 	<programme channel="newtv精品综合" start="20260118084400 +0800" stop="20260118092800 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260118092800 +0800" stop="20260118100900 +0800">
+		<title lang="zh">08_芬芳喜事</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -50054,6 +50099,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260118075900 +0800" stop="20260118092100 +0800">
 		<title lang="zh">兴安岭猎人传说</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260118092100 +0800" stop="20260118095600 +0800">
+		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
