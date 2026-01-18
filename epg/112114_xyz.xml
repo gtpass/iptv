@@ -39612,6 +39612,9 @@
 	<programme channel="纯享4K" start="20260118194200 +0800" stop="20260118202400 +0800">
 		<title lang="zh">远方的家4K 运河畔的山水家园 太湖明珠古韵长</title>
 	</programme>
+	<programme channel="纯享4K" start="20260118202400 +0800" stop="20260118210600 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 流淌的运河记忆</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48921,6 +48924,9 @@
 	<programme channel="黑莓电影" start="20260118181500 +0800" stop="20260118202100 +0800">
 		<title lang="zh">大红包2：龙凤呈祥</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260118202100 +0800" stop="20260118220600 +0800">
+		<title lang="zh">夏洛特烦恼</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -50118,6 +50124,9 @@
 	<programme channel="newtv军旅剧场" start="20260118194500 +0800" stop="20260118202900 +0800">
 		<title lang="zh">15_决胜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260118202900 +0800" stop="20260118211400 +0800">
+		<title lang="zh">16_决胜</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -50439,6 +50448,9 @@
 	<programme channel="newtv动作电影" start="20260118195100 +0800" stop="20260118202600 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260118202600 +0800" stop="20260118213400 +0800">
+		<title lang="zh">使命营救</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50616,6 +50628,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260118194600 +0800" stop="20260118202600 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260118202600 +0800" stop="20260118210800 +0800">
+		<title lang="zh">56_爱的阶梯</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -50742,6 +50757,9 @@
 	<programme channel="newtv军事评论" start="20260118200400 +0800" stop="20260118202900 +0800">
 		<title lang="zh">【防务新观察】以军在约旦河西岸展开“大规模行动”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260118202900 +0800" stop="20260118205500 +0800">
+		<title lang="zh">【防务新观察】日本在西南诸岛加强军力部署</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -50843,6 +50861,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260118195900 +0800" stop="20260118202900 +0800">
 		<title lang="zh">健康生活-氨糖</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260118202900 +0800" stop="20260118213500 +0800">
+		<title lang="zh">决定相伴一生的伴侣，要/不要一起打上永远爱对方的“思想钢印”（20250706）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -50993,6 +51014,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260118194600 +0800" stop="20260118202600 +0800">
 		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260118202600 +0800" stop="20260118221100 +0800">
+		<title lang="zh">追凶十九年</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
