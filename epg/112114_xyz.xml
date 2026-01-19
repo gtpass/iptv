@@ -12528,6 +12528,9 @@
 	<programme channel="咪咕综合体育" start="20260119120500 +0800" stop="20260119123000 +0800">
 		<title lang="zh">睛彩b7体坛深瞳第十三期</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260119123000 +0800" stop="20260119124500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -44160,6 +44163,9 @@
 	<programme channel="newtv超级综艺" start="20260119105000 +0800" stop="20260119123000 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260119123000 +0800" stop="20260119142300 +0800">
+		<title lang="zh">启航2026——中央广播电视总台跨年晚会（1）</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -44193,6 +44199,9 @@
 	<programme channel="newtv超级体育" start="20260119120000 +0800" stop="20260119123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260119123500 +0800" stop="20260119125000 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -44222,6 +44231,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260119111100 +0800" stop="20260119123300 +0800">
 		<title lang="zh">分水岭</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260119123300 +0800" stop="20260119135900 +0800">
+		<title lang="zh">少年当自强</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
