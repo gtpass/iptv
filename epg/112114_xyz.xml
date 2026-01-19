@@ -12612,6 +12612,9 @@
 	<programme channel="咪咕足球" start="20260119152000 +0800" stop="20260119162000 +0800">
 		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260119162000 +0800" stop="20260119162500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -44661,6 +44664,9 @@
 	<programme channel="newtv军旅剧场" start="20260119152300 +0800" stop="20260119160900 +0800">
 		<title lang="zh">刀光枪影第14集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260119160900 +0800" stop="20260119164400 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -44729,6 +44735,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260119152800 +0800" stop="20260119161500 +0800">
 		<title lang="zh">09_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260119161500 +0800" stop="20260119165000 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -44988,6 +44997,9 @@
 	<programme channel="newtv怡伴健康" start="20260119140900 +0800" stop="20260119161000 +0800">
 		<title lang="zh">京剧《碧波仙子》</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260119161000 +0800" stop="20260119165100 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -45059,6 +45071,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260119153800 +0800" stop="20260119161300 +0800">
 		<title lang="zh">BURRSAIL荣耀真钻机械腕表尊享组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260119161300 +0800" stop="20260119183600 +0800">
+		<title lang="zh">第3期上：徐志胜自封“脱口秀绝美” 鲁豫吐槽童漠男</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -45368,6 +45383,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260119153800 +0800" stop="20260119161300 +0800">
 		<title lang="zh">杨洪昌白花蛇颈腰椎膏-渠道（右）</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260119161300 +0800" stop="20260119174300 +0800">
+		<title lang="zh">袁天罡之不死军团</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
