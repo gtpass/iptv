@@ -48081,6 +48081,9 @@
 	<programme channel="黑莓动画" start="20260120092100 +0800" stop="20260120122900 +0800">
 		<title lang="zh">01_剑来</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260120122900 +0800" stop="20260120125900 +0800">
+		<title lang="zh">01_三跨天山</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -48870,6 +48873,9 @@
 	<programme channel="newtv超级体育" start="20260120120000 +0800" stop="20260120123500 +0800">
 		<title lang="zh">体坛快讯</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260120123500 +0800" stop="20260120125000 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -48956,6 +48962,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260120113200 +0800" stop="20260120121700 +0800">
 		<title lang="zh">09_烟火人家</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260120121700 +0800" stop="20260120130300 +0800">
+		<title lang="zh">10_烟火人家</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -49121,6 +49130,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260120114200 +0800" stop="20260120121700 +0800">
 		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260120121700 +0800" stop="20260120125800 +0800">
+		<title lang="zh">11_芬芳喜事</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49434,6 +49446,9 @@
 	<programme channel="newtv怡伴健康" start="20260120113800 +0800" stop="20260120121900 +0800">
 		<title lang="zh">生活圈</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260120121900 +0800" stop="20260120125400 +0800">
+		<title lang="zh">巴康洋双面黑金石墨烯保暖被-渠道（右）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -49487,6 +49502,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260120114700 +0800" stop="20260120123000 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉升级组</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260120123000 +0800" stop="20260120131600 +0800">
+		<title lang="zh">01_梦中的那片海</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -49772,6 +49790,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260120114100 +0800" stop="20260120122100 +0800">
 		<title lang="zh">礼贡堂二十一味全鹿丸-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260120122100 +0800" stop="20260120130700 +0800">
+		<title lang="zh">26_潜行者</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
