@@ -49485,6 +49485,9 @@
 	<programme channel="newtv军旅剧场" start="20260120212900 +0800" stop="20260120221300 +0800">
 		<title lang="zh">23_决胜</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260120221300 +0800" stop="20260120225400 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -49770,6 +49773,9 @@
 	<programme channel="newtv爱情喜剧" start="20260120212400 +0800" stop="20260120221200 +0800">
 		<title lang="zh">37_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260120221200 +0800" stop="20260120225200 +0800">
+		<title lang="zh">益健堂半导体激光表</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -49931,6 +49937,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260120212700 +0800" stop="20260120220100 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260120220100 +0800" stop="20260120224400 +0800">
+		<title lang="zh">湖南名将vs江西赣然无惧-第2局</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -50717,6 +50726,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260120212100 +0800" stop="20260120220700 +0800">
 		<title lang="zh">17_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260120220700 +0800" stop="20260120224200 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
