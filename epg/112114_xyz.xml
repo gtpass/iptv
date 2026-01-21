@@ -39618,6 +39618,9 @@
 	<programme channel="明星大片" start="20260121194500 +0800" stop="20260121202000 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
+	<programme channel="明星大片" start="20260121202000 +0800" stop="20260121205700 +0800">
+		<title lang="zh">05_陪你逐风飞翔</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -67320,6 +67323,9 @@
 	<programme channel="超级电影" start="20260121190300 +0800" stop="20260121202500 +0800">
 		<title lang="zh">无人机</title>
 	</programme>
+	<programme channel="超级电影" start="20260121202500 +0800" stop="20260121212800 +0800">
+		<title lang="zh">特勤精英之逃出生天</title>
+	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
 	</channel>
@@ -79287,6 +79293,9 @@
 	<programme channel="newtv超级综艺" start="20260121191400 +0800" stop="20260121203100 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260121203100 +0800" stop="20260121232300 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -79388,6 +79397,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260121190300 +0800" stop="20260121202500 +0800">
 		<title lang="zh">无人机</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260121202500 +0800" stop="20260121212800 +0800">
+		<title lang="zh">特勤精英之逃出生天</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -79652,6 +79664,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260121194200 +0800" stop="20260121202400 +0800">
 		<title lang="zh">29_跨过鸭绿江</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260121202400 +0800" stop="20260121210500 +0800">
+		<title lang="zh">30_跨过鸭绿江</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -79925,6 +79940,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260121194600 +0800" stop="20260121202500 +0800">
 		<title lang="zh">25_闪耀的她</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260121202500 +0800" stop="20260121210300 +0800">
+		<title lang="zh">26_闪耀的她</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80244,6 +80262,9 @@
 	<programme channel="newtv怡伴健康" start="20260121193800 +0800" stop="20260121201700 +0800">
 		<title lang="zh">湖南名将vs江西赣然无惧-第4局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260121201700 +0800" stop="20260121204500 +0800">
+		<title lang="zh">土家1号骨康膜</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80327,6 +80348,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260121195100 +0800" stop="20260121202600 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260121202600 +0800" stop="20260121210700 +0800">
+		<title lang="zh">69_爱的阶梯</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -80559,6 +80583,9 @@
 	<programme channel="newtv炫舞未来" start="20260121200100 +0800" stop="20260121203100 +0800">
 		<title lang="zh">健康生活-氨糖</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260121203100 +0800" stop="20260121215000 +0800">
+		<title lang="zh">第2期上：影帝影后飙戏！演员面试爆笑整活</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -80636,6 +80663,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260121194500 +0800" stop="20260121202000 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260121202000 +0800" stop="20260121205700 +0800">
+		<title lang="zh">05_陪你逐风飞翔</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
