@@ -25143,6 +25143,9 @@
 	<programme channel="咪咕足球" start="20260121220500 +0800" stop="20260121221500 +0800">
 		<title lang="zh">掘金之路</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260121221500 +0800" stop="20260121222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -39641,6 +39644,9 @@
 	</programme>
 	<programme channel="明星大片" start="20260121213200 +0800" stop="20260121220900 +0800">
 		<title lang="zh">06_陪你逐风飞翔</title>
+	</programme>
+	<programme channel="明星大片" start="20260121220900 +0800" stop="20260121224400 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -79539,6 +79545,9 @@
 	<programme channel="newtv超级电视剧" start="20260121212700 +0800" stop="20260121220800 +0800">
 		<title lang="zh">32_台湾往事</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260121220800 +0800" stop="20260121225300 +0800">
+		<title lang="zh">31_新边城浪子</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -79634,6 +79643,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260121212200 +0800" stop="20260121220700 +0800">
 		<title lang="zh">06_大浦东</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260121220700 +0800" stop="20260121224200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -80376,6 +80388,9 @@
 	<programme channel="newtv怡伴健康" start="20260121212700 +0800" stop="20260121220200 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260121220200 +0800" stop="20260121224600 +0800">
+		<title lang="zh">湖南名将vs江西赣然无惧-第6局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -80607,6 +80622,9 @@
 	<programme channel="newtv军事评论" start="20260121214700 +0800" stop="20260121220900 +0800">
 		<title lang="zh">谁是军营厨王（2）11</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260121220900 +0800" stop="20260121223100 +0800">
+		<title lang="zh">谁是军营厨王（2）12</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -80804,6 +80822,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260121213200 +0800" stop="20260121220900 +0800">
 		<title lang="zh">06_陪你逐风飞翔</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260121220900 +0800" stop="20260121224400 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -81164,6 +81185,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260121212800 +0800" stop="20260121221400 +0800">
 		<title lang="zh">20_庆余年</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260121221400 +0800" stop="20260121224300 +0800">
+		<title lang="zh">土家1号祛痛贴</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
