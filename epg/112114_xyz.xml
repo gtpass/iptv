@@ -14769,6 +14769,9 @@
 	<programme channel="咪咕足球" start="20260122211500 +0800" stop="20260122221500 +0800">
 		<title lang="zh">最后之舞07</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260122221500 +0800" stop="20260122222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -50132,6 +50135,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260122212600 +0800" stop="20260122220900 +0800">
 		<title lang="zh">30_决胜</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260122220900 +0800" stop="20260122224400 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
