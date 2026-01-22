@@ -39765,6 +39765,9 @@
 	<programme channel="纯享4K" start="20260122113600 +0800" stop="20260122121700 +0800">
 		<title lang="zh">远方的家4K 甘肃敦煌西湖国家级自然保护区 戈壁“主人”——野性的回归</title>
 	</programme>
+	<programme channel="纯享4K" start="20260122121700 +0800" stop="20260122125800 +0800">
+		<title lang="zh">远方的家4K 黑龙江朗乡国家级自然保护区 探秘山林之王的回归之地</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48681,6 +48684,9 @@
 	<programme channel="黑莓电影" start="20260122104500 +0800" stop="20260122122000 +0800">
 		<title lang="zh">打过长江去</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260122122000 +0800" stop="20260122135300 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -49401,6 +49407,9 @@
 	<programme channel="newtv超级综艺" start="20260122112200 +0800" stop="20260122122300 +0800">
 		<title lang="zh">雏凤新声 总台首届少儿戏曲大会</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260122122300 +0800" stop="20260122134000 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49436,6 +49445,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260122120000 +0800" stop="20260122123500 +0800">
 		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260122123500 +0800" stop="20260122125000 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49578,6 +49590,9 @@
 	<programme channel="newtv精品大剧" start="20260122114700 +0800" stop="20260122122200 +0800">
 		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260122122200 +0800" stop="20260122130700 +0800">
+		<title lang="zh">08_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -49632,6 +49647,9 @@
 	<programme channel="newtv精品纪录" start="20260122115600 +0800" stop="20260122122500 +0800">
 		<title lang="zh">土家1号骨康膜</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260122122500 +0800" stop="20260122131000 +0800">
+		<title lang="zh">07_猎狼刀</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49685,6 +49703,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260122115300 +0800" stop="20260122123000 +0800">
 		<title lang="zh">康企治疗仪</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260122123000 +0800" stop="20260122131100 +0800">
+		<title lang="zh">19_芬芳喜事</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -49902,6 +49923,9 @@
 	<programme channel="newtv爱情喜剧" start="20260122114500 +0800" stop="20260122123100 +0800">
 		<title lang="zh">23_幸福来敲门</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260122123100 +0800" stop="20260122130600 +0800">
+		<title lang="zh">泰国Napattiga人参健发养护洗发水-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -49940,6 +49964,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260122114700 +0800" stop="20260122122200 +0800">
 		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260122122200 +0800" stop="20260122140100 +0800">
+		<title lang="zh">危险境地</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -50351,6 +50378,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260122113400 +0800" stop="20260122121900 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260122121900 +0800" stop="20260122130500 +0800">
+		<title lang="zh">34_衡山医院</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
