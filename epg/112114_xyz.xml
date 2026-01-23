@@ -57513,6 +57513,9 @@
 	<programme channel="爱情喜剧" start="20260123151700 +0800" stop="20260123160200 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20260123160200 +0800" stop="20260123171100 +0800">
+		<title lang="zh">春子超常现象研究所</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -63155,6 +63158,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20260123151500 +0800" stop="20260123160400 +0800">
 		<title lang="zh">大敦煌4K 第1集 何以敦煌</title>
+	</programme>
+	<programme channel="纯享4K" start="20260123160400 +0800" stop="20260123163200 +0800">
+		<title lang="zh">记住乡愁——门楣之上4K 长泰戴氏——姜桂世家 公平处世</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -80322,6 +80328,9 @@
 	<programme channel="newtv精品大剧" start="20260123153000 +0800" stop="20260123161500 +0800">
 		<title lang="zh">13_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260123161500 +0800" stop="20260123165000 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -80538,6 +80547,9 @@
 	<programme channel="newtv军旅剧场" start="20260123152000 +0800" stop="20260123160600 +0800">
 		<title lang="zh">刀光枪影第27集</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260123160600 +0800" stop="20260123163500 +0800">
+		<title lang="zh">土家1号祛痛贴</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -80609,6 +80621,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260123152700 +0800" stop="20260123161300 +0800">
 		<title lang="zh">22_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260123161300 +0800" stop="20260123164800 +0800">
+		<title lang="zh">美国云杉新一代肾康动力黄金肽（跨境）-渠道（右）</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -80682,6 +80697,9 @@
 	<programme channel="newtv热播精选" start="20260123152300 +0800" stop="20260123160700 +0800">
 		<title lang="zh">02_扫黑风暴</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260123160700 +0800" stop="20260123165100 +0800">
+		<title lang="zh">03_扫黑风暴</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -80741,6 +80759,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260123151700 +0800" stop="20260123160200 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260123160200 +0800" stop="20260123171100 +0800">
+		<title lang="zh">春子超常现象研究所</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -80864,6 +80885,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260123143900 +0800" stop="20260123160600 +0800">
 		<title lang="zh">京剧《牛皋招亲》</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260123160600 +0800" stop="20260123165100 +0800">
+		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -81443,6 +81467,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260123152200 +0800" stop="20260123160800 +0800">
 		<title lang="zh">05_欢乐英雄之少侠外传</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260123160800 +0800" stop="20260123164300 +0800">
+		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
