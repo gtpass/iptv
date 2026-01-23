@@ -39369,6 +39369,9 @@
 	<programme channel="纯享4K" start="20260123114200 +0800" stop="20260123122300 +0800">
 		<title lang="zh">远方的家4K 吉林大安嫩江湾国家湿地公园 干旱之地的北方泽国</title>
 	</programme>
+	<programme channel="纯享4K" start="20260123122300 +0800" stop="20260123130500 +0800">
+		<title lang="zh">远方的家4K 运河畔的山水家园 运河之畔 老街古镇</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -48780,6 +48783,9 @@
 	<programme channel="newtv超级综艺" start="20260123111200 +0800" stop="20260123122900 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260123122900 +0800" stop="20260123134600 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -48815,6 +48821,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260123120000 +0800" stop="20260123123500 +0800">
 		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260123123500 +0800" stop="20260123125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -49011,6 +49020,9 @@
 	<programme channel="newtv精品纪录" start="20260123115300 +0800" stop="20260123122200 +0800">
 		<title lang="zh">土家1号骨康膜</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260123122200 +0800" stop="20260123130700 +0800">
+		<title lang="zh">12_猎狼刀</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -49121,6 +49133,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260123114300 +0800" stop="20260123122800 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260123122800 +0800" stop="20260123131400 +0800">
+		<title lang="zh">刀光枪影第25集</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -49509,6 +49524,9 @@
 	<programme channel="newtv军事评论" start="20260123120300 +0800" stop="20260123122800 +0800">
 		<title lang="zh">【海峡两岸】日本自卫队试射导弹 胆敢叫板解放军？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260123122800 +0800" stop="20260123125300 +0800">
+		<title lang="zh">【海峡两岸】台军增派战机导弹 屯兵东部意欲何为？</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -49623,6 +49641,9 @@
 	<programme channel="newtv精品综合" start="20260123110300 +0800" stop="20260123122700 +0800">
 		<title lang="zh">伊克巴尔之超级芯片</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260123122700 +0800" stop="20260123130400 +0800">
+		<title lang="zh">康企治疗仪</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -49721,6 +49742,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260123114300 +0800" stop="20260123122800 +0800">
 		<title lang="zh">东贡堂蜂王浆冻干粉片升级庆生组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260123122800 +0800" stop="20260123131200 +0800">
+		<title lang="zh">05_血刃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
