@@ -14190,6 +14190,9 @@
 	<programme channel="咪咕足球" start="20260124135000 +0800" stop="20260124141000 +0800">
 		<title lang="zh">数聚赛场</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260124142000 +0800" stop="20260124142500 +0800">
+		<title lang="zh">睛彩AI速报</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -49407,6 +49410,9 @@
 	<programme channel="newtv超级综艺" start="20260124125700 +0800" stop="20260124141400 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260124141400 +0800" stop="20260124154900 +0800">
+		<title lang="zh">星光大道</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -49664,6 +49670,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260124132300 +0800" stop="20260124140800 +0800">
 		<title lang="zh">17_猎狼刀</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260124141200 +0800" stop="20260124144200 +0800">
+		<title lang="zh">土家1号祛痛贴</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -50016,6 +50025,9 @@
 	<programme channel="newtv动作电影" start="20260124125100 +0800" stop="20260124141600 +0800">
 		<title lang="zh">黑色特警</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260124141600 +0800" stop="20260124145900 +0800">
+		<title lang="zh">康企治疗仪</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -50222,6 +50234,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260124134300 +0800" stop="20260124140800 +0800">
 		<title lang="zh">【海峡两岸】蔡英文和陈水扁 联手对赖清德开战</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260124140800 +0800" stop="20260124143400 +0800">
+		<title lang="zh">【海峡两岸】日本继续胡搅蛮缠 文攻武备挑衅台海</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -50495,6 +50510,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260124140400 +0800" stop="20260124141000 +0800">
 		<title lang="zh">变通健康推荐1</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260124141000 +0800" stop="20260124145500 +0800">
+		<title lang="zh">10_血刃</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
