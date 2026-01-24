@@ -50220,6 +50220,9 @@
 	<programme channel="newtv金牌综艺" start="20260124103600 +0800" stop="20260124111100 +0800">
 		<title lang="zh">BC99太空航天活性益生菌粉-渠道（右）</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260124111100 +0800" stop="20260124111700 +0800">
+		<title lang="zh">变通健康推荐1</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
