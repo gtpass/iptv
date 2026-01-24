@@ -28263,6 +28263,9 @@
 	<programme channel="纯享4K" start="20260125052300 +0800" stop="20260125055300 +0800">
 		<title lang="zh">信仰的感召4K 青年良师 萧楚女</title>
 	</programme>
+	<programme channel="纯享4K" start="20260125055300 +0800" stop="20260125063800 +0800">
+		<title lang="zh">梧桐树下老房子4K 第2集 商贸百年</title>
+	</programme>
 	<channel id="经济科教">
 		<display-name lang="zh">经济科教</display-name>
 	</channel>
@@ -35766,6 +35769,9 @@
 	<programme channel="newtv超级体育" start="20260125053000 +0800" stop="20260125060000 +0800">
 		<title lang="zh">实况录像-2025年射箭世界杯 西班牙站 4</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260125060000 +0800" stop="20260125063000 +0800">
+		<title lang="zh">2025/2026赛季雪车世界杯 拉脱维亚锡古尔达站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -35997,6 +36003,9 @@
 	<programme channel="newtv爱情喜剧" start="20260125050900 +0800" stop="20260125055700 +0800">
 		<title lang="zh">26_大奉打更人</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260125055700 +0800" stop="20260125063200 +0800">
+		<title lang="zh">少林筋骨消痛保健膏家庭装-渠道（右）</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -36102,6 +36111,9 @@
 	<programme channel="newtv军事评论" start="20260125050700 +0800" stop="20260125055100 +0800">
 		<title lang="zh">战歌嘹亮  胜利凯歌</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260125055100 +0800" stop="20260125064500 +0800">
+		<title lang="zh">纪念中国人民志愿军抗美援朝出国作战75周年特别节目</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -36128,6 +36140,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260125053900 +0800" stop="20260125060100 +0800">
 		<title lang="zh">健身舞《小城谣》（20240129）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260125060100 +0800" stop="20260125062000 +0800">
+		<title lang="zh">第8集：铁道平房散发怪味！守房人无辜惨死</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
