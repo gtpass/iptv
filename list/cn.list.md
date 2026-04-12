@@ -245,4 +245,4 @@
 | 239 | [VGA]韶关新闻综合[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/fd1a5e6f38b13368edaaf3ac50d2ac7f2ed6f51a394164bebd1e97e0973f30fb.m3u8> |
 | 240 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.ctv> |
 
-Updated at **Sun Apr 12 2026 20:31:42 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sun Apr 12 2026 20:41:39 GMT+0000 (Coordinated Universal Time)**
