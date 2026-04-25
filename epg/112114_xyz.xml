@@ -21627,28 +21627,28 @@
 	<programme channel="海南文旅" start="20260425060000 +0800" stop="20260425071000 +0800">
 		<title lang="zh">午夜特别编排</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425071000 +0800" stop="20260425092500 +0800">
+	<programme channel="海南文旅" start="20260425071000 +0800" stop="20260425092000 +0800">
 		<title lang="zh">呀喏哒嘀</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425092500 +0800" stop="20260425113000 +0800">
+	<programme channel="海南文旅" start="20260425092000 +0800" stop="20260425113000 +0800">
 		<title lang="zh">三亚亚沙会</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425113000 +0800" stop="20260425135500 +0800">
+	<programme channel="海南文旅" start="20260425113000 +0800" stop="20260425134800 +0800">
 		<title lang="zh">呀喏哒嘀</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425135500 +0800" stop="20260425193000 +0800">
+	<programme channel="海南文旅" start="20260425134800 +0800" stop="20260425185300 +0800">
 		<title lang="zh">三亚亚沙会</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425193000 +0800" stop="20260425195300 +0800">
+	<programme channel="海南文旅" start="20260425185300 +0800" stop="20260425200000 +0800">
+		<title lang="zh">三亚亚沙会</title>
+	</programme>
+	<programme channel="海南文旅" start="20260425200000 +0800" stop="20260425203000 +0800">
 		<title lang="zh">食尚海南</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425195300 +0800" stop="20260425205000 +0800">
-		<title lang="zh">三亚亚沙会</title>
-	</programme>
-	<programme channel="海南文旅" start="20260425205000 +0800" stop="20260425211000 +0800">
+	<programme channel="海南文旅" start="20260425203000 +0800" stop="20260425205000 +0800">
 		<title lang="zh">亚沙零距离</title>
 	</programme>
-	<programme channel="海南文旅" start="20260425211000 +0800" stop="20260425235000 +0800">
+	<programme channel="海南文旅" start="20260425205000 +0800" stop="20260425235000 +0800">
 		<title lang="zh">呀喏哒嘀</title>
 	</programme>
 	<programme channel="海南文旅" start="20260425235000 +0800" stop="20260425235900 +0800">
@@ -30210,6 +30210,9 @@
 	<programme channel="newtv超级体育" start="20260425170000 +0800" stop="20260425183000 +0800">
 		<title lang="zh">2025/2026赛季世界斯诺克锦标赛-1/8决赛3</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260425183000 +0800" stop="20260425190000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -30245,6 +30248,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260425163800 +0800" stop="20260425183300 +0800">
 		<title lang="zh">侵占</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260425183300 +0800" stop="20260425193800 +0800">
+		<title lang="zh">罗布泊之九龙天棺</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -30398,6 +30404,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260425173700 +0800" stop="20260425182300 +0800">
 		<title lang="zh">18_好事成双</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260425182300 +0800" stop="20260425190800 +0800">
+		<title lang="zh">21_梅花红桃</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -30629,6 +30638,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260425174100 +0800" stop="20260425182200 +0800">
 		<title lang="zh">15_海天雄鹰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260425182200 +0800" stop="20260425190400 +0800">
+		<title lang="zh">16_海天雄鹰</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -31308,6 +31320,9 @@
 	<programme channel="newtv精品综合" start="20260425174000 +0800" stop="20260425182600 +0800">
 		<title lang="zh">21_承欢记</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20260425182600 +0800" stop="20260425191100 +0800">
+		<title lang="zh">22_承欢记</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -31565,6 +31580,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260425173200 +0800" stop="20260425182000 +0800">
 		<title lang="zh">21_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260425182000 +0800" stop="20260425190900 +0800">
+		<title lang="zh">22_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
