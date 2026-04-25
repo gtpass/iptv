@@ -29604,6 +29604,9 @@
 	<programme channel="黑莓电影" start="20260425185700 +0800" stop="20260425204100 +0800">
 		<title lang="zh">夏洛特烦恼</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260425204100 +0800" stop="20260425231900 +0800">
+		<title lang="zh">饥饿游戏：鸣鸟与蛇之歌</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -30447,6 +30450,9 @@
 	<programme channel="newtv精品大剧" start="20260425195400 +0800" stop="20260425203900 +0800">
 		<title lang="zh">23_梅花红桃</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260425203900 +0800" stop="20260425212500 +0800">
+		<title lang="zh">24_梅花红桃</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -30614,6 +30620,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260425194900 +0800" stop="20260425203500 +0800">
 		<title lang="zh">27_扶摇</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260425203500 +0800" stop="20260425212000 +0800">
+		<title lang="zh">28_扶摇</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -30795,6 +30804,9 @@
 	<programme channel="newtv家庭剧场" start="20260425200200 +0800" stop="20260425203600 +0800">
 		<title lang="zh">43_完美伴侣</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260425203600 +0800" stop="20260425211100 +0800">
+		<title lang="zh">44_完美伴侣</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -30953,6 +30965,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20260425194700 +0800" stop="20260425203200 +0800">
 		<title lang="zh">26_小重逢</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260425203200 +0800" stop="20260425211700 +0800">
+		<title lang="zh">27_小重逢</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -31284,6 +31299,9 @@
 	<programme channel="newtv军事评论" start="20260425201900 +0800" stop="20260425204500 +0800">
 		<title lang="zh">【海峡两岸】自夸在台海拼消耗 美军有什么资本？</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260425204500 +0800" stop="20260425211000 +0800">
+		<title lang="zh">【海峡两岸】台湾光复回归中国 历史不容歪曲</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -31469,6 +31487,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260425195600 +0800" stop="20260425204100 +0800">
 		<title lang="zh">24_承欢记</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260425204100 +0800" stop="20260425212600 +0800">
+		<title lang="zh">25_承欢记</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -31769,6 +31790,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260425195700 +0800" stop="20260425204300 +0800">
 		<title lang="zh">33_大奉打更人</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260425204300 +0800" stop="20260425213100 +0800">
+		<title lang="zh">34_大奉打更人</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
