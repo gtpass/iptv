@@ -30105,6 +30105,9 @@
 	<programme channel="newtv超级综艺" start="20260425104900 +0800" stop="20260425131600 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260425131600 +0800" stop="20260425151700 +0800">
+		<title lang="zh">国家宝藏 第四季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -30143,6 +30146,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260425125900 +0800" stop="20260425133000 +0800">
 		<title lang="zh">实况录像-2026年艺术体操世界杯 巴库站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260425133000 +0800" stop="20260425143000 +0800">
+		<title lang="zh">实况录像-2026年国际乒联单打世界杯 1</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -31037,6 +31043,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260425123900 +0800" stop="20260425132400 +0800">
 		<title lang="zh">02_皮b7影</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260425132400 +0800" stop="20260425141000 +0800">
+		<title lang="zh">03_皮b7影</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
