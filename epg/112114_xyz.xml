@@ -30645,6 +30645,9 @@
 	<programme channel="newtv超级体育" start="20260426200800 +0800" stop="20260426204000 +0800">
 		<title lang="zh">实况录像-精品赛事记录-2026年世界泳联花样游泳世界杯法国站</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260426204000 +0800" stop="20260426205500 +0800">
+		<title lang="zh">实况录像-2025/2026赛季斯诺克世界公开赛 决赛 塔猜亚的147</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -30776,6 +30779,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260426194800 +0800" stop="20260426203400 +0800">
 		<title lang="zh">10_爱情公寓4</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260426203400 +0800" stop="20260426212500 +0800">
+		<title lang="zh">11_爱情公寓4</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -31119,6 +31125,9 @@
 	<programme channel="newtv军旅剧场" start="20260426195300 +0800" stop="20260426203400 +0800">
 		<title lang="zh">22_海天雄鹰</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260426203400 +0800" stop="20260426211900 +0800">
+		<title lang="zh">01_潜渊</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -31202,6 +31211,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260426195900 +0800" stop="20260426204400 +0800">
 		<title lang="zh">03_新居之约</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260426204400 +0800" stop="20260426212800 +0800">
+		<title lang="zh">09_爱情公寓4</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -31479,6 +31491,9 @@
 	<programme channel="newtv怡伴健康" start="20260426202100 +0800" stop="20260426204500 +0800">
 		<title lang="zh">浙江杭州汉资vs天津狼图腾-第7局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260426204500 +0800" stop="20260426213200 +0800">
+		<title lang="zh">天津英豪研习vs湖北纵横四海-第1局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -31682,6 +31697,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260426201100 +0800" stop="20260426203600 +0800">
 		<title lang="zh">【海峡两岸】F-35拆零件续命 美军挖东墙补西墙</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260426203600 +0800" stop="20260426210100 +0800">
+		<title lang="zh">【海峡两岸】赖清德吹嘘“台湾之盾” 难掩三大致命伤</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -32159,6 +32177,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260426195600 +0800" stop="20260426204200 +0800">
 		<title lang="zh">37_大奉打更人</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260426204200 +0800" stop="20260426212700 +0800">
+		<title lang="zh">38_大奉打更人</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
