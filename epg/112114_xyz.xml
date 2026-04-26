@@ -7074,6 +7074,9 @@
 	<programme channel="咪咕足球" start="20260427021000 +0800" stop="20260427022000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260427022000 +0800" stop="20260427040000 +0800">
+		<title lang="zh">2025NBL联赛 常规赛第10轮 广西威壮-湖北文旅</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -23505,6 +23508,9 @@
 	<programme channel="newtv精品纪录" start="20260427014200 +0800" stop="20260427022700 +0800">
 		<title lang="zh">08_铁血武工队传奇</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260427022700 +0800" stop="20260427031200 +0800">
+		<title lang="zh">09_铁血武工队传奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -23534,6 +23540,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260427014300 +0800" stop="20260427022400 +0800">
 		<title lang="zh">06_女人的抗战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260427022400 +0800" stop="20260427030600 +0800">
+		<title lang="zh">07_女人的抗战</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -23565,6 +23574,9 @@
 	<programme channel="newtv热播精选" start="20260427013700 +0800" stop="20260427022300 +0800">
 		<title lang="zh">05_承欢记</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260427022300 +0800" stop="20260427030800 +0800">
+		<title lang="zh">06_承欢记</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -23594,6 +23606,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260427014300 +0800" stop="20260427022800 +0800">
 		<title lang="zh">07_月是故乡明</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260427022800 +0800" stop="20260427031400 +0800">
+		<title lang="zh">08_月是故乡明</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -23637,6 +23652,9 @@
 	<programme channel="newtv炫舞未来" start="20260427020200 +0800" stop="20260427022400 +0800">
 		<title lang="zh">左脚舞（20250715）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260427022400 +0800" stop="20260427030200 +0800">
+		<title lang="zh">时令咳嗽巧应急（20211022）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -23667,11 +23685,17 @@
 	<programme channel="newtv金牌综艺" start="20260427013100 +0800" stop="20260427021600 +0800">
 		<title lang="zh">28_密战无声</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260427021600 +0800" stop="20260427030100 +0800">
+		<title lang="zh">29_密战无声</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
 	<programme channel="newtv精品体育" start="20260427003800 +0800" stop="20260427021900 +0800">
 		<title lang="zh">2025-26赛季英超联赛第10轮：诺丁汉森林VS曼联</title>
+	</programme>
+	<programme channel="newtv精品体育" start="20260427021900 +0800" stop="20260427032600 +0800">
+		<title lang="zh">2025-26赛季英超联赛第9轮：切尔西VS桑德兰</title>
 	</programme>
 	<channel id="newtv武搏世界">
 		<display-name lang="zh">NEWTV武搏世界</display-name>
@@ -23717,6 +23741,9 @@
 	</channel>
 	<programme channel="newtv中国功夫" start="20260427005100 +0800" stop="20260427022000 +0800">
 		<title lang="zh">古剑奇谭之伏魔纪</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260427022000 +0800" stop="20260427034500 +0800">
+		<title lang="zh">挑灯斩蛇录</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
