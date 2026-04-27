@@ -22029,6 +22029,9 @@
 	<programme channel="newtv超级电视剧" start="20260428035800 +0800" stop="20260428044400 +0800">
 		<title lang="zh">08_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260428044400 +0800" stop="20260428052900 +0800">
+		<title lang="zh">09_包青天之七侠五义</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -22070,6 +22073,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260428034800 +0800" stop="20260428043300 +0800">
 		<title lang="zh">16_断箭</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260428043300 +0800" stop="20260428051800 +0800">
+		<title lang="zh">17_断箭</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -22167,6 +22173,9 @@
 	<programme channel="newtv爱情喜剧" start="20260428035100 +0800" stop="20260428043400 +0800">
 		<title lang="zh">27_致1999年的自己</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260428043400 +0800" stop="20260428052000 +0800">
+		<title lang="zh">28_致1999年的自己</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -22199,6 +22208,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260428034900 +0800" stop="20260428043700 +0800">
 		<title lang="zh">超级动物家庭（4）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260428043700 +0800" stop="20260428052500 +0800">
+		<title lang="zh">超级动物家庭（5）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -22244,6 +22256,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260428042000 +0800" stop="20260428044200 +0800">
 		<title lang="zh">我国第一艘电磁弹射型航空母舰入列</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260428044200 +0800" stop="20260428050900 +0800">
+		<title lang="zh">环球兵器大事件</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
