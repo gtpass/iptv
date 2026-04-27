@@ -21711,6 +21711,9 @@
 	<programme channel="newtv超级综艺" start="20260428001400 +0800" stop="20260428010100 +0800">
 		<title lang="zh">04_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260428010100 +0800" stop="20260428014800 +0800">
+		<title lang="zh">05_长相思 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -21732,6 +21735,9 @@
 	<programme channel="newtv超级电视剧" start="20260428001400 +0800" stop="20260428005900 +0800">
 		<title lang="zh">15_铁梨花</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260428005900 +0800" stop="20260428014300 +0800">
+		<title lang="zh">16_铁梨花</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -21743,6 +21749,9 @@
 	</channel>
 	<programme channel="newtv精品纪录" start="20260428000300 +0800" stop="20260428004800 +0800">
 		<title lang="zh">11_铁血武工队传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260428004800 +0800" stop="20260428013300 +0800">
+		<title lang="zh">12_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -21833,6 +21842,9 @@
 	</channel>
 	<programme channel="newtv军事评论" start="20260428000100 +0800" stop="20260428005500 +0800">
 		<title lang="zh">退役第一课</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260428005500 +0800" stop="20260428014800 +0800">
+		<title lang="zh">南京大屠杀死难者国家公祭日特别节目 永不磨灭的证言</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
