@@ -8490,6 +8490,9 @@
 	<programme channel="咪咕足球" start="20260427140000 +0800" stop="20260427141000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260427141000 +0800" stop="20260427151000 +0800">
+		<title lang="zh">最后之舞07</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -30723,6 +30726,9 @@
 	<programme channel="newtv精品大剧" start="20260427132100 +0800" stop="20260427140700 +0800">
 		<title lang="zh">30_大浦东</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260427140700 +0800" stop="20260427145200 +0800">
+		<title lang="zh">31_大浦东</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -31176,6 +31182,9 @@
 	<programme channel="newtv怡伴健康" start="20260427131600 +0800" stop="20260427140100 +0800">
 		<title lang="zh">13_西京故事</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260427140100 +0800" stop="20260427162100 +0800">
+		<title lang="zh">白派团评剧《杜十娘》</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -31317,6 +31326,9 @@
 	<programme channel="newtv军事评论" start="20260427134000 +0800" stop="20260427140600 +0800">
 		<title lang="zh">试验场上的“驯电人”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260427140600 +0800" stop="20260427142800 +0800">
+		<title lang="zh">诺曼底地堡</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -31394,6 +31406,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260427135700 +0800" stop="20260427140700 +0800">
 		<title lang="zh">小品《球迷》蔡明 郭达</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260427141500 +0800" stop="20260427141800 +0800">
+		<title lang="zh">健康生活-辅酶</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -31536,6 +31551,9 @@
 	<programme channel="newtv金牌综艺" start="20260427132100 +0800" stop="20260427140600 +0800">
 		<title lang="zh">14_皮b7影</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260427140600 +0800" stop="20260427145200 +0800">
+		<title lang="zh">15_皮b7影</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -31649,6 +31667,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260427132100 +0800" stop="20260427140600 +0800">
 		<title lang="zh">34_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260427140600 +0800" stop="20260427145200 +0800">
+		<title lang="zh">35_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
