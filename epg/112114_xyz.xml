@@ -21597,6 +21597,9 @@
 	<programme channel="newtv超级综艺" start="20260429023300 +0800" stop="20260429031900 +0800">
 		<title lang="zh">14_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260429031900 +0800" stop="20260429050200 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -21636,6 +21639,9 @@
 	<programme channel="newtv超级电视剧" start="20260429023700 +0800" stop="20260429032200 +0800">
 		<title lang="zh">23_铁梨花</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260429032200 +0800" stop="20260429040800 +0800">
+		<title lang="zh">24_铁梨花</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -21651,6 +21657,9 @@
 	<programme channel="newtv精品大剧" start="20260429023500 +0800" stop="20260429032000 +0800">
 		<title lang="zh">16_铁梨花</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260429032000 +0800" stop="20260429040600 +0800">
+		<title lang="zh">29_大漠苍狼</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -21665,6 +21674,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260429023800 +0800" stop="20260429032300 +0800">
 		<title lang="zh">19_铁血武工队传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260429032300 +0800" stop="20260429040600 +0800">
+		<title lang="zh">20_铁血武工队传奇</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -21684,6 +21696,9 @@
 	<programme channel="newtv古装剧场" start="20260429021700 +0800" stop="20260429030300 +0800">
 		<title lang="zh">03_嫣语赋</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260429030300 +0800" stop="20260429034900 +0800">
+		<title lang="zh">04_嫣语赋</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -21698,6 +21713,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260429022800 +0800" stop="20260429031300 +0800">
 		<title lang="zh">15_女人的抗战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260429031300 +0800" stop="20260429035800 +0800">
+		<title lang="zh">08_怒放</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -21716,6 +21734,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260429021800 +0800" stop="20260429030500 +0800">
 		<title lang="zh">24_很想很想你</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260429030500 +0800" stop="20260429035100 +0800">
+		<title lang="zh">25_很想很想你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -21780,6 +21801,9 @@
 	<programme channel="newtv怡伴健康" start="20260429022000 +0800" stop="20260429030500 +0800">
 		<title lang="zh">16_月是故乡明</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260429030500 +0800" stop="20260429035300 +0800">
+		<title lang="zh">超级动物家庭（3）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -21794,6 +21818,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260429022400 +0800" stop="20260429030600 +0800">
 		<title lang="zh">19_独孤天下</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260429030600 +0800" stop="20260429034400 +0800">
+		<title lang="zh">卒中防治二选一（下）</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -21837,6 +21864,9 @@
 	<programme channel="newtv炫舞未来" start="20260429030100 +0800" stop="20260429032200 +0800">
 		<title lang="zh">广场舞《腾飞中国梦》（20220329）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260429032200 +0800" stop="20260429034300 +0800">
+		<title lang="zh">广场舞—绽放（20220126）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -21878,6 +21908,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260429024200 +0800" stop="20260429032700 +0800">
 		<title lang="zh">04_特别行动</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260429032700 +0800" stop="20260429041200 +0800">
+		<title lang="zh">05_特别行动</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
