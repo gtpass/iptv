@@ -8463,6 +8463,9 @@
 	<programme channel="咪咕足球" start="20260428174500 +0800" stop="20260428175000 +0800">
 		<title lang="zh">睛彩AI速报</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260428175500 +0800" stop="20260428185500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -30204,6 +30207,9 @@
 	<programme channel="newtv精品大剧" start="20260428170400 +0800" stop="20260428174900 +0800">
 		<title lang="zh">29_好事成双</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260428174900 +0800" stop="20260428183500 +0800">
+		<title lang="zh">30_好事成双</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -30354,6 +30360,9 @@
 	<programme channel="newtv古装剧场" start="20260428170000 +0800" stop="20260428175100 +0800">
 		<title lang="zh">42_锦心似玉</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260428175100 +0800" stop="20260428183500 +0800">
+		<title lang="zh">43_锦心似玉</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -30425,6 +30434,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260428170500 +0800" stop="20260428174900 +0800">
 		<title lang="zh">40_风暴舞</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260428174900 +0800" stop="20260428183300 +0800">
+		<title lang="zh">41_风暴舞</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -30498,6 +30510,9 @@
 	<programme channel="newtv家庭剧场" start="20260428171000 +0800" stop="20260428175500 +0800">
 		<title lang="zh">10_新居之约</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260428175500 +0800" stop="20260428184100 +0800">
+		<title lang="zh">11_新居之约</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -30569,6 +30584,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20260428170100 +0800" stop="20260428174700 +0800">
 		<title lang="zh">31_尖锋之烈焰青春</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20260428174700 +0800" stop="20260428183200 +0800">
+		<title lang="zh">32_尖锋之烈焰青春</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -30674,6 +30692,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260428164900 +0800" stop="20260428175900 +0800">
 		<title lang="zh">特战行动队</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260428175900 +0800" stop="20260428193800 +0800">
+		<title lang="zh">危险境地</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
