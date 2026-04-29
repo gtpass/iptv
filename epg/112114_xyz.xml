@@ -7185,6 +7185,9 @@
 	<programme channel="咪咕综合体育" start="20260430002500 +0800" stop="20260430012000 +0800">
 		<title lang="zh">纪录片曼联92班第二季 第一集</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260430012000 +0800" stop="20260430012500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -22128,11 +22131,17 @@
 	<programme channel="newtv超级综艺" start="20260430001900 +0800" stop="20260430010400 +0800">
 		<title lang="zh">16_长相思 第二季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260430010400 +0800" stop="20260430015100 +0800">
+		<title lang="zh">17_长相思 第二季</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
 	<programme channel="newtv超级体育" start="20260430003500 +0800" stop="20260430010500 +0800">
 		<title lang="zh">2026年体操世界杯科特布斯站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260430010500 +0800" stop="20260430023600 +0800">
+		<title lang="zh">2025年世界田联钻石联赛摩纳哥站</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -22154,6 +22163,9 @@
 	</channel>
 	<programme channel="newtv精品大剧" start="20260430002800 +0800" stop="20260430011300 +0800">
 		<title lang="zh">17_铁梨花</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260430011300 +0800" stop="20260430015800 +0800">
+		<title lang="zh">18_铁梨花</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -22215,11 +22227,17 @@
 	<programme channel="newtv怡伴健康" start="20260430002200 +0800" stop="20260430010700 +0800">
 		<title lang="zh">17_月是故乡明</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260430010700 +0800" stop="20260430015300 +0800">
+		<title lang="zh">18_月是故乡明</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
 	<programme channel="newtv潮妈辣婆" start="20260430002800 +0800" stop="20260430011000 +0800">
 		<title lang="zh">20_独孤天下</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260430011000 +0800" stop="20260430015100 +0800">
+		<title lang="zh">21_独孤天下</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
