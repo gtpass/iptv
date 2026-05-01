@@ -6171,6 +6171,9 @@
 	<programme channel="咪咕综合体育" start="20260502011000 +0800" stop="20260502030000 +0800">
 		<title lang="zh">UFC格斗之夜271期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260502030000 +0800" stop="20260502030500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17682,6 +17685,9 @@
 	<programme channel="newtv超级综艺" start="20260502020600 +0800" stop="20260502025200 +0800">
 		<title lang="zh">08_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260502025200 +0800" stop="20260502033700 +0800">
+		<title lang="zh">09_特战荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -17733,6 +17739,9 @@
 	<programme channel="newtv精品大剧" start="20260502021500 +0800" stop="20260502030000 +0800">
 		<title lang="zh">28_铁梨花</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260502030000 +0800" stop="20260502034500 +0800">
+		<title lang="zh">07_下一站婚姻</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -17747,6 +17756,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260502020500 +0800" stop="20260502024900 +0800">
 		<title lang="zh">33_铁血武工队传奇</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260502024900 +0800" stop="20260502033500 +0800">
+		<title lang="zh">01_大决战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -17795,6 +17807,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260502021200 +0800" stop="20260502025500 +0800">
 		<title lang="zh">09_故乡，别来无恙</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260502025500 +0800" stop="20260502034100 +0800">
+		<title lang="zh">10_故乡，别来无恙</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -17870,6 +17885,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260502020700 +0800" stop="20260502030000 +0800">
 		<title lang="zh">王建华：从炊事员到金牌大厨</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260502030000 +0800" stop="20260502035300 +0800">
+		<title lang="zh">你们的样子 2025年清明节特别节目</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
