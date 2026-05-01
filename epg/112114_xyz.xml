@@ -30483,6 +30483,9 @@
 	<programme channel="newtv超级电视剧" start="20260501163500 +0800" stop="20260501172100 +0800">
 		<title lang="zh">03_承欢记</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260501172100 +0800" stop="20260501180600 +0800">
+		<title lang="zh">04_承欢记</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -30551,6 +30554,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260501163200 +0800" stop="20260501171600 +0800">
 		<title lang="zh">04_陷入我们的热恋</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260501171600 +0800" stop="20260501180300 +0800">
+		<title lang="zh">05_陷入我们的热恋</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -30776,6 +30782,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260501165100 +0800" stop="20260501173000 +0800">
 		<title lang="zh">09_东方战场（TV版）</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260501173000 +0800" stop="20260501180900 +0800">
+		<title lang="zh">10_东方战场（TV版）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -31151,6 +31160,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260501152700 +0800" stop="20260501172100 +0800">
 		<title lang="zh">人生开门红</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260501172100 +0800" stop="20260501180900 +0800">
+		<title lang="zh">06_城市</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -31536,6 +31548,9 @@
 	<programme channel="newtv金牌综艺" start="20260501164700 +0800" stop="20260501172800 +0800">
 		<title lang="zh">32_惊蛰</title>
 	</programme>
+	<programme channel="newtv金牌综艺" start="20260501172800 +0800" stop="20260501180900 +0800">
+		<title lang="zh">33_惊蛰</title>
+	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
 	</channel>
@@ -31667,6 +31682,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260501163200 +0800" stop="20260501172100 +0800">
 		<title lang="zh">44_有翡</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260501172100 +0800" stop="20260501180900 +0800">
+		<title lang="zh">45_有翡</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
