@@ -8829,6 +8829,9 @@
 	<programme channel="咪咕足球" start="20260501140000 +0800" stop="20260501141000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260501141000 +0800" stop="20260501151000 +0800">
+		<title lang="zh">中国榜样篮球季对话郭士强</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -30720,6 +30723,9 @@
 	<programme channel="newtv家庭剧场" start="20260501133100 +0800" stop="20260501141300 +0800">
 		<title lang="zh">09_玫瑰丛生</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260501141300 +0800" stop="20260501145500 +0800">
+		<title lang="zh">10_玫瑰丛生</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -30924,6 +30930,9 @@
 	<programme channel="newtv怡伴健康" start="20260501132700 +0800" stop="20260501141300 +0800">
 		<title lang="zh">25_西京故事</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260501141300 +0800" stop="20260501160700 +0800">
+		<title lang="zh">豫剧《三打金枝》表演：金不换 徐福先</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -31049,6 +31058,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260501133800 +0800" stop="20260501140500 +0800">
 		<title lang="zh">海平面之下的分层较量</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260501140500 +0800" stop="20260501143200 +0800">
+		<title lang="zh">水下攻防新科技 无人潜航器</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -31409,6 +31421,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260501132600 +0800" stop="20260501141100 +0800">
 		<title lang="zh">50_大秦帝国之纵横</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260501141100 +0800" stop="20260501145700 +0800">
+		<title lang="zh">51_大秦帝国之纵横</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
