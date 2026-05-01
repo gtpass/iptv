@@ -8865,6 +8865,9 @@
 	<programme channel="咪咕足球" start="20260501193000 +0800" stop="20260501210500 +0800">
 		<title lang="zh">NBL城燃之战-25/26赛季 季后赛半决赛G2 香港金牛-江西鲸裕清酒</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260501210500 +0800" stop="20260501211000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -30810,6 +30813,9 @@
 	<programme channel="newtv古装剧场" start="20260501200700 +0800" stop="20260501205200 +0800">
 		<title lang="zh">63_扶摇</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260501205200 +0800" stop="20260501212200 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -30980,6 +30986,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260501200300 +0800" stop="20260501204900 +0800">
 		<title lang="zh">12_生活就是家</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260501204900 +0800" stop="20260501213400 +0800">
+		<title lang="zh">13_生活就是家</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -31190,6 +31199,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260501195700 +0800" stop="20260501210000 +0800">
 		<title lang="zh">危情风云</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260501210000 +0800" stop="20260501225400 +0800">
+		<title lang="zh">大黄蜂</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -31457,6 +31469,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260501201900 +0800" stop="20260501204600 +0800">
 		<title lang="zh">雷锋的时代印记</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260501204600 +0800" stop="20260501211300 +0800">
+		<title lang="zh">村庄里的红色片库</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -31799,6 +31814,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260501201400 +0800" stop="20260501205700 +0800">
 		<title lang="zh">26_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260501205700 +0800" stop="20260501214000 +0800">
+		<title lang="zh">27_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
