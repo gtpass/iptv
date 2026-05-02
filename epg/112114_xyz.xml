@@ -7626,6 +7626,9 @@
 	<programme channel="咪咕综合体育" start="20260502131500 +0800" stop="20260502132000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260502133500 +0800" stop="20260502151500 +0800">
+		<title lang="zh">英超赛场-25/26赛季英超 第34轮 阿森纳-纽卡斯尔联</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -26292,6 +26295,9 @@
 	<programme channel="newtv精品大剧" start="20260502125800 +0800" stop="20260502134400 +0800">
 		<title lang="zh">15_我的后半生</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260502134400 +0800" stop="20260502142900 +0800">
+		<title lang="zh">16_我的后半生</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -26354,6 +26360,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260502125000 +0800" stop="20260502133500 +0800">
 		<title lang="zh">15_我们队伍向太阳</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260502133500 +0800" stop="20260502140500 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -26483,6 +26492,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260502124800 +0800" stop="20260502133400 +0800">
 		<title lang="zh">12_大决战</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260502133400 +0800" stop="20260502140400 +0800">
+		<title lang="zh">黄芪枣好物推荐</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -26739,6 +26751,9 @@
 	<programme channel="newtv怡伴健康" start="20260502124800 +0800" stop="20260502133400 +0800">
 		<title lang="zh">26_西京故事</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20260502133400 +0800" stop="20260502141900 +0800">
+		<title lang="zh">27_西京故事</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -26853,6 +26868,9 @@
 	<programme channel="newtv军事评论" start="20260502131100 +0800" stop="20260502133300 +0800">
 		<title lang="zh">战史重演b7凡尔登战役</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260502133300 +0800" stop="20260502140000 +0800">
+		<title lang="zh">透过054B观全球现役护卫舰发展</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -26925,6 +26943,9 @@
 	<programme channel="newtv炫舞未来" start="20260502132500 +0800" stop="20260502133900 +0800">
 		<title lang="zh">小品《黄土坡》蔡明 郭达</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260502133900 +0800" stop="20260502135400 +0800">
+		<title lang="zh">小品《新房》蔡明 刘威 宋阳等</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -26975,6 +26996,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260502125600 +0800" stop="20260502134200 +0800">
 		<title lang="zh">31_我的后半生</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260502134200 +0800" stop="20260502141200 +0800">
+		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -27080,6 +27104,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260502131700 +0800" stop="20260502134700 +0800">
 		<title lang="zh">鲜农宗土蜂蜜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260502134700 +0800" stop="20260502143100 +0800">
+		<title lang="zh">07_风暴舞</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
