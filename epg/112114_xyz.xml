@@ -7209,6 +7209,9 @@
 	<programme channel="咪咕综合体育" start="20260503000000 +0800" stop="20260503024000 +0800">
 		<title lang="zh">英超赛场-25/26赛季英超 第35轮 阿森纳-富勒姆 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260503024000 +0800" stop="20260503024500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -22131,6 +22134,9 @@
 	<programme channel="黑莓电影" start="20260503010800 +0800" stop="20260503023500 +0800">
 		<title lang="zh">速度与激情</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260503023500 +0800" stop="20260503043300 +0800">
+		<title lang="zh">他和她的故事</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -22632,6 +22638,9 @@
 	<programme channel="newtv超级综艺" start="20260503015700 +0800" stop="20260503024200 +0800">
 		<title lang="zh">14_特战荣耀</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260503024200 +0800" stop="20260503032800 +0800">
+		<title lang="zh">15_特战荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -22659,6 +22668,9 @@
 	<programme channel="newtv超级电视剧" start="20260503015300 +0800" stop="20260503023800 +0800">
 		<title lang="zh">42_铁梨花</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260503023800 +0800" stop="20260503032300 +0800">
+		<title lang="zh">43_铁梨花</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -22682,6 +22694,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20260503015000 +0800" stop="20260503023500 +0800">
 		<title lang="zh">05_大决战</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20260503023500 +0800" stop="20260503032100 +0800">
+		<title lang="zh">06_大决战</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -22745,6 +22760,9 @@
 	</channel>
 	<programme channel="newtv爱情喜剧" start="20260503004200 +0800" stop="20260503024500 +0800">
 		<title lang="zh">反抗军</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20260503024500 +0800" stop="20260503033400 +0800">
+		<title lang="zh">18_有翡</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
