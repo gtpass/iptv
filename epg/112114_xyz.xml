@@ -23376,6 +23376,9 @@
 	<programme channel="newtv精品纪录" start="20260504033600 +0800" stop="20260504042200 +0800">
 		<title lang="zh">13_大决战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260504042200 +0800" stop="20260504050700 +0800">
+		<title lang="zh">14_大决战</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -23396,6 +23399,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260504034400 +0800" stop="20260504043000 +0800">
 		<title lang="zh">31_嫣语赋</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260504043000 +0800" stop="20260504051700 +0800">
+		<title lang="zh">32_嫣语赋</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -23442,6 +23448,9 @@
 	<programme channel="newtv家庭剧场" start="20260504034200 +0800" stop="20260504042700 +0800">
 		<title lang="zh">01_月是故乡明</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20260504042700 +0800" stop="20260504051300 +0800">
+		<title lang="zh">02_月是故乡明</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -23487,6 +23496,9 @@
 	<programme channel="newtv动作电影" start="20260504025600 +0800" stop="20260504042200 +0800">
 		<title lang="zh">热武青春</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20260504042200 +0800" stop="20260504054900 +0800">
+		<title lang="zh">火线追凶2之不白之冤</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -23525,6 +23537,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20260504034400 +0800" stop="20260504042300 +0800">
 		<title lang="zh">会吃才健康 3</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260504042300 +0800" stop="20260504050800 +0800">
+		<title lang="zh">24_乱世玉缘</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -23630,6 +23645,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260504033400 +0800" stop="20260504041900 +0800">
 		<title lang="zh">30_特别行动</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260504041900 +0800" stop="20260504050500 +0800">
+		<title lang="zh">31_特别行动</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
