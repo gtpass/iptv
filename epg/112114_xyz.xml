@@ -22647,6 +22647,9 @@
 	<programme channel="黑莓电影" start="20260504002700 +0800" stop="20260504022300 +0800">
 		<title lang="zh">天下无贼</title>
 	</programme>
+	<programme channel="黑莓电影" start="20260504022300 +0800" stop="20260504034900 +0800">
+		<title lang="zh">墨菲定律</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -23202,6 +23205,9 @@
 	<programme channel="newtv精品大剧" start="20260504014700 +0800" stop="20260504023200 +0800">
 		<title lang="zh">35_铁梨花</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260504023200 +0800" stop="20260504031700 +0800">
+		<title lang="zh">36_铁梨花</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -23247,6 +23253,9 @@
 	<programme channel="newtv军旅剧场" start="20260504015300 +0800" stop="20260504023500 +0800">
 		<title lang="zh">31_女人的抗战</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260504023500 +0800" stop="20260504031600 +0800">
+		<title lang="zh">32_女人的抗战</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -23274,6 +23283,9 @@
 	<programme channel="newtv热播精选" start="20260504014900 +0800" stop="20260504023600 +0800">
 		<title lang="zh">03_长相思</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260504023600 +0800" stop="20260504032300 +0800">
+		<title lang="zh">04_长相思</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -23300,6 +23312,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260504013900 +0800" stop="20260504021800 +0800">
 		<title lang="zh">01_前夜</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260504021800 +0800" stop="20260504030100 +0800">
+		<title lang="zh">02_前夜</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -23339,6 +23354,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20260504021000 +0800" stop="20260504023100 +0800">
 		<title lang="zh">左脚舞（20250715）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20260504023100 +0800" stop="20260504031000 +0800">
+		<title lang="zh">养生俗语 中医新解（四）（20220103）</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
@@ -23387,6 +23405,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260504020300 +0800" stop="20260504024800 +0800">
 		<title lang="zh">28_特别行动</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260504024800 +0800" stop="20260504033400 +0800">
+		<title lang="zh">29_特别行动</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
