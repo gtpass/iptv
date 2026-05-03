@@ -30777,6 +30777,9 @@
 	<programme channel="newtv超级综艺" start="20260503211500 +0800" stop="20260503223200 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260503223200 +0800" stop="20260503231700 +0800">
+		<title lang="zh">17_特战荣耀</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -30968,6 +30971,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260503214400 +0800" stop="20260503223000 +0800">
 		<title lang="zh">05_庆余年</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260503223000 +0800" stop="20260503231600 +0800">
+		<title lang="zh">06_庆余年</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -31265,6 +31271,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260503213600 +0800" stop="20260503222300 +0800">
 		<title lang="zh">07_折腰</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260503222300 +0800" stop="20260503225300 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -31848,6 +31857,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260503214300 +0800" stop="20260503222800 +0800">
 		<title lang="zh">18_奔跑吧，医生</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260503222800 +0800" stop="20260503231300 +0800">
+		<title lang="zh">19_奔跑吧，医生</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -32091,6 +32103,9 @@
 	<programme channel="newtv炫舞未来" start="20260503221400 +0800" stop="20260503221800 +0800">
 		<title lang="zh">一半清醒一半醉 附分解</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260503221800 +0800" stop="20260503223900 +0800">
+		<title lang="zh">民族风健身舞《我的姑娘在哪里》（20230822）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -32249,6 +32264,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260503215100 +0800" stop="20260503222100 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260503222100 +0800" stop="20260503234300 +0800">
+		<title lang="zh">心悸效应</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
