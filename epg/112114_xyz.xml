@@ -21648,6 +21648,9 @@
 	<programme channel="黑莓动画" start="20260506002100 +0800" stop="20260506025700 +0800">
 		<title lang="zh">06_一念永恒合集篇</title>
 	</programme>
+	<programme channel="黑莓动画" start="20260506025700 +0800" stop="20260506041000 +0800">
+		<title lang="zh">南国篇（4）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -22230,6 +22233,9 @@
 	<programme channel="newtv精品纪录" start="20260506021400 +0800" stop="20260506030000 +0800">
 		<title lang="zh">23_大决战</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260506030000 +0800" stop="20260506034500 +0800">
+		<title lang="zh">24_大决战</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -22296,6 +22302,9 @@
 	<programme channel="newtv爱情喜剧" start="20260506011400 +0800" stop="20260506025800 +0800">
 		<title lang="zh">夏洛特烦恼（4K）</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20260506025800 +0800" stop="20260506034500 +0800">
+		<title lang="zh">33_有翡</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -22304,6 +22313,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20260506014000 +0800" stop="20260506025200 +0800">
 		<title lang="zh">白垩纪世界</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20260506025200 +0800" stop="20260506041300 +0800">
+		<title lang="zh">武神苏乞儿之黄金海盗</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -22319,6 +22331,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260506020900 +0800" stop="20260506025100 +0800">
 		<title lang="zh">10_前夜</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260506025100 +0800" stop="20260506033900 +0800">
+		<title lang="zh">狂野生存（3）</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -22347,6 +22362,9 @@
 	<programme channel="newtv军事评论" start="20260506020500 +0800" stop="20260506025900 +0800">
 		<title lang="zh">英雄路上的老兵（3） 岩洞砺兵锋</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260506025900 +0800" stop="20260506035200 +0800">
+		<title lang="zh">薛峰：做人民的建筑师</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -22365,6 +22383,9 @@
 	<programme channel="newtv炫舞未来" start="20260506022100 +0800" stop="20260506025900 +0800">
 		<title lang="zh">良医忠告（四）（20220109）</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260506025900 +0800" stop="20260506032100 +0800">
+		<title lang="zh">广场舞《腾飞中国梦》（20220329）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -22382,6 +22403,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20260506022400 +0800" stop="20260506025400 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20260506025400 +0800" stop="20260506041700 +0800">
+		<title lang="zh">狄仁杰之降魔咒</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -22457,6 +22481,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260506013800 +0800" stop="20260506025300 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260506025300 +0800" stop="20260506033000 +0800">
+		<title lang="zh">女子南拳决赛</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
