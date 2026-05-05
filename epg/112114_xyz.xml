@@ -22347,6 +22347,9 @@
 	<programme channel="newtv超级电视剧" start="20260506035900 +0800" stop="20260506044400 +0800">
 		<title lang="zh">40_包青天之七侠五义</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20260506044400 +0800" stop="20260506053000 +0800">
+		<title lang="zh">01_三泉溪暖</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -22367,6 +22370,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20260506035800 +0800" stop="20260506044300 +0800">
 		<title lang="zh">24_下一站婚姻</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20260506044300 +0800" stop="20260506052800 +0800">
+		<title lang="zh">25_下一站婚姻</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -22413,6 +22419,9 @@
 	<programme channel="newtv古装剧场" start="20260506034900 +0800" stop="20260506043400 +0800">
 		<title lang="zh">07_三国机密之潜龙在渊</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20260506043400 +0800" stop="20260506052100 +0800">
+		<title lang="zh">27_长相思</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -22433,6 +22442,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20260506035300 +0800" stop="20260506043800 +0800">
 		<title lang="zh">33_怒放</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20260506043800 +0800" stop="20260506052400 +0800">
+		<title lang="zh">34_怒放</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -22551,6 +22563,9 @@
 	<programme channel="newtv潮妈辣婆" start="20260506035400 +0800" stop="20260506043900 +0800">
 		<title lang="zh">32_乱世玉缘</title>
 	</programme>
+	<programme channel="newtv潮妈辣婆" start="20260506043900 +0800" stop="20260506052400 +0800">
+		<title lang="zh">33_乱世玉缘</title>
+	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
 	</channel>
@@ -22568,6 +22583,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20260506035200 +0800" stop="20260506044500 +0800">
 		<title lang="zh">黄会林：我以芳华寄桃李</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20260506044500 +0800" stop="20260506053900 +0800">
+		<title lang="zh">常晓忠 梁锋 我在南海当“岛长”</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
@@ -22715,6 +22733,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20260506033000 +0800" stop="20260506043800 +0800">
 		<title lang="zh">男子南拳决赛</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20260506043800 +0800" stop="20260506051900 +0800">
+		<title lang="zh">拳王争霸赛：茨尤VS门多萨</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
